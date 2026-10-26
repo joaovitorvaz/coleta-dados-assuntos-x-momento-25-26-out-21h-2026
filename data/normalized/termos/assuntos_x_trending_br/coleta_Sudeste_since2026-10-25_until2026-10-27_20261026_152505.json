@@ -1,0 +1,1223 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Sudeste",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+    "collected_at": "2026-10-26T15:25:05-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 14,
+      "comments": 4,
+      "records_total": 18,
+      "skipped_duplicate": 40
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114773231890489584",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114773231890489584",
+      "parent_post_id": null,
+      "thread_root_id": "2114773231890489584",
+      "author": {
+        "platform_id": null,
+        "display_name": "JdeFreitas93",
+        "username": "JdeFreitas93",
+        "profile_url": "https://x.com/JdeFreitas93"
+      },
+      "text": "O nordeste sempre salva as eleições do PT, mas o sudeste foi crucial para a virada. A reeleição do Lula passa pela virada em Minas e por parte do povo do Rio.",
+      "created_at": "2026-10-26T17:36:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:25:05-03:00",
+      "permalink": "https://nitter.meowing.monster/JdeFreitas93/status/2114773231890489584#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste",
+        "eleição",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114773231890489584",
+        "text": "O nordeste sempre salva as eleições do PT, mas o sudeste foi crucial para a virada. A reeleição do Lula passa pela virada em Minas e por parte do povo do Rio.",
+        "author_username": "JdeFreitas93",
+        "author_name": "JdeFreitas93",
+        "created_at": "2026-10-26T17:36:00+00:00",
+        "permalink": "https://nitter.meowing.monster/JdeFreitas93/status/2114773231890489584#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 158,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114763878361899014",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114763878361899014",
+      "parent_post_id": null,
+      "thread_root_id": "2114763878361899014",
+      "author": {
+        "platform_id": null,
+        "display_name": "AntonioThomaz18",
+        "username": "AntonioThomaz18",
+        "profile_url": "https://x.com/AntonioThomaz18"
+      },
+      "text": "Assustador, até 10 por cento dos votos,Flávio seguia com diferença de 01 ponto,logo depois em todas as regiões Lula ganhou e teve mais votos que Flávio, sul,sudeste,norte,centro oeste, nordeste,como explicar esse milagre ?\nMilagre das 02 horas....",
+      "created_at": "2026-10-26T16:59:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:25:05-03:00",
+      "permalink": "https://nitter.meowing.monster/AntonioThomaz18/status/2114763878361899014#m",
+      "metrics": {
+        "like_count": 19,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114763878361899014",
+        "text": "Assustador, até 10 por cento dos votos,Flávio seguia com diferença de 01 ponto,logo depois em todas as regiões Lula ganhou e teve mais votos que Flávio, sul,sudeste,norte,centro oeste, nordeste,como explicar esse milagre ?\nMilagre das 02 horas....",
+        "author_username": "AntonioThomaz18",
+        "author_name": "AntonioThomaz18",
+        "created_at": "2026-10-26T16:59:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AntonioThomaz18/status/2114763878361899014#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 247,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114763215401898344",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114763215401898344",
+      "parent_post_id": null,
+      "thread_root_id": "2114763215401898344",
+      "author": {
+        "platform_id": null,
+        "display_name": "christianreoli",
+        "username": "christianreoli",
+        "profile_url": "https://x.com/christianreoli"
+      },
+      "text": "Aí você está muito enganado e prova que não conhece nada sobre o Sul e sobre o povo sulista. \n\nJá esteve em Porto Alegre após as enchentes de 2024?\n\nO Estado se reergueu sozinho, um povo muito capaz e guerreiro. Nem parece que passaram pelo que passaram, a cidade está melhor ainda e digo o mesmo das demais cidades e sabe o que é melhor, fizeram pelo próprio esforço, pois se dependessem do governo, aí sim estariam passando dificuldades. \n\nE me diz uma coisa, o que é o Nordeste do Brasil sem as praias (que vivem do turismo que Sulistas, pessoas do Sudeste e Centro Oeste sustentam) levam o dinheiro pra lá além de turistas internacionais. \n\nO que é o interior do Nordeste, mais de 80% da população não tem saneamento básico. O que o interior seco produz? (E não venha colocar a culpa na seca, pois peguei o exemplo de Israel que fica no deserto e é um dos países mais desenvolvidos do mundo).\n\nEstude sobre a potência que são os interiores dos 3 estados do Sul. \n\nVai estudar para não passar vergonha e ficar maltrarando seus dois neurônios.",
+      "created_at": "2026-10-26T16:56:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:25:05-03:00",
+      "permalink": "https://nitter.meowing.monster/christianreoli/status/2114763215401898344#m",
+      "metrics": {
+        "like_count": 20,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114763215401898344",
+        "text": "Aí você está muito enganado e prova que não conhece nada sobre o Sul e sobre o povo sulista. \n\nJá esteve em Porto Alegre após as enchentes de 2024?\n\nO Estado se reergueu sozinho, um povo muito capaz e guerreiro. Nem parece que passaram pelo que passaram, a cidade está melhor ainda e digo o mesmo das demais cidades e sabe o que é melhor, fizeram pelo próprio esforço, pois se dependessem do governo, aí sim estariam passando dificuldades. \n\nE me diz uma coisa, o que é o Nordeste do Brasil sem as praias (que vivem do turismo que Sulistas, pessoas do Sudeste e Centro Oeste sustentam) levam o dinheiro pra lá além de turistas internacionais. \n\nO que é o interior do Nordeste, mais de 80% da população não tem saneamento básico. O que o interior seco produz? (E não venha colocar a culpa na seca, pois peguei o exemplo de Israel que fica no deserto e é um dos países mais desenvolvidos do mundo).\n\nEstude sobre a potência que são os interiores dos 3 estados do Sul. \n\nVai estudar para não passar vergonha e ficar maltrarando seus dois neurônios.",
+        "author_username": "christianreoli",
+        "author_name": "christianreoli",
+        "created_at": "2026-10-26T16:56:00+00:00",
+        "permalink": "https://nitter.meowing.monster/christianreoli/status/2114763215401898344#m",
+        "metrics": {
+          "like_count": 20,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 1045,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114760080381874274",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114760080381874274",
+      "parent_post_id": null,
+      "thread_root_id": "2114760080381874274",
+      "author": {
+        "platform_id": null,
+        "display_name": "victorcamposbh",
+        "username": "victorcamposbh",
+        "profile_url": "https://x.com/victorcamposbh"
+      },
+      "text": "O Nordeste fez o dever de casa. Mas a eleição foi resolvida pelo sudeste desta vez. Lula virou em Minas, cresceu em São Paulo e Rio, cresceu em regiões onde Flávio dominava, e por isso recebeu mais de 64 milhões de votos. O brasileiro não quer aventuras, e rechaça o bolsonarismo.",
+      "created_at": "2026-10-26T16:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:25:05-03:00",
+      "permalink": "https://nitter.meowing.monster/victorcamposbh/status/2114760080381874274#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114760080381874274",
+        "text": "O Nordeste fez o dever de casa. Mas a eleição foi resolvida pelo sudeste desta vez. Lula virou em Minas, cresceu em São Paulo e Rio, cresceu em regiões onde Flávio dominava, e por isso recebeu mais de 64 milhões de votos. O brasileiro não quer aventuras, e rechaça o bolsonarismo.",
+        "author_username": "victorcamposbh",
+        "author_name": "victorcamposbh",
+        "created_at": "2026-10-26T16:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/victorcamposbh/status/2114760080381874274#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 280,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114746178524897289",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114746178524897289",
+      "parent_post_id": null,
+      "thread_root_id": "2114746178524897289",
+      "author": {
+        "platform_id": null,
+        "display_name": "Friscio357",
+        "username": "Friscio357",
+        "profile_url": "https://x.com/Friscio357"
+      },
+      "text": "Se fizesse uma separação do sudeste pra baixo (pode tirar Minas, foda-se), e os Estados não pagarem mais imposto federal, seria perfeito. Todas as cidades RICAS E SEM CRIME. @tarcisiogdf @zuccors @jorginhomello @SF_Moro",
+      "created_at": "2026-10-26T15:49:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:25:05-03:00",
+      "permalink": "https://nitter.meowing.monster/Friscio357/status/2114746178524897289#m",
+      "metrics": {
+        "like_count": 356,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114746178524897289",
+        "text": "Se fizesse uma separação do sudeste pra baixo (pode tirar Minas, foda-se), e os Estados não pagarem mais imposto federal, seria perfeito. Todas as cidades RICAS E SEM CRIME. @tarcisiogdf @zuccors @jorginhomello @SF_Moro",
+        "author_username": "Friscio357",
+        "author_name": "Friscio357",
+        "created_at": "2026-10-26T15:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Friscio357/status/2114746178524897289#m",
+        "metrics": {
+          "like_count": 356,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 219,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114742781465792656",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114742781465792656",
+      "parent_post_id": null,
+      "thread_root_id": "2114742781465792656",
+      "author": {
+        "platform_id": null,
+        "display_name": "christianreoli",
+        "username": "christianreoli",
+        "profile_url": "https://x.com/christianreoli"
+      },
+      "text": "Mas o porquê o Sul está sendo invadido? Porque a qualidade de vida está uma M principalmente no Nordeste, aí emigram para o Sul e Sudeste em busca de qualidade de vida. \n\nUé, se o Brasil do Lula está ótimo, que fiquem na sua terra e não venham fazer merda aqui. \n\nEu como empresário, que emprego dúzias de pessoas não contratarei um único petista e faremos uma campanha aqui no Sul para isso. Se defendem Lula, que vivam de Bolsa Família, do SUS do Lula, da educação do Lula.",
+      "created_at": "2026-10-26T15:35:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:25:05-03:00",
+      "permalink": "https://nitter.meowing.monster/christianreoli/status/2114742781465792656#m",
+      "metrics": {
+        "like_count": 76,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114742781465792656",
+        "text": "Mas o porquê o Sul está sendo invadido? Porque a qualidade de vida está uma M principalmente no Nordeste, aí emigram para o Sul e Sudeste em busca de qualidade de vida. \n\nUé, se o Brasil do Lula está ótimo, que fiquem na sua terra e não venham fazer merda aqui. \n\nEu como empresário, que emprego dúzias de pessoas não contratarei um único petista e faremos uma campanha aqui no Sul para isso. Se defendem Lula, que vivam de Bolsa Família, do SUS do Lula, da educação do Lula.",
+        "author_username": "christianreoli",
+        "author_name": "christianreoli",
+        "created_at": "2026-10-26T15:35:00+00:00",
+        "permalink": "https://nitter.meowing.monster/christianreoli/status/2114742781465792656#m",
+        "metrics": {
+          "like_count": 76,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 475,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114736583446237404",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114736583446237404",
+      "parent_post_id": null,
+      "thread_root_id": "2114736583446237404",
+      "author": {
+        "platform_id": null,
+        "display_name": "julucas_lucas",
+        "username": "julucas_lucas",
+        "profile_url": "https://x.com/julucas_lucas"
+      },
+      "text": "Onde que o Sudeste, Sul e Centro Oeste aumentaram o voto no Lula?\nSó no mundo do Zanin",
+      "created_at": "2026-10-26T15:11:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:25:05-03:00",
+      "permalink": "https://nitter.meowing.monster/julucas_lucas/status/2114736583446237404#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114736583446237404",
+        "text": "Onde que o Sudeste, Sul e Centro Oeste aumentaram o voto no Lula?\nSó no mundo do Zanin",
+        "author_username": "julucas_lucas",
+        "author_name": "julucas_lucas",
+        "created_at": "2026-10-26T15:11:00+00:00",
+        "permalink": "https://nitter.meowing.monster/julucas_lucas/status/2114736583446237404#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 86,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114736397701534064",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114736397701534064",
+      "parent_post_id": null,
+      "thread_root_id": "2114736397701534064",
+      "author": {
+        "platform_id": null,
+        "display_name": "ericck_soares",
+        "username": "ericck_soares",
+        "profile_url": "https://x.com/ericck_soares"
+      },
+      "text": "Só pra deixar bem claro. Como ex funcionário do Banco do Nordeste, que apesar do nome, atua no Norte de MG, existe um atuação enorme em financiamentos da agricultura familiar, como o Pronaf. \nOu seja, são famílias que tem terra e não tem dinheiro ou que não tem terras mas querem produzir. E o programa ajuda no financiamento fundiário. Cabe salientar que isso não diminuiu a ação do MST, como permitiu ao movimento a tornar-se um dos maiores produtores de arroz orgânico da América Latina.\nEnfim, hoje morando no Sudeste, numa região cafeeira, não há bancos com essa abordagem ao minúsculo agricultor, que não só empreste dinheiro, mas que o ajude a fazê-lo render como faz o Banco do Nordeste com os agentes de desenvolvimento, que orientam não só os pequenos mas a todos a aplicarem melhor o financiamento. Inclusive orientando no escoamento dessa produção, para que não seja somente de pagar seu financiamento mas como lucrar com a atividade.\n\nSendo assim, o o pequeno produtor no Sudeste, é engolido pelos grandes, fazendo-os vender sua produção aos grandes exportadores, as custas de muito trabalho e suor, fazendo-os acreditar que estes grandes é quem salvam suas famílias.",
+      "created_at": "2026-10-26T15:10:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:25:05-03:00",
+      "permalink": "https://nitter.meowing.monster/ericck_soares/status/2114736397701534064#m",
+      "metrics": {
+        "like_count": 34,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 5
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114736397701534064",
+        "text": "Só pra deixar bem claro. Como ex funcionário do Banco do Nordeste, que apesar do nome, atua no Norte de MG, existe um atuação enorme em financiamentos da agricultura familiar, como o Pronaf. \nOu seja, são famílias que tem terra e não tem dinheiro ou que não tem terras mas querem produzir. E o programa ajuda no financiamento fundiário. Cabe salientar que isso não diminuiu a ação do MST, como permitiu ao movimento a tornar-se um dos maiores produtores de arroz orgânico da América Latina.\nEnfim, hoje morando no Sudeste, numa região cafeeira, não há bancos com essa abordagem ao minúsculo agricultor, que não só empreste dinheiro, mas que o ajude a fazê-lo render como faz o Banco do Nordeste com os agentes de desenvolvimento, que orientam não só os pequenos mas a todos a aplicarem melhor o financiamento. Inclusive orientando no escoamento dessa produção, para que não seja somente de pagar seu financiamento mas como lucrar com a atividade.\n\nSendo assim, o o pequeno produtor no Sudeste, é engolido pelos grandes, fazendo-os vender sua produção aos grandes exportadores, as custas de muito trabalho e suor, fazendo-os acreditar que estes grandes é quem salvam suas famílias.",
+        "author_username": "ericck_soares",
+        "author_name": "ericck_soares",
+        "created_at": "2026-10-26T15:10:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ericck_soares/status/2114736397701534064#m",
+        "metrics": {
+          "like_count": 34,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 5
+        }
+      },
+      "normalized": {
+        "text_length": 1180,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114728406063448128",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114728406063448128",
+      "parent_post_id": null,
+      "thread_root_id": "2114728406063448128",
+      "author": {
+        "platform_id": null,
+        "display_name": "VitorinoGomes6",
+        "username": "VitorinoGomes6",
+        "profile_url": "https://x.com/VitorinoGomes6"
+      },
+      "text": "A extensão de 2 horas ao horário de votação, e depois que muitas urnas estariam fechadas, não foi pra ninguém votar, foi para reorganizar o algoritmo das máquinas.\nFizeram no 1⁰ turno já com a apuração em curso e fizeram no 2⁰ turno com or números que chegaram do Sul e sudeste.",
+      "created_at": "2026-10-26T14:38:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:25:05-03:00",
+      "permalink": "https://nitter.meowing.monster/VitorinoGomes6/status/2114728406063448128#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114728406063448128",
+        "text": "A extensão de 2 horas ao horário de votação, e depois que muitas urnas estariam fechadas, não foi pra ninguém votar, foi para reorganizar o algoritmo das máquinas.\nFizeram no 1⁰ turno já com a apuração em curso e fizeram no 2⁰ turno com or números que chegaram do Sul e sudeste.",
+        "author_username": "VitorinoGomes6",
+        "author_name": "VitorinoGomes6",
+        "created_at": "2026-10-26T14:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/VitorinoGomes6/status/2114728406063448128#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 278,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114721955425190285",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114721955425190285",
+      "parent_post_id": null,
+      "thread_root_id": "2114721955425190285",
+      "author": {
+        "platform_id": null,
+        "display_name": "missmariabeatz",
+        "username": "missmariabeatz",
+        "profile_url": "https://x.com/missmariabeatz"
+      },
+      "text": "Gente, dessa vez o Sudeste fez sua parte. To emocionada!",
+      "created_at": "2026-10-26T14:12:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:25:05-03:00",
+      "permalink": "https://nitter.meowing.monster/missmariabeatz/status/2114721955425190285#m",
+      "metrics": {
+        "like_count": 73,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114721955425190285",
+        "text": "Gente, dessa vez o Sudeste fez sua parte. To emocionada!",
+        "author_username": "missmariabeatz",
+        "author_name": "missmariabeatz",
+        "created_at": "2026-10-26T14:12:00+00:00",
+        "permalink": "https://nitter.meowing.monster/missmariabeatz/status/2114721955425190285#m",
+        "metrics": {
+          "like_count": 73,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 56,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114720021926596986",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114720021926596986",
+      "parent_post_id": null,
+      "thread_root_id": "2114720021926596986",
+      "author": {
+        "platform_id": null,
+        "display_name": "BernardoLucaspt",
+        "username": "BernardoLucaspt",
+        "profile_url": "https://x.com/BernardoLucaspt"
+      },
+      "text": "A vitória foi da democracia, e o sudeste deu mais votos ao Lula que o Nordeste. Logo o Brasil disse não a extrema-direita e a todo o mal que essa ideologia representa.  \n#LulaMaiorDoMundo\n#VitoriaDaDemocracia\n#LulaOBrasilTeAma\n#DeViradaEMaisGostoso",
+      "created_at": "2026-10-26T14:05:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:25:05-03:00",
+      "permalink": "https://nitter.meowing.monster/BernardoLucaspt/status/2114720021926596986#m",
+      "metrics": {
+        "like_count": 148,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 8
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste",
+        "direita"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114720021926596986",
+        "text": "A vitória foi da democracia, e o sudeste deu mais votos ao Lula que o Nordeste. Logo o Brasil disse não a extrema-direita e a todo o mal que essa ideologia representa.  \n#LulaMaiorDoMundo\n#VitoriaDaDemocracia\n#LulaOBrasilTeAma\n#DeViradaEMaisGostoso",
+        "author_username": "BernardoLucaspt",
+        "author_name": "BernardoLucaspt",
+        "created_at": "2026-10-26T14:05:00+00:00",
+        "permalink": "https://nitter.meowing.monster/BernardoLucaspt/status/2114720021926596986#m",
+        "metrics": {
+          "like_count": 148,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 8
+        }
+      },
+      "normalized": {
+        "text_length": 248,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114704111564202248",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114704111564202248",
+      "parent_post_id": null,
+      "thread_root_id": "2114704111564202248",
+      "author": {
+        "platform_id": null,
+        "display_name": "dulci_lobo",
+        "username": "dulci_lobo",
+        "profile_url": "https://x.com/dulci_lobo"
+      },
+      "text": "O sudeste poderia participar e se unir?! Kkkkk vou mudar para ai! Kkkk",
+      "created_at": "2026-10-26T13:02:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:25:05-03:00",
+      "permalink": "https://nitter.meowing.monster/dulci_lobo/status/2114704111564202248#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114704111564202248",
+        "text": "O sudeste poderia participar e se unir?! Kkkkk vou mudar para ai! Kkkk",
+        "author_username": "dulci_lobo",
+        "author_name": "dulci_lobo",
+        "created_at": "2026-10-26T13:02:00+00:00",
+        "permalink": "https://nitter.meowing.monster/dulci_lobo/status/2114704111564202248#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 70,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114691262838157477",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114691262838157477",
+      "parent_post_id": null,
+      "thread_root_id": "2114691262838157477",
+      "author": {
+        "platform_id": null,
+        "display_name": "GabrielSawaf",
+        "username": "GabrielSawaf",
+        "profile_url": "https://x.com/GabrielSawaf"
+      },
+      "text": "Alguém sabe se esse caminhão ainda está por lá aguardando os votos do sudeste entrarem? ⌛⏳⌛⏳",
+      "created_at": "2026-10-26T12:11:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:25:05-03:00",
+      "permalink": "https://nitter.meowing.monster/GabrielSawaf/status/2114691262838157477#m",
+      "metrics": {
+        "like_count": 291,
+        "reply_count": 2,
+        "retweet_count": 0,
+        "quote_count": 17
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114691262838157477",
+        "text": "Alguém sabe se esse caminhão ainda está por lá aguardando os votos do sudeste entrarem? ⌛⏳⌛⏳",
+        "author_username": "GabrielSawaf",
+        "author_name": "GabrielSawaf",
+        "created_at": "2026-10-26T12:11:00+00:00",
+        "permalink": "https://nitter.meowing.monster/GabrielSawaf/status/2114691262838157477#m",
+        "metrics": {
+          "like_count": 291,
+          "reply_count": 2,
+          "retweet_count": 0,
+          "quote_count": 17
+        }
+      },
+      "normalized": {
+        "text_length": 92,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114688812894859602",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114688812894859602",
+      "parent_post_id": null,
+      "thread_root_id": "2114688812894859602",
+      "author": {
+        "platform_id": null,
+        "display_name": "wesmendess",
+        "username": "wesmendess",
+        "profile_url": "https://x.com/wesmendess"
+      },
+      "text": "Irmão, não consegui achar a matéria, mas alguns especialistas estão falando que a virada em si veio no encurtamento de distância no sudeste.",
+      "created_at": "2026-10-26T12:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:25:05-03:00",
+      "permalink": "https://nitter.meowing.monster/wesmendess/status/2114688812894859602#m",
+      "metrics": {
+        "like_count": 675,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 15
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114688812894859602",
+        "text": "Irmão, não consegui achar a matéria, mas alguns especialistas estão falando que a virada em si veio no encurtamento de distância no sudeste.",
+        "author_username": "wesmendess",
+        "author_name": "wesmendess",
+        "created_at": "2026-10-26T12:01:00+00:00",
+        "permalink": "https://nitter.meowing.monster/wesmendess/status/2114688812894859602#m",
+        "metrics": {
+          "like_count": 675,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 15
+        }
+      },
+      "normalized": {
+        "text_length": 140,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114758110346875058",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114758110346875058",
+      "post_id": "2114742781465792656",
+      "parent_comment_id": "2114742781465792656",
+      "thread_root_id": "2114742781465792656",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "deiaferracin",
+        "username": "deiaferracin",
+        "profile_url": null
+      },
+      "text": "E vai explicar rs!! Enfim, quem salva SP somos nós do interior, pessoas daqui mesmo, mas vai em cidades com polos industriais, o PT ganha, isso é migração, deixam seus estados em busca de melhorias mas trazem suas raizes políticas e acabam comprometendo nossas políticas",
+      "created_at": "2026-10-26T16:36:00+00:00",
+      "collected_at": "2026-10-26T15:25:05-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/deiaferracin/status/2114758110346875058#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "pl",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114758110346875058",
+        "text": "E vai explicar rs!! Enfim, quem salva SP somos nós do interior, pessoas daqui mesmo, mas vai em cidades com polos industriais, o PT ganha, isso é migração, deixam seus estados em busca de melhorias mas trazem suas raizes políticas e acabam comprometendo nossas políticas",
+        "author_username": "deiaferracin",
+        "author_name": "deiaferracin",
+        "created_at": "2026-10-26T16:36:00+00:00",
+        "permalink": "https://nitter.meowing.monster/deiaferracin/status/2114758110346875058#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114742781465792656",
+        "parent_comment_id": "2114742781465792656",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 270,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114755452701450376",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114755452701450376",
+      "post_id": "2114694110305026198",
+      "parent_comment_id": "2114694110305026198",
+      "thread_root_id": "2114694110305026198",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "Liukia15",
+        "username": "Liukia15",
+        "profile_url": null
+      },
+      "text": "O Tarcisio perdeu na capital, ele venceu graças o interior.",
+      "created_at": "2026-10-26T16:26:00+00:00",
+      "collected_at": "2026-10-26T15:25:05-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/Liukia15/status/2114755452701450376#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114755452701450376",
+        "text": "O Tarcisio perdeu na capital, ele venceu graças o interior.",
+        "author_username": "Liukia15",
+        "author_name": "Liukia15",
+        "created_at": "2026-10-26T16:26:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Liukia15/status/2114755452701450376#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114694110305026198",
+        "parent_comment_id": "2114694110305026198",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 59,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114701706139210017",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114701706139210017",
+      "post_id": "2114691262838157477",
+      "parent_comment_id": "2114691262838157477",
+      "thread_root_id": "2114691262838157477",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "lourdesmariano",
+        "username": "lourdesmariano",
+        "profile_url": null
+      },
+      "text": "Hahahaha",
+      "created_at": "2026-10-26T12:52:00+00:00",
+      "collected_at": "2026-10-26T15:25:05-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/lourdesmariano/status/2114701706139210017#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114701706139210017",
+        "text": "Hahahaha",
+        "author_username": "lourdesmariano",
+        "author_name": "lourdesmariano",
+        "created_at": "2026-10-26T12:52:00+00:00",
+        "permalink": "https://nitter.meowing.monster/lourdesmariano/status/2114701706139210017#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114691262838157477",
+        "parent_comment_id": "2114691262838157477",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 8,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114690048893301212",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114690048893301212",
+      "post_id": "2114688812894859602",
+      "parent_comment_id": "2114688812894859602",
+      "thread_root_id": "2114688812894859602",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "cristyphv",
+        "username": "cristyphv",
+        "profile_url": null
+      },
+      "text": "Tem pobres em situações bem dificeis em todas as regiões. Eu joguei um dia uns sapatos fora e subi pro predio... Logo em seguida eu sai para ir no mercado e tinha um casal pegando os sapatos que descartei no lixo. O Brasil não erradicou a pobreza, não.",
+      "created_at": "2026-10-26T12:06:00+00:00",
+      "collected_at": "2026-10-26T15:25:05-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/cristyphv/status/2114690048893301212#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114690048893301212",
+        "text": "Tem pobres em situações bem dificeis em todas as regiões. Eu joguei um dia uns sapatos fora e subi pro predio... Logo em seguida eu sai para ir no mercado e tinha um casal pegando os sapatos que descartei no lixo. O Brasil não erradicou a pobreza, não.",
+        "author_username": "cristyphv",
+        "author_name": "cristyphv",
+        "created_at": "2026-10-26T12:06:00+00:00",
+        "permalink": "https://nitter.meowing.monster/cristyphv/status/2114690048893301212#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114688812894859602",
+        "parent_comment_id": "2114688812894859602",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 252,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
