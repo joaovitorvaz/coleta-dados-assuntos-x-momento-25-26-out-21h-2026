@@ -1,0 +1,2866 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "O BEM VENCEU",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+    "collected_at": "2026-10-26T02:43:56-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 39,
+      "comments": 4,
+      "records_total": 43,
+      "skipped_duplicate": 26
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114561264307368056",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114561264307368056",
+      "parent_post_id": null,
+      "thread_root_id": "2114561264307368056",
+      "author": {
+        "platform_id": null,
+        "display_name": "bluterexol",
+        "username": "bluterexol",
+        "profile_url": "https://x.com/bluterexol"
+      },
+      "text": "E o bem venceu",
+      "created_at": "2026-10-26T03:34:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/bluterexol/status/2114561264307368056#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114561264307368056",
+        "text": "E o bem venceu",
+        "author_username": "bluterexol",
+        "author_name": "bluterexol",
+        "created_at": "2026-10-26T03:34:00+00:00",
+        "permalink": "https://nitter.mie.foundation/bluterexol/status/2114561264307368056#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 14,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114557290976035278",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114557290976035278",
+      "parent_post_id": null,
+      "thread_root_id": "2114557290976035278",
+      "author": {
+        "platform_id": null,
+        "display_name": "bbele13",
+        "username": "bbele13",
+        "profile_url": "https://x.com/bbele13"
+      },
+      "text": "Por Deus, pátria e familia, o bem venceu. Lula é 13 ⭐️",
+      "created_at": "2026-10-26T03:18:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/bbele13/status/2114557290976035278#m",
+      "metrics": {
+        "like_count": 19,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114557290976035278",
+        "text": "Por Deus, pátria e familia, o bem venceu. Lula é 13 ⭐️",
+        "author_username": "bbele13",
+        "author_name": "bbele13",
+        "created_at": "2026-10-26T03:18:00+00:00",
+        "permalink": "https://nitter.mie.foundation/bbele13/status/2114557290976035278#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 54,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114554026239176852",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114554026239176852",
+      "parent_post_id": null,
+      "thread_root_id": "2114554026239176852",
+      "author": {
+        "platform_id": null,
+        "display_name": "AdoniConjure",
+        "username": "AdoniConjure",
+        "profile_url": "https://x.com/AdoniConjure"
+      },
+      "text": "o bem venceu!!!!",
+      "created_at": "2026-10-26T03:05:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/AdoniConjure/status/2114554026239176852#m",
+      "metrics": {
+        "like_count": 24,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114554026239176852",
+        "text": "o bem venceu!!!!",
+        "author_username": "AdoniConjure",
+        "author_name": "AdoniConjure",
+        "created_at": "2026-10-26T03:05:00+00:00",
+        "permalink": "https://nitter.mie.foundation/AdoniConjure/status/2114554026239176852#m",
+        "metrics": {
+          "like_count": 24,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 16,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114551722660216850",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114551722660216850",
+      "parent_post_id": null,
+      "thread_root_id": "2114551722660216850",
+      "author": {
+        "platform_id": null,
+        "display_name": "briarhexy",
+        "username": "briarhexy",
+        "profile_url": "https://x.com/briarhexy"
+      },
+      "text": "Feliz que o Lula ganhou, Feliz que o bem venceu, Feliz de ter feito parte dessa história e virada histórica, Feliz",
+      "created_at": "2026-10-26T02:56:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/briarhexy/status/2114551722660216850#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114551722660216850",
+        "text": "Feliz que o Lula ganhou, Feliz que o bem venceu, Feliz de ter feito parte dessa história e virada histórica, Feliz",
+        "author_username": "briarhexy",
+        "author_name": "briarhexy",
+        "created_at": "2026-10-26T02:56:00+00:00",
+        "permalink": "https://nitter.mie.foundation/briarhexy/status/2114551722660216850#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 114,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114551716548870229",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114551716548870229",
+      "parent_post_id": null,
+      "thread_root_id": "2114551716548870229",
+      "author": {
+        "platform_id": null,
+        "display_name": "daniandradecnc",
+        "username": "daniandradecnc",
+        "profile_url": "https://x.com/daniandradecnc"
+      },
+      "text": "O bem venceu 🙌🏻⭐",
+      "created_at": "2026-10-26T02:56:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/daniandradecnc/status/2114551716548870229#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114551716548870229",
+        "text": "O bem venceu 🙌🏻⭐",
+        "author_username": "daniandradecnc",
+        "author_name": "daniandradecnc",
+        "created_at": "2026-10-26T02:56:00+00:00",
+        "permalink": "https://nitter.mie.foundation/daniandradecnc/status/2114551716548870229#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 16,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114545323460722978",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114545323460722978",
+      "parent_post_id": null,
+      "thread_root_id": "2114545323460722978",
+      "author": {
+        "platform_id": null,
+        "display_name": "thiagochx",
+        "username": "thiagochx",
+        "profile_url": "https://x.com/thiagochx"
+      },
+      "text": "Eu jurando que o fim bíblico estava se tornado real, ai o bem venceu e agora acho que temos mais tempo antes do apocalipse .",
+      "created_at": "2026-10-26T02:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/thiagochx/status/2114545323460722978#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114545323460722978",
+        "text": "Eu jurando que o fim bíblico estava se tornado real, ai o bem venceu e agora acho que temos mais tempo antes do apocalipse .",
+        "author_username": "thiagochx",
+        "author_name": "thiagochx",
+        "created_at": "2026-10-26T02:31:00+00:00",
+        "permalink": "https://nitter.mie.foundation/thiagochx/status/2114545323460722978#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 124,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114544602287886776",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114544602287886776",
+      "parent_post_id": null,
+      "thread_root_id": "2114544602287886776",
+      "author": {
+        "platform_id": null,
+        "display_name": "chokko14071548",
+        "username": "chokko14071548",
+        "profile_url": "https://x.com/chokko14071548"
+      },
+      "text": "Chupetinha tá nervoso né, 🤣🤣🤣🤣🤣🤣🤣🤣🤣\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+      "created_at": "2026-10-26T02:28:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/chokko14071548/status/2114544602287886776#m",
+      "metrics": {
+        "like_count": 322,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 4
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114544602287886776",
+        "text": "Chupetinha tá nervoso né, 🤣🤣🤣🤣🤣🤣🤣🤣🤣\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+        "author_username": "chokko14071548",
+        "author_name": "chokko14071548",
+        "created_at": "2026-10-26T02:28:00+00:00",
+        "permalink": "https://nitter.mie.foundation/chokko14071548/status/2114544602287886776#m",
+        "metrics": {
+          "like_count": 322,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 4
+        }
+      },
+      "normalized": {
+        "text_length": 192,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114544163647828061",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114544163647828061",
+      "parent_post_id": null,
+      "thread_root_id": "2114544163647828061",
+      "author": {
+        "platform_id": null,
+        "display_name": "chokko14071548",
+        "username": "chokko14071548",
+        "profile_url": "https://x.com/chokko14071548"
+      },
+      "text": ".\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+      "created_at": "2026-10-26T02:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/chokko14071548/status/2114544163647828061#m",
+      "metrics": {
+        "like_count": 489,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 5
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114544163647828061",
+        "text": ".\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+        "author_username": "chokko14071548",
+        "author_name": "chokko14071548",
+        "created_at": "2026-10-26T02:26:00+00:00",
+        "permalink": "https://nitter.mie.foundation/chokko14071548/status/2114544163647828061#m",
+        "metrics": {
+          "like_count": 489,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 5
+        }
+      },
+      "normalized": {
+        "text_length": 155,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114543800169242663",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114543800169242663",
+      "parent_post_id": null,
+      "thread_root_id": "2114543800169242663",
+      "author": {
+        "platform_id": null,
+        "display_name": "chokko14071548",
+        "username": "chokko14071548",
+        "profile_url": "https://x.com/chokko14071548"
+      },
+      "text": "🤣🤣🤣🤣🤣🤣🤣🤣🤣\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+      "created_at": "2026-10-26T02:25:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/chokko14071548/status/2114543800169242663#m",
+      "metrics": {
+        "like_count": 765,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 6
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114543800169242663",
+        "text": "🤣🤣🤣🤣🤣🤣🤣🤣🤣\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+        "author_username": "chokko14071548",
+        "author_name": "chokko14071548",
+        "created_at": "2026-10-26T02:25:00+00:00",
+        "permalink": "https://nitter.mie.foundation/chokko14071548/status/2114543800169242663#m",
+        "metrics": {
+          "like_count": 765,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 6
+        }
+      },
+      "normalized": {
+        "text_length": 166,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114529376465276969",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114529376465276969",
+      "parent_post_id": null,
+      "thread_root_id": "2114529376465276969",
+      "author": {
+        "platform_id": null,
+        "display_name": "the1998boy",
+        "username": "the1998boy",
+        "profile_url": "https://x.com/the1998boy"
+      },
+      "text": "Indo dormir com a sensação de dever cumprido. Fiz minha parte e lutei pela democracia, pelos meus direitos e pelo que  EU acredito. Foi uma luta linda, o bem venceu e o jogo virou 🌟",
+      "created_at": "2026-10-26T01:27:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/the1998boy/status/2114529376465276969#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114529376465276969",
+        "text": "Indo dormir com a sensação de dever cumprido. Fiz minha parte e lutei pela democracia, pelos meus direitos e pelo que  EU acredito. Foi uma luta linda, o bem venceu e o jogo virou 🌟",
+        "author_username": "the1998boy",
+        "author_name": "the1998boy",
+        "created_at": "2026-10-26T01:27:00+00:00",
+        "permalink": "https://nitter.mie.foundation/the1998boy/status/2114529376465276969#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 181,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114526967844520190",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114526967844520190",
+      "parent_post_id": null,
+      "thread_root_id": "2114526967844520190",
+      "author": {
+        "platform_id": null,
+        "display_name": "aanabeatrizz",
+        "username": "aanabeatrizz",
+        "profile_url": "https://x.com/aanabeatrizz"
+      },
+      "text": "O bem venceu e eu ainda tô chorando muito de emoção ! Graças a Deus!",
+      "created_at": "2026-10-26T01:18:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/aanabeatrizz/status/2114526967844520190#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114526967844520190",
+        "text": "O bem venceu e eu ainda tô chorando muito de emoção ! Graças a Deus!",
+        "author_username": "aanabeatrizz",
+        "author_name": "aanabeatrizz",
+        "created_at": "2026-10-26T01:18:00+00:00",
+        "permalink": "https://nitter.mie.foundation/aanabeatrizz/status/2114526967844520190#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 68,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114525372582936718",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114525372582936718",
+      "parent_post_id": null,
+      "thread_root_id": "2114525372582936718",
+      "author": {
+        "platform_id": null,
+        "display_name": "Kabulozocensura",
+        "username": "Kabulozocensura",
+        "profile_url": "https://x.com/Kabulozocensura"
+      },
+      "text": "Os presídios estão em festa , e o povo de bem reclusos em suas casas , sim meu povo , o mal venceu 😈",
+      "created_at": "2026-10-26T01:11:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/Kabulozocensura/status/2114525372582936718#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 11,
+        "retweet_count": 27,
+        "quote_count": 283
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114525372582936718",
+        "text": "Os presídios estão em festa , e o povo de bem reclusos em suas casas , sim meu povo , o mal venceu 😈",
+        "author_username": "Kabulozocensura",
+        "author_name": "Kabulozocensura",
+        "created_at": "2026-10-26T01:11:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Kabulozocensura/status/2114525372582936718#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 11,
+          "retweet_count": 27,
+          "quote_count": 283
+        }
+      },
+      "normalized": {
+        "text_length": 100,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114525206333055125",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114525206333055125",
+      "parent_post_id": null,
+      "thread_root_id": "2114525206333055125",
+      "author": {
+        "platform_id": null,
+        "display_name": "eomstation",
+        "username": "eomstation",
+        "profile_url": "https://x.com/eomstation"
+      },
+      "text": "O BEM VENCEU",
+      "created_at": "2026-10-26T01:11:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/eomstation/status/2114525206333055125#m",
+      "metrics": {
+        "like_count": 9,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114525206333055125",
+        "text": "O BEM VENCEU",
+        "author_username": "eomstation",
+        "author_name": "eomstation",
+        "created_at": "2026-10-26T01:11:00+00:00",
+        "permalink": "https://nitter.mie.foundation/eomstation/status/2114525206333055125#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 12,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114522225009398178",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114522225009398178",
+      "parent_post_id": null,
+      "thread_root_id": "2114522225009398178",
+      "author": {
+        "platform_id": null,
+        "display_name": "JeehMarinhoSPFC",
+        "username": "JeehMarinhoSPFC",
+        "profile_url": "https://x.com/JeehMarinhoSPFC"
+      },
+      "text": "O BEM VENCEU!\n🇧🇷⭐✊🏻❤️📚",
+      "created_at": "2026-10-26T00:59:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/JeehMarinhoSPFC/status/2114522225009398178#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114522225009398178",
+        "text": "O BEM VENCEU!\n🇧🇷⭐✊🏻❤️📚",
+        "author_username": "JeehMarinhoSPFC",
+        "author_name": "JeehMarinhoSPFC",
+        "created_at": "2026-10-26T00:59:00+00:00",
+        "permalink": "https://nitter.mie.foundation/JeehMarinhoSPFC/status/2114522225009398178#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 22,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114521137304707431",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114521137304707431",
+      "parent_post_id": null,
+      "thread_root_id": "2114521137304707431",
+      "author": {
+        "platform_id": null,
+        "display_name": "alberany_alves",
+        "username": "alberany_alves",
+        "profile_url": "https://x.com/alberany_alves"
+      },
+      "text": "O bem venceu! 1️⃣3️⃣🌟♥️\n\n#LulaReeleito #LulaCampeão #LulaÉTetra",
+      "created_at": "2026-10-26T00:54:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/alberany_alves/status/2114521137304707431#m",
+      "metrics": {
+        "like_count": 70,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114521137304707431",
+        "text": "O bem venceu! 1️⃣3️⃣🌟♥️\n\n#LulaReeleito #LulaCampeão #LulaÉTetra",
+        "author_username": "alberany_alves",
+        "author_name": "alberany_alves",
+        "created_at": "2026-10-26T00:54:00+00:00",
+        "permalink": "https://nitter.mie.foundation/alberany_alves/status/2114521137304707431#m",
+        "metrics": {
+          "like_count": 70,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 63,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114519944951996598",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114519944951996598",
+      "parent_post_id": null,
+      "thread_root_id": "2114519944951996598",
+      "author": {
+        "platform_id": null,
+        "display_name": "killrono",
+        "username": "killrono",
+        "profile_url": "https://x.com/killrono"
+      },
+      "text": "O BEM VENCEU A LUTA AGORA É OUTRA",
+      "created_at": "2026-10-26T00:50:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/killrono/status/2114519944951996598#m",
+      "metrics": {
+        "like_count": 76,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 3
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114519944951996598",
+        "text": "O BEM VENCEU A LUTA AGORA É OUTRA",
+        "author_username": "killrono",
+        "author_name": "killrono",
+        "created_at": "2026-10-26T00:50:00+00:00",
+        "permalink": "https://nitter.mie.foundation/killrono/status/2114519944951996598#m",
+        "metrics": {
+          "like_count": 76,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 3
+        }
+      },
+      "normalized": {
+        "text_length": 33,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114517179580256294",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114517179580256294",
+      "parent_post_id": null,
+      "thread_root_id": "2114517179580256294",
+      "author": {
+        "platform_id": null,
+        "display_name": "hdr_rafa",
+        "username": "hdr_rafa",
+        "profile_url": "https://x.com/hdr_rafa"
+      },
+      "text": "o bem venceu 🌟❤️",
+      "created_at": "2026-10-26T00:39:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/hdr_rafa/status/2114517179580256294#m",
+      "metrics": {
+        "like_count": 53,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114517179580256294",
+        "text": "o bem venceu 🌟❤️",
+        "author_username": "hdr_rafa",
+        "author_name": "hdr_rafa",
+        "created_at": "2026-10-26T00:39:00+00:00",
+        "permalink": "https://nitter.mie.foundation/hdr_rafa/status/2114517179580256294#m",
+        "metrics": {
+          "like_count": 53,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 16,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114516120010944617",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114516120010944617",
+      "parent_post_id": null,
+      "thread_root_id": "2114516120010944617",
+      "author": {
+        "platform_id": null,
+        "display_name": "RogerioToledo76",
+        "username": "RogerioToledo76",
+        "profile_url": "https://x.com/RogerioToledo76"
+      },
+      "text": "O bem venceu o mal!!",
+      "created_at": "2026-10-26T00:35:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/RogerioToledo76/status/2114516120010944617#m",
+      "metrics": {
+        "like_count": 17,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114516120010944617",
+        "text": "O bem venceu o mal!!",
+        "author_username": "RogerioToledo76",
+        "author_name": "RogerioToledo76",
+        "created_at": "2026-10-26T00:35:00+00:00",
+        "permalink": "https://nitter.mie.foundation/RogerioToledo76/status/2114516120010944617#m",
+        "metrics": {
+          "like_count": 17,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 20,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114514466503069961",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114514466503069961",
+      "parent_post_id": null,
+      "thread_root_id": "2114514466503069961",
+      "author": {
+        "platform_id": null,
+        "display_name": "marco27sv",
+        "username": "marco27sv",
+        "profile_url": "https://x.com/marco27sv"
+      },
+      "text": "Chuuuuuuupaaaaaaaaa cambada de filho da puta!\n\nO bem venceu!\n\nQuero mais é que um entre no cu do outro igual centopéia humana!\n\nFlávio não cadeia é questão de honra!",
+      "created_at": "2026-10-26T00:28:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/marco27sv/status/2114514466503069961#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114514466503069961",
+        "text": "Chuuuuuuupaaaaaaaaa cambada de filho da puta!\n\nO bem venceu!\n\nQuero mais é que um entre no cu do outro igual centopéia humana!\n\nFlávio não cadeia é questão de honra!",
+        "author_username": "marco27sv",
+        "author_name": "marco27sv",
+        "created_at": "2026-10-26T00:28:00+00:00",
+        "permalink": "https://nitter.mie.foundation/marco27sv/status/2114514466503069961#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 165,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114514077070332203",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114514077070332203",
+      "parent_post_id": null,
+      "thread_root_id": "2114514077070332203",
+      "author": {
+        "platform_id": null,
+        "display_name": "senhoritaJG",
+        "username": "senhoritaJG",
+        "profile_url": "https://x.com/senhoritaJG"
+      },
+      "text": "O BEM VENCEU",
+      "created_at": "2026-10-26T00:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/senhoritaJG/status/2114514077070332203#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114514077070332203",
+        "text": "O BEM VENCEU",
+        "author_username": "senhoritaJG",
+        "author_name": "senhoritaJG",
+        "created_at": "2026-10-26T00:26:00+00:00",
+        "permalink": "https://nitter.mie.foundation/senhoritaJG/status/2114514077070332203#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 12,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114513854675739090",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114513854675739090",
+      "parent_post_id": null,
+      "thread_root_id": "2114513854675739090",
+      "author": {
+        "platform_id": null,
+        "display_name": "CarlosR55288048",
+        "username": "CarlosR55288048",
+        "profile_url": "https://x.com/CarlosR55288048"
+      },
+      "text": "O BEM VENCEU O MAL.",
+      "created_at": "2026-10-26T00:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/CarlosR55288048/status/2114513854675739090#m",
+      "metrics": {
+        "like_count": 48,
+        "reply_count": 1,
+        "retweet_count": 1,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114513854675739090",
+        "text": "O BEM VENCEU O MAL.",
+        "author_username": "CarlosR55288048",
+        "author_name": "CarlosR55288048",
+        "created_at": "2026-10-26T00:26:00+00:00",
+        "permalink": "https://nitter.mie.foundation/CarlosR55288048/status/2114513854675739090#m",
+        "metrics": {
+          "like_count": 48,
+          "reply_count": 1,
+          "retweet_count": 1,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 19,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114513665533845646",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114513665533845646",
+      "parent_post_id": null,
+      "thread_root_id": "2114513665533845646",
+      "author": {
+        "platform_id": null,
+        "display_name": "_bidiangelo",
+        "username": "_bidiangelo",
+        "profile_url": "https://x.com/_bidiangelo"
+      },
+      "text": "O bem venceu",
+      "created_at": "2026-10-26T00:25:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/_bidiangelo/status/2114513665533845646#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114513665533845646",
+        "text": "O bem venceu",
+        "author_username": "_bidiangelo",
+        "author_name": "_bidiangelo",
+        "created_at": "2026-10-26T00:25:00+00:00",
+        "permalink": "https://nitter.mie.foundation/_bidiangelo/status/2114513665533845646#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 12,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114512781382754531",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114512781382754531",
+      "parent_post_id": null,
+      "thread_root_id": "2114512781382754531",
+      "author": {
+        "platform_id": null,
+        "display_name": "wvs87",
+        "username": "wvs87",
+        "profile_url": "https://x.com/wvs87"
+      },
+      "text": "É TETRA!! O BEM VENCEU ❤️⭐🙏🏾",
+      "created_at": "2026-10-26T00:21:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/wvs87/status/2114512781382754531#m",
+      "metrics": {
+        "like_count": 25,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114512781382754531",
+        "text": "É TETRA!! O BEM VENCEU ❤️⭐🙏🏾",
+        "author_username": "wvs87",
+        "author_name": "wvs87",
+        "created_at": "2026-10-26T00:21:00+00:00",
+        "permalink": "https://nitter.mie.foundation/wvs87/status/2114512781382754531#m",
+        "metrics": {
+          "like_count": 25,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 28,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114512630723248486",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114512630723248486",
+      "parent_post_id": null,
+      "thread_root_id": "2114512630723248486",
+      "author": {
+        "platform_id": null,
+        "display_name": "dreiguterres",
+        "username": "dreiguterres",
+        "profile_url": "https://x.com/dreiguterres"
+      },
+      "text": "O BEM VENCEU PQP",
+      "created_at": "2026-10-26T00:21:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/dreiguterres/status/2114512630723248486#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114512630723248486",
+        "text": "O BEM VENCEU PQP",
+        "author_username": "dreiguterres",
+        "author_name": "dreiguterres",
+        "created_at": "2026-10-26T00:21:00+00:00",
+        "permalink": "https://nitter.mie.foundation/dreiguterres/status/2114512630723248486#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 16,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114512398589493730",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114512398589493730",
+      "parent_post_id": null,
+      "thread_root_id": "2114512398589493730",
+      "author": {
+        "platform_id": null,
+        "display_name": "edudeodato",
+        "username": "edudeodato",
+        "profile_url": "https://x.com/edudeodato"
+      },
+      "text": "O bem venceu!!!! L❤️",
+      "created_at": "2026-10-26T00:20:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/edudeodato/status/2114512398589493730#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114512398589493730",
+        "text": "O bem venceu!!!! L❤️",
+        "author_username": "edudeodato",
+        "author_name": "edudeodato",
+        "created_at": "2026-10-26T00:20:00+00:00",
+        "permalink": "https://nitter.mie.foundation/edudeodato/status/2114512398589493730#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 20,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114511792240050289",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114511792240050289",
+      "parent_post_id": null,
+      "thread_root_id": "2114511792240050289",
+      "author": {
+        "platform_id": null,
+        "display_name": "Flaavio_SPFC",
+        "username": "Flaavio_SPFC",
+        "profile_url": "https://x.com/Flaavio_SPFC"
+      },
+      "text": "O BEM VENCEU!",
+      "created_at": "2026-10-26T00:17:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/Flaavio_SPFC/status/2114511792240050289#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114511792240050289",
+        "text": "O BEM VENCEU!",
+        "author_username": "Flaavio_SPFC",
+        "author_name": "Flaavio_SPFC",
+        "created_at": "2026-10-26T00:17:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Flaavio_SPFC/status/2114511792240050289#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 13,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114511771826339858",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114511771826339858",
+      "parent_post_id": null,
+      "thread_root_id": "2114511771826339858",
+      "author": {
+        "platform_id": null,
+        "display_name": "eomstation",
+        "username": "eomstation",
+        "profile_url": "https://x.com/eomstation"
+      },
+      "text": "O BEM VENCEU",
+      "created_at": "2026-10-26T00:17:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/eomstation/status/2114511771826339858#m",
+      "metrics": {
+        "like_count": 22,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114511771826339858",
+        "text": "O BEM VENCEU",
+        "author_username": "eomstation",
+        "author_name": "eomstation",
+        "created_at": "2026-10-26T00:17:00+00:00",
+        "permalink": "https://nitter.mie.foundation/eomstation/status/2114511771826339858#m",
+        "metrics": {
+          "like_count": 22,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 12,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114511530569908355",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114511530569908355",
+      "parent_post_id": null,
+      "thread_root_id": "2114511530569908355",
+      "author": {
+        "platform_id": null,
+        "display_name": "mayyydias",
+        "username": "mayyydias",
+        "profile_url": "https://x.com/mayyydias"
+      },
+      "text": "O BEM VENCEU",
+      "created_at": "2026-10-26T00:16:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/mayyydias/status/2114511530569908355#m",
+      "metrics": {
+        "like_count": 17,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114511530569908355",
+        "text": "O BEM VENCEU",
+        "author_username": "mayyydias",
+        "author_name": "mayyydias",
+        "created_at": "2026-10-26T00:16:00+00:00",
+        "permalink": "https://nitter.mie.foundation/mayyydias/status/2114511530569908355#m",
+        "metrics": {
+          "like_count": 17,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 12,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114511275166519645",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114511275166519645",
+      "parent_post_id": null,
+      "thread_root_id": "2114511275166519645",
+      "author": {
+        "platform_id": null,
+        "display_name": "biikarolayne",
+        "username": "biikarolayne",
+        "profile_url": "https://x.com/biikarolayne"
+      },
+      "text": "O BEM VENCEU ❤️❤️❤️❤️",
+      "created_at": "2026-10-26T00:15:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/biikarolayne/status/2114511275166519645#m",
+      "metrics": {
+        "like_count": 20,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114511275166519645",
+        "text": "O BEM VENCEU ❤️❤️❤️❤️",
+        "author_username": "biikarolayne",
+        "author_name": "biikarolayne",
+        "created_at": "2026-10-26T00:15:00+00:00",
+        "permalink": "https://nitter.mie.foundation/biikarolayne/status/2114511275166519645#m",
+        "metrics": {
+          "like_count": 20,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 21,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114510987483058680",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114510987483058680",
+      "parent_post_id": null,
+      "thread_root_id": "2114510987483058680",
+      "author": {
+        "platform_id": null,
+        "display_name": "beatritxxxe",
+        "username": "beatritxxxe",
+        "profile_url": "https://x.com/beatritxxxe"
+      },
+      "text": "O BEM VENCEU",
+      "created_at": "2026-10-26T00:14:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/beatritxxxe/status/2114510987483058680#m",
+      "metrics": {
+        "like_count": 21,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114510987483058680",
+        "text": "O BEM VENCEU",
+        "author_username": "beatritxxxe",
+        "author_name": "beatritxxxe",
+        "created_at": "2026-10-26T00:14:00+00:00",
+        "permalink": "https://nitter.mie.foundation/beatritxxxe/status/2114510987483058680#m",
+        "metrics": {
+          "like_count": 21,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 12,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114510859351236960",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114510859351236960",
+      "parent_post_id": null,
+      "thread_root_id": "2114510859351236960",
+      "author": {
+        "platform_id": null,
+        "display_name": "AnaBeatrizAssad",
+        "username": "AnaBeatrizAssad",
+        "profile_url": "https://x.com/AnaBeatrizAssad"
+      },
+      "text": "O bem venceu!!! 🙏🏻🙌🏻❤️🌟 OBRIGADA Deus!",
+      "created_at": "2026-10-26T00:14:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/AnaBeatrizAssad/status/2114510859351236960#m",
+      "metrics": {
+        "like_count": 20,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114510859351236960",
+        "text": "O bem venceu!!! 🙏🏻🙌🏻❤️🌟 OBRIGADA Deus!",
+        "author_username": "AnaBeatrizAssad",
+        "author_name": "AnaBeatrizAssad",
+        "created_at": "2026-10-26T00:14:00+00:00",
+        "permalink": "https://nitter.mie.foundation/AnaBeatrizAssad/status/2114510859351236960#m",
+        "metrics": {
+          "like_count": 20,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 38,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114510750995632412",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114510750995632412",
+      "parent_post_id": null,
+      "thread_root_id": "2114510750995632412",
+      "author": {
+        "platform_id": null,
+        "display_name": "BorutoExplorer",
+        "username": "BorutoExplorer",
+        "profile_url": "https://x.com/BorutoExplorer"
+      },
+      "text": "O BEM VENCEU NOVAMENTE ❤️❤️❤️❤️ é 1333333333",
+      "created_at": "2026-10-26T00:13:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/BorutoExplorer/status/2114510750995632412#m",
+      "metrics": {
+        "like_count": 615,
+        "reply_count": 1,
+        "retweet_count": 1,
+        "quote_count": 23
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114510750995632412",
+        "text": "O BEM VENCEU NOVAMENTE ❤️❤️❤️❤️ é 1333333333",
+        "author_username": "BorutoExplorer",
+        "author_name": "BorutoExplorer",
+        "created_at": "2026-10-26T00:13:00+00:00",
+        "permalink": "https://nitter.mie.foundation/BorutoExplorer/status/2114510750995632412#m",
+        "metrics": {
+          "like_count": 615,
+          "reply_count": 1,
+          "retweet_count": 1,
+          "quote_count": 23
+        }
+      },
+      "normalized": {
+        "text_length": 44,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114510736215187470",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114510736215187470",
+      "parent_post_id": null,
+      "thread_root_id": "2114510736215187470",
+      "author": {
+        "platform_id": null,
+        "display_name": "iambabygirlvh",
+        "username": "iambabygirlvh",
+        "profile_url": "https://x.com/iambabygirlvh"
+      },
+      "text": "O bem venceu caralhooooo ⭐❤️\n#Lula13",
+      "created_at": "2026-10-26T00:13:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/iambabygirlvh/status/2114510736215187470#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114510736215187470",
+        "text": "O bem venceu caralhooooo ⭐❤️\n#Lula13",
+        "author_username": "iambabygirlvh",
+        "author_name": "iambabygirlvh",
+        "created_at": "2026-10-26T00:13:00+00:00",
+        "permalink": "https://nitter.mie.foundation/iambabygirlvh/status/2114510736215187470#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 36,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114510588214993291",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114510588214993291",
+      "parent_post_id": null,
+      "thread_root_id": "2114510588214993291",
+      "author": {
+        "platform_id": null,
+        "display_name": "MarcosM33900869",
+        "username": "MarcosM33900869",
+        "profile_url": "https://x.com/MarcosM33900869"
+      },
+      "text": "🌻 Ao Povo do Nordeste e a Todo o Brasil\n \nAo nosso amado Nordeste, terra de força, fé e resistência, meu profundo agradecimento. Foi aqui que a esperança bateu mais forte, foi com sua voz que o bem venceu o medo. Vocês mostraram que a solidariedade é o nosso maior tesouro.",
+      "created_at": "2026-10-26T00:13:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/MarcosM33900869/status/2114510588214993291#m",
+      "metrics": {
+        "like_count": 24,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114510588214993291",
+        "text": "🌻 Ao Povo do Nordeste e a Todo o Brasil\n \nAo nosso amado Nordeste, terra de força, fé e resistência, meu profundo agradecimento. Foi aqui que a esperança bateu mais forte, foi com sua voz que o bem venceu o medo. Vocês mostraram que a solidariedade é o nosso maior tesouro.",
+        "author_username": "MarcosM33900869",
+        "author_name": "MarcosM33900869",
+        "created_at": "2026-10-26T00:13:00+00:00",
+        "permalink": "https://nitter.mie.foundation/MarcosM33900869/status/2114510588214993291#m",
+        "metrics": {
+          "like_count": 24,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 273,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114510469151256805",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114510469151256805",
+      "parent_post_id": null,
+      "thread_root_id": "2114510469151256805",
+      "author": {
+        "platform_id": null,
+        "display_name": "TeeuTassiio",
+        "username": "TeeuTassiio",
+        "profile_url": "https://x.com/TeeuTassiio"
+      },
+      "text": "O bem venceu ❤️",
+      "created_at": "2026-10-26T00:12:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/TeeuTassiio/status/2114510469151256805#m",
+      "metrics": {
+        "like_count": 36,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114510469151256805",
+        "text": "O bem venceu ❤️",
+        "author_username": "TeeuTassiio",
+        "author_name": "TeeuTassiio",
+        "created_at": "2026-10-26T00:12:00+00:00",
+        "permalink": "https://nitter.mie.foundation/TeeuTassiio/status/2114510469151256805#m",
+        "metrics": {
+          "like_count": 36,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 15,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114510382966677781",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114510382966677781",
+      "parent_post_id": null,
+      "thread_root_id": "2114510382966677781",
+      "author": {
+        "platform_id": null,
+        "display_name": "itsmanuca",
+        "username": "itsmanuca",
+        "profile_url": "https://x.com/itsmanuca"
+      },
+      "text": "O BEM VENCEU CARALHOOOOO",
+      "created_at": "2026-10-26T00:12:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/itsmanuca/status/2114510382966677781#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114510382966677781",
+        "text": "O BEM VENCEU CARALHOOOOO",
+        "author_username": "itsmanuca",
+        "author_name": "itsmanuca",
+        "created_at": "2026-10-26T00:12:00+00:00",
+        "permalink": "https://nitter.mie.foundation/itsmanuca/status/2114510382966677781#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 24,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114509795298349523",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114509795298349523",
+      "parent_post_id": null,
+      "thread_root_id": "2114509795298349523",
+      "author": {
+        "platform_id": null,
+        "display_name": "J0J00LoL",
+        "username": "J0J00LoL",
+        "profile_url": "https://x.com/J0J00LoL"
+      },
+      "text": "O bem venceu!!\nQue orgulho do meu Nordeste! ♥️⭐",
+      "created_at": "2026-10-26T00:09:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/J0J00LoL/status/2114509795298349523#m",
+      "metrics": {
+        "like_count": 22,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114509795298349523",
+        "text": "O bem venceu!!\nQue orgulho do meu Nordeste! ♥️⭐",
+        "author_username": "J0J00LoL",
+        "author_name": "J0J00LoL",
+        "created_at": "2026-10-26T00:09:00+00:00",
+        "permalink": "https://nitter.mie.foundation/J0J00LoL/status/2114509795298349523#m",
+        "metrics": {
+          "like_count": 22,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 47,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114508629793759649",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114508629793759649",
+      "parent_post_id": null,
+      "thread_root_id": "2114508629793759649",
+      "author": {
+        "platform_id": null,
+        "display_name": "jguistan",
+        "username": "jguistan",
+        "profile_url": "https://x.com/jguistan"
+      },
+      "text": "Que sensação boa meu Deus O BEM VENCEU MAIS UMA VEZ",
+      "created_at": "2026-10-26T00:05:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/jguistan/status/2114508629793759649#m",
+      "metrics": {
+        "like_count": 22,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114508629793759649",
+        "text": "Que sensação boa meu Deus O BEM VENCEU MAIS UMA VEZ",
+        "author_username": "jguistan",
+        "author_name": "jguistan",
+        "created_at": "2026-10-26T00:05:00+00:00",
+        "permalink": "https://nitter.mie.foundation/jguistan/status/2114508629793759649#m",
+        "metrics": {
+          "like_count": 22,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 51,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114507589933257187",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114507589933257187",
+      "parent_post_id": null,
+      "thread_root_id": "2114507589933257187",
+      "author": {
+        "platform_id": null,
+        "display_name": "seniorvitor",
+        "username": "seniorvitor",
+        "profile_url": "https://x.com/seniorvitor"
+      },
+      "text": "Ganhamo galera, o bem venceu 🙏🏼",
+      "created_at": "2026-10-26T00:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "permalink": "https://nitter.mie.foundation/seniorvitor/status/2114507589933257187#m",
+      "metrics": {
+        "like_count": 17,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114507589933257187",
+        "text": "Ganhamo galera, o bem venceu 🙏🏼",
+        "author_username": "seniorvitor",
+        "author_name": "seniorvitor",
+        "created_at": "2026-10-26T00:01:00+00:00",
+        "permalink": "https://nitter.mie.foundation/seniorvitor/status/2114507589933257187#m",
+        "metrics": {
+          "like_count": 17,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 31,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114555614525293017",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114555614525293017",
+      "post_id": "2114551716548870229",
+      "parent_comment_id": "2114551716548870229",
+      "thread_root_id": "2114551716548870229",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "Jul_bss",
+        "username": "Jul_bss",
+        "profile_url": null
+      },
+      "text": "Amém 🙌🏻",
+      "created_at": "2026-10-26T03:11:00+00:00",
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "parent_post_url": "https://nitter.mie.foundation/Jul_bss/status/2114555614525293017#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114555614525293017",
+        "text": "Amém 🙌🏻",
+        "author_username": "Jul_bss",
+        "author_name": "Jul_bss",
+        "created_at": "2026-10-26T03:11:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Jul_bss/status/2114555614525293017#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114551716548870229",
+        "parent_comment_id": "2114551716548870229",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 7,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114525839727456766",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114525839727456766",
+      "post_id": "2114525372582936718",
+      "parent_comment_id": "2114525372582936718",
+      "thread_root_id": "2114525372582936718",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "alcidesmacedo",
+        "username": "alcidesmacedo",
+        "profile_url": null
+      },
+      "text": "PCC, CV e PT venceram",
+      "created_at": "2026-10-26T01:13:00+00:00",
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "parent_post_url": "https://nitter.mie.foundation/alcidesmacedo/status/2114525839727456766#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114525839727456766",
+        "text": "PCC, CV e PT venceram",
+        "author_username": "alcidesmacedo",
+        "author_name": "alcidesmacedo",
+        "created_at": "2026-10-26T01:13:00+00:00",
+        "permalink": "https://nitter.mie.foundation/alcidesmacedo/status/2114525839727456766#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114525372582936718",
+        "parent_comment_id": "2114525372582936718",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 21,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114535571380916505",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114535571380916505",
+      "post_id": "2114525206333055125",
+      "parent_comment_id": "2114525206333055125",
+      "thread_root_id": "2114525206333055125",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "starssniki",
+        "username": "starssniki",
+        "profile_url": null
+      },
+      "text": "Simmm",
+      "created_at": "2026-10-26T01:52:00+00:00",
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "parent_post_url": "https://nitter.mie.foundation/starssniki/status/2114535571380916505#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114535571380916505",
+        "text": "Simmm",
+        "author_username": "starssniki",
+        "author_name": "starssniki",
+        "created_at": "2026-10-26T01:52:00+00:00",
+        "permalink": "https://nitter.mie.foundation/starssniki/status/2114535571380916505#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114525206333055125",
+        "parent_comment_id": "2114525206333055125",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 5,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114527361710346715",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114527361710346715",
+      "post_id": "2114519961762730361",
+      "parent_comment_id": "2114519961762730361",
+      "thread_root_id": "2114519961762730361",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "HeidySoeiro",
+        "username": "HeidySoeiro",
+        "profile_url": null
+      },
+      "text": "É Tetra!!!!",
+      "created_at": "2026-10-26T01:19:00+00:00",
+      "collected_at": "2026-10-26T02:43:56-03:00",
+      "parent_post_url": "https://nitter.mie.foundation/HeidySoeiro/status/2114527361710346715#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114527361710346715",
+        "text": "É Tetra!!!!",
+        "author_username": "HeidySoeiro",
+        "author_name": "HeidySoeiro",
+        "created_at": "2026-10-26T01:19:00+00:00",
+        "permalink": "https://nitter.mie.foundation/HeidySoeiro/status/2114527361710346715#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114519961762730361",
+        "parent_comment_id": "2114519961762730361",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 11,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
