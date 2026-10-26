@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "#VotacaoAte19Horas",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+    "collected_at": "2026-10-26T16:41:36-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 0
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114725437578281123",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114725437578281123",
+      "parent_post_id": null,
+      "thread_root_id": "2114725437578281123",
+      "author": {
+        "platform_id": null,
+        "display_name": "AdrianoBolzan79",
+        "username": "AdrianoBolzan79",
+        "profile_url": "https://x.com/AdrianoBolzan79"
+      },
+      "text": "Agora é juntar os cacos e botar o rabinho entre as pernas. O pacote de crueldade veio antes da hora e o povo acordo!\n#LulaReeleito \n#VotacaoAte19Horas",
+      "created_at": "2026-10-26T14:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T16:41:36-03:00",
+      "permalink": "https://nitter.netbub.com/AdrianoBolzan79/status/2114725437578281123#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#VotacaoAte19Horas",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114725437578281123",
+        "text": "Agora é juntar os cacos e botar o rabinho entre as pernas. O pacote de crueldade veio antes da hora e o povo acordo!\n#LulaReeleito \n#VotacaoAte19Horas",
+        "author_username": "AdrianoBolzan79",
+        "author_name": "AdrianoBolzan79",
+        "created_at": "2026-10-26T14:26:00+00:00",
+        "permalink": "https://nitter.netbub.com/AdrianoBolzan79/status/2114725437578281123#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 150,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
