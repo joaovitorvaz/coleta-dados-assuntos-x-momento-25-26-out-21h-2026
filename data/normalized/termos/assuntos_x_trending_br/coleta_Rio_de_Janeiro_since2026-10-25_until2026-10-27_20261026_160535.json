@@ -1,0 +1,1211 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Rio de Janeiro",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+    "collected_at": "2026-10-26T16:05:35-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 14,
+      "comments": 4,
+      "records_total": 18,
+      "skipped_duplicate": 26
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114780472521654778",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114780472521654778",
+      "parent_post_id": null,
+      "thread_root_id": "2114780472521654778",
+      "author": {
+        "platform_id": null,
+        "display_name": "BoschettiS21593",
+        "username": "BoschettiS21593",
+        "profile_url": "https://x.com/BoschettiS21593"
+      },
+      "text": "Sou do Rio de janeiro e CONCORDO PLENAMENTE...",
+      "created_at": "2026-10-26T18:05:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T16:05:35-03:00",
+      "permalink": "https://nitter.netbub.com/BoschettiS21593/status/2114780472521654778#m",
+      "metrics": {
+        "like_count": 405,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 5
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114780472521654778",
+        "text": "Sou do Rio de janeiro e CONCORDO PLENAMENTE...",
+        "author_username": "BoschettiS21593",
+        "author_name": "BoschettiS21593",
+        "created_at": "2026-10-26T18:05:00+00:00",
+        "permalink": "https://nitter.netbub.com/BoschettiS21593/status/2114780472521654778#m",
+        "metrics": {
+          "like_count": 405,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 5
+        }
+      },
+      "normalized": {
+        "text_length": 46,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114778781193765270",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114778781193765270",
+      "parent_post_id": null,
+      "thread_root_id": "2114778781193765270",
+      "author": {
+        "platform_id": null,
+        "display_name": "DudduMauri50132",
+        "username": "DudduMauri50132",
+        "profile_url": "https://x.com/DudduMauri50132"
+      },
+      "text": "Rio de janeiro Brazil",
+      "created_at": "2026-10-26T17:58:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T16:05:35-03:00",
+      "permalink": "https://nitter.netbub.com/DudduMauri50132/status/2114778781193765270#m",
+      "metrics": {
+        "like_count": 9,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114778781193765270",
+        "text": "Rio de janeiro Brazil",
+        "author_username": "DudduMauri50132",
+        "author_name": "DudduMauri50132",
+        "created_at": "2026-10-26T17:58:00+00:00",
+        "permalink": "https://nitter.netbub.com/DudduMauri50132/status/2114778781193765270#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 21,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114772278130979303",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114772278130979303",
+      "parent_post_id": null,
+      "thread_root_id": "2114772278130979303",
+      "author": {
+        "platform_id": null,
+        "display_name": "ali_neesp",
+        "username": "ali_neesp",
+        "profile_url": "https://x.com/ali_neesp"
+      },
+      "text": "Rio de Janeiro Capital 🥳🎉\nObrigada por terem acordado !! Olhem essa diferença entre o 1° e 2° turno 😱\nP.S só ficaria perfeito se o Governador fosse o Eduardo Paes em 2027 🥹",
+      "created_at": "2026-10-26T17:32:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T16:05:35-03:00",
+      "permalink": "https://nitter.netbub.com/ali_neesp/status/2114772278130979303#m",
+      "metrics": {
+        "like_count": 30,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114772278130979303",
+        "text": "Rio de Janeiro Capital 🥳🎉\nObrigada por terem acordado !! Olhem essa diferença entre o 1° e 2° turno 😱\nP.S só ficaria perfeito se o Governador fosse o Eduardo Paes em 2027 🥹",
+        "author_username": "ali_neesp",
+        "author_name": "ali_neesp",
+        "created_at": "2026-10-26T17:32:00+00:00",
+        "permalink": "https://nitter.netbub.com/ali_neesp/status/2114772278130979303#m",
+        "metrics": {
+          "like_count": 30,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 172,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114769678195216437",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114769678195216437",
+      "parent_post_id": null,
+      "thread_root_id": "2114769678195216437",
+      "author": {
+        "platform_id": null,
+        "display_name": "4dosete",
+        "username": "4dosete",
+        "profile_url": "https://x.com/4dosete"
+      },
+      "text": "te amo rio de janeiro",
+      "created_at": "2026-10-26T17:22:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T16:05:35-03:00",
+      "permalink": "https://nitter.netbub.com/4dosete/status/2114769678195216437#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114769678195216437",
+        "text": "te amo rio de janeiro",
+        "author_username": "4dosete",
+        "author_name": "4dosete",
+        "created_at": "2026-10-26T17:22:00+00:00",
+        "permalink": "https://nitter.netbub.com/4dosete/status/2114769678195216437#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 21,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114760684387098740",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114760684387098740",
+      "parent_post_id": null,
+      "thread_root_id": "2114760684387098740",
+      "author": {
+        "platform_id": null,
+        "display_name": "Faustomore",
+        "username": "Faustomore",
+        "profile_url": "https://x.com/Faustomore"
+      },
+      "text": "5/8. Foi isso que nós vimos e que eu vi desde que começou a rolar esse vídeo ontem. Isso foi aqui, a poucos quilômetros da minha casa, no Rio de Janeiro. Um absurdo, praticamente na frente do condomínio onde o Bolsonaro tinha ou tem casa, na Barra.",
+      "created_at": "2026-10-26T16:46:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T16:05:35-03:00",
+      "permalink": "https://nitter.netbub.com/Faustomore/status/2114760684387098740#m",
+      "metrics": {
+        "like_count": 26,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114760684387098740",
+        "text": "5/8. Foi isso que nós vimos e que eu vi desde que começou a rolar esse vídeo ontem. Isso foi aqui, a poucos quilômetros da minha casa, no Rio de Janeiro. Um absurdo, praticamente na frente do condomínio onde o Bolsonaro tinha ou tem casa, na Barra.",
+        "author_username": "Faustomore",
+        "author_name": "Faustomore",
+        "created_at": "2026-10-26T16:46:00+00:00",
+        "permalink": "https://nitter.netbub.com/Faustomore/status/2114760684387098740#m",
+        "metrics": {
+          "like_count": 26,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 248,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114759348765311100",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114759348765311100",
+      "parent_post_id": null,
+      "thread_root_id": "2114759348765311100",
+      "author": {
+        "platform_id": null,
+        "display_name": "Crfjkaua",
+        "username": "Crfjkaua",
+        "profile_url": "https://x.com/Crfjkaua"
+      },
+      "text": "Ainda não acabou, ainda vou lutar pelo segundo turno no estado do rio de janeiro",
+      "created_at": "2026-10-26T16:41:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T16:05:35-03:00",
+      "permalink": "https://nitter.netbub.com/Crfjkaua/status/2114759348765311100#m",
+      "metrics": {
+        "like_count": 17,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114759348765311100",
+        "text": "Ainda não acabou, ainda vou lutar pelo segundo turno no estado do rio de janeiro",
+        "author_username": "Crfjkaua",
+        "author_name": "Crfjkaua",
+        "created_at": "2026-10-26T16:41:00+00:00",
+        "permalink": "https://nitter.netbub.com/Crfjkaua/status/2114759348765311100#m",
+        "metrics": {
+          "like_count": 17,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 80,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114756777610739768",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114756777610739768",
+      "parent_post_id": null,
+      "thread_root_id": "2114756777610739768",
+      "author": {
+        "platform_id": null,
+        "display_name": "Anna_hope94",
+        "username": "Anna_hope94",
+        "profile_url": "https://x.com/Anna_hope94"
+      },
+      "text": "Rio de Janeiro, o icônico",
+      "created_at": "2026-10-26T16:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T16:05:35-03:00",
+      "permalink": "https://nitter.netbub.com/Anna_hope94/status/2114756777610739768#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114756777610739768",
+        "text": "Rio de Janeiro, o icônico",
+        "author_username": "Anna_hope94",
+        "author_name": "Anna_hope94",
+        "created_at": "2026-10-26T16:31:00+00:00",
+        "permalink": "https://nitter.netbub.com/Anna_hope94/status/2114756777610739768#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 25,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114738073510535536",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114738073510535536",
+      "parent_post_id": null,
+      "thread_root_id": "2114738073510535536",
+      "author": {
+        "platform_id": null,
+        "display_name": "marinho687",
+        "username": "marinho687",
+        "profile_url": "https://x.com/marinho687"
+      },
+      "text": "Rio de Janeiro. Votação nas Zonas Eleitores. Presidente @LulaOficial maiores percentuais na Zona Sul, Centro e nos bairros da Zona Norte; @FlavioBolsonaro com melhor desempenho na Zona Oeste.\ng1.globo.com/rj/rio-de-janei…",
+      "created_at": "2026-10-26T15:17:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T16:05:35-03:00",
+      "permalink": "https://nitter.netbub.com/marinho687/status/2114738073510535536#m",
+      "metrics": {
+        "like_count": 30,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114738073510535536",
+        "text": "Rio de Janeiro. Votação nas Zonas Eleitores. Presidente @LulaOficial maiores percentuais na Zona Sul, Centro e nos bairros da Zona Norte; @FlavioBolsonaro com melhor desempenho na Zona Oeste.\ng1.globo.com/rj/rio-de-janei…",
+        "author_username": "marinho687",
+        "author_name": "marinho687",
+        "created_at": "2026-10-26T15:17:00+00:00",
+        "permalink": "https://nitter.netbub.com/marinho687/status/2114738073510535536#m",
+        "metrics": {
+          "like_count": 30,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 221,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114715816750878757",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114715816750878757",
+      "parent_post_id": null,
+      "thread_root_id": "2114715816750878757",
+      "author": {
+        "platform_id": null,
+        "display_name": "sinesio_vilaca",
+        "username": "sinesio_vilaca",
+        "profile_url": "https://x.com/sinesio_vilaca"
+      },
+      "text": "No Rio de Janeiro, milicianos e faccionados em festas.\n\nVocê, PTistas, comemorem. \n\nVocês e eles",
+      "created_at": "2026-10-26T13:48:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T16:05:35-03:00",
+      "permalink": "https://nitter.netbub.com/sinesio_vilaca/status/2114715816750878757#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 2,
+        "retweet_count": 16,
+        "quote_count": 47
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114715816750878757",
+        "text": "No Rio de Janeiro, milicianos e faccionados em festas.\n\nVocê, PTistas, comemorem. \n\nVocês e eles",
+        "author_username": "sinesio_vilaca",
+        "author_name": "sinesio_vilaca",
+        "created_at": "2026-10-26T13:48:00+00:00",
+        "permalink": "https://nitter.netbub.com/sinesio_vilaca/status/2114715816750878757#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 2,
+          "retweet_count": 16,
+          "quote_count": 47
+        }
+      },
+      "normalized": {
+        "text_length": 96,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114701060753215910",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114701060753215910",
+      "parent_post_id": null,
+      "thread_root_id": "2114701060753215910",
+      "author": {
+        "platform_id": null,
+        "display_name": "cjuniorfox",
+        "username": "cjuniorfox",
+        "profile_url": "https://x.com/cjuniorfox"
+      },
+      "text": "A festa foi linda no país todo. De Feira de Santana a Balneário passando por Belo Horizonte, Rio de Janeiro, Curitiba, Porto Alegre, Olinda, Manaus. O país está em festa.",
+      "created_at": "2026-10-26T12:49:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T16:05:35-03:00",
+      "permalink": "https://nitter.netbub.com/cjuniorfox/status/2114701060753215910#m",
+      "metrics": {
+        "like_count": 158,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 12
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114701060753215910",
+        "text": "A festa foi linda no país todo. De Feira de Santana a Balneário passando por Belo Horizonte, Rio de Janeiro, Curitiba, Porto Alegre, Olinda, Manaus. O país está em festa.",
+        "author_username": "cjuniorfox",
+        "author_name": "cjuniorfox",
+        "created_at": "2026-10-26T12:49:00+00:00",
+        "permalink": "https://nitter.netbub.com/cjuniorfox/status/2114701060753215910#m",
+        "metrics": {
+          "like_count": 158,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 12
+        }
+      },
+      "normalized": {
+        "text_length": 170,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114700856486457729",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114700856486457729",
+      "parent_post_id": null,
+      "thread_root_id": "2114700856486457729",
+      "author": {
+        "platform_id": null,
+        "display_name": "PaixaoAoFutebol",
+        "username": "PaixaoAoFutebol",
+        "profile_url": "https://x.com/PaixaoAoFutebol"
+      },
+      "text": "➡️É uma vergonha atualmente a pirâmide de futebol do Rio de Janeiro conta com cinco divisões profissionais e promover somente um clube da segunda para primeira divisão✅",
+      "created_at": "2026-10-26T12:49:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T16:05:35-03:00",
+      "permalink": "https://nitter.netbub.com/PaixaoAoFutebol/status/2114700856486457729#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114700856486457729",
+        "text": "➡️É uma vergonha atualmente a pirâmide de futebol do Rio de Janeiro conta com cinco divisões profissionais e promover somente um clube da segunda para primeira divisão✅",
+        "author_username": "PaixaoAoFutebol",
+        "author_name": "PaixaoAoFutebol",
+        "created_at": "2026-10-26T12:49:00+00:00",
+        "permalink": "https://nitter.netbub.com/PaixaoAoFutebol/status/2114700856486457729#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 168,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114675710757363970",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114675710757363970",
+      "parent_post_id": null,
+      "thread_root_id": "2114675710757363970",
+      "author": {
+        "platform_id": null,
+        "display_name": "JtheAlencar",
+        "username": "JtheAlencar",
+        "profile_url": "https://x.com/JtheAlencar"
+      },
+      "text": "Todo respeito ao seu país e ao seu presidente, mas n sei se entendi sua análise. \nVocê não falou nada com nada, é como eu dizer q o quanto choveu na Inglaterra hoje seria considerado uma inundação se fosse no rio de janeiro \n\nFalta terminar essa análise q aí q vc tentou fazer",
+      "created_at": "2026-10-26T11:09:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T16:05:35-03:00",
+      "permalink": "https://nitter.netbub.com/JtheAlencar/status/2114675710757363970#m",
+      "metrics": {
+        "like_count": 9,
+        "reply_count": 2,
+        "retweet_count": 0,
+        "quote_count": 62
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114675710757363970",
+        "text": "Todo respeito ao seu país e ao seu presidente, mas n sei se entendi sua análise. \nVocê não falou nada com nada, é como eu dizer q o quanto choveu na Inglaterra hoje seria considerado uma inundação se fosse no rio de janeiro \n\nFalta terminar essa análise q aí q vc tentou fazer",
+        "author_username": "JtheAlencar",
+        "author_name": "JtheAlencar",
+        "created_at": "2026-10-26T11:09:00+00:00",
+        "permalink": "https://nitter.netbub.com/JtheAlencar/status/2114675710757363970#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 2,
+          "retweet_count": 0,
+          "quote_count": 62
+        }
+      },
+      "normalized": {
+        "text_length": 276,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114652568697659573",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114652568697659573",
+      "parent_post_id": null,
+      "thread_root_id": "2114652568697659573",
+      "author": {
+        "platform_id": null,
+        "display_name": "rodrigo_berton",
+        "username": "rodrigo_berton",
+        "profile_url": "https://x.com/rodrigo_berton"
+      },
+      "text": "A milícia tentou impedir eleitor de votar e o Flávio conseguiu perder no Rio de Janeiro, né? Nem ele usando a máquina do negócio que ele comanda deu certo? Que chato...",
+      "created_at": "2026-10-26T09:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T16:05:35-03:00",
+      "permalink": "https://nitter.netbub.com/rodrigo_berton/status/2114652568697659573#m",
+      "metrics": {
+        "like_count": 421,
+        "reply_count": 1,
+        "retweet_count": 1,
+        "quote_count": 36
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114652568697659573",
+        "text": "A milícia tentou impedir eleitor de votar e o Flávio conseguiu perder no Rio de Janeiro, né? Nem ele usando a máquina do negócio que ele comanda deu certo? Que chato...",
+        "author_username": "rodrigo_berton",
+        "author_name": "rodrigo_berton",
+        "created_at": "2026-10-26T09:37:00+00:00",
+        "permalink": "https://nitter.netbub.com/rodrigo_berton/status/2114652568697659573#m",
+        "metrics": {
+          "like_count": 421,
+          "reply_count": 1,
+          "retweet_count": 1,
+          "quote_count": 36
+        }
+      },
+      "normalized": {
+        "text_length": 168,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114643653377356248",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114643653377356248",
+      "parent_post_id": null,
+      "thread_root_id": "2114643653377356248",
+      "author": {
+        "platform_id": null,
+        "display_name": "brancocamargo",
+        "username": "brancocamargo",
+        "profile_url": "https://x.com/brancocamargo"
+      },
+      "text": "Milton Nascimento completa 84 anos. O cantor e compositor brasileiro nasceu em 1942, no Rio de Janeiro.\n\nBelchior faria 80 anos.\n\nKeith Strickland, guitarrista e baterista do The B-52’s, 73 anos. Ele nasceu em 1953.\n\nNatalie Merchant, ex-vocalista do 10,000 Maniacs,63 anos.",
+      "created_at": "2026-10-26T09:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T16:05:35-03:00",
+      "permalink": "https://nitter.netbub.com/brancocamargo/status/2114643653377356248#m",
+      "metrics": {
+        "like_count": 32,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114643653377356248",
+        "text": "Milton Nascimento completa 84 anos. O cantor e compositor brasileiro nasceu em 1942, no Rio de Janeiro.\n\nBelchior faria 80 anos.\n\nKeith Strickland, guitarrista e baterista do The B-52’s, 73 anos. Ele nasceu em 1953.\n\nNatalie Merchant, ex-vocalista do 10,000 Maniacs,63 anos.",
+        "author_username": "brancocamargo",
+        "author_name": "brancocamargo",
+        "created_at": "2026-10-26T09:01:00+00:00",
+        "permalink": "https://nitter.netbub.com/brancocamargo/status/2114643653377356248#m",
+        "metrics": {
+          "like_count": 32,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 274,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114761037337800878",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114761037337800878",
+      "post_id": "2114760684387098740",
+      "parent_comment_id": "2114760684387098740",
+      "thread_root_id": "2114760684387098740",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "Faustomore",
+        "username": "Faustomore",
+        "profile_url": null
+      },
+      "text": "8/8. São pessoas com problemas psicológicos e psiquiátricos também, com ódio exacerbado, matando pessoas e destruindo patrimônio. Ontem mesmo jogaram pedras e quebraram os vidros dos carros de petistas que passavam com bandeiras. Isso é a mais pura barbárie.",
+      "created_at": "2026-10-26T16:48:00+00:00",
+      "collected_at": "2026-10-26T16:05:35-03:00",
+      "parent_post_url": "https://nitter.netbub.com/Faustomore/status/2114761037337800878#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114761037337800878",
+        "text": "8/8. São pessoas com problemas psicológicos e psiquiátricos também, com ódio exacerbado, matando pessoas e destruindo patrimônio. Ontem mesmo jogaram pedras e quebraram os vidros dos carros de petistas que passavam com bandeiras. Isso é a mais pura barbárie.",
+        "author_username": "Faustomore",
+        "author_name": "Faustomore",
+        "created_at": "2026-10-26T16:48:00+00:00",
+        "permalink": "https://nitter.netbub.com/Faustomore/status/2114761037337800878#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114760684387098740",
+        "parent_comment_id": "2114760684387098740",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 258,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114794401448800493",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114794401448800493",
+      "post_id": "2114715816750878757",
+      "parent_comment_id": "2114715816750878757",
+      "thread_root_id": "2114715816750878757",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "Dilmandonoamor",
+        "username": "Dilmandonoamor",
+        "profile_url": null
+      },
+      "text": "Já que FALVIO é miliciano, como Lula falou. Será que Flávio está aí no meio ? (Ironia)",
+      "created_at": "2026-10-26T19:00:00+00:00",
+      "collected_at": "2026-10-26T16:05:35-03:00",
+      "parent_post_url": "https://nitter.netbub.com/Dilmandonoamor/status/2114794401448800493#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114794401448800493",
+        "text": "Já que FALVIO é miliciano, como Lula falou. Será que Flávio está aí no meio ? (Ironia)",
+        "author_username": "Dilmandonoamor",
+        "author_name": "Dilmandonoamor",
+        "created_at": "2026-10-26T19:00:00+00:00",
+        "permalink": "https://nitter.netbub.com/Dilmandonoamor/status/2114794401448800493#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114715816750878757",
+        "parent_comment_id": "2114715816750878757",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 86,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114677161072156872",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114677161072156872",
+      "post_id": "2114675710757363970",
+      "parent_comment_id": "2114675710757363970",
+      "thread_root_id": "2114675710757363970",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "easegura",
+        "username": "easegura",
+        "profile_url": null
+      },
+      "text": "En El Salvador se hizo una reforma constitucional el año pasado para que la elección presidencial se resuelva en una sola vuelta sin importar la cantidad de votos con que se gane.",
+      "created_at": "2026-10-26T11:14:00+00:00",
+      "collected_at": "2026-10-26T16:05:35-03:00",
+      "parent_post_url": "https://nitter.netbub.com/easegura/status/2114677161072156872#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114677161072156872",
+        "text": "En El Salvador se hizo una reforma constitucional el año pasado para que la elección presidencial se resuelva en una sola vuelta sin importar la cantidad de votos con que se gane.",
+        "author_username": "easegura",
+        "author_name": "easegura",
+        "created_at": "2026-10-26T11:14:00+00:00",
+        "permalink": "https://nitter.netbub.com/easegura/status/2114677161072156872#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114675710757363970",
+        "parent_comment_id": "2114675710757363970",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 179,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114669982080745937",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114669982080745937",
+      "post_id": "2114652568697659573",
+      "parent_comment_id": "2114652568697659573",
+      "thread_root_id": "2114652568697659573",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "edsoncaffe",
+        "username": "edsoncaffe",
+        "profile_url": null
+      },
+      "text": "#LulaMaiorDoMundo\n#VitoriaDaDemocracia\n#LulaOBrasilTeAma\n#DeViradaEMaisGostoso",
+      "created_at": "2026-10-26T10:46:00+00:00",
+      "collected_at": "2026-10-26T16:05:35-03:00",
+      "parent_post_url": "https://nitter.netbub.com/edsoncaffe/status/2114669982080745937#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114669982080745937",
+        "text": "#LulaMaiorDoMundo\n#VitoriaDaDemocracia\n#LulaOBrasilTeAma\n#DeViradaEMaisGostoso",
+        "author_username": "edsoncaffe",
+        "author_name": "edsoncaffe",
+        "created_at": "2026-10-26T10:46:00+00:00",
+        "permalink": "https://nitter.netbub.com/edsoncaffe/status/2114669982080745937#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114652568697659573",
+        "parent_comment_id": "2114652568697659573",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 78,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
