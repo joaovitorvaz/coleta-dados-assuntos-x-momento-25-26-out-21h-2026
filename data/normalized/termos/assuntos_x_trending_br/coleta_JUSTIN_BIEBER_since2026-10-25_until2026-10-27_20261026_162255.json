@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "JUSTIN BIEBER",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+    "collected_at": "2026-10-26T16:22:55-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 0
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114698070021578830",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114698070021578830",
+      "parent_post_id": null,
+      "thread_root_id": "2114698070021578830",
+      "author": {
+        "platform_id": null,
+        "display_name": "tristheuzismo",
+        "username": "tristheuzismo",
+        "profile_url": "https://x.com/tristheuzismo"
+      },
+      "text": "irmão até o JUSTIN BIEBER meteu essa e o VIADO do felca não falou nada",
+      "created_at": "2026-10-26T12:38:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T16:22:55-03:00",
+      "permalink": "https://nitter.netbub.com/tristheuzismo/status/2114698070021578830#m",
+      "metrics": {
+        "like_count": 78,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "JUSTIN BIEBER",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114698070021578830",
+        "text": "irmão até o JUSTIN BIEBER meteu essa e o VIADO do felca não falou nada",
+        "author_username": "tristheuzismo",
+        "author_name": "tristheuzismo",
+        "created_at": "2026-10-26T12:38:00+00:00",
+        "permalink": "https://nitter.netbub.com/tristheuzismo/status/2114698070021578830#m",
+        "metrics": {
+          "like_count": 78,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 70,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
