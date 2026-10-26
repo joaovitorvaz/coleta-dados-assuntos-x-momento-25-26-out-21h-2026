@@ -1,0 +1,40 @@
+{
+  "name": "assuntos_x_momento_checkpoint",
+  "campaign_start": "2026-10-25",
+  "last_successful_until": null,
+  "completed_windows": [],
+  "last_run_at": "2026-10-25T22:33:29-03:00",
+  "last_post_id": null,
+  "extra": {
+    "campaign_id": "assuntos_x_momento_ate_26out21h_20261025",
+    "last_cycle": {
+      "written": 757,
+      "duplicates": 153,
+      "errors": 0,
+      "json_files": 20,
+      "raw_json_files": 20,
+      "event": {
+        "event_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "event_type": "campaign_assuntos_x_momento_ate_26out21h_20261025",
+        "started_at": "2026-10-25T22:33:29-03:00",
+        "finished_at": "2026-10-26T08:18:07-03:00",
+        "status": "success",
+        "since": "2026-10-25",
+        "until": "2026-10-27",
+        "records_written": 757,
+        "records_skipped_duplicate": 153,
+        "json_files_written": 20,
+        "errors": [],
+        "twitee_trends": []
+      },
+      "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+      "twitee_trends": [],
+      "git_sync": {
+        "pushed": true,
+        "commit": "1565829",
+        "files": 48
+      }
+    }
+  },
+  "saved_at": "2026-10-26T08:18:09"
+}
