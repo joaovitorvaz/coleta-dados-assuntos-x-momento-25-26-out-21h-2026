@@ -1,0 +1,351 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "#EleccionesBrasil2026",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+    "collected_at": "2026-10-26T12:53:45-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 5,
+      "comments": 0,
+      "records_total": 5,
+      "skipped_duplicate": 11
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114710197520216503",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114710197520216503",
+      "parent_post_id": null,
+      "thread_root_id": "2114710197520216503",
+      "author": {
+        "platform_id": null,
+        "display_name": "Lycca",
+        "username": "Lycca",
+        "profile_url": "https://x.com/Lycca"
+      },
+      "text": "Hahaha Melhor Twitter ate agora \n#EleccionesBrasil2026 #Eleicoes2026 #LulaVaiVencer #LulaPelaDemocracia #LulaPresidente",
+      "created_at": "2026-10-26T13:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T12:53:45-03:00",
+      "permalink": "https://nitter.meowing.monster/Lycca/status/2114710197520216503#m",
+      "metrics": {
+        "like_count": 106,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#EleccionesBrasil2026",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114710197520216503",
+        "text": "Hahaha Melhor Twitter ate agora \n#EleccionesBrasil2026 #Eleicoes2026 #LulaVaiVencer #LulaPelaDemocracia #LulaPresidente",
+        "author_username": "Lycca",
+        "author_name": "Lycca",
+        "created_at": "2026-10-26T13:26:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Lycca/status/2114710197520216503#m",
+        "metrics": {
+          "like_count": 106,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 119,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114708280761070016",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114708280761070016",
+      "parent_post_id": null,
+      "thread_root_id": "2114708280761070016",
+      "author": {
+        "platform_id": null,
+        "display_name": "EUMATHEUSmusic",
+        "username": "EUMATHEUSmusic",
+        "profile_url": "https://x.com/EUMATHEUSmusic"
+      },
+      "text": "#LulaPelaDemocracia #EleccionesBrasil2026 \n\nEUMATHEUS Musica Experimental\ndiscoseumatheus.bandcamp.com…",
+      "created_at": "2026-10-26T13:18:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T12:53:45-03:00",
+      "permalink": "https://nitter.meowing.monster/EUMATHEUSmusic/status/2114708280761070016#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#EleccionesBrasil2026",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114708280761070016",
+        "text": "#LulaPelaDemocracia #EleccionesBrasil2026 \n\nEUMATHEUS Musica Experimental\ndiscoseumatheus.bandcamp.com…",
+        "author_username": "EUMATHEUSmusic",
+        "author_name": "EUMATHEUSmusic",
+        "created_at": "2026-10-26T13:18:00+00:00",
+        "permalink": "https://nitter.meowing.monster/EUMATHEUSmusic/status/2114708280761070016#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 103,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114707138765332862",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114707138765332862",
+      "parent_post_id": null,
+      "thread_root_id": "2114707138765332862",
+      "author": {
+        "platform_id": null,
+        "display_name": "Dulangalpha",
+        "username": "Dulangalpha",
+        "profile_url": "https://x.com/Dulangalpha"
+      },
+      "text": "Já estou pronta!!!\n#EleccionesBrasil2026 \n#LulaReeleito \n#LulaPelaDemocracia",
+      "created_at": "2026-10-26T13:14:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T12:53:45-03:00",
+      "permalink": "https://nitter.meowing.monster/Dulangalpha/status/2114707138765332862#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#EleccionesBrasil2026",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114707138765332862",
+        "text": "Já estou pronta!!!\n#EleccionesBrasil2026 \n#LulaReeleito \n#LulaPelaDemocracia",
+        "author_username": "Dulangalpha",
+        "author_name": "Dulangalpha",
+        "created_at": "2026-10-26T13:14:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Dulangalpha/status/2114707138765332862#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 76,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114674533164539999",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114674533164539999",
+      "parent_post_id": null,
+      "thread_root_id": "2114674533164539999",
+      "author": {
+        "platform_id": null,
+        "display_name": "RobsonSLinhares",
+        "username": "RobsonSLinhares",
+        "profile_url": "https://x.com/RobsonSLinhares"
+      },
+      "text": "Frase do dia: \"não se pode pedir a nulidade de um ato processual se a própria parte que a alega deu causa\"\n#EleccionesBrasil2026 #LulaPelaDemocracia #Lula13 #LulaPresidente #LulaReeleito",
+      "created_at": "2026-10-26T11:04:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T12:53:45-03:00",
+      "permalink": "https://nitter.meowing.monster/RobsonSLinhares/status/2114674533164539999#m",
+      "metrics": {
+        "like_count": 21,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#EleccionesBrasil2026",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114674533164539999",
+        "text": "Frase do dia: \"não se pode pedir a nulidade de um ato processual se a própria parte que a alega deu causa\"\n#EleccionesBrasil2026 #LulaPelaDemocracia #Lula13 #LulaPresidente #LulaReeleito",
+        "author_username": "RobsonSLinhares",
+        "author_name": "RobsonSLinhares",
+        "created_at": "2026-10-26T11:04:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RobsonSLinhares/status/2114674533164539999#m",
+        "metrics": {
+          "like_count": 21,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 186,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114662040983703555",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114662040983703555",
+      "parent_post_id": null,
+      "thread_root_id": "2114662040983703555",
+      "author": {
+        "platform_id": null,
+        "display_name": "serra4ndre",
+        "username": "serra4ndre",
+        "profile_url": "https://x.com/serra4ndre"
+      },
+      "text": "BOOOM DIAAAAAA!! \n#LulaPelaDemocracia #EleccionesBrasil2026 #fyp",
+      "created_at": "2026-10-26T10:14:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T12:53:45-03:00",
+      "permalink": "https://nitter.meowing.monster/serra4ndre/status/2114662040983703555#m",
+      "metrics": {
+        "like_count": 12,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#EleccionesBrasil2026",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114662040983703555",
+        "text": "BOOOM DIAAAAAA!! \n#LulaPelaDemocracia #EleccionesBrasil2026 #fyp",
+        "author_username": "serra4ndre",
+        "author_name": "serra4ndre",
+        "created_at": "2026-10-26T10:14:00+00:00",
+        "permalink": "https://nitter.meowing.monster/serra4ndre/status/2114662040983703555#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 64,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
