@@ -1,0 +1,418 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "#EleccionesBrasil2026",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+    "collected_at": "2026-10-26T01:28:10-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 6,
+      "comments": 0,
+      "records_total": 6,
+      "skipped_duplicate": 3
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114552190182264993",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114552190182264993",
+      "parent_post_id": null,
+      "thread_root_id": "2114552190182264993",
+      "author": {
+        "platform_id": null,
+        "display_name": "Luanamaciel453",
+        "username": "Luanamaciel453",
+        "profile_url": "https://x.com/Luanamaciel453"
+      },
+      "text": "O Povo Mineiro São Fodas ⭐️❤️\n#EleccionesBrasil2026 \n#LulaPelaDemocracia",
+      "created_at": "2026-10-26T02:58:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T01:28:10-03:00",
+      "permalink": "https://nitter.meowing.monster/Luanamaciel453/status/2114552190182264993#m",
+      "metrics": {
+        "like_count": 36,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#EleccionesBrasil2026",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114552190182264993",
+        "text": "O Povo Mineiro São Fodas ⭐️❤️\n#EleccionesBrasil2026 \n#LulaPelaDemocracia",
+        "author_username": "Luanamaciel453",
+        "author_name": "Luanamaciel453",
+        "created_at": "2026-10-26T02:58:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Luanamaciel453/status/2114552190182264993#m",
+        "metrics": {
+          "like_count": 36,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 72,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114542190315679943",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114542190315679943",
+      "parent_post_id": null,
+      "thread_root_id": "2114542190315679943",
+      "author": {
+        "platform_id": null,
+        "display_name": "mr_vpsantos",
+        "username": "mr_vpsantos",
+        "profile_url": "https://x.com/mr_vpsantos"
+      },
+      "text": "Nunca vi tanta gente com a camiseta da Seleção Brasileira na minha vida! Deu impressão que o Brasil estava na final da Copa do Mundo!\n#EleccionesBrasil2026 #EleicoesBRASIL2026 #brazilelections2026 #Politica",
+      "created_at": "2026-10-26T02:18:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T01:28:10-03:00",
+      "permalink": "https://nitter.meowing.monster/mr_vpsantos/status/2114542190315679943#m",
+      "metrics": {
+        "like_count": 53,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#EleccionesBrasil2026",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114542190315679943",
+        "text": "Nunca vi tanta gente com a camiseta da Seleção Brasileira na minha vida! Deu impressão que o Brasil estava na final da Copa do Mundo!\n#EleccionesBrasil2026 #EleicoesBRASIL2026 #brazilelections2026 #Politica",
+        "author_username": "mr_vpsantos",
+        "author_name": "mr_vpsantos",
+        "created_at": "2026-10-26T02:18:00+00:00",
+        "permalink": "https://nitter.meowing.monster/mr_vpsantos/status/2114542190315679943#m",
+        "metrics": {
+          "like_count": 53,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 206,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114539471542616373",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114539471542616373",
+      "parent_post_id": null,
+      "thread_root_id": "2114539471542616373",
+      "author": {
+        "platform_id": null,
+        "display_name": "ovulgooficial",
+        "username": "ovulgooficial",
+        "profile_url": "https://x.com/ovulgooficial"
+      },
+      "text": "REGISTROS HISTÓRICOS DE 2° TURNO DA ELEIÇÃO BRASILEIRA 2026!\n\n#EleccionesBrasil2026 #Eleições2026 #Lula13 #ExércitodoLula #LulaPresidente",
+      "created_at": "2026-10-26T02:07:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T01:28:10-03:00",
+      "permalink": "https://nitter.meowing.monster/ovulgooficial/status/2114539471542616373#m",
+      "metrics": {
+        "like_count": 215,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#EleccionesBrasil2026",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114539471542616373",
+        "text": "REGISTROS HISTÓRICOS DE 2° TURNO DA ELEIÇÃO BRASILEIRA 2026!\n\n#EleccionesBrasil2026 #Eleições2026 #Lula13 #ExércitodoLula #LulaPresidente",
+        "author_username": "ovulgooficial",
+        "author_name": "ovulgooficial",
+        "created_at": "2026-10-26T02:07:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ovulgooficial/status/2114539471542616373#m",
+        "metrics": {
+          "like_count": 215,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 137,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114530310138323214",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114530310138323214",
+      "parent_post_id": null,
+      "thread_root_id": "2114530310138323214",
+      "author": {
+        "platform_id": null,
+        "display_name": "moneyismylovee",
+        "username": "moneyismylovee",
+        "profile_url": "https://x.com/moneyismylovee"
+      },
+      "text": "nem o pai, muito menos o filho\n\n#LulaPelaDemocracia \n#EleccionesBrasil2026",
+      "created_at": "2026-10-26T01:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T01:28:10-03:00",
+      "permalink": "https://nitter.meowing.monster/moneyismylovee/status/2114530310138323214#m",
+      "metrics": {
+        "like_count": 99,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 3
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#EleccionesBrasil2026",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114530310138323214",
+        "text": "nem o pai, muito menos o filho\n\n#LulaPelaDemocracia \n#EleccionesBrasil2026",
+        "author_username": "moneyismylovee",
+        "author_name": "moneyismylovee",
+        "created_at": "2026-10-26T01:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/moneyismylovee/status/2114530310138323214#m",
+        "metrics": {
+          "like_count": 99,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      },
+      "normalized": {
+        "text_length": 74,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114521274173047181",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114521274173047181",
+      "parent_post_id": null,
+      "thread_root_id": "2114521274173047181",
+      "author": {
+        "platform_id": null,
+        "display_name": "r_de_beto",
+        "username": "r_de_beto",
+        "profile_url": "https://x.com/r_de_beto"
+      },
+      "text": "Lula reeleito ❤️ \n#EleccionesBrasil2026",
+      "created_at": "2026-10-26T00:55:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T01:28:10-03:00",
+      "permalink": "https://nitter.meowing.monster/r_de_beto/status/2114521274173047181#m",
+      "metrics": {
+        "like_count": 86,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#EleccionesBrasil2026",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114521274173047181",
+        "text": "Lula reeleito ❤️ \n#EleccionesBrasil2026",
+        "author_username": "r_de_beto",
+        "author_name": "r_de_beto",
+        "created_at": "2026-10-26T00:55:00+00:00",
+        "permalink": "https://nitter.meowing.monster/r_de_beto/status/2114521274173047181#m",
+        "metrics": {
+          "like_count": 86,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 39,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114520162414071822",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114520162414071822",
+      "parent_post_id": null,
+      "thread_root_id": "2114520162414071822",
+      "author": {
+        "platform_id": null,
+        "display_name": "r_de_beto",
+        "username": "r_de_beto",
+        "profile_url": "https://x.com/r_de_beto"
+      },
+      "text": "Lula reeleito ❤️ \n#EleccionesBrasil2026",
+      "created_at": "2026-10-26T00:51:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T01:28:10-03:00",
+      "permalink": "https://nitter.meowing.monster/r_de_beto/status/2114520162414071822#m",
+      "metrics": {
+        "like_count": 68,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#EleccionesBrasil2026",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114520162414071822",
+        "text": "Lula reeleito ❤️ \n#EleccionesBrasil2026",
+        "author_username": "r_de_beto",
+        "author_name": "r_de_beto",
+        "created_at": "2026-10-26T00:51:00+00:00",
+        "permalink": "https://nitter.meowing.monster/r_de_beto/status/2114520162414071822#m",
+        "metrics": {
+          "like_count": 68,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 39,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
