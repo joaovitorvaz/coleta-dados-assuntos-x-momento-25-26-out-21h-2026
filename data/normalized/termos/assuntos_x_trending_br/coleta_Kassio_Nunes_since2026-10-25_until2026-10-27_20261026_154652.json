@@ -1,0 +1,951 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Kassio Nunes",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+    "collected_at": "2026-10-26T15:46:52-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 13,
+      "comments": 1,
+      "records_total": 14,
+      "skipped_duplicate": 28
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114749396675916159",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114749396675916159",
+      "parent_post_id": null,
+      "thread_root_id": "2114749396675916159",
+      "author": {
+        "platform_id": null,
+        "display_name": "Luli475877",
+        "username": "Luli475877",
+        "profile_url": "https://x.com/Luli475877"
+      },
+      "text": "Pergunta lá pro Kassio Nunes",
+      "created_at": "2026-10-26T16:02:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:46:52-03:00",
+      "permalink": "https://nitter.meowing.monster/Luli475877/status/2114749396675916159#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Kassio Nunes",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114749396675916159",
+        "text": "Pergunta lá pro Kassio Nunes",
+        "author_username": "Luli475877",
+        "author_name": "Luli475877",
+        "created_at": "2026-10-26T16:02:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Luli475877/status/2114749396675916159#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 28,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114701228374479027",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114701228374479027",
+      "parent_post_id": null,
+      "thread_root_id": "2114701228374479027",
+      "author": {
+        "platform_id": null,
+        "display_name": "Edisioferreira2",
+        "username": "Edisioferreira2",
+        "profile_url": "https://x.com/Edisioferreira2"
+      },
+      "text": "Dessa vez sim ea culpa e do bolsonaro por ter indicado kassio Nunes que ele dizia seu terrivelmente evangélico mostra uma face obscura",
+      "created_at": "2026-10-26T12:50:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:46:52-03:00",
+      "permalink": "https://nitter.meowing.monster/Edisioferreira2/status/2114701228374479027#m",
+      "metrics": {
+        "like_count": 9,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Kassio Nunes",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114701228374479027",
+        "text": "Dessa vez sim ea culpa e do bolsonaro por ter indicado kassio Nunes que ele dizia seu terrivelmente evangélico mostra uma face obscura",
+        "author_username": "Edisioferreira2",
+        "author_name": "Edisioferreira2",
+        "created_at": "2026-10-26T12:50:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Edisioferreira2/status/2114701228374479027#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 134,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114699505635356900",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114699505635356900",
+      "parent_post_id": null,
+      "thread_root_id": "2114699505635356900",
+      "author": {
+        "platform_id": null,
+        "display_name": "Edisioferreira2",
+        "username": "Edisioferreira2",
+        "profile_url": "https://x.com/Edisioferreira2"
+      },
+      "text": "Pior que atropelar as regras do TSE foi a passividade a conivência coluio do kássio Nunes",
+      "created_at": "2026-10-26T12:43:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:46:52-03:00",
+      "permalink": "https://nitter.meowing.monster/Edisioferreira2/status/2114699505635356900#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Kassio Nunes",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114699505635356900",
+        "text": "Pior que atropelar as regras do TSE foi a passividade a conivência coluio do kássio Nunes",
+        "author_username": "Edisioferreira2",
+        "author_name": "Edisioferreira2",
+        "created_at": "2026-10-26T12:43:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Edisioferreira2/status/2114699505635356900#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 89,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114689147097026955",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114689147097026955",
+      "parent_post_id": null,
+      "thread_root_id": "2114689147097026955",
+      "author": {
+        "platform_id": null,
+        "display_name": "vozdassombrass",
+        "username": "vozdassombrass",
+        "profile_url": "https://x.com/vozdassombrass"
+      },
+      "text": "Bom dia! Vencemos uma G U E R R A!\n\nAGORA exigimos a punição da META, do Kassio Nunes, das empresas que boicotaram o transporte, dos políticos que tentaram impedir a votação. @LulaOficial TRAIDOR DA PÁTRIA não é \"oposição\"! Deixar correr solto nos trouxe até aqui. Não dá mais!",
+      "created_at": "2026-10-26T12:02:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:46:52-03:00",
+      "permalink": "https://nitter.meowing.monster/vozdassombrass/status/2114689147097026955#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 3,
+        "retweet_count": 46,
+        "quote_count": 197
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Kassio Nunes",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114689147097026955",
+        "text": "Bom dia! Vencemos uma G U E R R A!\n\nAGORA exigimos a punição da META, do Kassio Nunes, das empresas que boicotaram o transporte, dos políticos que tentaram impedir a votação. @LulaOficial TRAIDOR DA PÁTRIA não é \"oposição\"! Deixar correr solto nos trouxe até aqui. Não dá mais!",
+        "author_username": "vozdassombrass",
+        "author_name": "vozdassombrass",
+        "created_at": "2026-10-26T12:02:00+00:00",
+        "permalink": "https://nitter.meowing.monster/vozdassombrass/status/2114689147097026955#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 3,
+          "retweet_count": 46,
+          "quote_count": 197
+        }
+      },
+      "normalized": {
+        "text_length": 277,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114670808962355230",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114670808962355230",
+      "parent_post_id": null,
+      "thread_root_id": "2114670808962355230",
+      "author": {
+        "platform_id": null,
+        "display_name": "vs06",
+        "username": "vs06",
+        "profile_url": "https://x.com/vs06"
+      },
+      "text": "Você consegue imaginar o que seriam 30 anos de Suprema Corte quase totalmente indicada pelo Bolsonarismo com o apoio irrestrito do Senado?\nVeja o que Kassio Nunes fez, é só uma amostra do que seria.",
+      "created_at": "2026-10-26T10:49:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:46:52-03:00",
+      "permalink": "https://nitter.meowing.monster/vs06/status/2114670808962355230#m",
+      "metrics": {
+        "like_count": 26,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Kassio Nunes",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114670808962355230",
+        "text": "Você consegue imaginar o que seriam 30 anos de Suprema Corte quase totalmente indicada pelo Bolsonarismo com o apoio irrestrito do Senado?\nVeja o que Kassio Nunes fez, é só uma amostra do que seria.",
+        "author_username": "vs06",
+        "author_name": "vs06",
+        "created_at": "2026-10-26T10:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/vs06/status/2114670808962355230#m",
+        "metrics": {
+          "like_count": 26,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 198,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114670150137811057",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114670150137811057",
+      "parent_post_id": null,
+      "thread_root_id": "2114670150137811057",
+      "author": {
+        "platform_id": null,
+        "display_name": "helio_dos8157",
+        "username": "helio_dos8157",
+        "profile_url": "https://x.com/helio_dos8157"
+      },
+      "text": "FOMOS ROUBADOS NOVAMENTE, STF REDUTO DE BANDIDOS DECIDINDO A ELEIÇÃO PASSANDO POR CIMA DO TSE, KASSIO NUNES COVARDE. \n\nANULA A ELEIÇÃO KASSIO NUNES CANALHA \nANULA A ELEIÇÃO KASSIO",
+      "created_at": "2026-10-26T10:47:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:46:52-03:00",
+      "permalink": "https://nitter.meowing.monster/helio_dos8157/status/2114670150137811057#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Kassio Nunes",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114670150137811057",
+        "text": "FOMOS ROUBADOS NOVAMENTE, STF REDUTO DE BANDIDOS DECIDINDO A ELEIÇÃO PASSANDO POR CIMA DO TSE, KASSIO NUNES COVARDE. \n\nANULA A ELEIÇÃO KASSIO NUNES CANALHA \nANULA A ELEIÇÃO KASSIO",
+        "author_username": "helio_dos8157",
+        "author_name": "helio_dos8157",
+        "created_at": "2026-10-26T10:47:00+00:00",
+        "permalink": "https://nitter.meowing.monster/helio_dos8157/status/2114670150137811057#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 179,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114669896608993312",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114669896608993312",
+      "parent_post_id": null,
+      "thread_root_id": "2114669896608993312",
+      "author": {
+        "platform_id": null,
+        "display_name": "helio_dos8157",
+        "username": "helio_dos8157",
+        "profile_url": "https://x.com/helio_dos8157"
+      },
+      "text": "FOMOS ROUBADOS NOVAMENTE, STF REDUTO DE BANDIDOS DECIDINDO A ELEIÇÃO PASSANDO POR CIMA DO TSE, KASSIO NUNES COVARDE. \n\nANULA A ELEIÇÃO KASSIO NUNES CANALHA \nANULA A ELEIÇÃO KASSIO",
+      "created_at": "2026-10-26T10:46:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:46:52-03:00",
+      "permalink": "https://nitter.meowing.monster/helio_dos8157/status/2114669896608993312#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Kassio Nunes",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114669896608993312",
+        "text": "FOMOS ROUBADOS NOVAMENTE, STF REDUTO DE BANDIDOS DECIDINDO A ELEIÇÃO PASSANDO POR CIMA DO TSE, KASSIO NUNES COVARDE. \n\nANULA A ELEIÇÃO KASSIO NUNES CANALHA \nANULA A ELEIÇÃO KASSIO",
+        "author_username": "helio_dos8157",
+        "author_name": "helio_dos8157",
+        "created_at": "2026-10-26T10:46:00+00:00",
+        "permalink": "https://nitter.meowing.monster/helio_dos8157/status/2114669896608993312#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 179,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114669832419360968",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114669832419360968",
+      "parent_post_id": null,
+      "thread_root_id": "2114669832419360968",
+      "author": {
+        "platform_id": null,
+        "display_name": "helio_dos8157",
+        "username": "helio_dos8157",
+        "profile_url": "https://x.com/helio_dos8157"
+      },
+      "text": "FOMOS ROUBADOS NOVAMENTE, STF REDUTO DE BANDIDOS DECIDINDO A ELEIÇÃO PASSANDO POR CIMA DO TSE, KASSIO NUNES COVARDE. \n\nANULA A ELEIÇÃO KASSIO NUNES CANALHA \nANULA A ELEIÇÃO KASSIO",
+      "created_at": "2026-10-26T10:45:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:46:52-03:00",
+      "permalink": "https://nitter.meowing.monster/helio_dos8157/status/2114669832419360968#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Kassio Nunes",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114669832419360968",
+        "text": "FOMOS ROUBADOS NOVAMENTE, STF REDUTO DE BANDIDOS DECIDINDO A ELEIÇÃO PASSANDO POR CIMA DO TSE, KASSIO NUNES COVARDE. \n\nANULA A ELEIÇÃO KASSIO NUNES CANALHA \nANULA A ELEIÇÃO KASSIO",
+        "author_username": "helio_dos8157",
+        "author_name": "helio_dos8157",
+        "created_at": "2026-10-26T10:45:00+00:00",
+        "permalink": "https://nitter.meowing.monster/helio_dos8157/status/2114669832419360968#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 179,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114669398162108446",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114669398162108446",
+      "parent_post_id": null,
+      "thread_root_id": "2114669398162108446",
+      "author": {
+        "platform_id": null,
+        "display_name": "helio_dos8157",
+        "username": "helio_dos8157",
+        "profile_url": "https://x.com/helio_dos8157"
+      },
+      "text": "FOMOS ROUBADOS NOVAMENTE, STF REDUTO DE BANDIDOS DECIDINDO A ELEIÇÃO PASSANDO POR CIMA DO TSE, KASSIO NUNES COVARDE. \n\nANULA A ELEIÇÃO KASSIO NUNES CANALHA \nANULA A ELEIÇÃO KASSIO",
+      "created_at": "2026-10-26T10:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:46:52-03:00",
+      "permalink": "https://nitter.meowing.monster/helio_dos8157/status/2114669398162108446#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Kassio Nunes",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114669398162108446",
+        "text": "FOMOS ROUBADOS NOVAMENTE, STF REDUTO DE BANDIDOS DECIDINDO A ELEIÇÃO PASSANDO POR CIMA DO TSE, KASSIO NUNES COVARDE. \n\nANULA A ELEIÇÃO KASSIO NUNES CANALHA \nANULA A ELEIÇÃO KASSIO",
+        "author_username": "helio_dos8157",
+        "author_name": "helio_dos8157",
+        "created_at": "2026-10-26T10:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/helio_dos8157/status/2114669398162108446#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 179,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114669306818503040",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114669306818503040",
+      "parent_post_id": null,
+      "thread_root_id": "2114669306818503040",
+      "author": {
+        "platform_id": null,
+        "display_name": "helio_dos8157",
+        "username": "helio_dos8157",
+        "profile_url": "https://x.com/helio_dos8157"
+      },
+      "text": "FOMOS ROUBADOS NOVAMENTE, STF REDUTO DE BANDIDOS DECIDINDO A ELEIÇÃO PASSANDO POR CIMA DO TSE, KASSIO NUNES COVARDE. \n\nANULA A ELEIÇÃO KASSIO NUNES CANALHA \nANULA A ELEIÇÃO KASSIO NUNES CANALHA",
+      "created_at": "2026-10-26T10:43:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:46:52-03:00",
+      "permalink": "https://nitter.meowing.monster/helio_dos8157/status/2114669306818503040#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Kassio Nunes",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114669306818503040",
+        "text": "FOMOS ROUBADOS NOVAMENTE, STF REDUTO DE BANDIDOS DECIDINDO A ELEIÇÃO PASSANDO POR CIMA DO TSE, KASSIO NUNES COVARDE. \n\nANULA A ELEIÇÃO KASSIO NUNES CANALHA \nANULA A ELEIÇÃO KASSIO NUNES CANALHA",
+        "author_username": "helio_dos8157",
+        "author_name": "helio_dos8157",
+        "created_at": "2026-10-26T10:43:00+00:00",
+        "permalink": "https://nitter.meowing.monster/helio_dos8157/status/2114669306818503040#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 193,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114663397350347040",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114663397350347040",
+      "parent_post_id": null,
+      "thread_root_id": "2114663397350347040",
+      "author": {
+        "platform_id": null,
+        "display_name": "TeresaF44143318",
+        "username": "TeresaF44143318",
+        "profile_url": "https://x.com/TeresaF44143318"
+      },
+      "text": "KASSIO NUNES AJUDOU POUBCO .KKKKKKKKKK",
+      "created_at": "2026-10-26T10:20:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:46:52-03:00",
+      "permalink": "https://nitter.meowing.monster/TeresaF44143318/status/2114663397350347040#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Kassio Nunes",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114663397350347040",
+        "text": "KASSIO NUNES AJUDOU POUBCO .KKKKKKKKKK",
+        "author_username": "TeresaF44143318",
+        "author_name": "TeresaF44143318",
+        "created_at": "2026-10-26T10:20:00+00:00",
+        "permalink": "https://nitter.meowing.monster/TeresaF44143318/status/2114663397350347040#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 38,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114642056811335785",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114642056811335785",
+      "parent_post_id": null,
+      "thread_root_id": "2114642056811335785",
+      "author": {
+        "platform_id": null,
+        "display_name": "sra_fabicha",
+        "username": "sra_fabicha",
+        "profile_url": "https://x.com/sra_fabicha"
+      },
+      "text": "E o Kassio Nunes fez oq??",
+      "created_at": "2026-10-26T08:55:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:46:52-03:00",
+      "permalink": "https://nitter.meowing.monster/sra_fabicha/status/2114642056811335785#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Kassio Nunes",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114642056811335785",
+        "text": "E o Kassio Nunes fez oq??",
+        "author_username": "sra_fabicha",
+        "author_name": "sra_fabicha",
+        "created_at": "2026-10-26T08:55:00+00:00",
+        "permalink": "https://nitter.meowing.monster/sra_fabicha/status/2114642056811335785#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 25,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114787135454896306",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114787135454896306",
+      "parent_post_id": null,
+      "thread_root_id": "2114787135454896306",
+      "author": {
+        "platform_id": null,
+        "display_name": "RivanySantos3",
+        "username": "RivanySantos3",
+        "profile_url": "https://x.com/RivanySantos3"
+      },
+      "text": "CANCELAR AS ELEIÇÕES  NA CARA DURAAAAAA KÁSSIO NUNES",
+      "created_at": "2026-10-26T18:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:46:52-03:00",
+      "permalink": "https://nitter.meowing.monster/RivanySantos3/status/2114787135454896306#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Kassio Nunes",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114787135454896306",
+        "text": "CANCELAR AS ELEIÇÕES  NA CARA DURAAAAAA KÁSSIO NUNES",
+        "author_username": "RivanySantos3",
+        "author_name": "RivanySantos3",
+        "created_at": "2026-10-26T18:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RivanySantos3/status/2114787135454896306#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 52,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114762153915769102",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114762153915769102",
+      "post_id": "2114689147097026955",
+      "parent_comment_id": "2114689147097026955",
+      "thread_root_id": "2114689147097026955",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "michelmir82",
+        "username": "michelmir82",
+        "profile_url": null
+      },
+      "text": "PF tem o dever de investigar os marginais que foram responsáveis por toda a tentativa de fraudar as eleições em coluio com o Nunes Marques e o André Mendonça. Não se deve deixar tudo isso que aconteceu ser varrido pra debaixo do tapete.",
+      "created_at": "2026-10-26T16:52:00+00:00",
+      "collected_at": "2026-10-26T15:46:52-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/michelmir82/status/2114762153915769102#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Kassio Nunes",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114762153915769102",
+        "text": "PF tem o dever de investigar os marginais que foram responsáveis por toda a tentativa de fraudar as eleições em coluio com o Nunes Marques e o André Mendonça. Não se deve deixar tudo isso que aconteceu ser varrido pra debaixo do tapete.",
+        "author_username": "michelmir82",
+        "author_name": "michelmir82",
+        "created_at": "2026-10-26T16:52:00+00:00",
+        "permalink": "https://nitter.meowing.monster/michelmir82/status/2114762153915769102#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114689147097026955",
+        "parent_comment_id": "2114689147097026955",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 236,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
