@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Amazonas",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+    "collected_at": "2026-10-26T08:18:05-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 0
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114604776478425469",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114604776478425469",
+      "parent_post_id": null,
+      "thread_root_id": "2114604776478425469",
+      "author": {
+        "platform_id": null,
+        "display_name": "CYSMOR",
+        "username": "CYSMOR",
+        "profile_url": "https://x.com/CYSMOR"
+      },
+      "text": "Em qual estado vocês votaram no Lula?⭐️🇧🇷\n\neu: Amazonas",
+      "created_at": "2026-10-26T06:27:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T08:18:05-03:00",
+      "permalink": "https://nitter.netbub.com/CYSMOR/status/2114604776478425469#m",
+      "metrics": {
+        "like_count": 21,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Amazonas",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114604776478425469",
+        "text": "Em qual estado vocês votaram no Lula?⭐️🇧🇷\n\neu: Amazonas",
+        "author_username": "CYSMOR",
+        "author_name": "CYSMOR",
+        "created_at": "2026-10-26T06:27:00+00:00",
+        "permalink": "https://nitter.netbub.com/CYSMOR/status/2114604776478425469#m",
+        "metrics": {
+          "like_count": 21,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 55,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114538887909441978",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114538887909441978",
+      "parent_post_id": null,
+      "thread_root_id": "2114538887909441978",
+      "author": {
+        "platform_id": null,
+        "display_name": "PontimDeorides",
+        "username": "PontimDeorides",
+        "profile_url": "https://x.com/PontimDeorides"
+      },
+      "text": "Parabéns Senador, agora Governador que vai cuidar do Amazonas, do Brasil e do mundo.",
+      "created_at": "2026-10-26T02:05:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T08:18:05-03:00",
+      "permalink": "https://nitter.netbub.com/PontimDeorides/status/2114538887909441978#m",
+      "metrics": {
+        "like_count": 76,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Amazonas",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114538887909441978",
+        "text": "Parabéns Senador, agora Governador que vai cuidar do Amazonas, do Brasil e do mundo.",
+        "author_username": "PontimDeorides",
+        "author_name": "PontimDeorides",
+        "created_at": "2026-10-26T02:05:00+00:00",
+        "permalink": "https://nitter.netbub.com/PontimDeorides/status/2114538887909441978#m",
+        "metrics": {
+          "like_count": 76,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 84,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
