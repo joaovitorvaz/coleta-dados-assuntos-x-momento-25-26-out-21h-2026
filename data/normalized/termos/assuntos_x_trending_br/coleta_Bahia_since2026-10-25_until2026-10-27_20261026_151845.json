@@ -1,0 +1,2016 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Bahia",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+    "collected_at": "2026-10-26T15:18:45-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 27,
+      "comments": 3,
+      "records_total": 30,
+      "skipped_duplicate": 49
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114776229622771769",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114776229622771769",
+      "parent_post_id": null,
+      "thread_root_id": "2114776229622771769",
+      "author": {
+        "platform_id": null,
+        "display_name": "Fernand65622019",
+        "username": "Fernand65622019",
+        "profile_url": "https://x.com/Fernand65622019"
+      },
+      "text": "Orgulho desse Clube, dessa Instituição 💙❤️🤍 BBMP \n\nO Bahia merece respeito",
+      "created_at": "2026-10-26T17:48:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/Fernand65622019/status/2114776229622771769#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114776229622771769",
+        "text": "Orgulho desse Clube, dessa Instituição 💙❤️🤍 BBMP \n\nO Bahia merece respeito",
+        "author_username": "Fernand65622019",
+        "author_name": "Fernand65622019",
+        "created_at": "2026-10-26T17:48:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fernand65622019/status/2114776229622771769#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 74,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114775727039979947",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114775727039979947",
+      "parent_post_id": null,
+      "thread_root_id": "2114775727039979947",
+      "author": {
+        "platform_id": null,
+        "display_name": "Teo1650604",
+        "username": "Teo1650604",
+        "profile_url": "https://x.com/Teo1650604"
+      },
+      "text": "Parabéns ao povo da Bahia!\nParabéns ao povo do Nordeste!\nE gratidão a Daniela pelo engajamento, liderança da classe artística da Bahia junto com a ministra Margareth, Veveta, Gil, Betânia, Caetano e outros tantos artistas da Bahia!",
+      "created_at": "2026-10-26T17:46:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/Teo1650604/status/2114775727039979947#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114775727039979947",
+        "text": "Parabéns ao povo da Bahia!\nParabéns ao povo do Nordeste!\nE gratidão a Daniela pelo engajamento, liderança da classe artística da Bahia junto com a ministra Margareth, Veveta, Gil, Betânia, Caetano e outros tantos artistas da Bahia!",
+        "author_username": "Teo1650604",
+        "author_name": "Teo1650604",
+        "created_at": "2026-10-26T17:46:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Teo1650604/status/2114775727039979947#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 231,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114773919320129812",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114773919320129812",
+      "parent_post_id": null,
+      "thread_root_id": "2114773919320129812",
+      "author": {
+        "platform_id": null,
+        "display_name": "de_victor2360",
+        "username": "de_victor2360",
+        "profile_url": "https://x.com/de_victor2360"
+      },
+      "text": "Por isso vcs são burros, aqui na Bahia é a coisa mais comum o cara votar no Acm neto, pra governador, Lula pra presidente, senador do PL, dep Federal do PP e estadual no PSB.\n\nOs próprios partidos possuem composições nacionais bem diferente das estaduais e municipais.",
+      "created_at": "2026-10-26T17:39:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/de_victor2360/status/2114773919320129812#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 2,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114773919320129812",
+        "text": "Por isso vcs são burros, aqui na Bahia é a coisa mais comum o cara votar no Acm neto, pra governador, Lula pra presidente, senador do PL, dep Federal do PP e estadual no PSB.\n\nOs próprios partidos possuem composições nacionais bem diferente das estaduais e municipais.",
+        "author_username": "de_victor2360",
+        "author_name": "de_victor2360",
+        "created_at": "2026-10-26T17:39:00+00:00",
+        "permalink": "https://nitter.meowing.monster/de_victor2360/status/2114773919320129812#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 2,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 268,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114765765740040614",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114765765740040614",
+      "parent_post_id": null,
+      "thread_root_id": "2114765765740040614",
+      "author": {
+        "platform_id": null,
+        "display_name": "toniribas74",
+        "username": "toniribas74",
+        "profile_url": "https://x.com/toniribas74"
+      },
+      "text": "Sim, \nTem que deixar nordeste, Bahia se fuder",
+      "created_at": "2026-10-26T17:07:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/toniribas74/status/2114765765740040614#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114765765740040614",
+        "text": "Sim, \nTem que deixar nordeste, Bahia se fuder",
+        "author_username": "toniribas74",
+        "author_name": "toniribas74",
+        "created_at": "2026-10-26T17:07:00+00:00",
+        "permalink": "https://nitter.meowing.monster/toniribas74/status/2114765765740040614#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 45,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114760708017565855",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114760708017565855",
+      "parent_post_id": null,
+      "thread_root_id": "2114760708017565855",
+      "author": {
+        "platform_id": null,
+        "display_name": "minatriz_",
+        "username": "minatriz_",
+        "profile_url": "https://x.com/minatriz_"
+      },
+      "text": "É a Bahia, porra!!! 🔥🔥",
+      "created_at": "2026-10-26T16:46:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/minatriz_/status/2114760708017565855#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114760708017565855",
+        "text": "É a Bahia, porra!!! 🔥🔥",
+        "author_username": "minatriz_",
+        "author_name": "minatriz_",
+        "created_at": "2026-10-26T16:46:00+00:00",
+        "permalink": "https://nitter.meowing.monster/minatriz_/status/2114760708017565855#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 22,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114760693228691854",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114760693228691854",
+      "parent_post_id": null,
+      "thread_root_id": "2114760693228691854",
+      "author": {
+        "platform_id": null,
+        "display_name": "ms_ms04",
+        "username": "ms_ms04",
+        "profile_url": "https://x.com/ms_ms04"
+      },
+      "text": "A falcatrua deles não deu certo \nÉ A BAHIA PORRAAAA ⭐❤️⭐❤️⭐❤️",
+      "created_at": "2026-10-26T16:46:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/ms_ms04/status/2114760693228691854#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114760693228691854",
+        "text": "A falcatrua deles não deu certo \nÉ A BAHIA PORRAAAA ⭐❤️⭐❤️⭐❤️",
+        "author_username": "ms_ms04",
+        "author_name": "ms_ms04",
+        "created_at": "2026-10-26T16:46:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ms_ms04/status/2114760693228691854#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 61,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114756938386854038",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114756938386854038",
+      "parent_post_id": null,
+      "thread_root_id": "2114756938386854038",
+      "author": {
+        "platform_id": null,
+        "display_name": "ngelaMariaDiLo1",
+        "username": "ngelaMariaDiLo1",
+        "profile_url": "https://x.com/ngelaMariaDiLo1"
+      },
+      "text": "NA BAHIA INCLUIRAM VOTOS ESCRITOS A MÃO,  MAIS DE DOIS MIL VOTOS",
+      "created_at": "2026-10-26T16:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/ngelaMariaDiLo1/status/2114756938386854038#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114756938386854038",
+        "text": "NA BAHIA INCLUIRAM VOTOS ESCRITOS A MÃO,  MAIS DE DOIS MIL VOTOS",
+        "author_username": "ngelaMariaDiLo1",
+        "author_name": "ngelaMariaDiLo1",
+        "created_at": "2026-10-26T16:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ngelaMariaDiLo1/status/2114756938386854038#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 64,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114756585511903471",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114756585511903471",
+      "parent_post_id": null,
+      "thread_root_id": "2114756585511903471",
+      "author": {
+        "platform_id": null,
+        "display_name": "marcosrosa7",
+        "username": "marcosrosa7",
+        "profile_url": "https://x.com/marcosrosa7"
+      },
+      "text": "O ponto não é esse. A questão é: se existe Estado, a função dele é, dentre outras, segurança e educação. A Bahia tem 5 das 10 cidades mais violentas do BR. Tem 1,1milhao de analfabetos, 50% não tem o Fundamental. E pasmem, 7/10 baianos disseram: tudo bem e foram as ruas comemorar",
+      "created_at": "2026-10-26T16:30:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/marcosrosa7/status/2114756585511903471#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114756585511903471",
+        "text": "O ponto não é esse. A questão é: se existe Estado, a função dele é, dentre outras, segurança e educação. A Bahia tem 5 das 10 cidades mais violentas do BR. Tem 1,1milhao de analfabetos, 50% não tem o Fundamental. E pasmem, 7/10 baianos disseram: tudo bem e foram as ruas comemorar",
+        "author_username": "marcosrosa7",
+        "author_name": "marcosrosa7",
+        "created_at": "2026-10-26T16:30:00+00:00",
+        "permalink": "https://nitter.meowing.monster/marcosrosa7/status/2114756585511903471#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 280,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114752571617276289",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114752571617276289",
+      "parent_post_id": null,
+      "thread_root_id": "2114752571617276289",
+      "author": {
+        "platform_id": null,
+        "display_name": "Andrew_Petter",
+        "username": "Andrew_Petter",
+        "profile_url": "https://x.com/Andrew_Petter"
+      },
+      "text": "A ELEIÇÃO FOI ROUBADA POR LULA, BAHIA e STF.",
+      "created_at": "2026-10-26T16:14:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/Andrew_Petter/status/2114752571617276289#m",
+      "metrics": {
+        "like_count": 18,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114752571617276289",
+        "text": "A ELEIÇÃO FOI ROUBADA POR LULA, BAHIA e STF.",
+        "author_username": "Andrew_Petter",
+        "author_name": "Andrew_Petter",
+        "created_at": "2026-10-26T16:14:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Andrew_Petter/status/2114752571617276289#m",
+        "metrics": {
+          "like_count": 18,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 44,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114750613305086061",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114750613305086061",
+      "parent_post_id": null,
+      "thread_root_id": "2114750613305086061",
+      "author": {
+        "platform_id": null,
+        "display_name": "bhtempoeclima",
+        "username": "bhtempoeclima",
+        "profile_url": "https://x.com/bhtempoeclima"
+      },
+      "text": "muitas nuvens, raios e chuvas em amplas áreas entre a Amazônia e o Nordeste brasileiro, particularmente o estado da Bahia.",
+      "created_at": "2026-10-26T16:06:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/bhtempoeclima/status/2114750613305086061#m",
+      "metrics": {
+        "like_count": 70,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114750613305086061",
+        "text": "muitas nuvens, raios e chuvas em amplas áreas entre a Amazônia e o Nordeste brasileiro, particularmente o estado da Bahia.",
+        "author_username": "bhtempoeclima",
+        "author_name": "bhtempoeclima",
+        "created_at": "2026-10-26T16:06:00+00:00",
+        "permalink": "https://nitter.meowing.monster/bhtempoeclima/status/2114750613305086061#m",
+        "metrics": {
+          "like_count": 70,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 122,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114741493537882603",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114741493537882603",
+      "parent_post_id": null,
+      "thread_root_id": "2114741493537882603",
+      "author": {
+        "platform_id": null,
+        "display_name": "sotero_paulista",
+        "username": "sotero_paulista",
+        "profile_url": "https://x.com/sotero_paulista"
+      },
+      "text": "dona da Bahia (depois de Bethânia)",
+      "created_at": "2026-10-26T15:30:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/sotero_paulista/status/2114741493537882603#m",
+      "metrics": {
+        "like_count": 16,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114741493537882603",
+        "text": "dona da Bahia (depois de Bethânia)",
+        "author_username": "sotero_paulista",
+        "author_name": "sotero_paulista",
+        "created_at": "2026-10-26T15:30:00+00:00",
+        "permalink": "https://nitter.meowing.monster/sotero_paulista/status/2114741493537882603#m",
+        "metrics": {
+          "like_count": 16,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 34,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114737044500996118",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114737044500996118",
+      "parent_post_id": null,
+      "thread_root_id": "2114737044500996118",
+      "author": {
+        "platform_id": null,
+        "display_name": "cjuniorfox",
+        "username": "cjuniorfox",
+        "profile_url": "https://x.com/cjuniorfox"
+      },
+      "text": "Uma amiga minha mora na Bahia e vota em Niterói. Ela pegou o avião e veio pro Rio pra votar! Professora, uma querida maravilhosa ela.",
+      "created_at": "2026-10-26T15:12:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/cjuniorfox/status/2114737044500996118#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114737044500996118",
+        "text": "Uma amiga minha mora na Bahia e vota em Niterói. Ela pegou o avião e veio pro Rio pra votar! Professora, uma querida maravilhosa ela.",
+        "author_username": "cjuniorfox",
+        "author_name": "cjuniorfox",
+        "created_at": "2026-10-26T15:12:00+00:00",
+        "permalink": "https://nitter.meowing.monster/cjuniorfox/status/2114737044500996118#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 133,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114736033321422849",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114736033321422849",
+      "parent_post_id": null,
+      "thread_root_id": "2114736033321422849",
+      "author": {
+        "platform_id": null,
+        "display_name": "ViNikima",
+        "username": "ViNikima",
+        "profile_url": "https://x.com/ViNikima"
+      },
+      "text": "O jornalismo da TV Bahia tentando dizer que a AGERBA também tem culpa no cartório por causa do caos do transporte público no dia de ontem. Me poupe!",
+      "created_at": "2026-10-26T15:08:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/ViNikima/status/2114736033321422849#m",
+      "metrics": {
+        "like_count": 75,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 4
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114736033321422849",
+        "text": "O jornalismo da TV Bahia tentando dizer que a AGERBA também tem culpa no cartório por causa do caos do transporte público no dia de ontem. Me poupe!",
+        "author_username": "ViNikima",
+        "author_name": "ViNikima",
+        "created_at": "2026-10-26T15:08:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ViNikima/status/2114736033321422849#m",
+        "metrics": {
+          "like_count": 75,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 4
+        }
+      },
+      "normalized": {
+        "text_length": 148,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114729459689373755",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114729459689373755",
+      "parent_post_id": null,
+      "thread_root_id": "2114729459689373755",
+      "author": {
+        "platform_id": null,
+        "display_name": "pythonegra",
+        "username": "pythonegra",
+        "profile_url": "https://x.com/pythonegra"
+      },
+      "text": "Não sei como tem gente sem apego ao místico. Eu vesti minha camisa da sorte do bahia e deu certo pra eleger um presidente",
+      "created_at": "2026-10-26T14:42:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/pythonegra/status/2114729459689373755#m",
+      "metrics": {
+        "like_count": 12,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114729459689373755",
+        "text": "Não sei como tem gente sem apego ao místico. Eu vesti minha camisa da sorte do bahia e deu certo pra eleger um presidente",
+        "author_username": "pythonegra",
+        "author_name": "pythonegra",
+        "created_at": "2026-10-26T14:42:00+00:00",
+        "permalink": "https://nitter.meowing.monster/pythonegra/status/2114729459689373755#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 121,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114726946286293411",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114726946286293411",
+      "parent_post_id": null,
+      "thread_root_id": "2114726946286293411",
+      "author": {
+        "platform_id": null,
+        "display_name": "Djavanluz5988",
+        "username": "Djavanluz5988",
+        "profile_url": "https://x.com/Djavanluz5988"
+      },
+      "text": "Temos a OBRIGAÇÃO de extirpar Bruno Reis e ACM Neto da política na Bahia. \nTemos que nos unir e eleger um candidato da esquerda aqui em Salvador. \nVamos acabar com a vida política deles.",
+      "created_at": "2026-10-26T14:32:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/Djavanluz5988/status/2114726946286293411#m",
+      "metrics": {
+        "like_count": 20,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114726946286293411",
+        "text": "Temos a OBRIGAÇÃO de extirpar Bruno Reis e ACM Neto da política na Bahia. \nTemos que nos unir e eleger um candidato da esquerda aqui em Salvador. \nVamos acabar com a vida política deles.",
+        "author_username": "Djavanluz5988",
+        "author_name": "Djavanluz5988",
+        "created_at": "2026-10-26T14:32:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Djavanluz5988/status/2114726946286293411#m",
+        "metrics": {
+          "like_count": 20,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 186,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114724356496499166",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114724356496499166",
+      "parent_post_id": null,
+      "thread_root_id": "2114724356496499166",
+      "author": {
+        "platform_id": null,
+        "display_name": "GambaroSantos",
+        "username": "GambaroSantos",
+        "profile_url": "https://x.com/GambaroSantos"
+      },
+      "text": "Pelo menos estou feliz pela minha terra, a Bahia o nordeste até que fim vai sair de vez da pobreza, depois de muitos anos de promessas, a Bahia o nordeste vai virar uma DUBAI !!! \n\nSEM POBREZA, SEM Miséria, SEM FILA DE OSSO, SEM PROBLEMAS NO SUS !!",
+      "created_at": "2026-10-26T14:22:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/GambaroSantos/status/2114724356496499166#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114724356496499166",
+        "text": "Pelo menos estou feliz pela minha terra, a Bahia o nordeste até que fim vai sair de vez da pobreza, depois de muitos anos de promessas, a Bahia o nordeste vai virar uma DUBAI !!! \n\nSEM POBREZA, SEM Miséria, SEM FILA DE OSSO, SEM PROBLEMAS NO SUS !!",
+        "author_username": "GambaroSantos",
+        "author_name": "GambaroSantos",
+        "created_at": "2026-10-26T14:22:00+00:00",
+        "permalink": "https://nitter.meowing.monster/GambaroSantos/status/2114724356496499166#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 248,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114718935287304285",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114718935287304285",
+      "parent_post_id": null,
+      "thread_root_id": "2114718935287304285",
+      "author": {
+        "platform_id": null,
+        "display_name": "AliciaFofuras",
+        "username": "AliciaFofuras",
+        "profile_url": "https://x.com/AliciaFofuras"
+      },
+      "text": "POVO BRASILEIRO SE QUEREMOS UM BRASIL DEMOCRATICO LEAL EDUCATIVO VAMOS ESQUECER A BAHIA NÃO VAI EM FERIAS OU PASSEIO NÃO COMPRE CARRO DA CHINESA BYD NÃO COMPRE PRODUTOS FEITOS OU FORNECIDOS PELA BAHIA OU FAZEMOS ISSO OU VAMOS TRABALHAR ELES SEM TRABALHAR E TOMAR SOL AGUA COCO",
+      "created_at": "2026-10-26T14:00:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/AliciaFofuras/status/2114718935287304285#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114718935287304285",
+        "text": "POVO BRASILEIRO SE QUEREMOS UM BRASIL DEMOCRATICO LEAL EDUCATIVO VAMOS ESQUECER A BAHIA NÃO VAI EM FERIAS OU PASSEIO NÃO COMPRE CARRO DA CHINESA BYD NÃO COMPRE PRODUTOS FEITOS OU FORNECIDOS PELA BAHIA OU FAZEMOS ISSO OU VAMOS TRABALHAR ELES SEM TRABALHAR E TOMAR SOL AGUA COCO",
+        "author_username": "AliciaFofuras",
+        "author_name": "AliciaFofuras",
+        "created_at": "2026-10-26T14:00:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AliciaFofuras/status/2114718935287304285#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 276,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114715280232399020",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114715280232399020",
+      "parent_post_id": null,
+      "thread_root_id": "2114715280232399020",
+      "author": {
+        "platform_id": null,
+        "display_name": "Luzo_junior",
+        "username": "Luzo_junior",
+        "profile_url": "https://x.com/Luzo_junior"
+      },
+      "text": "Imagina a tristeza do cara ter que pra uma praia e só tem praia  no sul pra ir. Olha, praia de verdade só a partir da Bahia. O resto é cosplay",
+      "created_at": "2026-10-26T13:46:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/Luzo_junior/status/2114715280232399020#m",
+      "metrics": {
+        "like_count": 563,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114715280232399020",
+        "text": "Imagina a tristeza do cara ter que pra uma praia e só tem praia  no sul pra ir. Olha, praia de verdade só a partir da Bahia. O resto é cosplay",
+        "author_username": "Luzo_junior",
+        "author_name": "Luzo_junior",
+        "created_at": "2026-10-26T13:46:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Luzo_junior/status/2114715280232399020#m",
+        "metrics": {
+          "like_count": 563,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 142,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114714538947887487",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114714538947887487",
+      "parent_post_id": null,
+      "thread_root_id": "2114714538947887487",
+      "author": {
+        "platform_id": null,
+        "display_name": "Xioinhell",
+        "username": "Xioinhell",
+        "profile_url": "https://x.com/Xioinhell"
+      },
+      "text": "Não sei, não moro na Bahia.",
+      "created_at": "2026-10-26T13:43:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/Xioinhell/status/2114714538947887487#m",
+      "metrics": {
+        "like_count": 19,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114714538947887487",
+        "text": "Não sei, não moro na Bahia.",
+        "author_username": "Xioinhell",
+        "author_name": "Xioinhell",
+        "created_at": "2026-10-26T13:43:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Xioinhell/status/2114714538947887487#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 27,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114713733905694756",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114713733905694756",
+      "parent_post_id": null,
+      "thread_root_id": "2114713733905694756",
+      "author": {
+        "platform_id": null,
+        "display_name": "m_dalexandria",
+        "username": "m_dalexandria",
+        "profile_url": "https://x.com/m_dalexandria"
+      },
+      "text": "ACM, o Neto! Que história cativante. Ele arrota arrogância, fala da Bahia como se fosse sua propriedade. Perdeu a eleição para governador em que concorrreu. Perdeu a eleição pra senador em que apoiou. E perdeu para presidência. Hora de pedir música no Correio. Que música combina?",
+      "created_at": "2026-10-26T13:40:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/m_dalexandria/status/2114713733905694756#m",
+      "metrics": {
+        "like_count": 34,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 3
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114713733905694756",
+        "text": "ACM, o Neto! Que história cativante. Ele arrota arrogância, fala da Bahia como se fosse sua propriedade. Perdeu a eleição para governador em que concorrreu. Perdeu a eleição pra senador em que apoiou. E perdeu para presidência. Hora de pedir música no Correio. Que música combina?",
+        "author_username": "m_dalexandria",
+        "author_name": "m_dalexandria",
+        "created_at": "2026-10-26T13:40:00+00:00",
+        "permalink": "https://nitter.meowing.monster/m_dalexandria/status/2114713733905694756#m",
+        "metrics": {
+          "like_count": 34,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      },
+      "normalized": {
+        "text_length": 280,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114710199051104717",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114710199051104717",
+      "parent_post_id": null,
+      "thread_root_id": "2114710199051104717",
+      "author": {
+        "platform_id": null,
+        "display_name": "AlanBergmanndj",
+        "username": "AlanBergmanndj",
+        "profile_url": "https://x.com/AlanBergmanndj"
+      },
+      "text": "Vamos Bahia, agiliza",
+      "created_at": "2026-10-26T13:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/AlanBergmanndj/status/2114710199051104717#m",
+      "metrics": {
+        "like_count": 18,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114710199051104717",
+        "text": "Vamos Bahia, agiliza",
+        "author_username": "AlanBergmanndj",
+        "author_name": "AlanBergmanndj",
+        "created_at": "2026-10-26T13:26:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AlanBergmanndj/status/2114710199051104717#m",
+        "metrics": {
+          "like_count": 18,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 20,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114709288161518012",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114709288161518012",
+      "parent_post_id": null,
+      "thread_root_id": "2114709288161518012",
+      "author": {
+        "platform_id": null,
+        "display_name": "065999036707cba",
+        "username": "065999036707cba",
+        "profile_url": "https://x.com/065999036707cba"
+      },
+      "text": "\"TEM CHEIRO DE RESULTADO CONTESTADO NA JUSTIÇA\":\nRenan Santos após ocorrências \neleitorais na Bahia",
+      "created_at": "2026-10-26T13:22:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/065999036707cba/status/2114709288161518012#m",
+      "metrics": {
+        "like_count": 322,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 3
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114709288161518012",
+        "text": "\"TEM CHEIRO DE RESULTADO CONTESTADO NA JUSTIÇA\":\nRenan Santos após ocorrências \neleitorais na Bahia",
+        "author_username": "065999036707cba",
+        "author_name": "065999036707cba",
+        "created_at": "2026-10-26T13:22:00+00:00",
+        "permalink": "https://nitter.meowing.monster/065999036707cba/status/2114709288161518012#m",
+        "metrics": {
+          "like_count": 322,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      },
+      "normalized": {
+        "text_length": 99,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114703038015217912",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114703038015217912",
+      "parent_post_id": null,
+      "thread_root_id": "2114703038015217912",
+      "author": {
+        "platform_id": null,
+        "display_name": "ElviaDeCas79661",
+        "username": "ElviaDeCas79661",
+        "profile_url": "https://x.com/ElviaDeCas79661"
+      },
+      "text": "O BRASIL,\nTAMBÉM A BAHIA, DA DÉCADA DE 60, ATÉ MEADOS DA DÉCADA DE 80,ERAM RICOS E DESENVOLVIDOS🇧🇷\nBASTOU ACABAR O REGIME MILITAR, EM 1985,\nE  ENTROU ESSA DEMOCRACIA NARRATIVA E PROMÍSCUAAAAAA \nDA ESQUERDA COMUNISTA PODRE, E DESTRUI TUDO QUE O BRASIL, TINHA DE ÓTIMO. \nVERGONHAAAA",
+      "created_at": "2026-10-26T12:57:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/ElviaDeCas79661/status/2114703038015217912#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114703038015217912",
+        "text": "O BRASIL,\nTAMBÉM A BAHIA, DA DÉCADA DE 60, ATÉ MEADOS DA DÉCADA DE 80,ERAM RICOS E DESENVOLVIDOS🇧🇷\nBASTOU ACABAR O REGIME MILITAR, EM 1985,\nE  ENTROU ESSA DEMOCRACIA NARRATIVA E PROMÍSCUAAAAAA \nDA ESQUERDA COMUNISTA PODRE, E DESTRUI TUDO QUE O BRASIL, TINHA DE ÓTIMO. \nVERGONHAAAA",
+        "author_username": "ElviaDeCas79661",
+        "author_name": "ElviaDeCas79661",
+        "created_at": "2026-10-26T12:57:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ElviaDeCas79661/status/2114703038015217912#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 280,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114684121507098822",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114684121507098822",
+      "parent_post_id": null,
+      "thread_root_id": "2114684121507098822",
+      "author": {
+        "platform_id": null,
+        "display_name": "Ricdultra",
+        "username": "Ricdultra",
+        "profile_url": "https://x.com/Ricdultra"
+      },
+      "text": "Aqui na Bahia, o povo atrás do reio Grita: Hei Bolsonaro vá tomar no cú!!",
+      "created_at": "2026-10-26T11:42:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/Ricdultra/status/2114684121507098822#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114684121507098822",
+        "text": "Aqui na Bahia, o povo atrás do reio Grita: Hei Bolsonaro vá tomar no cú!!",
+        "author_username": "Ricdultra",
+        "author_name": "Ricdultra",
+        "created_at": "2026-10-26T11:42:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Ricdultra/status/2114684121507098822#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 73,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114680090374074871",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114680090374074871",
+      "parent_post_id": null,
+      "thread_root_id": "2114680090374074871",
+      "author": {
+        "platform_id": null,
+        "display_name": "Sebito2010",
+        "username": "Sebito2010",
+        "profile_url": "https://x.com/Sebito2010"
+      },
+      "text": "Aqui como já é de praxe começo hoje a  planejar as férias na  Bahia para agradecer esse povo maravilhoso",
+      "created_at": "2026-10-26T11:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/Sebito2010/status/2114680090374074871#m",
+      "metrics": {
+        "like_count": 25,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 3
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114680090374074871",
+        "text": "Aqui como já é de praxe começo hoje a  planejar as férias na  Bahia para agradecer esse povo maravilhoso",
+        "author_username": "Sebito2010",
+        "author_name": "Sebito2010",
+        "created_at": "2026-10-26T11:26:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Sebito2010/status/2114680090374074871#m",
+        "metrics": {
+          "like_count": 25,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      },
+      "normalized": {
+        "text_length": 104,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114618250575118725",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114618250575118725",
+      "parent_post_id": null,
+      "thread_root_id": "2114618250575118725",
+      "author": {
+        "platform_id": null,
+        "display_name": "elderlazevedo",
+        "username": "elderlazevedo",
+        "profile_url": "https://x.com/elderlazevedo"
+      },
+      "text": "E pra Bahia.",
+      "created_at": "2026-10-26T07:20:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/elderlazevedo/status/2114618250575118725#m",
+      "metrics": {
+        "like_count": 148,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114618250575118725",
+        "text": "E pra Bahia.",
+        "author_username": "elderlazevedo",
+        "author_name": "elderlazevedo",
+        "created_at": "2026-10-26T07:20:00+00:00",
+        "permalink": "https://nitter.meowing.monster/elderlazevedo/status/2114618250575118725#m",
+        "metrics": {
+          "like_count": 148,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 12,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114617053600477260",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114617053600477260",
+      "parent_post_id": null,
+      "thread_root_id": "2114617053600477260",
+      "author": {
+        "platform_id": null,
+        "display_name": "vandofm39",
+        "username": "vandofm39",
+        "profile_url": "https://x.com/vandofm39"
+      },
+      "text": "ou idiota o bolsonaristas perdeu foi por muitos votos, F R B, se misturou com políticos fracassado na Bahia, o sec dos transportes públicos de ssa bahia , está escondido na casa de acn, dizendo que foi para paris. só q ver quando for se apresenta na polícia.",
+      "created_at": "2026-10-26T07:16:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "permalink": "https://nitter.meowing.monster/vandofm39/status/2114617053600477260#m",
+      "metrics": {
+        "like_count": 43,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114617053600477260",
+        "text": "ou idiota o bolsonaristas perdeu foi por muitos votos, F R B, se misturou com políticos fracassado na Bahia, o sec dos transportes públicos de ssa bahia , está escondido na casa de acn, dizendo que foi para paris. só q ver quando for se apresenta na polícia.",
+        "author_username": "vandofm39",
+        "author_name": "vandofm39",
+        "created_at": "2026-10-26T07:16:00+00:00",
+        "permalink": "https://nitter.meowing.monster/vandofm39/status/2114617053600477260#m",
+        "metrics": {
+          "like_count": 43,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 258,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114776685627179145",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114776685627179145",
+      "post_id": "2114773919320129812",
+      "parent_comment_id": "2114773919320129812",
+      "thread_root_id": "2114773919320129812",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "PauloJuca91",
+        "username": "PauloJuca91",
+        "profile_url": null
+      },
+      "text": "Então explica a esse burro aqui então, que esse tipo de escolha não tornam as coisas mais difíceis em pautas para serem definidas/resolvidas?  +",
+      "created_at": "2026-10-26T17:50:00+00:00",
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/PauloJuca91/status/2114776685627179145#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114776685627179145",
+        "text": "Então explica a esse burro aqui então, que esse tipo de escolha não tornam as coisas mais difíceis em pautas para serem definidas/resolvidas?  +",
+        "author_username": "PauloJuca91",
+        "author_name": "PauloJuca91",
+        "created_at": "2026-10-26T17:50:00+00:00",
+        "permalink": "https://nitter.meowing.monster/PauloJuca91/status/2114776685627179145#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114773919320129812",
+        "parent_comment_id": "2114773919320129812",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 144,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114699222440370540",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114699222440370540",
+      "post_id": "2114698209918374268",
+      "parent_comment_id": "2114698209918374268",
+      "thread_root_id": "2114698209918374268",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "fritazilian",
+        "username": "fritazilian",
+        "profile_url": null
+      },
+      "text": "Eu me sinto realmente muito mal pelos nordestinos, e principalmente baianos, que não são petistas. Que inferno ter o resto dos nordestinos como vizinhos",
+      "created_at": "2026-10-26T12:42:00+00:00",
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/fritazilian/status/2114699222440370540#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114699222440370540",
+        "text": "Eu me sinto realmente muito mal pelos nordestinos, e principalmente baianos, que não são petistas. Que inferno ter o resto dos nordestinos como vizinhos",
+        "author_username": "fritazilian",
+        "author_name": "fritazilian",
+        "created_at": "2026-10-26T12:42:00+00:00",
+        "permalink": "https://nitter.meowing.monster/fritazilian/status/2114699222440370540#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114698209918374268",
+        "parent_comment_id": "2114698209918374268",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 152,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114734544511267000",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114734544511267000",
+      "post_id": "2114684121507098822",
+      "parent_comment_id": "2114684121507098822",
+      "thread_root_id": "2114684121507098822",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "Fercarlula",
+        "username": "Fercarlula",
+        "profile_url": null
+      },
+      "text": "😅🇧🇷👏🏽✊🏽🎉🎉🎉🎉\nAmo a Bahia 😍",
+      "created_at": "2026-10-26T15:02:00+00:00",
+      "collected_at": "2026-10-26T15:18:45-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/Fercarlula/status/2114734544511267000#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114734544511267000",
+        "text": "😅🇧🇷👏🏽✊🏽🎉🎉🎉🎉\nAmo a Bahia 😍",
+        "author_username": "Fercarlula",
+        "author_name": "Fercarlula",
+        "created_at": "2026-10-26T15:02:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fercarlula/status/2114734544511267000#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114684121507098822",
+        "parent_comment_id": "2114684121507098822",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 25,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
