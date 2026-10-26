@@ -1,0 +1,1796 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Sudeste",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+    "collected_at": "2026-10-26T04:39:51-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 21,
+      "comments": 0,
+      "records_total": 21,
+      "skipped_duplicate": 15
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114611165124817302",
+            "text": "O povo brasileiro na sua maioria prefere viver no mundo de Nárnia, o nordeste por exemplo votou em maioria na esquerda mas quando quer emprego vai para o sul e sudeste para buscar uma vida melhor, isso é no mínimo contraditório!!!",
+            "author_username": "Cnc712",
+            "author_name": "Cnc712",
+            "created_at": "2026-10-26T06:52:00+00:00",
+            "permalink": "https://nitter.netbub.com/Cnc712/status/2114611165124817302#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114605187910259078",
+            "text": "eu sou o Nicolas Ferreira e vou criticar as vitacoes ate as 19 mas o fdp do Flávio bolsonaro n pediu a msm coisa pelas  horas no sudeste e Sul???? chora na minha pica seus arrombado",
+            "author_username": "dufarias0",
+            "author_name": "dufarias0",
+            "created_at": "2026-10-26T06:28:00+00:00",
+            "permalink": "https://nitter.netbub.com/dufarias0/status/2114605187910259078#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114600431129071949",
+            "text": "Juntaram Sul e Sudeste e deu 7 milhões. O Nordeste sozinho deu 13 milhões e ainda sobrou. ⭐ É a estrela que brilha, é o Nordeste que salva e carrega o Brasil nas costas. 🇧🇷 Respeita o Nordeste. #LulaReeleitoPresidentedoBrasil",
+            "author_username": "ceorihan",
+            "author_name": "ceorihan",
+            "created_at": "2026-10-26T06:10:00+00:00",
+            "permalink": "https://nitter.netbub.com/ceorihan/status/2114600431129071949#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114571999309693137",
+            "text": "Nordeste mal tem água, saneamento básico, não tem segurança e pelo jeito não tem nem inteligência. Tem mais é que viver na miséria mesmo.\n\nDepois vem pra sul e sudeste procurar oportunidade",
+            "author_username": "Filipe_Reis96",
+            "author_name": "Filipe_Reis96",
+            "created_at": "2026-10-26T04:17:00+00:00",
+            "permalink": "https://nitter.netbub.com/Filipe_Reis96/status/2114571999309693137#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114567427468021962",
+            "text": "Foi todo o Brasil que contribuiu. O Nordeste e o Sudeste em maior proporção  .",
+            "author_username": "Celoi28",
+            "author_name": "Celoi28",
+            "created_at": "2026-10-26T03:58:00+00:00",
+            "permalink": "https://nitter.netbub.com/Celoi28/status/2114567427468021962#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114567397419937887",
+            "text": "Entardecer com sol nuvens vento sudeste ja acalmando friozinho @Climaterra @ConexaoGeoClima @LeandroPuchalsk @metsul @Piter_Scheuer @Estaelsias",
+            "author_username": "ClimaArarangua",
+            "author_name": "ClimaArarangua",
+            "created_at": "2026-10-26T03:58:00+00:00",
+            "permalink": "https://nitter.netbub.com/ClimaArarangua/status/2114567397419937887#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114566631426814382",
+            "text": "14:35 Tarde com tempo fechado solzinho apareceu tímido ventinho sudeste fraco agradável 20°C @Climaterra @ConexaoGeoClima @LeandroPuchalsk @metsul @Piter_Scheuer @Estaelsias",
+            "author_username": "ClimaArarangua",
+            "author_name": "ClimaArarangua",
+            "created_at": "2026-10-26T03:55:00+00:00",
+            "permalink": "https://nitter.netbub.com/ClimaArarangua/status/2114566631426814382#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114565933704331291",
+            "text": "Nao \nO Brasil deu 5 % a menos no Sudeste Sul e CO",
+            "author_username": "bar212325",
+            "author_name": "bar212325",
+            "created_at": "2026-10-26T03:52:00+00:00",
+            "permalink": "https://nitter.netbub.com/bar212325/status/2114565933704331291#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114564024104853923",
+            "text": "PAU NO CU DO SUDESTE E DO SUL!!!",
+            "author_username": "malokero_loko",
+            "author_name": "malokero_loko",
+            "created_at": "2026-10-26T03:45:00+00:00",
+            "permalink": "https://nitter.netbub.com/malokero_loko/status/2114564024104853923#m",
+            "metrics": {
+              "like_count": 45,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114562131211305064",
+            "text": "O único no sudeste q o Lula venceu foi em MG",
+            "author_username": "Eduardo__Flu",
+            "author_name": "Eduardo__Flu",
+            "created_at": "2026-10-26T03:37:00+00:00",
+            "permalink": "https://nitter.netbub.com/Eduardo__Flu/status/2114562131211305064#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114556508084007076",
+            "text": "VOTO DO SUDESTE É A CABEÇA DA MINHA CHIBATA PORRRAAAA",
+            "author_username": "ivocristiano",
+            "author_name": "ivocristiano",
+            "created_at": "2026-10-26T03:15:00+00:00",
+            "permalink": "https://nitter.netbub.com/ivocristiano/status/2114556508084007076#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114551239526563906",
+            "text": "Deixa o voto do sudeste entrar...",
+            "author_username": "Liliansj",
+            "author_name": "Liliansj",
+            "created_at": "2026-10-26T02:54:00+00:00",
+            "permalink": "https://nitter.netbub.com/Liliansj/status/2114551239526563906#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114549439549378730",
+            "text": "Minas Gerais é Sudeste, né? Kkkk",
+            "author_username": "MiaStyles2020",
+            "author_name": "MiaStyles2020",
+            "created_at": "2026-10-26T02:47:00+00:00",
+            "permalink": "https://nitter.netbub.com/MiaStyles2020/status/2114549439549378730#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114549073130758358",
+            "text": "ele andando por Brasília com todos os votos do sudeste que \"entraram\"",
+            "author_username": "nightshadespin",
+            "author_name": "nightshadespin",
+            "created_at": "2026-10-26T02:46:00+00:00",
+            "permalink": "https://nitter.netbub.com/nightshadespin/status/2114549073130758358#m",
+            "metrics": {
+              "like_count": 328,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 12
+            }
+          },
+          {
+            "id": "2114544602287886776",
+            "text": "Chupetinha tá nervoso né, 🤣🤣🤣🤣🤣🤣🤣🤣🤣\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T02:28:00+00:00",
+            "permalink": "https://nitter.netbub.com/chokko14071548/status/2114544602287886776#m",
+            "metrics": {
+              "like_count": 324,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114544163647828061",
+            "text": ".\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T02:26:00+00:00",
+            "permalink": "https://nitter.netbub.com/chokko14071548/status/2114544163647828061#m",
+            "metrics": {
+              "like_count": 495,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114543800169242663",
+            "text": "🤣🤣🤣🤣🤣🤣🤣🤣🤣\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T02:25:00+00:00",
+            "permalink": "https://nitter.netbub.com/chokko14071548/status/2114543800169242663#m",
+            "metrics": {
+              "like_count": 782,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 6
+            }
+          },
+          {
+            "id": "2114533509423399375",
+            "text": "Ele tá esperando o resultado do sudeste kkkk",
+            "author_username": "fp_mello2",
+            "author_name": "fp_mello2",
+            "created_at": "2026-10-26T01:44:00+00:00",
+            "permalink": "https://nitter.netbub.com/fp_mello2/status/2114533509423399375#m",
+            "metrics": {
+              "like_count": 99,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114531595918954537",
+            "text": "Verdade no Sudeste Flávio Bolsonaro foi muito bem votado.",
+            "author_username": "GamaSaragama77",
+            "author_name": "GamaSaragama77",
+            "created_at": "2026-10-26T01:36:00+00:00",
+            "permalink": "https://nitter.netbub.com/GamaSaragama77/status/2114531595918954537#m",
+            "metrics": {
+              "like_count": 176,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114520269242986698",
+            "text": "Amo 🤣🤣🤣🤣🤣🤣\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114520269242986698#m",
+            "metrics": {
+              "like_count": 158,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114519961762730361",
+            "text": "Agora estão assim 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114519961762730361#m",
+            "metrics": {
+              "like_count": 533,
+              "reply_count": 1,
+              "retweet_count": 2,
+              "quote_count": 12
+            }
+          },
+          {
+            "id": "2114519806393143582",
+            "text": "🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114519806393143582#m",
+            "metrics": {
+              "like_count": 237,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114517482773917803",
+            "text": "Minas foi sensacional nessa eleição \n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:40:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114517482773917803#m",
+            "metrics": {
+              "like_count": 490,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114517370022613317",
+            "text": ".\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:40:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114517370022613317#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 13,
+              "quote_count": 49
+            }
+          },
+          {
+            "id": "2114515952981389580",
+            "text": "Chupa Fascista \n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:34:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114515952981389580#m",
+            "metrics": {
+              "like_count": 172,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114515862296383621",
+            "text": "🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣 \n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:34:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114515862296383621#m",
+            "metrics": {
+              "like_count": 681,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114515787146768869",
+            "text": "Lula L\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114515787146768869#m",
+            "metrics": {
+              "like_count": 663,
+              "reply_count": 0,
+              "retweet_count": 7,
+              "quote_count": 15
+            }
+          },
+          {
+            "id": "2114515781757161712",
+            "text": ".\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114515781757161712#m",
+            "metrics": {
+              "like_count": 135,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114513613931032858",
+            "text": "A sensação que eu tenho é que nunca aprenderemos com nossos erros. Flavio teve um desempenho pior que o do Jair em todos os Estados do Norte, em 2022; no sudeste tambem.\nNao contestamos decisões judiciais bizarras, como a de hoje.\nApenas acreditamos que ia dar certo.",
+            "author_username": "rodrigombl",
+            "author_name": "rodrigombl",
+            "created_at": "2026-10-26T00:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/rodrigombl/status/2114513613931032858#m",
+            "metrics": {
+              "like_count": 84,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114513014648951003",
+            "text": "🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114513014648951003#m",
+            "metrics": {
+              "like_count": 302,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114512973628903833",
+            "text": "Chupa Bolsonaro\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114512973628903833#m",
+            "metrics": {
+              "like_count": 342,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114512886387089485",
+            "text": "Chupa bolsonaro\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114512886387089485#m",
+            "metrics": {
+              "like_count": 409,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114511465889595433",
+            "text": "Agora mais do que nunca precisamos discutir a possibilidade de existir um Brasil do sul+sudeste e um do Nordeste, veremos se eles sobrevivem sem nosso trabalho",
+            "author_username": "HiginoOliveiraf",
+            "author_name": "HiginoOliveiraf",
+            "created_at": "2026-10-26T00:16:00+00:00",
+            "permalink": "https://nitter.meowing.monster/HiginoOliveiraf/status/2114511465889595433#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114511147193737262",
+            "text": "O SEU ESTADO @nikolas_dm É O NOSSO MAIOR CARTÃO DE VOTOS DO SUDESTE! MUITO OBRIGADO, MINAS! ❤️💙",
+            "author_username": "gaab_thierry2",
+            "author_name": "gaab_thierry2",
+            "created_at": "2026-10-26T00:15:00+00:00",
+            "permalink": "https://nitter.meowing.monster/gaab_thierry2/status/2114511147193737262#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114505273955975507",
+            "text": "Na região sudeste.",
+            "author_username": "ValHerdy",
+            "author_name": "ValHerdy",
+            "created_at": "2026-10-25T23:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ValHerdy/status/2114505273955975507#m",
+            "metrics": {
+              "like_count": 89,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114504898674868379",
+            "text": "CARALHO O SUDESTE TA MUITO PRA TRAS PQP",
+            "author_username": "michelzinhosro1",
+            "author_name": "michelzinhosro1",
+            "created_at": "2026-10-25T23:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/michelzinhosro1/status/2114504898674868379#m",
+            "metrics": {
+              "like_count": 92,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114504431358423185",
+            "text": "MEU SENHOR O SUDESTE QUEM VAI DECIDIR >>> CANCELA AS APURAÇÕES DO INTERIOR DE SP <<<",
+            "author_username": "otociriaps",
+            "author_name": "otociriaps",
+            "created_at": "2026-10-25T23:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/otociriaps/status/2114504431358423185#m",
+            "metrics": {
+              "like_count": 103,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114503739226861834",
+            "text": "NORDESTE SEMPRE REPRESENTA, pois são bem consciente e melhor do que o povo do sudeste...Obrigado vocês me representam...#NordesteComLula13",
+            "author_username": "FGonzaga2011",
+            "author_name": "FGonzaga2011",
+            "created_at": "2026-10-25T23:45:00+00:00",
+            "permalink": "https://nitter.meowing.monster/FGonzaga2011/status/2114503739226861834#m",
+            "metrics": {
+              "like_count": 153,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114502844783178015",
+            "text": "O Sudeste precisa salvar o Brasil!",
+            "author_username": "MaurcioMotta1",
+            "author_name": "MaurcioMotta1",
+            "created_at": "2026-10-25T23:42:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MaurcioMotta1/status/2114502844783178015#m",
+            "metrics": {
+              "like_count": 91,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114502718152700346",
+            "text": "e tão aqui atacando a região sul sendo que 89 milhões de pessoas moram no sudeste e 32 milhões no sul",
+            "author_username": "luana90_",
+            "author_name": "luana90_",
+            "created_at": "2026-10-25T23:41:00+00:00",
+            "permalink": "https://nitter.meowing.monster/luana90_/status/2114502718152700346#m",
+            "metrics": {
+              "like_count": 107,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114501898703097950",
+            "text": "Minas traiu o sudeste.",
+            "author_username": "jonathangoess_",
+            "author_name": "jonathangoess_",
+            "created_at": "2026-10-25T23:38:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jonathangoess_/status/2114501898703097950#m",
+            "metrics": {
+              "like_count": 130,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114501065362330077",
+            "text": "Preocupado com o Sudeste...",
+            "author_username": "CiceroCalado",
+            "author_name": "CiceroCalado",
+            "created_at": "2026-10-25T23:35:00+00:00",
+            "permalink": "https://nitter.meowing.monster/CiceroCalado/status/2114501065362330077#m",
+            "metrics": {
+              "like_count": 118,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114500588377342323",
+            "text": "Sudeste pronto pra fuder o Brasil!\n#Eleições2026",
+            "author_username": "GeorgeLao",
+            "author_name": "GeorgeLao",
+            "created_at": "2026-10-25T23:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/GeorgeLao/status/2114500588377342323#m",
+            "metrics": {
+              "like_count": 373,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114499576774242552",
+            "text": "Genteee... O sudeste muito atrasado... Essa porra vota muito errado, tô com medo",
+            "author_username": "Lilica_BBB",
+            "author_name": "Lilica_BBB",
+            "created_at": "2026-10-25T23:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Lilica_BBB/status/2114499576774242552#m",
+            "metrics": {
+              "like_count": 273,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114499418917384699",
+            "text": "Gente o sudeste ainda está no começo das apurações. Nunca tinha visto isso\n\nMds to chorando de desespero já.",
+            "author_username": "leeh_books",
+            "author_name": "leeh_books",
+            "created_at": "2026-10-25T23:28:00+00:00",
+            "permalink": "https://nitter.meowing.monster/leeh_books/status/2114499418917384699#m",
+            "metrics": {
+              "like_count": 55,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114497241155035138",
+            "text": "Sudeste tá bem atrasado tbm.",
+            "author_username": "90emerson14",
+            "author_name": "90emerson14",
+            "created_at": "2026-10-25T23:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/90emerson14/status/2114497241155035138#m",
+            "metrics": {
+              "like_count": 38,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114495855197552685",
+            "text": "Estou confiante com a votação até agora\nA porcentagem das urnas do Sul, do Centro-Oeste e do Norte já ultrapassaram 50% e a disputa está acirrada\nO que me preocupa é o sudeste",
+            "author_username": "uiuouwill",
+            "author_name": "uiuouwill",
+            "created_at": "2026-10-25T23:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/uiuouwill/status/2114495855197552685#m",
+            "metrics": {
+              "like_count": 57,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114491550587592800",
+            "text": "Toda vez que o sudeste apura e o Bolsonaro sobe:",
+            "author_username": "abeleamon",
+            "author_name": "abeleamon",
+            "created_at": "2026-10-25T22:57:00+00:00",
+            "permalink": "https://nitter.meowing.monster/abeleamon/status/2114491550587592800#m",
+            "metrics": {
+              "like_count": 29,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114491430177538147",
+            "text": "Sim, mas se seguir nesse percentual em cada região, o cachaceiro faz mais 21 milhões no Nordeste e Flavio 26 milhões no Sudeste...",
+            "author_username": "LBA_007",
+            "author_name": "LBA_007",
+            "created_at": "2026-10-25T22:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LBA_007/status/2114491430177538147#m",
+            "metrics": {
+              "like_count": 195,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114489397794025806",
+            "text": "Nesse ano quem vai decidir as eleições é o SUDESTE pelo visto!",
+            "author_username": "R1cciard",
+            "author_name": "R1cciard",
+            "created_at": "2026-10-25T22:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/R1cciard/status/2114489397794025806#m",
+            "metrics": {
+              "like_count": 44,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114489316424532229",
+            "text": "Sudeste 4,54% ja era PTZADA. Podem dormir",
+            "author_username": "Wendelzito",
+            "author_name": "Wendelzito",
+            "created_at": "2026-10-25T22:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Wendelzito/status/2114489316424532229#m",
+            "metrics": {
+              "like_count": 55,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114489029341098454",
+            "text": "Situação é a seguinte: a menos que o Lula cresça MUITO no sudeste (que não parece a tendência), infelizmente teremos uma milícia no poder! O sudeste é a região com mais votos e a que está mais atrás na apuração.",
+            "author_username": "lipejeunehomme",
+            "author_name": "lipejeunehomme",
+            "created_at": "2026-10-25T22:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/lipejeunehomme/status/2114489029341098454#m",
+            "metrics": {
+              "like_count": 536,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114488169940861313",
+            "text": "Eu tô achando que lula vai tomar a virada quando começar a crescer apuração no sudeste/sul",
+            "author_username": "mattsccp_",
+            "author_name": "mattsccp_",
+            "created_at": "2026-10-25T22:43:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mattsccp_/status/2114488169940861313#m",
+            "metrics": {
+              "like_count": 133,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114487632595988887",
+            "text": "Vc acha que o Lula vencera? Olha a diferença curta no sudeste, bolsonaro tem muito pra crescer ainda mo Sudeste",
+            "author_username": "pcampos_f1",
+            "author_name": "pcampos_f1",
+            "created_at": "2026-10-25T22:41:00+00:00",
+            "permalink": "https://nitter.meowing.monster/pcampos_f1/status/2114487632595988887#m",
+            "metrics": {
+              "like_count": 299,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114487521056825479",
+            "text": "A diferença ta pouquíssimas e as urnas do sudeste não tem nem 1% apurada, somos o Nordeste da direita infelizmente",
+            "author_username": "_bia_gsm",
+            "author_name": "_bia_gsm",
+            "created_at": "2026-10-25T22:41:00+00:00",
+            "permalink": "https://nitter.meowing.monster/_bia_gsm/status/2114487521056825479#m",
+            "metrics": {
+              "like_count": 49,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114487417512271880",
+            "text": "O sudeste ainda está muito atrasada na apuração! Socorro meu Deus!",
+            "author_username": "Mariananda3505",
+            "author_name": "Mariananda3505",
+            "created_at": "2026-10-25T22:41:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Mariananda3505/status/2114487417512271880#m",
+            "metrics": {
+              "like_count": 124,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114487322955686007",
+            "text": "Sudeste vai foder com a gente de novo. É onde foi menos apurada... pqp",
+            "author_username": "hudsv",
+            "author_name": "hudsv",
+            "created_at": "2026-10-25T22:40:00+00:00",
+            "permalink": "https://nitter.meowing.monster/hudsv/status/2114487322955686007#m",
+            "metrics": {
+              "like_count": 85,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114487265468547150",
+            "text": "O sudeste demorando apurar, isso tá estranho",
+            "author_username": "abeleamon",
+            "author_name": "abeleamon",
+            "created_at": "2026-10-25T22:40:00+00:00",
+            "permalink": "https://nitter.meowing.monster/abeleamon/status/2114487265468547150#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114484544841597165",
+            "text": "Norte \nCentro Oeste\nSul\nNordeste \nSudeste\n\nO ritmo da apuração está nessa ordem..",
+            "author_username": "dddreytx92",
+            "author_name": "dddreytx92",
+            "created_at": "2026-10-25T22:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/dddreytx92/status/2114484544841597165#m",
+            "metrics": {
+              "like_count": 531,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114483768358584784",
+            "text": "Bora explicar pra você que lê nenhuma matéria ou não sabe interpretar, o pedido do Flávio foi feito no TSE pra sul e sudeste, já o pedido da quadrilha foi feito a tarde e para o STF, que não tem competência e foi julgado por um membro da quadrilha",
+            "author_username": "vanderley348506",
+            "author_name": "vanderley348506",
+            "created_at": "2026-10-25T22:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/vanderley348506/status/2114483768358584784#m",
+            "metrics": {
+              "like_count": 245,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114480990227689942",
+            "text": "REGIÃO SUDESTE,vai salvar o Brasil 🇧🇷 #Eleições2026",
+            "author_username": "maozinhareality",
+            "author_name": "maozinhareality",
+            "created_at": "2026-10-25T22:15:00+00:00",
+            "permalink": "https://nitter.meowing.monster/maozinhareality/status/2114480990227689942#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 1,
+              "retweet_count": 3,
+              "quote_count": 44
+            }
+          },
+          {
+            "id": "2114479109040410678",
+            "text": "Importante: a apuração está começando dessa vez pelo nordeste! Diferente das eleições anteriores! Cheiro de esquema do KN! Esperando a virada do rachadinha no sul/sudeste!",
+            "author_username": "DIOGENESNOBERTO",
+            "author_name": "DIOGENESNOBERTO",
+            "created_at": "2026-10-25T22:07:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DIOGENESNOBERTO/status/2114479109040410678#m",
+            "metrics": {
+              "like_count": 171,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114471550061605272",
+            "text": "Sobre a prorrogação do horário das eleições\n\nResumo para divulgação: no pleito de hoje, o STF, por liminar do ministro Cristiano Zanin, prorrogou a votação até as dezenove horas em seções cujas urnas ainda não tinham sido fechadas, atendendo a pedidos da coligação de Lula e da campanha de Flávio, que apontavam frota de ônibus reduzida em nove estados e chuvas no Sul e Sudeste. O TSE orientou os TREs na mesma linha.\n\nPontos centrais: a biometria não é obrigatória para votar — quem não tem cadastro biométrico vota com documento de foto, e a assinatura no caderno funciona como contrapartida quando a digital não é reconhecida. Fraude de mesário votando por ausente deixaria rastro: digital do autorizador registrada, cruzamento de comparecimento, fiscais de partido no encerramento e apuração pela Justiça Eleitoral, com risco penal de até três anos sob o artigo trezentos e nove do Código Eleitoral.\n\nO temor de fraude em massa pela prorrogação é desproporcional: o que muda é tempo, não o rito de identificação. O que merece atenção de verdade é erro de procedimento — mesário sem aviso fechando urna cedo ou improvisando no improviso. Relatos disso já circularam, inclusive no Nordeste, onde várias seções tinham encerrado antes das dezessete e sete e a prorrogação gerou confusão em vez de ampliar o voto.\n\nPara fechar: a Certidão de Quitação no site do TSE comprova a regularidade, e fotografar o caderno eleitoral continua proibido.",
+            "author_username": "adv_castromaga",
+            "author_name": "adv_castromaga",
+            "created_at": "2026-10-25T21:37:00+00:00",
+            "permalink": "https://nitter.meowing.monster/adv_castromaga/status/2114471550061605272#m",
+            "metrics": {
+              "like_count": 169,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114444967137722876",
+            "text": "Adivinha: extensão no nordeste onde não tem uma gota de chuva e finalização no sul e sudeste",
+            "author_username": "luvan79",
+            "author_name": "luvan79",
+            "created_at": "2026-10-25T19:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/luvan79/status/2114444967137722876#m",
+            "metrics": {
+              "like_count": 154,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114424797061161237",
+            "text": "NORTE NORDESTE E SUDESTE PRECISAM TER HORARIO DE VOTO PRORROGADO ATÉ  AS 19HRS @TSEjusbr não estamos vendo os mesmos problemas em regiões em que o Flávio Bolsonaro foi eleito com facilidade no primeiro turno, vocês serão coniventes ao Golpe?",
+            "author_username": "drogueirinha",
+            "author_name": "drogueirinha",
+            "created_at": "2026-10-25T18:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/drogueirinha/status/2114424797061161237#m",
+            "metrics": {
+              "like_count": 68,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114319842564092291",
+            "text": "BANDIDO FLÁVIO BOLSORUBA E SEU GRUPO FASCISTA ASSASSINOS.\nUrgente: eleitores de Flávio Bolsonaro tentam assassinar vereadora do PT em Montes Claros (MG) brasil247.com/sudeste/urgent…",
+            "author_username": "HamiltonPozzi",
+            "author_name": "HamiltonPozzi",
+            "created_at": "2026-10-25T11:35:00+00:00",
+            "permalink": "https://nitter.meowing.monster/HamiltonPozzi/status/2114319842564092291#m",
+            "metrics": {
+              "like_count": 86,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114180555105239042",
+            "text": "Rede de Peter Thiel passa por SP em meio à expansão política na América Latina\nBrasil 247 27/9/26\nbrasil247.com/sudeste/rede-d…",
+            "author_username": "jclovis1970",
+            "author_name": "jclovis1970",
+            "created_at": "2026-10-25T02:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jclovis1970/status/2114180555105239042#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114108839171883420",
+            "text": "Ouvi dizer que a gol suspendeu todos os vôos do sudeste para o nordeste.",
+            "author_username": "dinotvoffline",
+            "author_name": "dinotvoffline",
+            "created_at": "2026-10-24T21:36:00+00:00",
+            "permalink": "https://nitter.mie.foundation/dinotvoffline/status/2114108839171883420#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114087053554282790",
+            "text": "Mentira. Lula não falou nada com nada, trouxe números falsos, não respondeu nenhuma pergunta  Disse que vai acabar com a polícia, falou mal do sul e sudeste e não explicou a origem do dinheiro do Lula nem o laranja do sítio do Atibaia.",
+            "author_username": "luvan79",
+            "author_name": "luvan79",
+            "created_at": "2026-10-24T20:10:00+00:00",
+            "permalink": "https://nitter.mie.foundation/luvan79/status/2114087053554282790#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114618171034366064",
+            "text": "o projeto cuba/venezuela seguindo firme e forte! Deus tenha piedade do sul/sudeste/centro-oeste e de quem não votou nesse demônio",
+            "author_username": "Damon__Brasil",
+            "author_name": "Damon__Brasil",
+            "created_at": "2026-10-26T07:20:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Damon__Brasil/status/2114618171034366064#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114620161860808933",
+            "text": "@livia43 O nordestinho não tem medo de trabalhar,é por isso que o sudeste cresceu.  Vocês do sudeste deve a gradecer a o nordestinho por trabalhar por vocês!",
+            "author_username": "vandofm39",
+            "author_name": "vandofm39",
+            "created_at": "2026-10-26T07:28:00+00:00",
+            "permalink": "https://nitter.mie.foundation/vandofm39/status/2114620161860808933#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 51,
+          "instance_used": "https://nitter.mie.foundation"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "assuntos_x_momento_ate_26out21h_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114611165124817302",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114611165124817302",
+      "collected_at": "2026-10-26T04:39:51-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste",
+        "esquerda",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114611165124817302",
+        "text": "O povo brasileiro na sua maioria prefere viver no mundo de Nárnia, o nordeste por exemplo votou em maioria na esquerda mas quando quer emprego vai para o sul e sudeste para buscar uma vida melhor, isso é no mínimo contraditório!!!",
+        "author_username": "Cnc712",
+        "author_name": "Cnc712",
+        "created_at": "2026-10-26T06:52:00+00:00",
+        "permalink": "https://nitter.netbub.com/Cnc712/status/2114611165124817302#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114605187910259078",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114605187910259078",
+      "collected_at": "2026-10-26T04:39:51-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114605187910259078",
+        "text": "eu sou o Nicolas Ferreira e vou criticar as vitacoes ate as 19 mas o fdp do Flávio bolsonaro n pediu a msm coisa pelas  horas no sudeste e Sul???? chora na minha pica seus arrombado",
+        "author_username": "dufarias0",
+        "author_name": "dufarias0",
+        "created_at": "2026-10-26T06:28:00+00:00",
+        "permalink": "https://nitter.netbub.com/dufarias0/status/2114605187910259078#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114600431129071949",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114600431129071949",
+      "collected_at": "2026-10-26T04:39:51-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114600431129071949",
+        "text": "Juntaram Sul e Sudeste e deu 7 milhões. O Nordeste sozinho deu 13 milhões e ainda sobrou. ⭐ É a estrela que brilha, é o Nordeste que salva e carrega o Brasil nas costas. 🇧🇷 Respeita o Nordeste. #LulaReeleitoPresidentedoBrasil",
+        "author_username": "ceorihan",
+        "author_name": "ceorihan",
+        "created_at": "2026-10-26T06:10:00+00:00",
+        "permalink": "https://nitter.netbub.com/ceorihan/status/2114600431129071949#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114571999309693137",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114571999309693137",
+      "collected_at": "2026-10-26T04:39:51-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114571999309693137",
+        "text": "Nordeste mal tem água, saneamento básico, não tem segurança e pelo jeito não tem nem inteligência. Tem mais é que viver na miséria mesmo.\n\nDepois vem pra sul e sudeste procurar oportunidade",
+        "author_username": "Filipe_Reis96",
+        "author_name": "Filipe_Reis96",
+        "created_at": "2026-10-26T04:17:00+00:00",
+        "permalink": "https://nitter.netbub.com/Filipe_Reis96/status/2114571999309693137#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114567427468021962",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114567427468021962",
+      "collected_at": "2026-10-26T04:39:51-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114567427468021962",
+        "text": "Foi todo o Brasil que contribuiu. O Nordeste e o Sudeste em maior proporção  .",
+        "author_username": "Celoi28",
+        "author_name": "Celoi28",
+        "created_at": "2026-10-26T03:58:00+00:00",
+        "permalink": "https://nitter.netbub.com/Celoi28/status/2114567427468021962#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114567397419937887",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114567397419937887",
+      "collected_at": "2026-10-26T04:39:51-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114567397419937887",
+        "text": "Entardecer com sol nuvens vento sudeste ja acalmando friozinho @Climaterra @ConexaoGeoClima @LeandroPuchalsk @metsul @Piter_Scheuer @Estaelsias",
+        "author_username": "ClimaArarangua",
+        "author_name": "ClimaArarangua",
+        "created_at": "2026-10-26T03:58:00+00:00",
+        "permalink": "https://nitter.netbub.com/ClimaArarangua/status/2114567397419937887#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114566631426814382",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114566631426814382",
+      "collected_at": "2026-10-26T04:39:51-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114566631426814382",
+        "text": "14:35 Tarde com tempo fechado solzinho apareceu tímido ventinho sudeste fraco agradável 20°C @Climaterra @ConexaoGeoClima @LeandroPuchalsk @metsul @Piter_Scheuer @Estaelsias",
+        "author_username": "ClimaArarangua",
+        "author_name": "ClimaArarangua",
+        "created_at": "2026-10-26T03:55:00+00:00",
+        "permalink": "https://nitter.netbub.com/ClimaArarangua/status/2114566631426814382#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114565933704331291",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114565933704331291",
+      "collected_at": "2026-10-26T04:39:51-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114565933704331291",
+        "text": "Nao \nO Brasil deu 5 % a menos no Sudeste Sul e CO",
+        "author_username": "bar212325",
+        "author_name": "bar212325",
+        "created_at": "2026-10-26T03:52:00+00:00",
+        "permalink": "https://nitter.netbub.com/bar212325/status/2114565933704331291#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114564024104853923",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114564024104853923",
+      "collected_at": "2026-10-26T04:39:51-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114564024104853923",
+        "text": "PAU NO CU DO SUDESTE E DO SUL!!!",
+        "author_username": "malokero_loko",
+        "author_name": "malokero_loko",
+        "created_at": "2026-10-26T03:45:00+00:00",
+        "permalink": "https://nitter.netbub.com/malokero_loko/status/2114564024104853923#m",
+        "metrics": {
+          "like_count": 45,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114562131211305064",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114562131211305064",
+      "collected_at": "2026-10-26T04:39:51-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114562131211305064",
+        "text": "O único no sudeste q o Lula venceu foi em MG",
+        "author_username": "Eduardo__Flu",
+        "author_name": "Eduardo__Flu",
+        "created_at": "2026-10-26T03:37:00+00:00",
+        "permalink": "https://nitter.netbub.com/Eduardo__Flu/status/2114562131211305064#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114556508084007076",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114556508084007076",
+      "collected_at": "2026-10-26T04:39:51-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114556508084007076",
+        "text": "VOTO DO SUDESTE É A CABEÇA DA MINHA CHIBATA PORRRAAAA",
+        "author_username": "ivocristiano",
+        "author_name": "ivocristiano",
+        "created_at": "2026-10-26T03:15:00+00:00",
+        "permalink": "https://nitter.netbub.com/ivocristiano/status/2114556508084007076#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114551239526563906",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114551239526563906",
+      "collected_at": "2026-10-26T04:39:51-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114551239526563906",
+        "text": "Deixa o voto do sudeste entrar...",
+        "author_username": "Liliansj",
+        "author_name": "Liliansj",
+        "created_at": "2026-10-26T02:54:00+00:00",
+        "permalink": "https://nitter.netbub.com/Liliansj/status/2114551239526563906#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114549439549378730",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114549439549378730",
+      "collected_at": "2026-10-26T04:39:51-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114549439549378730",
+        "text": "Minas Gerais é Sudeste, né? Kkkk",
+        "author_username": "MiaStyles2020",
+        "author_name": "MiaStyles2020",
+        "created_at": "2026-10-26T02:47:00+00:00",
+        "permalink": "https://nitter.netbub.com/MiaStyles2020/status/2114549439549378730#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114549073130758358",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114549073130758358",
+      "collected_at": "2026-10-26T04:39:51-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114549073130758358",
+        "text": "ele andando por Brasília com todos os votos do sudeste que \"entraram\"",
+        "author_username": "nightshadespin",
+        "author_name": "nightshadespin",
+        "created_at": "2026-10-26T02:46:00+00:00",
+        "permalink": "https://nitter.netbub.com/nightshadespin/status/2114549073130758358#m",
+        "metrics": {
+          "like_count": 328,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 12
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114533509423399375",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114533509423399375",
+      "collected_at": "2026-10-26T04:39:51-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114533509423399375",
+        "text": "Ele tá esperando o resultado do sudeste kkkk",
+        "author_username": "fp_mello2",
+        "author_name": "fp_mello2",
+        "created_at": "2026-10-26T01:44:00+00:00",
+        "permalink": "https://nitter.netbub.com/fp_mello2/status/2114533509423399375#m",
+        "metrics": {
+          "like_count": 99,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114531595918954537",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114531595918954537",
+      "collected_at": "2026-10-26T04:39:51-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114531595918954537",
+        "text": "Verdade no Sudeste Flávio Bolsonaro foi muito bem votado.",
+        "author_username": "GamaSaragama77",
+        "author_name": "GamaSaragama77",
+        "created_at": "2026-10-26T01:36:00+00:00",
+        "permalink": "https://nitter.netbub.com/GamaSaragama77/status/2114531595918954537#m",
+        "metrics": {
+          "like_count": 176,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 5
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114513613931032858",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114513613931032858",
+      "collected_at": "2026-10-26T04:39:51-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114513613931032858",
+        "text": "A sensação que eu tenho é que nunca aprenderemos com nossos erros. Flavio teve um desempenho pior que o do Jair em todos os Estados do Norte, em 2022; no sudeste tambem.\nNao contestamos decisões judiciais bizarras, como a de hoje.\nApenas acreditamos que ia dar certo.",
+        "author_username": "rodrigombl",
+        "author_name": "rodrigombl",
+        "created_at": "2026-10-26T00:25:00+00:00",
+        "permalink": "https://nitter.meowing.monster/rodrigombl/status/2114513613931032858#m",
+        "metrics": {
+          "like_count": 84,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114511465889595433",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114511465889595433",
+      "collected_at": "2026-10-26T04:39:51-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114511465889595433",
+        "text": "Agora mais do que nunca precisamos discutir a possibilidade de existir um Brasil do sul+sudeste e um do Nordeste, veremos se eles sobrevivem sem nosso trabalho",
+        "author_username": "HiginoOliveiraf",
+        "author_name": "HiginoOliveiraf",
+        "created_at": "2026-10-26T00:16:00+00:00",
+        "permalink": "https://nitter.meowing.monster/HiginoOliveiraf/status/2114511465889595433#m",
+        "metrics": {
+          "like_count": 17,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114511147193737262",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114511147193737262",
+      "collected_at": "2026-10-26T04:39:51-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114511147193737262",
+        "text": "O SEU ESTADO @nikolas_dm É O NOSSO MAIOR CARTÃO DE VOTOS DO SUDESTE! MUITO OBRIGADO, MINAS! ❤️💙",
+        "author_username": "gaab_thierry2",
+        "author_name": "gaab_thierry2",
+        "created_at": "2026-10-26T00:15:00+00:00",
+        "permalink": "https://nitter.meowing.monster/gaab_thierry2/status/2114511147193737262#m",
+        "metrics": {
+          "like_count": 28,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114618171034366064",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114618171034366064",
+      "collected_at": "2026-10-26T04:39:51-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114618171034366064",
+        "text": "o projeto cuba/venezuela seguindo firme e forte! Deus tenha piedade do sul/sudeste/centro-oeste e de quem não votou nesse demônio",
+        "author_username": "Damon__Brasil",
+        "author_name": "Damon__Brasil",
+        "created_at": "2026-10-26T07:20:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Damon__Brasil/status/2114618171034366064#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114620161860808933",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114620161860808933",
+      "collected_at": "2026-10-26T04:39:51-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114620161860808933",
+        "text": "@livia43 O nordestinho não tem medo de trabalhar,é por isso que o sudeste cresceu.  Vocês do sudeste deve a gradecer a o nordestinho por trabalhar por vocês!",
+        "author_username": "vandofm39",
+        "author_name": "vandofm39",
+        "created_at": "2026-10-26T07:28:00+00:00",
+        "permalink": "https://nitter.mie.foundation/vandofm39/status/2114620161860808933#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}
