@@ -1,0 +1,14 @@
+{
+  "event_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+  "event_type": "campaign_assuntos_x_momento_ate_26out21h_20261025",
+  "started_at": "2026-10-26T09:18:09-03:00",
+  "finished_at": "2026-10-26T17:41:02-03:00",
+  "status": "success",
+  "since": "2026-10-25",
+  "until": "2026-10-27",
+  "records_written": 1527,
+  "records_skipped_duplicate": 1204,
+  "json_files_written": 20,
+  "errors": [],
+  "twitee_trends": []
+}
