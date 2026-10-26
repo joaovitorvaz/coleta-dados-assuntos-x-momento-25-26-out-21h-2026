@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "JUSTIN BIEBER",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+    "collected_at": "2026-10-26T05:57:13-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 0,
+      "comments": 0,
+      "records_total": 0,
+      "skipped_duplicate": 0
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114496569227587940",
+            "text": "MEU DEUS O JUSTIN BIEBER",
+            "author_username": "_bia_gsm",
+            "author_name": "_bia_gsm",
+            "created_at": "2026-10-25T23:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/_bia_gsm/status/2114496569227587940#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114353406340989360",
+            "text": "mds o João Gomes vilanovense e o justin bieber goiano\n\nViva o Lula!!!!",
+            "author_username": "sonfiasofrida",
+            "author_name": "sonfiasofrida",
+            "created_at": "2026-10-25T13:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/sonfiasofrida/status/2114353406340989360#m",
+            "metrics": {
+              "like_count": 151,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          }
+        ],
+        "comments": [
+          {
+            "id": "2114355842430459990",
+            "text": "KKKKKKKKKK EU RI BAO",
+            "author_username": "mimjaguiben",
+            "author_name": "mimjaguiben",
+            "created_at": "2026-10-25T13:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mimjaguiben/status/2114355842430459990#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114353406340989360",
+            "parent_comment_id": "2114353406340989360",
+            "depth": 1
+          }
+        ],
+        "pagination": {
+          "pages_collected": 51,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "assuntos_x_momento_ate_26out21h_20261025"
+  },
+  "posts": [],
+  "comments": []
+}
