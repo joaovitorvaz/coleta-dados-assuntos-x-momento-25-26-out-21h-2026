@@ -1,0 +1,618 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Ganhamos",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+    "collected_at": "2026-10-26T17:22:58-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 8,
+      "comments": 1,
+      "records_total": 9,
+      "skipped_duplicate": 90
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114802050911650057",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114802050911650057",
+      "parent_post_id": null,
+      "thread_root_id": "2114802050911650057",
+      "author": {
+        "platform_id": null,
+        "display_name": "nunesaccl",
+        "username": "nunesaccl",
+        "profile_url": "https://x.com/nunesaccl"
+      },
+      "text": "NÃO GANHAMOS A COPA, MAS GANHAMOS A ELEIÇÃO! ⭐❤️",
+      "created_at": "2026-10-26T19:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T17:22:58-03:00",
+      "permalink": "https://nitter.netbub.com/nunesaccl/status/2114802050911650057#m",
+      "metrics": {
+        "like_count": 36,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114802050911650057",
+        "text": "NÃO GANHAMOS A COPA, MAS GANHAMOS A ELEIÇÃO! ⭐❤️",
+        "author_username": "nunesaccl",
+        "author_name": "nunesaccl",
+        "created_at": "2026-10-26T19:31:00+00:00",
+        "permalink": "https://nitter.netbub.com/nunesaccl/status/2114802050911650057#m",
+        "metrics": {
+          "like_count": 36,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 48,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114782341319082355",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114782341319082355",
+      "parent_post_id": null,
+      "thread_root_id": "2114782341319082355",
+      "author": {
+        "platform_id": null,
+        "display_name": "MariOli14kk",
+        "username": "MariOli14kk",
+        "profile_url": "https://x.com/MariOli14kk"
+      },
+      "text": "Chorando por 5 mil votos? Pode ficar com os 5 mil todos pro Flávio, nois ainda ganhamos com mais 4 milhões de votos, chora bonequinha!",
+      "created_at": "2026-10-26T18:12:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T17:22:58-03:00",
+      "permalink": "https://nitter.netbub.com/MariOli14kk/status/2114782341319082355#m",
+      "metrics": {
+        "like_count": 9,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114782341319082355",
+        "text": "Chorando por 5 mil votos? Pode ficar com os 5 mil todos pro Flávio, nois ainda ganhamos com mais 4 milhões de votos, chora bonequinha!",
+        "author_username": "MariOli14kk",
+        "author_name": "MariOli14kk",
+        "created_at": "2026-10-26T18:12:00+00:00",
+        "permalink": "https://nitter.netbub.com/MariOli14kk/status/2114782341319082355#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 134,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114762806192898460",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114762806192898460",
+      "parent_post_id": null,
+      "thread_root_id": "2114762806192898460",
+      "author": {
+        "platform_id": null,
+        "display_name": "mihagesilva",
+        "username": "mihagesilva",
+        "profile_url": "https://x.com/mihagesilva"
+      },
+      "text": "Essa eleição me pareceu mais um arco de onepiece, agora que ganhamos tô me sentindo em dressrosa comemorando depois do Luffy dar o último soco no Doflamingo",
+      "created_at": "2026-10-26T16:55:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T17:22:58-03:00",
+      "permalink": "https://nitter.netbub.com/mihagesilva/status/2114762806192898460#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114762806192898460",
+        "text": "Essa eleição me pareceu mais um arco de onepiece, agora que ganhamos tô me sentindo em dressrosa comemorando depois do Luffy dar o último soco no Doflamingo",
+        "author_username": "mihagesilva",
+        "author_name": "mihagesilva",
+        "created_at": "2026-10-26T16:55:00+00:00",
+        "permalink": "https://nitter.netbub.com/mihagesilva/status/2114762806192898460#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 156,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114750461970436206",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114750461970436206",
+      "parent_post_id": null,
+      "thread_root_id": "2114750461970436206",
+      "author": {
+        "platform_id": null,
+        "display_name": "letborgxs",
+        "username": "letborgxs",
+        "profile_url": "https://x.com/letborgxs"
+      },
+      "text": "SÓ GANHAMOS POR CAUSA DELES 🥹😭",
+      "created_at": "2026-10-26T16:06:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T17:22:58-03:00",
+      "permalink": "https://nitter.netbub.com/letborgxs/status/2114750461970436206#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114750461970436206",
+        "text": "SÓ GANHAMOS POR CAUSA DELES 🥹😭",
+        "author_username": "letborgxs",
+        "author_name": "letborgxs",
+        "created_at": "2026-10-26T16:06:00+00:00",
+        "permalink": "https://nitter.netbub.com/letborgxs/status/2114750461970436206#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 30,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114749929260220485",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114749929260220485",
+      "parent_post_id": null,
+      "thread_root_id": "2114749929260220485",
+      "author": {
+        "platform_id": null,
+        "display_name": "artemis_rouge",
+        "username": "artemis_rouge",
+        "profile_url": "https://x.com/artemis_rouge"
+      },
+      "text": "Nós ganhamos as eleições e estamos falando de esperança e de um Brasil Soberano. Eles perderam e estão matando pessoas, destruindo as coisas. Nunca foi difícil escolher.\n#LulaMaiorDoMundo",
+      "created_at": "2026-10-26T16:04:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T17:22:58-03:00",
+      "permalink": "https://nitter.netbub.com/artemis_rouge/status/2114749929260220485#m",
+      "metrics": {
+        "like_count": 296,
+        "reply_count": 0,
+        "retweet_count": 6,
+        "quote_count": 22
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114749929260220485",
+        "text": "Nós ganhamos as eleições e estamos falando de esperança e de um Brasil Soberano. Eles perderam e estão matando pessoas, destruindo as coisas. Nunca foi difícil escolher.\n#LulaMaiorDoMundo",
+        "author_username": "artemis_rouge",
+        "author_name": "artemis_rouge",
+        "created_at": "2026-10-26T16:04:00+00:00",
+        "permalink": "https://nitter.netbub.com/artemis_rouge/status/2114749929260220485#m",
+        "metrics": {
+          "like_count": 296,
+          "reply_count": 0,
+          "retweet_count": 6,
+          "quote_count": 22
+        }
+      },
+      "normalized": {
+        "text_length": 187,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114742235900043404",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114742235900043404",
+      "parent_post_id": null,
+      "thread_root_id": "2114742235900043404",
+      "author": {
+        "platform_id": null,
+        "display_name": "Rosaleo60035472",
+        "username": "Rosaleo60035472",
+        "profile_url": "https://x.com/Rosaleo60035472"
+      },
+      "text": "AGORA, PELO AMOR DE DEUS ,TODOS CUMPRAM AS SUAS PROMESSAS!! GANHAMOS, AGORA É AGRADECER E CUMPRIR! # LULATETRA",
+      "created_at": "2026-10-26T15:33:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T17:22:58-03:00",
+      "permalink": "https://nitter.netbub.com/Rosaleo60035472/status/2114742235900043404#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114742235900043404",
+        "text": "AGORA, PELO AMOR DE DEUS ,TODOS CUMPRAM AS SUAS PROMESSAS!! GANHAMOS, AGORA É AGRADECER E CUMPRIR! # LULATETRA",
+        "author_username": "Rosaleo60035472",
+        "author_name": "Rosaleo60035472",
+        "created_at": "2026-10-26T15:33:00+00:00",
+        "permalink": "https://nitter.netbub.com/Rosaleo60035472/status/2114742235900043404#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 110,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114711664222171148",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114711664222171148",
+      "parent_post_id": null,
+      "thread_root_id": "2114711664222171148",
+      "author": {
+        "platform_id": null,
+        "display_name": "churasteio",
+        "username": "churasteio",
+        "profile_url": "https://x.com/churasteio"
+      },
+      "text": "LULA GANHA E GANHAMOS SEMANA DUPLA DE OP 🫶🏽⭐🙏🏽",
+      "created_at": "2026-10-26T13:32:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T17:22:58-03:00",
+      "permalink": "https://nitter.netbub.com/churasteio/status/2114711664222171148#m",
+      "metrics": {
+        "like_count": 30,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114711664222171148",
+        "text": "LULA GANHA E GANHAMOS SEMANA DUPLA DE OP 🫶🏽⭐🙏🏽",
+        "author_username": "churasteio",
+        "author_name": "churasteio",
+        "created_at": "2026-10-26T13:32:00+00:00",
+        "permalink": "https://nitter.netbub.com/churasteio/status/2114711664222171148#m",
+        "metrics": {
+          "like_count": 30,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 46,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114674968021660045",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114674968021660045",
+      "parent_post_id": null,
+      "thread_root_id": "2114674968021660045",
+      "author": {
+        "platform_id": null,
+        "display_name": "marcelo6194",
+        "username": "marcelo6194",
+        "profile_url": "https://x.com/marcelo6194"
+      },
+      "text": "Ganhamos!",
+      "created_at": "2026-10-26T11:06:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T17:22:58-03:00",
+      "permalink": "https://nitter.netbub.com/marcelo6194/status/2114674968021660045#m",
+      "metrics": {
+        "like_count": 21,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 3
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114674968021660045",
+        "text": "Ganhamos!",
+        "author_username": "marcelo6194",
+        "author_name": "marcelo6194",
+        "created_at": "2026-10-26T11:06:00+00:00",
+        "permalink": "https://nitter.netbub.com/marcelo6194/status/2114674968021660045#m",
+        "metrics": {
+          "like_count": 21,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      },
+      "normalized": {
+        "text_length": 9,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114681248996118989",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114681248996118989",
+      "post_id": "2114674968021660045",
+      "parent_comment_id": "2114674968021660045",
+      "thread_root_id": "2114674968021660045",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "MValle31147",
+        "username": "MValle31147",
+        "profile_url": null
+      },
+      "text": "#LulaMaiorDoMundo #VitoriaDaDemocracia #LulaOBrasilTeAma\n #DeViradaEMaisGostoso\n#ObrigadoJanones",
+      "created_at": "2026-10-26T11:31:00+00:00",
+      "collected_at": "2026-10-26T17:22:58-03:00",
+      "parent_post_url": "https://nitter.netbub.com/MValle31147/status/2114681248996118989#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114681248996118989",
+        "text": "#LulaMaiorDoMundo #VitoriaDaDemocracia #LulaOBrasilTeAma\n #DeViradaEMaisGostoso\n#ObrigadoJanones",
+        "author_username": "MValle31147",
+        "author_name": "MValle31147",
+        "created_at": "2026-10-26T11:31:00+00:00",
+        "permalink": "https://nitter.netbub.com/MValle31147/status/2114681248996118989#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114674968021660045",
+        "parent_comment_id": "2114674968021660045",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 96,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}

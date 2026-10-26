@@ -1,0 +1,1934 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Ganhamos",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+    "collected_at": "2026-10-26T17:22:58-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 8,
+      "comments": 1,
+      "records_total": 9,
+      "skipped_duplicate": 90
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114802050911650057",
+            "text": "NÃO GANHAMOS A COPA, MAS GANHAMOS A ELEIÇÃO! ⭐❤️",
+            "author_username": "nunesaccl",
+            "author_name": "nunesaccl",
+            "created_at": "2026-10-26T19:31:00+00:00",
+            "permalink": "https://nitter.netbub.com/nunesaccl/status/2114802050911650057#m",
+            "metrics": {
+              "like_count": 36,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114782341319082355",
+            "text": "Chorando por 5 mil votos? Pode ficar com os 5 mil todos pro Flávio, nois ainda ganhamos com mais 4 milhões de votos, chora bonequinha!",
+            "author_username": "MariOli14kk",
+            "author_name": "MariOli14kk",
+            "created_at": "2026-10-26T18:12:00+00:00",
+            "permalink": "https://nitter.netbub.com/MariOli14kk/status/2114782341319082355#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114762806192898460",
+            "text": "Essa eleição me pareceu mais um arco de onepiece, agora que ganhamos tô me sentindo em dressrosa comemorando depois do Luffy dar o último soco no Doflamingo",
+            "author_username": "mihagesilva",
+            "author_name": "mihagesilva",
+            "created_at": "2026-10-26T16:55:00+00:00",
+            "permalink": "https://nitter.netbub.com/mihagesilva/status/2114762806192898460#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114750461970436206",
+            "text": "SÓ GANHAMOS POR CAUSA DELES 🥹😭",
+            "author_username": "letborgxs",
+            "author_name": "letborgxs",
+            "created_at": "2026-10-26T16:06:00+00:00",
+            "permalink": "https://nitter.netbub.com/letborgxs/status/2114750461970436206#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114749929260220485",
+            "text": "Nós ganhamos as eleições e estamos falando de esperança e de um Brasil Soberano. Eles perderam e estão matando pessoas, destruindo as coisas. Nunca foi difícil escolher.\n#LulaMaiorDoMundo",
+            "author_username": "artemis_rouge",
+            "author_name": "artemis_rouge",
+            "created_at": "2026-10-26T16:04:00+00:00",
+            "permalink": "https://nitter.netbub.com/artemis_rouge/status/2114749929260220485#m",
+            "metrics": {
+              "like_count": 296,
+              "reply_count": 0,
+              "retweet_count": 6,
+              "quote_count": 22
+            }
+          },
+          {
+            "id": "2114742235900043404",
+            "text": "AGORA, PELO AMOR DE DEUS ,TODOS CUMPRAM AS SUAS PROMESSAS!! GANHAMOS, AGORA É AGRADECER E CUMPRIR! # LULATETRA",
+            "author_username": "Rosaleo60035472",
+            "author_name": "Rosaleo60035472",
+            "created_at": "2026-10-26T15:33:00+00:00",
+            "permalink": "https://nitter.netbub.com/Rosaleo60035472/status/2114742235900043404#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114711664222171148",
+            "text": "LULA GANHA E GANHAMOS SEMANA DUPLA DE OP 🫶🏽⭐🙏🏽",
+            "author_username": "churasteio",
+            "author_name": "churasteio",
+            "created_at": "2026-10-26T13:32:00+00:00",
+            "permalink": "https://nitter.netbub.com/churasteio/status/2114711664222171148#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114674968021660045",
+            "text": "Ganhamos!",
+            "author_username": "marcelo6194",
+            "author_name": "marcelo6194",
+            "created_at": "2026-10-26T11:06:00+00:00",
+            "permalink": "https://nitter.netbub.com/marcelo6194/status/2114674968021660045#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114604322352779298",
+            "text": "Ganhamos, te devo uma cerveja!",
+            "author_username": "LuizP1899",
+            "author_name": "LuizP1899",
+            "created_at": "2026-10-26T06:25:00+00:00",
+            "permalink": "https://nitter.netbub.com/LuizP1899/status/2114604322352779298#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114580734425878650",
+            "text": "Ganhamos!!!⭐️🤟❤️❤️❤️❤️🇧🇷",
+            "author_username": "Dbag42",
+            "author_name": "Dbag42",
+            "created_at": "2026-10-26T04:51:00+00:00",
+            "permalink": "https://nitter.netbub.com/Dbag42/status/2114580734425878650#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114579984748626121",
+            "text": "Minha palavra para vocês é NÃO DESISTAM DE LUTAR! \nPermaneçam Unidos, os governos opressores querem \"dividir para governar\". Quando paramos de brigar entre nós e nos unimos, ganhamos força! O PODER EMANA DO POVO! NÃO DESISTAM!",
+            "author_username": "ACMP_aninha",
+            "author_name": "ACMP_aninha",
+            "created_at": "2026-10-26T04:48:00+00:00",
+            "permalink": "https://nitter.netbub.com/ACMP_aninha/status/2114579984748626121#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114568713483452569",
+            "text": "Ganhamos e respira a democracia!",
+            "author_username": "DiegoCalazans8",
+            "author_name": "DiegoCalazans8",
+            "created_at": "2026-10-26T04:04:00+00:00",
+            "permalink": "https://nitter.netbub.com/DiegoCalazans8/status/2114568713483452569#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114567275550519468",
+            "text": "@GabyAmarantos aqui em Natal, @caduxavier também ganhou. Ganhamos 2 vezes! CADU E LULU.",
+            "author_username": "Jailson_Franca",
+            "author_name": "Jailson_Franca",
+            "created_at": "2026-10-26T03:58:00+00:00",
+            "permalink": "https://nitter.netbub.com/Jailson_Franca/status/2114567275550519468#m",
+            "metrics": {
+              "like_count": 56,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114556730415747167",
+            "text": "Ganhamos amiga ❤️",
+            "author_username": "leo_monteiro09",
+            "author_name": "leo_monteiro09",
+            "created_at": "2026-10-26T03:16:00+00:00",
+            "permalink": "https://nitter.netbub.com/leo_monteiro09/status/2114556730415747167#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114556719711887811",
+            "text": "GANHAMOS",
+            "author_username": "_edumaria_",
+            "author_name": "_edumaria_",
+            "created_at": "2026-10-26T03:16:00+00:00",
+            "permalink": "https://nitter.netbub.com/_edumaria_/status/2114556719711887811#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114555229039464682",
+            "text": "GRACAS GANHAMOS",
+            "author_username": "TeresaF44143318",
+            "author_name": "TeresaF44143318",
+            "created_at": "2026-10-26T03:10:00+00:00",
+            "permalink": "https://nitter.netbub.com/TeresaF44143318/status/2114555229039464682#m",
+            "metrics": {
+              "like_count": 41,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114548236702920803",
+            "text": "No final ganhamos",
+            "author_username": "Dyuxdream",
+            "author_name": "Dyuxdream",
+            "created_at": "2026-10-26T02:42:00+00:00",
+            "permalink": "https://nitter.netbub.com/Dyuxdream/status/2114548236702920803#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114544051147948164",
+            "text": "ganhamos, beleza, mas agora fica uma sensação de aperto no peito, com medo do que pode estar por vir da oposição",
+            "author_username": "jaovitorf2",
+            "author_name": "jaovitorf2",
+            "created_at": "2026-10-26T02:26:00+00:00",
+            "permalink": "https://nitter.netbub.com/jaovitorf2/status/2114544051147948164#m",
+            "metrics": {
+              "like_count": 32,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114542301938585931",
+            "text": "Ganhamos na cidade do Rio de Janeiro também",
+            "author_username": "biaonca",
+            "author_name": "biaonca",
+            "created_at": "2026-10-26T02:19:00+00:00",
+            "permalink": "https://nitter.netbub.com/biaonca/status/2114542301938585931#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114541695073132631",
+            "text": "Quem soltou essas fotos da Anitta com a Normani? Ninguém quer saber disso caralho, isso não vai mudar a vida de nenhum brasileiro porra. GANHAMOS AS ELEIÇÕES DE 2026, VAMOS COMEMORAR CARALHO É LULA PRESIDENTE PORRAAAAAAA. ⭐",
+            "author_username": "hermetic_max",
+            "author_name": "hermetic_max",
+            "created_at": "2026-10-26T02:16:00+00:00",
+            "permalink": "https://nitter.netbub.com/hermetic_max/status/2114541695073132631#m",
+            "metrics": {
+              "like_count": 54,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114539600865554871",
+            "text": "Abraço Tuca! Ganhamos!",
+            "author_username": "GlaucoS13113",
+            "author_name": "GlaucoS13113",
+            "created_at": "2026-10-26T02:08:00+00:00",
+            "permalink": "https://nitter.netbub.com/GlaucoS13113/status/2114539600865554871#m",
+            "metrics": {
+              "like_count": 52,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114539530132795592",
+            "text": "Ganhamos! Zé tu é fera!",
+            "author_username": "GlaucoS13113",
+            "author_name": "GlaucoS13113",
+            "created_at": "2026-10-26T02:08:00+00:00",
+            "permalink": "https://nitter.netbub.com/GlaucoS13113/status/2114539530132795592#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114539166235046125",
+            "text": "Ganhamos!",
+            "author_username": "FeimperioLima",
+            "author_name": "FeimperioLima",
+            "created_at": "2026-10-26T02:06:00+00:00",
+            "permalink": "https://nitter.netbub.com/FeimperioLima/status/2114539166235046125#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114538102262030696",
+            "text": "Ganhamos, Leandra!",
+            "author_username": "jassadvogado",
+            "author_name": "jassadvogado",
+            "created_at": "2026-10-26T02:02:00+00:00",
+            "permalink": "https://nitter.netbub.com/jassadvogado/status/2114538102262030696#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114536628924690615",
+            "text": "GANHAMOS NICAAAAA A ESTRELA BRILHOU VAMOS SORRIR",
+            "author_username": "abiejpg",
+            "author_name": "abiejpg",
+            "created_at": "2026-10-26T01:56:00+00:00",
+            "permalink": "https://nitter.netbub.com/abiejpg/status/2114536628924690615#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114533084930695201",
+            "text": "GANHAMOS GENTE PUTA QUE PARIU",
+            "author_username": "ochanferreira1",
+            "author_name": "ochanferreira1",
+            "created_at": "2026-10-26T01:42:00+00:00",
+            "permalink": "https://nitter.netbub.com/ochanferreira1/status/2114533084930695201#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114532880550449193",
+            "text": "Não saber perder!!!!!\nAceita que ganhamos !!!!!!\n #forabolsonaro #tnc",
+            "author_username": "Marcopaiva851",
+            "author_name": "Marcopaiva851",
+            "created_at": "2026-10-26T01:41:00+00:00",
+            "permalink": "https://nitter.netbub.com/Marcopaiva851/status/2114532880550449193#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114528106140803247",
+            "text": "Ganhamos essas eleições na unha. Épico.",
+            "author_username": "artemis_rouge",
+            "author_name": "artemis_rouge",
+            "created_at": "2026-10-26T01:22:00+00:00",
+            "permalink": "https://nitter.netbub.com/artemis_rouge/status/2114528106140803247#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114527920362332426",
+            "text": "Ganhamos!",
+            "author_username": "lhp_leandro",
+            "author_name": "lhp_leandro",
+            "created_at": "2026-10-26T01:21:00+00:00",
+            "permalink": "https://nitter.netbub.com/lhp_leandro/status/2114527920362332426#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114526128945717509",
+            "text": "GANHAMOS MEU AMOR!!!!!! GANHAMOS!!!!!!! ⭐️❤️😭😭😭😭",
+            "author_username": "hataics",
+            "author_name": "hataics",
+            "created_at": "2026-10-26T01:14:00+00:00",
+            "permalink": "https://nitter.netbub.com/hataics/status/2114526128945717509#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114526118631854189",
+            "text": "É isso. Ganhamos todos  juntos!",
+            "author_username": "FeimperioLima",
+            "author_name": "FeimperioLima",
+            "created_at": "2026-10-26T01:14:00+00:00",
+            "permalink": "https://nitter.netbub.com/FeimperioLima/status/2114526118631854189#m",
+            "metrics": {
+              "like_count": 24,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114525207151157279",
+            "text": "Culpa de vcs não ganhamos no primeiro turno.\nVc é responsável junto com outros a esse vagabundo do lula ser reeleito.\nVc e sua turma são responsáveis por esses votos inuteis nesse Renan Santos eu tenho vergonha de vocês cara sério mesmo.",
+            "author_username": "zingaplayers",
+            "author_name": "zingaplayers",
+            "created_at": "2026-10-26T01:11:00+00:00",
+            "permalink": "https://nitter.netbub.com/zingaplayers/status/2114525207151157279#m",
+            "metrics": {
+              "like_count": 103,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114524054111830184",
+            "text": "GANHAMOS AMIGAAAA",
+            "author_username": "NotSoKely",
+            "author_name": "NotSoKely",
+            "created_at": "2026-10-26T01:06:00+00:00",
+            "permalink": "https://nitter.netbub.com/NotSoKely/status/2114524054111830184#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114522715230974173",
+            "text": "Estávamos no Wa Bar ontem e ganhamos esse presente do nada, quase chorei de felicidade",
+            "author_username": "hseokvminie",
+            "author_name": "hseokvminie",
+            "created_at": "2026-10-26T01:01:00+00:00",
+            "permalink": "https://nitter.netbub.com/hseokvminie/status/2114522715230974173#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114522698424766792",
+            "text": "Ganhamos!!!! ⭐️⭐️⭐️⭐️\nTetra do nosso presidente",
+            "author_username": "RaquelEtges",
+            "author_name": "RaquelEtges",
+            "created_at": "2026-10-26T01:01:00+00:00",
+            "permalink": "https://nitter.netbub.com/RaquelEtges/status/2114522698424766792#m",
+            "metrics": {
+              "like_count": 27,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114521825250361707",
+            "text": "Mesmo a meta tentando interferir, gol, tam, secretário de transportes em salvador, etc etc..... Ganhamos!!\n\nA luta continua,  o exército é forte, e tem muito o que mudar e melhora.\n\n#LulaPresidente",
+            "author_username": "noconfess",
+            "author_name": "noconfess",
+            "created_at": "2026-10-26T00:57:00+00:00",
+            "permalink": "https://nitter.netbub.com/noconfess/status/2114521825250361707#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114521620194730455",
+            "text": "Amigaaaaaaa ganhamos vou difícil mais conseguimos",
+            "author_username": "KhateryOs",
+            "author_name": "KhateryOs",
+            "created_at": "2026-10-26T00:56:00+00:00",
+            "permalink": "https://nitter.netbub.com/KhateryOs/status/2114521620194730455#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114521566247588139",
+            "text": "Faz o L porra ganhamos.🥳🚩",
+            "author_username": "SaraAra77969956",
+            "author_name": "SaraAra77969956",
+            "created_at": "2026-10-26T00:56:00+00:00",
+            "permalink": "https://nitter.netbub.com/SaraAra77969956/status/2114521566247588139#m",
+            "metrics": {
+              "like_count": 351,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 8
+            }
+          },
+          {
+            "id": "2114520851051663651",
+            "text": "NÓS GANHAMOS, GANHAMOS PELA AMÉRICA, NOSSO PAÍS NÃO SANGRARÁ HOJE!",
+            "author_username": "filtersofjimin_",
+            "author_name": "filtersofjimin_",
+            "created_at": "2026-10-26T00:53:00+00:00",
+            "permalink": "https://nitter.netbub.com/filtersofjimin_/status/2114520851051663651#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114518796358873488",
+            "text": "Ganhamos! LULA, MEU PRESIDENTE 🚩❤️",
+            "author_username": "CarmemRosaAndr1",
+            "author_name": "CarmemRosaAndr1",
+            "created_at": "2026-10-26T00:45:00+00:00",
+            "permalink": "https://nitter.netbub.com/CarmemRosaAndr1/status/2114518796358873488#m",
+            "metrics": {
+              "like_count": 55,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114518595371741257",
+            "text": "Ganhamos...🎇🎇🎇",
+            "author_username": "oviannaf",
+            "author_name": "oviannaf",
+            "created_at": "2026-10-26T00:44:00+00:00",
+            "permalink": "https://nitter.netbub.com/oviannaf/status/2114518595371741257#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114518349904257536",
+            "text": "Ganhamos...🎇🎇🎇",
+            "author_username": "oviannaf",
+            "author_name": "oviannaf",
+            "created_at": "2026-10-26T00:43:00+00:00",
+            "permalink": "https://nitter.netbub.com/oviannaf/status/2114518349904257536#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114517646758600890",
+            "text": "GANHAMOS CARALHO, GANHAMOS",
+            "author_username": "Helleninho",
+            "author_name": "Helleninho",
+            "created_at": "2026-10-26T00:41:00+00:00",
+            "permalink": "https://nitter.netbub.com/Helleninho/status/2114517646758600890#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114516747113939331",
+            "text": "Ganhamos porrAA",
+            "author_username": "Jcm2022gru",
+            "author_name": "Jcm2022gru",
+            "created_at": "2026-10-26T00:37:00+00:00",
+            "permalink": "https://nitter.netbub.com/Jcm2022gru/status/2114516747113939331#m",
+            "metrics": {
+              "like_count": 185,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114516725186134151",
+            "text": "Nem acredito que ganhamos. Que luta. Que sufoco. Que virada. Fizemos história ⭐️♥️ #lula13",
+            "author_username": "willsiky",
+            "author_name": "willsiky",
+            "created_at": "2026-10-26T00:37:00+00:00",
+            "permalink": "https://nitter.netbub.com/willsiky/status/2114516725186134151#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114516375469253031",
+            "text": "GANHAMOS CARALHOOOOOOO! ⭐1️⃣3️⃣",
+            "author_username": "_edumaria_",
+            "author_name": "_edumaria_",
+            "created_at": "2026-10-26T00:36:00+00:00",
+            "permalink": "https://nitter.netbub.com/_edumaria_/status/2114516375469253031#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114516273878945887",
+            "text": "Eu printei e ta aqui flor. Ganhamos.  Governador e presidente 👆🏻🌟🙏🏻",
+            "author_username": "LuanSantiagoo",
+            "author_name": "LuanSantiagoo",
+            "created_at": "2026-10-26T00:35:00+00:00",
+            "permalink": "https://nitter.netbub.com/LuanSantiagoo/status/2114516273878945887#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114515785720770909",
+            "text": "GANHAMOS!⭐️",
+            "author_username": "KamyAybrey",
+            "author_name": "KamyAybrey",
+            "created_at": "2026-10-26T00:33:00+00:00",
+            "permalink": "https://nitter.netbub.com/KamyAybrey/status/2114515785720770909#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114515771820839076",
+            "text": "Ganhamos e o mundo vai aplaudir de pé.\nVamos virar referência mundial na luta contra o fascismo.",
+            "author_username": "dinotvoffline",
+            "author_name": "dinotvoffline",
+            "created_at": "2026-10-26T00:33:00+00:00",
+            "permalink": "https://nitter.netbub.com/dinotvoffline/status/2114515771820839076#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114515497471623506",
+            "text": "Ganhamos...🎇🎇🎇",
+            "author_username": "oviannaf",
+            "author_name": "oviannaf",
+            "created_at": "2026-10-26T00:32:00+00:00",
+            "permalink": "https://nitter.netbub.com/oviannaf/status/2114515497471623506#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114515414416072768",
+            "text": "GANHAMOS!",
+            "author_username": "mylenafraiha",
+            "author_name": "mylenafraiha",
+            "created_at": "2026-10-26T00:32:00+00:00",
+            "permalink": "https://nitter.netbub.com/mylenafraiha/status/2114515414416072768#m",
+            "metrics": {
+              "like_count": 22,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114515387303792828",
+            "text": "Ganhamos...🎇🎇🎇",
+            "author_username": "oviannaf",
+            "author_name": "oviannaf",
+            "created_at": "2026-10-26T00:32:00+00:00",
+            "permalink": "https://nitter.netbub.com/oviannaf/status/2114515387303792828#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114515278264479788",
+            "text": "Ganhamos...🎇🎇🎇",
+            "author_username": "oviannaf",
+            "author_name": "oviannaf",
+            "created_at": "2026-10-26T00:31:00+00:00",
+            "permalink": "https://nitter.netbub.com/oviannaf/status/2114515278264479788#m",
+            "metrics": {
+              "like_count": 212,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114514744073756687",
+            "text": "EXPLODE!!!!\nGANHAMOS!\nESSE PAÍS AINDA TEM JEITO! 💚🇧🇷⭐️",
+            "author_username": "rochatuca_",
+            "author_name": "rochatuca_",
+            "created_at": "2026-10-26T00:29:00+00:00",
+            "permalink": "https://nitter.netbub.com/rochatuca_/status/2114514744073756687#m",
+            "metrics": {
+              "like_count": 198,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 13
+            }
+          },
+          {
+            "id": "2114514719445061948",
+            "text": "Ganhamos...🎇🎇🎇",
+            "author_username": "oviannaf",
+            "author_name": "oviannaf",
+            "created_at": "2026-10-26T00:29:00+00:00",
+            "permalink": "https://nitter.netbub.com/oviannaf/status/2114514719445061948#m",
+            "metrics": {
+              "like_count": 25,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114514687396049029",
+            "text": "Ganhamos porra.",
+            "author_username": "dinotvoffline",
+            "author_name": "dinotvoffline",
+            "created_at": "2026-10-26T00:29:00+00:00",
+            "permalink": "https://nitter.netbub.com/dinotvoffline/status/2114514687396049029#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114514634103226554",
+            "text": "Ganhamos Zé!",
+            "author_username": "GlaucoS13113",
+            "author_name": "GlaucoS13113",
+            "created_at": "2026-10-26T00:29:00+00:00",
+            "permalink": "https://nitter.netbub.com/GlaucoS13113/status/2114514634103226554#m",
+            "metrics": {
+              "like_count": 40,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114514623659753924",
+            "text": "CARALHO GANHAMOS",
+            "author_username": "laahmento",
+            "author_name": "laahmento",
+            "created_at": "2026-10-26T00:29:00+00:00",
+            "permalink": "https://nitter.netbub.com/laahmento/status/2114514623659753924#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114514088441286878",
+            "text": "Em memória aos falecidos na pandemia pela irresponsabilidade do pai, pela soberba do filho e pelos vacilos deles.\n\nGANHAMOS!",
+            "author_username": "seuantialergico",
+            "author_name": "seuantialergico",
+            "created_at": "2026-10-26T00:26:00+00:00",
+            "permalink": "https://nitter.netbub.com/seuantialergico/status/2114514088441286878#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114514061748478418",
+            "text": "CHORA BOLSONARISTAAAS, CHORA CARALHOOOOO, GANHAMOS, PORRA, É LULA NESSE CARALHOOO",
+            "author_username": "Thallyt27695703",
+            "author_name": "Thallyt27695703",
+            "created_at": "2026-10-26T00:26:00+00:00",
+            "permalink": "https://nitter.netbub.com/Thallyt27695703/status/2114514061748478418#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114513277002879195",
+            "text": "Ganhamos porrrra viva a verdadeira democracia",
+            "author_username": "allnight_mm",
+            "author_name": "allnight_mm",
+            "created_at": "2026-10-26T00:23:00+00:00",
+            "permalink": "https://nitter.netbub.com/allnight_mm/status/2114513277002879195#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114512732087021829",
+            "text": "Ganhamos caralho. É Tetra, porra. 1️⃣3️⃣👆\n#Eleições2026 #Lula13 #LulaTetra",
+            "author_username": "ericosouza",
+            "author_name": "ericosouza",
+            "created_at": "2026-10-26T00:21:00+00:00",
+            "permalink": "https://nitter.netbub.com/ericosouza/status/2114512732087021829#m",
+            "metrics": {
+              "like_count": 184,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114512676747616712",
+            "text": "Ganhamos!!!\n🥳🥳🥳🥳🥳🥳🥳🥳",
+            "author_username": "umbigoderobo",
+            "author_name": "umbigoderobo",
+            "created_at": "2026-10-26T00:21:00+00:00",
+            "permalink": "https://nitter.netbub.com/umbigoderobo/status/2114512676747616712#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114512614466154799",
+            "text": "GANHAMOS PORRAAAAAAAA",
+            "author_username": "mafiadacamila",
+            "author_name": "mafiadacamila",
+            "created_at": "2026-10-26T00:21:00+00:00",
+            "permalink": "https://nitter.netbub.com/mafiadacamila/status/2114512614466154799#m",
+            "metrics": {
+              "like_count": 112,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114512475789959377",
+            "text": "GANHAMOS PORRA GANHAMOOSS",
+            "author_username": "htam113184",
+            "author_name": "htam113184",
+            "created_at": "2026-10-26T00:20:00+00:00",
+            "permalink": "https://nitter.netbub.com/htam113184/status/2114512475789959377#m",
+            "metrics": {
+              "like_count": 55,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114512329480028226",
+            "text": "Cada voto importou bastante. \nAgora meu choro é de alegria . A democracia vai continuar no brasil 🙏🏻🌟👆🏻. Nao adiantou tentar para onibus,avião, barcos etc. Nós, o povo, ganhamos na democracia. 🙏🏻🕊",
+            "author_username": "LuanSantiagoo",
+            "author_name": "LuanSantiagoo",
+            "created_at": "2026-10-26T00:19:00+00:00",
+            "permalink": "https://nitter.netbub.com/LuanSantiagoo/status/2114512329480028226#m",
+            "metrics": {
+              "like_count": 33,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114512238081937770",
+            "text": "Ganhamos porraaaaaaaaaaaaa",
+            "author_username": "matematico_l1z0",
+            "author_name": "matematico_l1z0",
+            "created_at": "2026-10-26T00:19:00+00:00",
+            "permalink": "https://nitter.netbub.com/matematico_l1z0/status/2114512238081937770#m",
+            "metrics": {
+              "like_count": 40,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114512165344563378",
+            "text": "ganhamos da META, da CIA, do MOSSAD, do neopentecostalismo\n\nNADA explica lula",
+            "author_username": "targinu",
+            "author_name": "targinu",
+            "created_at": "2026-10-26T00:19:00+00:00",
+            "permalink": "https://nitter.netbub.com/targinu/status/2114512165344563378#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114511944409395495",
+            "text": "GANHAMOS PORRAAAAA",
+            "author_username": "ebonyeyees",
+            "author_name": "ebonyeyees",
+            "created_at": "2026-10-26T00:18:00+00:00",
+            "permalink": "https://nitter.netbub.com/ebonyeyees/status/2114511944409395495#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114511803900141965",
+            "text": "É 13! GANHAMOS, CACETE!!!!\n\nO CARA É UM FENÔMENO! A HISTÓRIA PRECISA HONRAR ESSE NOME: LULA!!! ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐",
+            "author_username": "deedeeftn",
+            "author_name": "deedeeftn",
+            "created_at": "2026-10-26T00:17:00+00:00",
+            "permalink": "https://nitter.netbub.com/deedeeftn/status/2114511803900141965#m",
+            "metrics": {
+              "like_count": 85,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114511786812526787",
+            "text": "DE VIRADA PQP GANHAMOS!!!!!!!!!!!!!!!!! \n#LulaOMaiorDeTodos #LulaReeleito",
+            "author_username": "_carolinna0",
+            "author_name": "_carolinna0",
+            "created_at": "2026-10-26T00:17:00+00:00",
+            "permalink": "https://nitter.netbub.com/_carolinna0/status/2114511786812526787#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114511716885438865",
+            "text": "GANHAMOS BUCETAAAAAAAAAAAA",
+            "author_username": "aethermota",
+            "author_name": "aethermota",
+            "created_at": "2026-10-26T00:17:00+00:00",
+            "permalink": "https://nitter.netbub.com/aethermota/status/2114511716885438865#m",
+            "metrics": {
+              "like_count": 56,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114511579085443226",
+            "text": "GANHAMOS! #Lula13",
+            "author_username": "cissiparidade",
+            "author_name": "cissiparidade",
+            "created_at": "2026-10-26T00:17:00+00:00",
+            "permalink": "https://nitter.netbub.com/cissiparidade/status/2114511579085443226#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114511411724386668",
+            "text": "GANHAMOS, PORRA!!!!\n\nNoite mais feliz da minha vida ❤️",
+            "author_username": "diegoquaglia2",
+            "author_name": "diegoquaglia2",
+            "created_at": "2026-10-26T00:16:00+00:00",
+            "permalink": "https://nitter.netbub.com/diegoquaglia2/status/2114511411724386668#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 5,
+              "retweet_count": 13,
+              "quote_count": 130
+            }
+          },
+          {
+            "id": "2114511170006929702",
+            "text": "Ganhamos porraaaaaaaaa",
+            "author_username": "Iagomendx",
+            "author_name": "Iagomendx",
+            "created_at": "2026-10-26T00:15:00+00:00",
+            "permalink": "https://nitter.netbub.com/Iagomendx/status/2114511170006929702#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114511142873932007",
+            "text": "GANHAMOS CONTRA TUDO E CONTRA TODOOOOOS",
+            "author_username": "railsonhallas",
+            "author_name": "railsonhallas",
+            "created_at": "2026-10-26T00:15:00+00:00",
+            "permalink": "https://nitter.netbub.com/railsonhallas/status/2114511142873932007#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114511131725222289",
+            "text": "EU TO CHORANDO CARALHO, GANHAMOS GANHAMOS GANHAMOS",
+            "author_username": "lelmoss",
+            "author_name": "lelmoss",
+            "created_at": "2026-10-26T00:15:00+00:00",
+            "permalink": "https://nitter.netbub.com/lelmoss/status/2114511131725222289#m",
+            "metrics": {
+              "like_count": 39,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114511004969189693",
+            "text": "GANHAMOS",
+            "author_username": "Mirismebarak",
+            "author_name": "Mirismebarak",
+            "created_at": "2026-10-26T00:14:00+00:00",
+            "permalink": "https://nitter.netbub.com/Mirismebarak/status/2114511004969189693#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114510969325937058",
+            "text": "Ganhamos!!!!\n#Lula",
+            "author_username": "brunom9",
+            "author_name": "brunom9",
+            "created_at": "2026-10-26T00:14:00+00:00",
+            "permalink": "https://nitter.netbub.com/brunom9/status/2114510969325937058#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114510926279741552",
+            "text": "GANHAMOS PORRA!!!!",
+            "author_username": "rocknurse79",
+            "author_name": "rocknurse79",
+            "created_at": "2026-10-26T00:14:00+00:00",
+            "permalink": "https://nitter.netbub.com/rocknurse79/status/2114510926279741552#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114510401907888166",
+            "text": "Ganhamos ⭐️❤️",
+            "author_username": "Dinho1921",
+            "author_name": "Dinho1921",
+            "created_at": "2026-10-26T00:12:00+00:00",
+            "permalink": "https://nitter.netbub.com/Dinho1921/status/2114510401907888166#m",
+            "metrics": {
+              "like_count": 304,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114510318520938593",
+            "text": "GANHAMOS! ⭐🎉🎇",
+            "author_username": "EvelineZurobski",
+            "author_name": "EvelineZurobski",
+            "created_at": "2026-10-26T00:12:00+00:00",
+            "permalink": "https://nitter.netbub.com/EvelineZurobski/status/2114510318520938593#m",
+            "metrics": {
+              "like_count": 81,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114510307426972060",
+            "text": "GANHAMOS PORRA! VIVA A DEMOCRACIA!",
+            "author_username": "offdilaurentix",
+            "author_name": "offdilaurentix",
+            "created_at": "2026-10-26T00:11:00+00:00",
+            "permalink": "https://nitter.netbub.com/offdilaurentix/status/2114510307426972060#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114510305258549568",
+            "text": "GANHAMOS🙏🙏 O BRASIL A DEMOCRACIA GANHOU 1️⃣3️⃣🇧🇷🫶",
+            "author_username": "gustuzumakisa",
+            "author_name": "gustuzumakisa",
+            "created_at": "2026-10-26T00:11:00+00:00",
+            "permalink": "https://nitter.netbub.com/gustuzumakisa/status/2114510305258549568#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114510304641953862",
+            "text": "GANHAMOS CARALHOOOOOO",
+            "author_username": "dixseptmai96",
+            "author_name": "dixseptmai96",
+            "created_at": "2026-10-26T00:11:00+00:00",
+            "permalink": "https://nitter.netbub.com/dixseptmai96/status/2114510304641953862#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114510105878093941",
+            "text": "GANHAMOS CARALHOOOOOOOOO",
+            "author_username": "quichedepalmito",
+            "author_name": "quichedepalmito",
+            "created_at": "2026-10-26T00:11:00+00:00",
+            "permalink": "https://nitter.netbub.com/quichedepalmito/status/2114510105878093941#m",
+            "metrics": {
+              "like_count": 43,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114510070675390736",
+            "text": "Ganhamos 💚🇧🇷1️⃣3️⃣🫶🙏",
+            "author_username": "gustuzumakisa",
+            "author_name": "gustuzumakisa",
+            "created_at": "2026-10-26T00:11:00+00:00",
+            "permalink": "https://nitter.netbub.com/gustuzumakisa/status/2114510070675390736#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114509974873289002",
+            "text": "NÓS VIRAMOS NÓS GANHAMOS VTNC FAMÍLIA BOLSONARO ❤️⭐️🇧🇷✊️",
+            "author_username": "lucomentxs",
+            "author_name": "lucomentxs",
+            "created_at": "2026-10-26T00:10:00+00:00",
+            "permalink": "https://nitter.netbub.com/lucomentxs/status/2114509974873289002#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114509869071937619",
+            "text": "GANHAMOS MEU DEUS GANHAMOS",
+            "author_username": "ffckalone",
+            "author_name": "ffckalone",
+            "created_at": "2026-10-26T00:10:00+00:00",
+            "permalink": "https://nitter.netbub.com/ffckalone/status/2114509869071937619#m",
+            "metrics": {
+              "like_count": 63,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114509733755498828",
+            "text": "GANHAMOS!!!!! 🎊🎊🎊🎊🎊",
+            "author_username": "fbrsp1",
+            "author_name": "fbrsp1",
+            "created_at": "2026-10-26T00:09:00+00:00",
+            "permalink": "https://nitter.netbub.com/fbrsp1/status/2114509733755498828#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114509503588962660",
+            "text": "Ganhamos",
+            "author_username": "Lottwaraha",
+            "author_name": "Lottwaraha",
+            "created_at": "2026-10-26T00:08:00+00:00",
+            "permalink": "https://nitter.netbub.com/Lottwaraha/status/2114509503588962660#m",
+            "metrics": {
+              "like_count": 44,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114509280858743045",
+            "text": "Fora quadrilha bolsonaro. \nGANHAMOS PORRA",
+            "author_username": "carolin8285543",
+            "author_name": "carolin8285543",
+            "created_at": "2026-10-26T00:07:00+00:00",
+            "permalink": "https://nitter.netbub.com/carolin8285543/status/2114509280858743045#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114508561657016337",
+            "text": "GANHAMOS MEU DEUSSSSSSS",
+            "author_username": "sietepielecla",
+            "author_name": "sietepielecla",
+            "created_at": "2026-10-26T00:05:00+00:00",
+            "permalink": "https://nitter.netbub.com/sietepielecla/status/2114508561657016337#m",
+            "metrics": {
+              "like_count": 68,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114508112443122169",
+            "text": "Ganhamos ou não?",
+            "author_username": "ericdgrr",
+            "author_name": "ericdgrr",
+            "created_at": "2026-10-26T00:03:00+00:00",
+            "permalink": "https://nitter.netbub.com/ericdgrr/status/2114508112443122169#m",
+            "metrics": {
+              "like_count": 178,
+              "reply_count": 6,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114507614197317748",
+            "text": "Ganhamos",
+            "author_username": "infelixmind",
+            "author_name": "infelixmind",
+            "created_at": "2026-10-26T00:01:00+00:00",
+            "permalink": "https://nitter.netbub.com/infelixmind/status/2114507614197317748#m",
+            "metrics": {
+              "like_count": 25,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114506971462168951",
+            "text": "GANHAMOS???\nPELO AMOR DE DEUS",
+            "author_username": "nudesutrera",
+            "author_name": "nudesutrera",
+            "created_at": "2026-10-25T23:58:00+00:00",
+            "permalink": "https://nitter.netbub.com/nudesutrera/status/2114506971462168951#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114506701378310161",
+            "text": "GENTE...\nMeio que GANHAMOS.",
+            "author_username": "filosoboni",
+            "author_name": "filosoboni",
+            "created_at": "2026-10-25T23:57:00+00:00",
+            "permalink": "https://nitter.netbub.com/filosoboni/status/2114506701378310161#m",
+            "metrics": {
+              "like_count": 351,
+              "reply_count": 0,
+              "retweet_count": 3,
+              "quote_count": 18
+            }
+          },
+          {
+            "id": "2114505673840943316",
+            "text": "GANHAMOS 🤍",
+            "author_username": "Viih_Gates",
+            "author_name": "Viih_Gates",
+            "created_at": "2026-10-25T23:53:00+00:00",
+            "permalink": "https://nitter.netbub.com/Viih_Gates/status/2114505673840943316#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114505187633049772",
+            "text": "GANHAMOS ❤️🚩\n\nACABOU PORAAAAAAA",
+            "author_username": "eduardodebem",
+            "author_name": "eduardodebem",
+            "created_at": "2026-10-25T23:51:00+00:00",
+            "permalink": "https://nitter.netbub.com/eduardodebem/status/2114505187633049772#m",
+            "metrics": {
+              "like_count": 44,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114504721301979207",
+            "text": "Ganhamos",
+            "author_username": "Thaisicess",
+            "author_name": "Thaisicess",
+            "created_at": "2026-10-25T23:49:00+00:00",
+            "permalink": "https://nitter.netbub.com/Thaisicess/status/2114504721301979207#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114398313327833543",
+            "text": "@eduardoaffonso \n\nBom dia, combatentes do Exército da Democracia!\nDaqui a pouco é hora de irmos para as trincheiras defender o país contra a ameaça do fascismo, representada por José Serra.  Ops, desculpe, errei a data: isso foi em 2002.\nA luta é contra o fascista Geraldo Alckmin. Não, não, foi mal: ele era fascista em 2006, mas regenerou.\nA batalha de hoje é contra o fascismo de Serra, de novo. Mas isso não foi em 2010? Foi.\nÉ outro fascismo o que será derrotado hoje, o de Marina Silva. E o nazismo de Aécio. Peralá, isso foi em 2014.\nDeixa eu pegar o calendário e começar de novo.\nTemos de derrotar o fascista Michel Temer, no golpe fascista contra a companheira presidenta. Pois é, o Temer não era fascista em 2014, mas sabe como é, a pessoa pega fascismo sem que a gente perceba.\nVamos enfrentar o fascismo de Jair Bolsonaro. Isso! Esse é fascista-raiz. Ah, mas não é mais 2018. Não importa, ele vai continuar ainda mais fascista (e golpista) em 2022.\nOk, agora acertei o calendário: estamos em 2026. Já derrotamos o fascista Zema, o fascista Caiado, o fascista Cury, o fascista Renan e o fascista Ruy. Falta o fascista-baby, Flávio.\nPoderiam ter sido os fascistas Eduardo Leite, Ratinho Júnior, Simone Tebet, ou, lá atrás, os fascistas Tancredo Neves, Ulysses Guimarães. Sim, tudo fascista. Tenho de rever aqui, mas acho que até o Brizola era fascista.\nE como saber se alguém é fascista? Simples: só olhar o número na urna: se não for o nosso, é fascista. Ou, para a coisa não ficar muito monótona, nazista. Ou nazifascista, porque pode parecer que “fascista” é um carimbo que a gente sai aplicando em todo mundo que ousa disputar uma eleição contra a gente.\nSim, ganhamos do fascismo em 2002, 2006, 2010, 2014 – mas sabe como é, 16 anos é muito pouco para uma democracia crescer forte e saudável, à prova de fascismo. E teve o golpe de 2016. E a inexplicável vitória fascista de 2018. Mas tornamos a derrotar o fascismo em 2022 e precisamos derrotá-lo de novo em 2026, 2030, 2034 e 2038.\nPorque se o fascismo vencer acaba a democracia. É a barbárie. Nós somos a civilização. Nós defendemos os direitos da maioria (nós) e das minorias (nós também). Quem estiver contra nós é contra a maioria, contra a minoria, contra a democracia. Logo, é fascista.\nEntão, companheiro eleitor, vá logo para a sua seção eleitoral (há previsão de uma chuva fascista hoje) e, como já ganhamos de lavada (segundo as nossas pesquisas) mas as pesquisas fascistas apontam um empate técnico (fascista, obviamente), converse e tente virar o voto daqueles fascistas que não nos aceitam como o Caminho, a Verdade e a Vida. Convença-os de que ninguém chega à Democracia senão por nós.\nA batalha final começa agora às 8h. Estejamos a postos para combater as bestas fascistas do Apocalipse eleitoral.\nExija que todos os seus conhecidos declarem voto.\nExponha publicamente os fascistas do seu prédio, do seu trabalho, da sua rua.\nXingue desconhecidos nas redes sociais.\nNinguém solta a mão de fascista nenhum até que ele tenha reconhecido nossa superioridade moral (e que precisa ser também numérica, ou a Democracia está perdida).\nAbaixo o fascismo. Abaixo o totalitarismo. O amor vencerá o medo.\n~\n(Isto é uma obra de ficção. Qualquer semelhança com fatos reais verídicos e acontecidos terá sido mera coincidêndia. Fascista, naturalmente.)",
+            "author_username": "andreaerasmi",
+            "author_name": "andreaerasmi",
+            "created_at": "2026-10-25T16:46:00+00:00",
+            "permalink": "https://nitter.netbub.com/andreaerasmi/status/2114398313327833543#m",
+            "metrics": {
+              "like_count": 187,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114394541545443679",
+            "text": "Hoje fui, com muito orgulho, votar mais uma vez em @LulaOficial, o maior líder popular desse país !\nFoi a última vez que votei em Lula mas foi uma honra e uma alegria votar nele todas as vezes, quando perdemos em 90, 94 e 98 e quando ganhamos em 02, 06 e 22\nObrigado por tudo Lula",
+            "author_username": "LeandroMorett10",
+            "author_name": "LeandroMorett10",
+            "created_at": "2026-10-25T16:31:00+00:00",
+            "permalink": "https://nitter.netbub.com/LeandroMorett10/status/2114394541545443679#m",
+            "metrics": {
+              "like_count": 95,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114378579983176036",
+            "text": "Pelo X já ganhamos, só tem lula nos tts\n#HojeEuVotoLula",
+            "author_username": "JocenaraLealP",
+            "author_name": "JocenaraLealP",
+            "created_at": "2026-10-25T15:28:00+00:00",
+            "permalink": "https://nitter.netbub.com/JocenaraLealP/status/2114378579983176036#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114371833516425514",
+            "text": "Já ganhamos na CHINA 🌻🥰🥰",
+            "author_username": "LuckasC3",
+            "author_name": "LuckasC3",
+            "created_at": "2026-10-25T15:01:00+00:00",
+            "permalink": "https://nitter.netbub.com/LuckasC3/status/2114371833516425514#m",
+            "metrics": {
+              "like_count": 53,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114326437394067900",
+            "text": "Independente do resultado das urnas, nós já ganhamos! \nGanhamos a união de um exército nas ruas e nas redes, lutando pela democracia!\nFoi lindo entrar para a história com vocês!",
+            "author_username": "celia_maiara",
+            "author_name": "celia_maiara",
+            "created_at": "2026-10-25T12:01:00+00:00",
+            "permalink": "https://nitter.netbub.com/celia_maiara/status/2114326437394067900#m",
+            "metrics": {
+              "like_count": 149,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 16
+            }
+          },
+          {
+            "id": "2114173298816806988",
+            "text": "O que não ganhamos pela copa ganharemos elegendo novamente Luiz Inácio Lula da Silva!!!!\nAmanhã é 13!!!!!\n\n#LulaVaiVirar \n#LulaPelaDemocracia \n#LulaVaiVencer1️⃣3️⃣",
+            "author_username": "starlightkitsun",
+            "author_name": "starlightkitsun",
+            "created_at": "2026-10-25T01:52:00+00:00",
+            "permalink": "https://nitter.netbub.com/starlightkitsun/status/2114173298816806988#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114151595952701656",
+            "text": "Tô zero aí! Em 87 ganhamos legitimamente e tem essa lenga lenga até hoje.",
+            "author_username": "regraciano",
+            "author_name": "regraciano",
+            "created_at": "2026-10-25T00:26:00+00:00",
+            "permalink": "https://nitter.netbub.com/regraciano/status/2114151595952701656#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          }
+        ],
+        "comments": [
+          {
+            "id": "2114681248996118989",
+            "text": "#LulaMaiorDoMundo #VitoriaDaDemocracia #LulaOBrasilTeAma\n #DeViradaEMaisGostoso\n#ObrigadoJanones",
+            "author_username": "MValle31147",
+            "author_name": "MValle31147",
+            "created_at": "2026-10-26T11:31:00+00:00",
+            "permalink": "https://nitter.netbub.com/MValle31147/status/2114681248996118989#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114674968021660045",
+            "parent_comment_id": "2114674968021660045",
+            "depth": 1
+          },
+          {
+            "id": "2114614679297310866",
+            "text": "Próximo jogo a gnt resolve",
+            "author_username": "ruina_as",
+            "author_name": "ruina_as",
+            "created_at": "2026-10-26T07:06:00+00:00",
+            "permalink": "https://nitter.netbub.com/ruina_as/status/2114614679297310866#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114604322352779298",
+            "parent_comment_id": "2114604322352779298",
+            "depth": 1
+          },
+          {
+            "id": "2114589538475766259",
+            "text": "!!!!!",
+            "author_username": "bi0degradavel",
+            "author_name": "bi0degradavel",
+            "created_at": "2026-10-26T05:26:00+00:00",
+            "permalink": "https://nitter.netbub.com/bi0degradavel/status/2114589538475766259#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114580734425878650",
+            "parent_comment_id": "2114580734425878650",
+            "depth": 1
+          },
+          {
+            "id": "2114557180212814206",
+            "text": "Deu tudo certo! O bem venceu ⭐️",
+            "author_username": "7otape",
+            "author_name": "7otape",
+            "created_at": "2026-10-26T03:18:00+00:00",
+            "permalink": "https://nitter.netbub.com/7otape/status/2114557180212814206#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114555229039464682",
+            "parent_comment_id": "2114555229039464682",
+            "depth": 1
+          }
+        ],
+        "pagination": {
+          "pages_collected": 51,
+          "instance_used": "https://nitter.netbub.com"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "assuntos_x_momento_ate_26out21h_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114802050911650057",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114802050911650057",
+      "collected_at": "2026-10-26T17:22:58-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114802050911650057",
+        "text": "NÃO GANHAMOS A COPA, MAS GANHAMOS A ELEIÇÃO! ⭐❤️",
+        "author_username": "nunesaccl",
+        "author_name": "nunesaccl",
+        "created_at": "2026-10-26T19:31:00+00:00",
+        "permalink": "https://nitter.netbub.com/nunesaccl/status/2114802050911650057#m",
+        "metrics": {
+          "like_count": 36,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114782341319082355",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114782341319082355",
+      "collected_at": "2026-10-26T17:22:58-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114782341319082355",
+        "text": "Chorando por 5 mil votos? Pode ficar com os 5 mil todos pro Flávio, nois ainda ganhamos com mais 4 milhões de votos, chora bonequinha!",
+        "author_username": "MariOli14kk",
+        "author_name": "MariOli14kk",
+        "created_at": "2026-10-26T18:12:00+00:00",
+        "permalink": "https://nitter.netbub.com/MariOli14kk/status/2114782341319082355#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114762806192898460",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114762806192898460",
+      "collected_at": "2026-10-26T17:22:58-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114762806192898460",
+        "text": "Essa eleição me pareceu mais um arco de onepiece, agora que ganhamos tô me sentindo em dressrosa comemorando depois do Luffy dar o último soco no Doflamingo",
+        "author_username": "mihagesilva",
+        "author_name": "mihagesilva",
+        "created_at": "2026-10-26T16:55:00+00:00",
+        "permalink": "https://nitter.netbub.com/mihagesilva/status/2114762806192898460#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114750461970436206",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114750461970436206",
+      "collected_at": "2026-10-26T17:22:58-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114750461970436206",
+        "text": "SÓ GANHAMOS POR CAUSA DELES 🥹😭",
+        "author_username": "letborgxs",
+        "author_name": "letborgxs",
+        "created_at": "2026-10-26T16:06:00+00:00",
+        "permalink": "https://nitter.netbub.com/letborgxs/status/2114750461970436206#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114749929260220485",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114749929260220485",
+      "collected_at": "2026-10-26T17:22:58-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114749929260220485",
+        "text": "Nós ganhamos as eleições e estamos falando de esperança e de um Brasil Soberano. Eles perderam e estão matando pessoas, destruindo as coisas. Nunca foi difícil escolher.\n#LulaMaiorDoMundo",
+        "author_username": "artemis_rouge",
+        "author_name": "artemis_rouge",
+        "created_at": "2026-10-26T16:04:00+00:00",
+        "permalink": "https://nitter.netbub.com/artemis_rouge/status/2114749929260220485#m",
+        "metrics": {
+          "like_count": 296,
+          "reply_count": 0,
+          "retweet_count": 6,
+          "quote_count": 22
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114742235900043404",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114742235900043404",
+      "collected_at": "2026-10-26T17:22:58-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114742235900043404",
+        "text": "AGORA, PELO AMOR DE DEUS ,TODOS CUMPRAM AS SUAS PROMESSAS!! GANHAMOS, AGORA É AGRADECER E CUMPRIR! # LULATETRA",
+        "author_username": "Rosaleo60035472",
+        "author_name": "Rosaleo60035472",
+        "created_at": "2026-10-26T15:33:00+00:00",
+        "permalink": "https://nitter.netbub.com/Rosaleo60035472/status/2114742235900043404#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114711664222171148",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114711664222171148",
+      "collected_at": "2026-10-26T17:22:58-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114711664222171148",
+        "text": "LULA GANHA E GANHAMOS SEMANA DUPLA DE OP 🫶🏽⭐🙏🏽",
+        "author_username": "churasteio",
+        "author_name": "churasteio",
+        "created_at": "2026-10-26T13:32:00+00:00",
+        "permalink": "https://nitter.netbub.com/churasteio/status/2114711664222171148#m",
+        "metrics": {
+          "like_count": 30,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114674968021660045",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114674968021660045",
+      "collected_at": "2026-10-26T17:22:58-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114674968021660045",
+        "text": "Ganhamos!",
+        "author_username": "marcelo6194",
+        "author_name": "marcelo6194",
+        "created_at": "2026-10-26T11:06:00+00:00",
+        "permalink": "https://nitter.netbub.com/marcelo6194/status/2114674968021660045#m",
+        "metrics": {
+          "like_count": 21,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      }
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:raw:comment:2114681248996118989",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114681248996118989",
+      "post_id": "2114674968021660045",
+      "collected_at": "2026-10-26T17:22:58-03:00",
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114681248996118989",
+        "text": "#LulaMaiorDoMundo #VitoriaDaDemocracia #LulaOBrasilTeAma\n #DeViradaEMaisGostoso\n#ObrigadoJanones",
+        "author_username": "MValle31147",
+        "author_name": "MValle31147",
+        "created_at": "2026-10-26T11:31:00+00:00",
+        "permalink": "https://nitter.netbub.com/MValle31147/status/2114681248996118989#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114674968021660045",
+        "parent_comment_id": "2114674968021660045",
+        "depth": 1
+      }
+    }
+  ]
+}
