@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Lula",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "74818341-0c08-431c-904b-9ece9a8b1f49",
+    "collected_at": "2026-10-25T22:52:42-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 0,
+      "comments": 0,
+      "records_total": 0,
+      "skipped_duplicate": 0
+    },
+    "collector_pages": [
+      {
+        "posts": [],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 1,
+          "instance_used": "https://nitter.xitter.cc"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "assuntos_x_momento_ate_26out21h_20261025"
+  },
+  "posts": [],
+  "comments": []
+}
