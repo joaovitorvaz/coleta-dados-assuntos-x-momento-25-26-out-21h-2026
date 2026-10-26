@@ -1,0 +1,1079 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "VIVA A DEMOCRACIA",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+    "collected_at": "2026-10-26T12:17:38-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 14,
+      "comments": 2,
+      "records_total": 16,
+      "skipped_duplicate": 80
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114733052337201358",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114733052337201358",
+      "parent_post_id": null,
+      "thread_root_id": "2114733052337201358",
+      "author": {
+        "platform_id": null,
+        "display_name": "lucomentxs",
+        "username": "lucomentxs",
+        "profile_url": "https://x.com/lucomentxs"
+      },
+      "text": "Acordei hoje sentindo que minha vida voltou ao eixo, respirei fundo, nós comseguimos que alívio. Acho que agora consigo ocupar minha cabeça com minhas coisinhas novamente ⭐️❤️✊️ viva a democracia",
+      "created_at": "2026-10-26T14:57:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T12:17:38-03:00",
+      "permalink": "https://nitter.meowing.monster/lucomentxs/status/2114733052337201358#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114733052337201358",
+        "text": "Acordei hoje sentindo que minha vida voltou ao eixo, respirei fundo, nós comseguimos que alívio. Acho que agora consigo ocupar minha cabeça com minhas coisinhas novamente ⭐️❤️✊️ viva a democracia",
+        "author_username": "lucomentxs",
+        "author_name": "lucomentxs",
+        "created_at": "2026-10-26T14:57:00+00:00",
+        "permalink": "https://nitter.meowing.monster/lucomentxs/status/2114733052337201358#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 195,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114726971372417157",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114726971372417157",
+      "parent_post_id": null,
+      "thread_root_id": "2114726971372417157",
+      "author": {
+        "platform_id": null,
+        "display_name": "Teo1650604",
+        "username": "Teo1650604",
+        "profile_url": "https://x.com/Teo1650604"
+      },
+      "text": "Parabéns ao povo paraíbano pelo espírito patriótico e por proteger a democracia e liberdade!\nVIVA A PARAÍBA, AO NORDESTE!\nVIVA A DEMOCRACIA!",
+      "created_at": "2026-10-26T14:32:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T12:17:38-03:00",
+      "permalink": "https://nitter.meowing.monster/Teo1650604/status/2114726971372417157#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114726971372417157",
+        "text": "Parabéns ao povo paraíbano pelo espírito patriótico e por proteger a democracia e liberdade!\nVIVA A PARAÍBA, AO NORDESTE!\nVIVA A DEMOCRACIA!",
+        "author_username": "Teo1650604",
+        "author_name": "Teo1650604",
+        "created_at": "2026-10-26T14:32:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Teo1650604/status/2114726971372417157#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 140,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114726905236594828",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114726905236594828",
+      "parent_post_id": null,
+      "thread_root_id": "2114726905236594828",
+      "author": {
+        "platform_id": null,
+        "display_name": "Mariliaofreitas",
+        "username": "Mariliaofreitas",
+        "profile_url": "https://x.com/Mariliaofreitas"
+      },
+      "text": "Com muito orgulho manas e manos, nossa bandeira sempre foi vermelha com uma estrela no meio!!!! Viva a democracia!!!! ✊🏿❤️🇧🇷",
+      "created_at": "2026-10-26T14:32:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T12:17:38-03:00",
+      "permalink": "https://nitter.meowing.monster/Mariliaofreitas/status/2114726905236594828#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114726905236594828",
+        "text": "Com muito orgulho manas e manos, nossa bandeira sempre foi vermelha com uma estrela no meio!!!! Viva a democracia!!!! ✊🏿❤️🇧🇷",
+        "author_username": "Mariliaofreitas",
+        "author_name": "Mariliaofreitas",
+        "created_at": "2026-10-26T14:32:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Mariliaofreitas/status/2114726905236594828#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 124,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114697985309171726",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114697985309171726",
+      "parent_post_id": null,
+      "thread_root_id": "2114697985309171726",
+      "author": {
+        "platform_id": null,
+        "display_name": "fefe2278",
+        "username": "fefe2278",
+        "profile_url": "https://x.com/fefe2278"
+      },
+      "text": "Vc votou 22 e assim como eu não tem direito a nada\nVIVA A DEMOCRACIA",
+      "created_at": "2026-10-26T12:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T12:17:38-03:00",
+      "permalink": "https://nitter.meowing.monster/fefe2278/status/2114697985309171726#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114697985309171726",
+        "text": "Vc votou 22 e assim como eu não tem direito a nada\nVIVA A DEMOCRACIA",
+        "author_username": "fefe2278",
+        "author_name": "fefe2278",
+        "created_at": "2026-10-26T12:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/fefe2278/status/2114697985309171726#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 68,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114685721743180169",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114685721743180169",
+      "parent_post_id": null,
+      "thread_root_id": "2114685721743180169",
+      "author": {
+        "platform_id": null,
+        "display_name": "Anderson_Evange",
+        "username": "Anderson_Evange",
+        "profile_url": "https://x.com/Anderson_Evange"
+      },
+      "text": "Eu conheço muito petista mau caráter, de verdade, mas quando eu vejo figuras igual a você, eu sei que tem gente boq de ambos os lados. Democracia é isso aí, coisa linda a pessoa pode ser posicionar, Viva o processo democrático",
+      "created_at": "2026-10-26T11:48:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T12:17:38-03:00",
+      "permalink": "https://nitter.meowing.monster/Anderson_Evange/status/2114685721743180169#m",
+      "metrics": {
+        "like_count": 20,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114685721743180169",
+        "text": "Eu conheço muito petista mau caráter, de verdade, mas quando eu vejo figuras igual a você, eu sei que tem gente boq de ambos os lados. Democracia é isso aí, coisa linda a pessoa pode ser posicionar, Viva o processo democrático",
+        "author_username": "Anderson_Evange",
+        "author_name": "Anderson_Evange",
+        "created_at": "2026-10-26T11:48:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Anderson_Evange/status/2114685721743180169#m",
+        "metrics": {
+          "like_count": 20,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 226,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114685185987883397",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114685185987883397",
+      "parent_post_id": null,
+      "thread_root_id": "2114685185987883397",
+      "author": {
+        "platform_id": null,
+        "display_name": "Adriano_SouEu",
+        "username": "Adriano_SouEu",
+        "profile_url": "https://x.com/Adriano_SouEu"
+      },
+      "text": "Hoje e meu aniversário, poderiam me mandar um presente né @bebaxequemate ?\n\nViva a democracia",
+      "created_at": "2026-10-26T11:46:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T12:17:38-03:00",
+      "permalink": "https://nitter.meowing.monster/Adriano_SouEu/status/2114685185987883397#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114685185987883397",
+        "text": "Hoje e meu aniversário, poderiam me mandar um presente né @bebaxequemate ?\n\nViva a democracia",
+        "author_username": "Adriano_SouEu",
+        "author_name": "Adriano_SouEu",
+        "created_at": "2026-10-26T11:46:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Adriano_SouEu/status/2114685185987883397#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 93,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114684598533640570",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114684598533640570",
+      "parent_post_id": null,
+      "thread_root_id": "2114684598533640570",
+      "author": {
+        "platform_id": null,
+        "display_name": "jackiieshanna",
+        "username": "jackiieshanna",
+        "profile_url": "https://x.com/jackiieshanna"
+      },
+      "text": "Cheia de promessa pra pagar!\nMas feliz pra caralho!\nViva a democracia!!!!!",
+      "created_at": "2026-10-26T11:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T12:17:38-03:00",
+      "permalink": "https://nitter.meowing.monster/jackiieshanna/status/2114684598533640570#m",
+      "metrics": {
+        "like_count": 16,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114684598533640570",
+        "text": "Cheia de promessa pra pagar!\nMas feliz pra caralho!\nViva a democracia!!!!!",
+        "author_username": "jackiieshanna",
+        "author_name": "jackiieshanna",
+        "created_at": "2026-10-26T11:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/jackiieshanna/status/2114684598533640570#m",
+        "metrics": {
+          "like_count": 16,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 74,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114680232384790559",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114680232384790559",
+      "parent_post_id": null,
+      "thread_root_id": "2114680232384790559",
+      "author": {
+        "platform_id": null,
+        "display_name": "amaiatfaria",
+        "username": "amaiatfaria",
+        "profile_url": "https://x.com/amaiatfaria"
+      },
+      "text": "Bom dia de hoje, bom dia de amanhã, quarta, quinta sexta sábado e domingo dos próximos quatro anos! Viva a democracia!",
+      "created_at": "2026-10-26T11:27:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T12:17:38-03:00",
+      "permalink": "https://nitter.meowing.monster/amaiatfaria/status/2114680232384790559#m",
+      "metrics": {
+        "like_count": 76,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 4
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114680232384790559",
+        "text": "Bom dia de hoje, bom dia de amanhã, quarta, quinta sexta sábado e domingo dos próximos quatro anos! Viva a democracia!",
+        "author_username": "amaiatfaria",
+        "author_name": "amaiatfaria",
+        "created_at": "2026-10-26T11:27:00+00:00",
+        "permalink": "https://nitter.meowing.monster/amaiatfaria/status/2114680232384790559#m",
+        "metrics": {
+          "like_count": 76,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 4
+        }
+      },
+      "normalized": {
+        "text_length": 118,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114673755590975588",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114673755590975588",
+      "parent_post_id": null,
+      "thread_root_id": "2114673755590975588",
+      "author": {
+        "platform_id": null,
+        "display_name": "JonasLupus",
+        "username": "JonasLupus",
+        "profile_url": "https://x.com/JonasLupus"
+      },
+      "text": "Um cientista gostoso passando pra desejar um bom dia pra você! 🌻 Viva a ciência, a educação, a democracia, a diversidade e a paz! ⭐\n.\n.\n.\n.\n.\n. cc @EstebanEneko\n.\n.\n.\n.\n#peludo #barbudo #piscina #sunga #lgbtbrasil",
+      "created_at": "2026-10-26T11:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T12:17:38-03:00",
+      "permalink": "https://nitter.meowing.monster/JonasLupus/status/2114673755590975588#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 6,
+        "retweet_count": 8,
+        "quote_count": 223
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114673755590975588",
+        "text": "Um cientista gostoso passando pra desejar um bom dia pra você! 🌻 Viva a ciência, a educação, a democracia, a diversidade e a paz! ⭐\n.\n.\n.\n.\n.\n. cc @EstebanEneko\n.\n.\n.\n.\n#peludo #barbudo #piscina #sunga #lgbtbrasil",
+        "author_username": "JonasLupus",
+        "author_name": "JonasLupus",
+        "created_at": "2026-10-26T11:01:00+00:00",
+        "permalink": "https://nitter.meowing.monster/JonasLupus/status/2114673755590975588#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 6,
+          "retweet_count": 8,
+          "quote_count": 223
+        }
+      },
+      "normalized": {
+        "text_length": 213,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114651025776763042",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114651025776763042",
+      "parent_post_id": null,
+      "thread_root_id": "2114651025776763042",
+      "author": {
+        "platform_id": null,
+        "display_name": "m_daguia",
+        "username": "m_daguia",
+        "profile_url": "https://x.com/m_daguia"
+      },
+      "text": "O que eu vivencie nos últimos dias e principalmente ontem vai ficar pra sempre na história na minha memória.\nViva a democracia viva @LulaOficial ❤️❤️❤️❤️❤️",
+      "created_at": "2026-10-26T09:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T12:17:38-03:00",
+      "permalink": "https://nitter.meowing.monster/m_daguia/status/2114651025776763042#m",
+      "metrics": {
+        "like_count": 285,
+        "reply_count": 1,
+        "retweet_count": 2,
+        "quote_count": 15
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114651025776763042",
+        "text": "O que eu vivencie nos últimos dias e principalmente ontem vai ficar pra sempre na história na minha memória.\nViva a democracia viva @LulaOficial ❤️❤️❤️❤️❤️",
+        "author_username": "m_daguia",
+        "author_name": "m_daguia",
+        "created_at": "2026-10-26T09:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/m_daguia/status/2114651025776763042#m",
+        "metrics": {
+          "like_count": 285,
+          "reply_count": 1,
+          "retweet_count": 2,
+          "quote_count": 15
+        }
+      },
+      "normalized": {
+        "text_length": 155,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114591121212944847",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114591121212944847",
+      "parent_post_id": null,
+      "thread_root_id": "2114591121212944847",
+      "author": {
+        "platform_id": null,
+        "display_name": "mducanguru",
+        "username": "mducanguru",
+        "profile_url": "https://x.com/mducanguru"
+      },
+      "text": "Quero colocar essa foto na minha testa\nVAI CORINTHIANS E VIVA A DEMOCRACIA",
+      "created_at": "2026-10-26T05:33:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T12:17:38-03:00",
+      "permalink": "https://nitter.meowing.monster/mducanguru/status/2114591121212944847#m",
+      "metrics": {
+        "like_count": 17,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114591121212944847",
+        "text": "Quero colocar essa foto na minha testa\nVAI CORINTHIANS E VIVA A DEMOCRACIA",
+        "author_username": "mducanguru",
+        "author_name": "mducanguru",
+        "created_at": "2026-10-26T05:33:00+00:00",
+        "permalink": "https://nitter.meowing.monster/mducanguru/status/2114591121212944847#m",
+        "metrics": {
+          "like_count": 17,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 74,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114570514156933500",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114570514156933500",
+      "parent_post_id": null,
+      "thread_root_id": "2114570514156933500",
+      "author": {
+        "platform_id": null,
+        "display_name": "Hyanthis_",
+        "username": "Hyanthis_",
+        "profile_url": "https://x.com/Hyanthis_"
+      },
+      "text": "Quando tentaram enterrar a esperança, esqueceram que ela também sabe florescer entre as ruínas. VIVA A DEMOCRACIA!!! \n⭐️🦑\n\n#LulaPresidente",
+      "created_at": "2026-10-26T04:11:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T12:17:38-03:00",
+      "permalink": "https://nitter.meowing.monster/Hyanthis_/status/2114570514156933500#m",
+      "metrics": {
+        "like_count": 56,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 4
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114570514156933500",
+        "text": "Quando tentaram enterrar a esperança, esqueceram que ela também sabe florescer entre as ruínas. VIVA A DEMOCRACIA!!! \n⭐️🦑\n\n#LulaPresidente",
+        "author_username": "Hyanthis_",
+        "author_name": "Hyanthis_",
+        "created_at": "2026-10-26T04:11:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Hyanthis_/status/2114570514156933500#m",
+        "metrics": {
+          "like_count": 56,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 4
+        }
+      },
+      "normalized": {
+        "text_length": 138,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114570159981461709",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114570159981461709",
+      "parent_post_id": null,
+      "thread_root_id": "2114570159981461709",
+      "author": {
+        "platform_id": null,
+        "display_name": "NettoNunnes",
+        "username": "NettoNunnes",
+        "profile_url": "https://x.com/NettoNunnes"
+      },
+      "text": "pqp tive queda glicêmica, até desmaiei. q pleito eleitoral foi esse. @LulaOficial meu veio, foi e sempre será por vc. Obrigada JANONES! Tu foi incrível dms. VIVA A DEMOCRACIA! \n#LulaPelaDemocracia #LulaPresidente",
+      "created_at": "2026-10-26T04:09:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T12:17:38-03:00",
+      "permalink": "https://nitter.meowing.monster/NettoNunnes/status/2114570159981461709#m",
+      "metrics": {
+        "like_count": 79,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114570159981461709",
+        "text": "pqp tive queda glicêmica, até desmaiei. q pleito eleitoral foi esse. @LulaOficial meu veio, foi e sempre será por vc. Obrigada JANONES! Tu foi incrível dms. VIVA A DEMOCRACIA! \n#LulaPelaDemocracia #LulaPresidente",
+        "author_username": "NettoNunnes",
+        "author_name": "NettoNunnes",
+        "created_at": "2026-10-26T04:09:00+00:00",
+        "permalink": "https://nitter.meowing.monster/NettoNunnes/status/2114570159981461709#m",
+        "metrics": {
+          "like_count": 79,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 212,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114733968155123956",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114733968155123956",
+      "parent_post_id": null,
+      "thread_root_id": "2114733968155123956",
+      "author": {
+        "platform_id": null,
+        "display_name": "Geffinho10",
+        "username": "Geffinho10",
+        "profile_url": "https://x.com/Geffinho10"
+      },
+      "text": "Obrigado mais uma Vez \nNordeste, Minas Gerais e Norte\nViva a Democracia ☀️🙏🏼🙏🏼\nDeus abençoe nossos próximos 4 Anos",
+      "created_at": "2026-10-26T15:00:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T12:17:38-03:00",
+      "permalink": "https://nitter.meowing.monster/Geffinho10/status/2114733968155123956#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114733968155123956",
+        "text": "Obrigado mais uma Vez \nNordeste, Minas Gerais e Norte\nViva a Democracia ☀️🙏🏼🙏🏼\nDeus abençoe nossos próximos 4 Anos",
+        "author_username": "Geffinho10",
+        "author_name": "Geffinho10",
+        "created_at": "2026-10-26T15:00:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Geffinho10/status/2114733968155123956#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 114,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114674408178549077",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114674408178549077",
+      "post_id": "2114673755590975588",
+      "parent_comment_id": "2114673755590975588",
+      "thread_root_id": "2114673755590975588",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "l_u_c_a_s_vt",
+        "username": "l_u_c_a_s_vt",
+        "profile_url": null
+      },
+      "text": "gostoso",
+      "created_at": "2026-10-26T11:04:00+00:00",
+      "collected_at": "2026-10-26T12:17:38-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/l_u_c_a_s_vt/status/2114674408178549077#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114674408178549077",
+        "text": "gostoso",
+        "author_username": "l_u_c_a_s_vt",
+        "author_name": "l_u_c_a_s_vt",
+        "created_at": "2026-10-26T11:04:00+00:00",
+        "permalink": "https://nitter.meowing.monster/l_u_c_a_s_vt/status/2114674408178549077#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114673755590975588",
+        "parent_comment_id": "2114673755590975588",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 7,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114659975628800152",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114659975628800152",
+      "post_id": "2114659320793047458",
+      "parent_comment_id": "2114659320793047458",
+      "thread_root_id": "2114659320793047458",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "danihagome",
+        "username": "danihagome",
+        "profile_url": null
+      },
+      "text": "#BolsonarismoMata\n #JustiçaPorRioVerde",
+      "created_at": "2026-10-26T10:06:00+00:00",
+      "collected_at": "2026-10-26T12:17:38-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/danihagome/status/2114659975628800152#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114659975628800152",
+        "text": "#BolsonarismoMata\n #JustiçaPorRioVerde",
+        "author_username": "danihagome",
+        "author_name": "danihagome",
+        "created_at": "2026-10-26T10:06:00+00:00",
+        "permalink": "https://nitter.meowing.monster/danihagome/status/2114659975628800152#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114659320793047458",
+        "parent_comment_id": "2114659320793047458",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 38,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
