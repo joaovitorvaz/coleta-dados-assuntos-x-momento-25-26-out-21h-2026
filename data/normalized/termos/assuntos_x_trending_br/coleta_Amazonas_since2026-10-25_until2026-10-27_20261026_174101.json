@@ -1,0 +1,419 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Amazonas",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+    "collected_at": "2026-10-26T17:41:01-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 6,
+      "comments": 0,
+      "records_total": 6,
+      "skipped_duplicate": 2
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114801131456999601",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114801131456999601",
+      "parent_post_id": null,
+      "thread_root_id": "2114801131456999601",
+      "author": {
+        "platform_id": null,
+        "display_name": "reginaalencaram",
+        "username": "reginaalencaram",
+        "profile_url": "https://x.com/reginaalencaram"
+      },
+      "text": "Aqui no Amazonas é aqui:",
+      "created_at": "2026-10-26T19:27:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T17:41:01-03:00",
+      "permalink": "https://nitter.netbub.com/reginaalencaram/status/2114801131456999601#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Amazonas",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114801131456999601",
+        "text": "Aqui no Amazonas é aqui:",
+        "author_username": "reginaalencaram",
+        "author_name": "reginaalencaram",
+        "created_at": "2026-10-26T19:27:00+00:00",
+        "permalink": "https://nitter.netbub.com/reginaalencaram/status/2114801131456999601#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 24,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114786896286990505",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114786896286990505",
+      "parent_post_id": null,
+      "thread_root_id": "2114786896286990505",
+      "author": {
+        "platform_id": null,
+        "display_name": "Teo1650604",
+        "username": "Teo1650604",
+        "profile_url": "https://x.com/Teo1650604"
+      },
+      "text": "Gratidão ao povo Amazonense!\nGratidão ao povo indígena e ribeirinho da grande Amazonas!\nGratidão ao povo Nortista por defender a democracia, liberdade e as minorias!\nOs Nortistas são defensores da soberania nacional e da democracia!",
+      "created_at": "2026-10-26T18:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T17:41:01-03:00",
+      "permalink": "https://nitter.netbub.com/Teo1650604/status/2114786896286990505#m",
+      "metrics": {
+        "like_count": 12,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Amazonas",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114786896286990505",
+        "text": "Gratidão ao povo Amazonense!\nGratidão ao povo indígena e ribeirinho da grande Amazonas!\nGratidão ao povo Nortista por defender a democracia, liberdade e as minorias!\nOs Nortistas são defensores da soberania nacional e da democracia!",
+        "author_username": "Teo1650604",
+        "author_name": "Teo1650604",
+        "created_at": "2026-10-26T18:31:00+00:00",
+        "permalink": "https://nitter.netbub.com/Teo1650604/status/2114786896286990505#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 232,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114754869986795685",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114754869986795685",
+      "parent_post_id": null,
+      "thread_root_id": "2114754869986795685",
+      "author": {
+        "platform_id": null,
+        "display_name": "Dieguin21_",
+        "username": "Dieguin21_",
+        "profile_url": "https://x.com/Dieguin21_"
+      },
+      "text": "luis inacio lula da silva ganhou em sp capital, rj capital, no estado de minas gerais, no amazonas, no para e em porto alegre, esse muro vai ter q ser bem grande amigão",
+      "created_at": "2026-10-26T16:23:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T17:41:01-03:00",
+      "permalink": "https://nitter.netbub.com/Dieguin21_/status/2114754869986795685#m",
+      "metrics": {
+        "like_count": 31,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Amazonas",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114754869986795685",
+        "text": "luis inacio lula da silva ganhou em sp capital, rj capital, no estado de minas gerais, no amazonas, no para e em porto alegre, esse muro vai ter q ser bem grande amigão",
+        "author_username": "Dieguin21_",
+        "author_name": "Dieguin21_",
+        "created_at": "2026-10-26T16:23:00+00:00",
+        "permalink": "https://nitter.netbub.com/Dieguin21_/status/2114754869986795685#m",
+        "metrics": {
+          "like_count": 31,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 168,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114752571437142343",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114752571437142343",
+      "parent_post_id": null,
+      "thread_root_id": "2114752571437142343",
+      "author": {
+        "platform_id": null,
+        "display_name": "Lihmiguel",
+        "username": "Lihmiguel",
+        "profile_url": "https://x.com/Lihmiguel"
+      },
+      "text": "Funciona assim com quem trabalha\nGeralmente o povo se lembra dos feitos \n\nO grande feito dos Bolsonaro para o Amazonas é negar oxigênio \nDo Lula é alter entregue este ano menor taxa de desmatamento da história",
+      "created_at": "2026-10-26T16:14:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T17:41:01-03:00",
+      "permalink": "https://nitter.netbub.com/Lihmiguel/status/2114752571437142343#m",
+      "metrics": {
+        "like_count": 59,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Amazonas",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114752571437142343",
+        "text": "Funciona assim com quem trabalha\nGeralmente o povo se lembra dos feitos \n\nO grande feito dos Bolsonaro para o Amazonas é negar oxigênio \nDo Lula é alter entregue este ano menor taxa de desmatamento da história",
+        "author_username": "Lihmiguel",
+        "author_name": "Lihmiguel",
+        "created_at": "2026-10-26T16:14:00+00:00",
+        "permalink": "https://nitter.netbub.com/Lihmiguel/status/2114752571437142343#m",
+        "metrics": {
+          "like_count": 59,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 209,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114740246193512799",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114740246193512799",
+      "parent_post_id": null,
+      "thread_root_id": "2114740246193512799",
+      "author": {
+        "platform_id": null,
+        "display_name": "Rdlvx",
+        "username": "Rdlvx",
+        "profile_url": "https://x.com/Rdlvx"
+      },
+      "text": "Utilizando os dados do TSE*, chat GPT e claude fiz um vídeo pra demonstrar de forma lúdica como o Amazonas ( capital e inteior) participou nas Eleições de 2026 ⭐️\n\nNúmeros e porcentagens podem variar*",
+      "created_at": "2026-10-26T15:25:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T17:41:01-03:00",
+      "permalink": "https://nitter.netbub.com/Rdlvx/status/2114740246193512799#m",
+      "metrics": {
+        "like_count": 48,
+        "reply_count": 0,
+        "retweet_count": 2,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Amazonas",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114740246193512799",
+        "text": "Utilizando os dados do TSE*, chat GPT e claude fiz um vídeo pra demonstrar de forma lúdica como o Amazonas ( capital e inteior) participou nas Eleições de 2026 ⭐️\n\nNúmeros e porcentagens podem variar*",
+        "author_username": "Rdlvx",
+        "author_name": "Rdlvx",
+        "created_at": "2026-10-26T15:25:00+00:00",
+        "permalink": "https://nitter.netbub.com/Rdlvx/status/2114740246193512799#m",
+        "metrics": {
+          "like_count": 48,
+          "reply_count": 0,
+          "retweet_count": 2,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 200,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114738689263731142",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114738689263731142",
+      "parent_post_id": null,
+      "thread_root_id": "2114738689263731142",
+      "author": {
+        "platform_id": null,
+        "display_name": "Arlib91",
+        "username": "Arlib91",
+        "profile_url": "https://x.com/Arlib91"
+      },
+      "text": "Podem incluir também o Pará e o Amazonas que virou do primeiro turno Flávio pro segundo turno LuLa!!!",
+      "created_at": "2026-10-26T15:19:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T17:41:01-03:00",
+      "permalink": "https://nitter.netbub.com/Arlib91/status/2114738689263731142#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Amazonas",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114738689263731142",
+        "text": "Podem incluir também o Pará e o Amazonas que virou do primeiro turno Flávio pro segundo turno LuLa!!!",
+        "author_username": "Arlib91",
+        "author_name": "Arlib91",
+        "created_at": "2026-10-26T15:19:00+00:00",
+        "permalink": "https://nitter.netbub.com/Arlib91/status/2114738689263731142#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 101,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

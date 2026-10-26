@@ -1,0 +1,451 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Amazonas",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+    "collected_at": "2026-10-26T17:41:01-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 6,
+      "comments": 0,
+      "records_total": 6,
+      "skipped_duplicate": 2
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114801131456999601",
+            "text": "Aqui no Amazonas é aqui:",
+            "author_username": "reginaalencaram",
+            "author_name": "reginaalencaram",
+            "created_at": "2026-10-26T19:27:00+00:00",
+            "permalink": "https://nitter.netbub.com/reginaalencaram/status/2114801131456999601#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114786896286990505",
+            "text": "Gratidão ao povo Amazonense!\nGratidão ao povo indígena e ribeirinho da grande Amazonas!\nGratidão ao povo Nortista por defender a democracia, liberdade e as minorias!\nOs Nortistas são defensores da soberania nacional e da democracia!",
+            "author_username": "Teo1650604",
+            "author_name": "Teo1650604",
+            "created_at": "2026-10-26T18:31:00+00:00",
+            "permalink": "https://nitter.netbub.com/Teo1650604/status/2114786896286990505#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114754869986795685",
+            "text": "luis inacio lula da silva ganhou em sp capital, rj capital, no estado de minas gerais, no amazonas, no para e em porto alegre, esse muro vai ter q ser bem grande amigão",
+            "author_username": "Dieguin21_",
+            "author_name": "Dieguin21_",
+            "created_at": "2026-10-26T16:23:00+00:00",
+            "permalink": "https://nitter.netbub.com/Dieguin21_/status/2114754869986795685#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114752571437142343",
+            "text": "Funciona assim com quem trabalha\nGeralmente o povo se lembra dos feitos \n\nO grande feito dos Bolsonaro para o Amazonas é negar oxigênio \nDo Lula é alter entregue este ano menor taxa de desmatamento da história",
+            "author_username": "Lihmiguel",
+            "author_name": "Lihmiguel",
+            "created_at": "2026-10-26T16:14:00+00:00",
+            "permalink": "https://nitter.netbub.com/Lihmiguel/status/2114752571437142343#m",
+            "metrics": {
+              "like_count": 59,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114740246193512799",
+            "text": "Utilizando os dados do TSE*, chat GPT e claude fiz um vídeo pra demonstrar de forma lúdica como o Amazonas ( capital e inteior) participou nas Eleições de 2026 ⭐️\n\nNúmeros e porcentagens podem variar*",
+            "author_username": "Rdlvx",
+            "author_name": "Rdlvx",
+            "created_at": "2026-10-26T15:25:00+00:00",
+            "permalink": "https://nitter.netbub.com/Rdlvx/status/2114740246193512799#m",
+            "metrics": {
+              "like_count": 48,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114738689263731142",
+            "text": "Podem incluir também o Pará e o Amazonas que virou do primeiro turno Flávio pro segundo turno LuLa!!!",
+            "author_username": "Arlib91",
+            "author_name": "Arlib91",
+            "created_at": "2026-10-26T15:19:00+00:00",
+            "permalink": "https://nitter.netbub.com/Arlib91/status/2114738689263731142#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114604776478425469",
+            "text": "Em qual estado vocês votaram no Lula?⭐️🇧🇷\n\neu: Amazonas",
+            "author_username": "CYSMOR",
+            "author_name": "CYSMOR",
+            "created_at": "2026-10-26T06:27:00+00:00",
+            "permalink": "https://nitter.netbub.com/CYSMOR/status/2114604776478425469#m",
+            "metrics": {
+              "like_count": 24,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114538887909441978",
+            "text": "Parabéns Senador, agora Governador que vai cuidar do Amazonas, do Brasil e do mundo.",
+            "author_username": "PontimDeorides",
+            "author_name": "PontimDeorides",
+            "created_at": "2026-10-26T02:05:00+00:00",
+            "permalink": "https://nitter.netbub.com/PontimDeorides/status/2114538887909441978#m",
+            "metrics": {
+              "like_count": 91,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114497997644198083",
+            "text": "VAI TER PALESTINO COMO GOVERNADOR DO AMAZONAS SIM",
+            "author_username": "ggirlalmari",
+            "author_name": "ggirlalmari",
+            "created_at": "2026-10-25T23:23:00+00:00",
+            "permalink": "https://nitter.netbub.com/ggirlalmari/status/2114497997644198083#m",
+            "metrics": {
+              "like_count": 290,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114487713600856194",
+            "text": "Qual o problema do Amazonas",
+            "author_username": "samanta_ar",
+            "author_name": "samanta_ar",
+            "created_at": "2026-10-25T22:42:00+00:00",
+            "permalink": "https://nitter.netbub.com/samanta_ar/status/2114487713600856194#m",
+            "metrics": {
+              "like_count": 67,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114456822920663439",
+            "text": "Desembargadora da justiça eleitoral do Amazonas disse que a decisão do Zanin é inexequível! É isso mesmo que você leu! A decisão do Ministro do STF está sendo desobedecida em vários locais do país porque o TSE não comunicou a ordem do Zanin!  Não há dúvidas! Golpe!!!",
+            "author_username": "psique2373",
+            "author_name": "psique2373",
+            "created_at": "2026-10-25T20:39:00+00:00",
+            "permalink": "https://nitter.netbub.com/psique2373/status/2114456822920663439#m",
+            "metrics": {
+              "like_count": 44,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114418953858457682",
+            "text": "Aqui é da petralhada....kkk\ninstagram.com/reel/De7Tz3yJT…",
+            "author_username": "VitinhoAmazonas",
+            "author_name": "VitinhoAmazonas",
+            "created_at": "2026-10-25T18:08:00+00:00",
+            "permalink": "https://nitter.netbub.com/VitinhoAmazonas/status/2114418953858457682#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114245492611731752",
+            "text": "⚡ Na verdade, para falar mais detalhadamente sobre este tema, é preciso pegar a foto de satélite de cada estado e falar de 1 por 1: Roraima, Amazonas, Acre, Rondônia, Pará, Amapá, Tocantins, Maranhão e Mato Grosso! \n\nLula vai ganhar e traremos Aldo Rebelo de volta!",
+            "author_username": "FogoPark24h",
+            "author_name": "FogoPark24h",
+            "created_at": "2026-10-25T06:39:00+00:00",
+            "permalink": "https://nitter.netbub.com/FogoPark24h/status/2114245492611731752#m",
+            "metrics": {
+              "like_count": 86,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114147741609664817",
+            "text": "Eu chegando no Amazonas se o Flávio Bolsonaro ganhar amanhã. TACA FOGO TACA FOGO",
+            "author_username": "MANICLEMENTINE7",
+            "author_name": "MANICLEMENTINE7",
+            "created_at": "2026-10-25T00:11:00+00:00",
+            "permalink": "https://nitter.netbub.com/MANICLEMENTINE7/status/2114147741609664817#m",
+            "metrics": {
+              "like_count": 29,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 51,
+          "instance_used": "https://nitter.netbub.com"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "assuntos_x_momento_ate_26out21h_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114801131456999601",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114801131456999601",
+      "collected_at": "2026-10-26T17:41:01-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Amazonas",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114801131456999601",
+        "text": "Aqui no Amazonas é aqui:",
+        "author_username": "reginaalencaram",
+        "author_name": "reginaalencaram",
+        "created_at": "2026-10-26T19:27:00+00:00",
+        "permalink": "https://nitter.netbub.com/reginaalencaram/status/2114801131456999601#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114786896286990505",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114786896286990505",
+      "collected_at": "2026-10-26T17:41:01-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Amazonas",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114786896286990505",
+        "text": "Gratidão ao povo Amazonense!\nGratidão ao povo indígena e ribeirinho da grande Amazonas!\nGratidão ao povo Nortista por defender a democracia, liberdade e as minorias!\nOs Nortistas são defensores da soberania nacional e da democracia!",
+        "author_username": "Teo1650604",
+        "author_name": "Teo1650604",
+        "created_at": "2026-10-26T18:31:00+00:00",
+        "permalink": "https://nitter.netbub.com/Teo1650604/status/2114786896286990505#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114754869986795685",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114754869986795685",
+      "collected_at": "2026-10-26T17:41:01-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Amazonas",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114754869986795685",
+        "text": "luis inacio lula da silva ganhou em sp capital, rj capital, no estado de minas gerais, no amazonas, no para e em porto alegre, esse muro vai ter q ser bem grande amigão",
+        "author_username": "Dieguin21_",
+        "author_name": "Dieguin21_",
+        "created_at": "2026-10-26T16:23:00+00:00",
+        "permalink": "https://nitter.netbub.com/Dieguin21_/status/2114754869986795685#m",
+        "metrics": {
+          "like_count": 31,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114752571437142343",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114752571437142343",
+      "collected_at": "2026-10-26T17:41:01-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Amazonas",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114752571437142343",
+        "text": "Funciona assim com quem trabalha\nGeralmente o povo se lembra dos feitos \n\nO grande feito dos Bolsonaro para o Amazonas é negar oxigênio \nDo Lula é alter entregue este ano menor taxa de desmatamento da história",
+        "author_username": "Lihmiguel",
+        "author_name": "Lihmiguel",
+        "created_at": "2026-10-26T16:14:00+00:00",
+        "permalink": "https://nitter.netbub.com/Lihmiguel/status/2114752571437142343#m",
+        "metrics": {
+          "like_count": 59,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114740246193512799",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114740246193512799",
+      "collected_at": "2026-10-26T17:41:01-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Amazonas",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114740246193512799",
+        "text": "Utilizando os dados do TSE*, chat GPT e claude fiz um vídeo pra demonstrar de forma lúdica como o Amazonas ( capital e inteior) participou nas Eleições de 2026 ⭐️\n\nNúmeros e porcentagens podem variar*",
+        "author_username": "Rdlvx",
+        "author_name": "Rdlvx",
+        "created_at": "2026-10-26T15:25:00+00:00",
+        "permalink": "https://nitter.netbub.com/Rdlvx/status/2114740246193512799#m",
+        "metrics": {
+          "like_count": 48,
+          "reply_count": 0,
+          "retweet_count": 2,
+          "quote_count": 2
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114738689263731142",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114738689263731142",
+      "collected_at": "2026-10-26T17:41:01-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Amazonas",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "19f94cbe-b0cd-4c41-8dd2-a4046ead4521",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114738689263731142",
+        "text": "Podem incluir também o Pará e o Amazonas que virou do primeiro turno Flávio pro segundo turno LuLa!!!",
+        "author_username": "Arlib91",
+        "author_name": "Arlib91",
+        "created_at": "2026-10-26T15:19:00+00:00",
+        "permalink": "https://nitter.netbub.com/Arlib91/status/2114738689263731142#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    }
+  ],
+  "comments": []
+}
