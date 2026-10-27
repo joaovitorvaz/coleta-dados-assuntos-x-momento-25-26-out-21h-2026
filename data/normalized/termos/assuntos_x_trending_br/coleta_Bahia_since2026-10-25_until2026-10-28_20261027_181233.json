@@ -1,0 +1,418 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Bahia",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+    "collected_at": "2026-10-27T18:12:33-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 6,
+      "comments": 0,
+      "records_total": 6,
+      "skipped_duplicate": 119
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115185404462633007",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115185404462633007",
+      "parent_post_id": null,
+      "thread_root_id": "2115185404462633007",
+      "author": {
+        "platform_id": null,
+        "display_name": "carlinhosbrown",
+        "username": "carlinhosbrown",
+        "profile_url": "https://x.com/carlinhosbrown"
+      },
+      "text": "O tambor anuncia mais um verão no Candeal! 🥁❤️\n\nDias 13/12 e 10/01 temos encontro marcado no #SarauDuBrown! Música, alegria e a energia que só a Bahia tem.\n\nIngressos à venda! Espero vocês!\n\n🎟️ bileto.sympla.com.br/event/1…",
+      "created_at": "2026-10-27T20:54:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:12:33-03:00",
+      "permalink": "https://nitter.meowing.monster/carlinhosbrown/status/2115185404462633007#m",
+      "metrics": {
+        "like_count": 167,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 20,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115185404462633007",
+        "text": "O tambor anuncia mais um verão no Candeal! 🥁❤️\n\nDias 13/12 e 10/01 temos encontro marcado no #SarauDuBrown! Música, alegria e a energia que só a Bahia tem.\n\nIngressos à venda! Espero vocês!\n\n🎟️ bileto.sympla.com.br/event/1…",
+        "author_username": "carlinhosbrown",
+        "author_name": "carlinhosbrown",
+        "created_at": "2026-10-27T20:54:00+00:00",
+        "permalink": "https://nitter.meowing.monster/carlinhosbrown/status/2115185404462633007#m",
+        "metrics": {
+          "like_count": 167,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 223,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115159374926639237",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115159374926639237",
+      "parent_post_id": null,
+      "thread_root_id": "2115159374926639237",
+      "author": {
+        "platform_id": null,
+        "display_name": "EloNairo",
+        "username": "EloNairo",
+        "profile_url": "https://x.com/EloNairo"
+      },
+      "text": "Aqui é a Bahia!!!!",
+      "created_at": "2026-10-27T19:11:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:12:33-03:00",
+      "permalink": "https://nitter.meowing.monster/EloNairo/status/2115159374926639237#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 20,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115159374926639237",
+        "text": "Aqui é a Bahia!!!!",
+        "author_username": "EloNairo",
+        "author_name": "EloNairo",
+        "created_at": "2026-10-27T19:11:00+00:00",
+        "permalink": "https://nitter.meowing.monster/EloNairo/status/2115159374926639237#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 18,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115141899669618792",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115141899669618792",
+      "parent_post_id": null,
+      "thread_root_id": "2115141899669618792",
+      "author": {
+        "platform_id": null,
+        "display_name": "flagreinabahia",
+        "username": "flagreinabahia",
+        "profile_url": "https://x.com/flagreinabahia"
+      },
+      "text": "Qual?\nEstá lá funcionando",
+      "created_at": "2026-10-27T18:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:12:33-03:00",
+      "permalink": "https://nitter.meowing.monster/flagreinabahia/status/2115141899669618792#m",
+      "metrics": {
+        "like_count": 99,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 20,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115141899669618792",
+        "text": "Qual?\nEstá lá funcionando",
+        "author_username": "flagreinabahia",
+        "author_name": "flagreinabahia",
+        "created_at": "2026-10-27T18:01:00+00:00",
+        "permalink": "https://nitter.meowing.monster/flagreinabahia/status/2115141899669618792#m",
+        "metrics": {
+          "like_count": 99,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 25,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115135327300133166",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115135327300133166",
+      "parent_post_id": null,
+      "thread_root_id": "2115135327300133166",
+      "author": {
+        "platform_id": null,
+        "display_name": "flagreinabahia",
+        "username": "flagreinabahia",
+        "profile_url": "https://x.com/flagreinabahia"
+      },
+      "text": "Era ele mesmo",
+      "created_at": "2026-10-27T17:35:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:12:33-03:00",
+      "permalink": "https://nitter.meowing.monster/flagreinabahia/status/2115135327300133166#m",
+      "metrics": {
+        "like_count": 146,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 20,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115135327300133166",
+        "text": "Era ele mesmo",
+        "author_username": "flagreinabahia",
+        "author_name": "flagreinabahia",
+        "created_at": "2026-10-27T17:35:00+00:00",
+        "permalink": "https://nitter.meowing.monster/flagreinabahia/status/2115135327300133166#m",
+        "metrics": {
+          "like_count": 146,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 13,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115113394160259451",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115113394160259451",
+      "parent_post_id": null,
+      "thread_root_id": "2115113394160259451",
+      "author": {
+        "platform_id": null,
+        "display_name": "ggirlalmari",
+        "username": "ggirlalmari",
+        "profile_url": "https://x.com/ggirlalmari"
+      },
+      "text": "acho que o povo da bahia deve ta é triste com essa notícia",
+      "created_at": "2026-10-27T16:08:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:12:33-03:00",
+      "permalink": "https://nitter.meowing.monster/ggirlalmari/status/2115113394160259451#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 20,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115113394160259451",
+        "text": "acho que o povo da bahia deve ta é triste com essa notícia",
+        "author_username": "ggirlalmari",
+        "author_name": "ggirlalmari",
+        "created_at": "2026-10-27T16:08:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ggirlalmari/status/2115113394160259451#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 58,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114625863413080384",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114625863413080384",
+      "parent_post_id": null,
+      "thread_root_id": "2114625863413080384",
+      "author": {
+        "platform_id": null,
+        "display_name": "danielfolguedo",
+        "username": "danielfolguedo",
+        "profile_url": "https://x.com/danielfolguedo"
+      },
+      "text": "Vitória da Bahia",
+      "created_at": "2026-10-26T07:51:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:12:33-03:00",
+      "permalink": "https://nitter.meowing.monster/danielfolguedo/status/2114625863413080384#m",
+      "metrics": {
+        "like_count": 87,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 20,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114625863413080384",
+        "text": "Vitória da Bahia",
+        "author_username": "danielfolguedo",
+        "author_name": "danielfolguedo",
+        "created_at": "2026-10-26T07:51:00+00:00",
+        "permalink": "https://nitter.meowing.monster/danielfolguedo/status/2114625863413080384#m",
+        "metrics": {
+          "like_count": 87,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 16,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
