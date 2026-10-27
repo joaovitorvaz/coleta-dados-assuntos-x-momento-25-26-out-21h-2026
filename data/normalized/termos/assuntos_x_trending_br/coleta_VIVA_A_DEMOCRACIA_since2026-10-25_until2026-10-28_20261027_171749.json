@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "VIVA A DEMOCRACIA",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+    "collected_at": "2026-10-27T17:17:49-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 103
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115166583563677920",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115166583563677920",
+      "parent_post_id": null,
+      "thread_root_id": "2115166583563677920",
+      "author": {
+        "platform_id": null,
+        "display_name": "AlexanderBrasil",
+        "username": "AlexanderBrasil",
+        "profile_url": "https://x.com/AlexanderBrasil"
+      },
+      "text": "🚨 ​A máscara da “democracia” cai rápido quando o desespero bate! No debate, a ameaça de Lula contra Flávio Bolsonaro foi clara e escancarada: prometeu perseguição assim que a imunidade acabar após a eleição, afirmando que inquéritos \"agora vão andar\".  \n\n​É a prova viva do uso do Estado como ferramenta de vingança política. Não se trata de justiça ou lei, mas de pura perseguição contra a oposição. A dita “democracia relativa” mostra sua verdadeira face em rede nacional.\n  \n​Até quando a velha imprensa vai fingir que isso é normal?\n\n#ForaLula\n\n                      👉🏻 𝗖𝗢𝗠𝗣𝗔𝗥𝗧𝗜𝗟𝗛𝗘 ❕️\n\n🆂🅸🅶🅰️ @deputadoalexbrasil\nno Insta e no Face 🇧🇷\n\n​#AlexBrasil\n#sc",
+      "created_at": "2026-10-27T19:39:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T17:17:49-03:00",
+      "permalink": "https://nitter.meowing.monster/AlexanderBrasil/status/2115166583563677920#m",
+      "metrics": {
+        "like_count": 271,
+        "reply_count": 0,
+        "retweet_count": 2,
+        "quote_count": 9
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 9,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115166583563677920",
+        "text": "🚨 ​A máscara da “democracia” cai rápido quando o desespero bate! No debate, a ameaça de Lula contra Flávio Bolsonaro foi clara e escancarada: prometeu perseguição assim que a imunidade acabar após a eleição, afirmando que inquéritos \"agora vão andar\".  \n\n​É a prova viva do uso do Estado como ferramenta de vingança política. Não se trata de justiça ou lei, mas de pura perseguição contra a oposição. A dita “democracia relativa” mostra sua verdadeira face em rede nacional.\n  \n​Até quando a velha imprensa vai fingir que isso é normal?\n\n#ForaLula\n\n                      👉🏻 𝗖𝗢𝗠𝗣𝗔𝗥𝗧𝗜𝗟𝗛𝗘 ❕️\n\n🆂🅸🅶🅰️ @deputadoalexbrasil\nno Insta e no Face 🇧🇷\n\n​#AlexBrasil\n#sc",
+        "author_username": "AlexanderBrasil",
+        "author_name": "AlexanderBrasil",
+        "created_at": "2026-10-27T19:39:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AlexanderBrasil/status/2115166583563677920#m",
+        "metrics": {
+          "like_count": 271,
+          "reply_count": 0,
+          "retweet_count": 2,
+          "quote_count": 9
+        }
+      },
+      "normalized": {
+        "text_length": 655,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
