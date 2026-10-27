@@ -1,0 +1,1731 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Mais 4",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+    "collected_at": "2026-10-27T18:03:25-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 25,
+      "comments": 0,
+      "records_total": 25,
+      "skipped_duplicate": 180
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115175181954027965",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115175181954027965",
+      "parent_post_id": null,
+      "thread_root_id": "2115175181954027965",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T20:13:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115175181954027965#m",
+      "metrics": {
+        "like_count": 25,
+        "reply_count": 2,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115175181954027965",
+        "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T20:13:00+00:00",
+        "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115175181954027965#m",
+        "metrics": {
+          "like_count": 25,
+          "reply_count": 2,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 1295,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115175065491026024",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115175065491026024",
+      "parent_post_id": null,
+      "thread_root_id": "2115175065491026024",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T20:13:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115175065491026024#m",
+      "metrics": {
+        "like_count": 15,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115175065491026024",
+        "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T20:13:00+00:00",
+        "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115175065491026024#m",
+        "metrics": {
+          "like_count": 15,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 1295,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115174969495769117",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115174969495769117",
+      "parent_post_id": null,
+      "thread_root_id": "2115174969495769117",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T20:13:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115174969495769117#m",
+      "metrics": {
+        "like_count": 19,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115174969495769117",
+        "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T20:13:00+00:00",
+        "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115174969495769117#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 1295,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115174894388543827",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115174894388543827",
+      "parent_post_id": null,
+      "thread_root_id": "2115174894388543827",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T20:12:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115174894388543827#m",
+      "metrics": {
+        "like_count": 136,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 4
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115174894388543827",
+        "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T20:12:00+00:00",
+        "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115174894388543827#m",
+        "metrics": {
+          "like_count": 136,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 4
+        }
+      },
+      "normalized": {
+        "text_length": 1295,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115174791552667751",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115174791552667751",
+      "parent_post_id": null,
+      "thread_root_id": "2115174791552667751",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T20:12:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115174791552667751#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115174791552667751",
+        "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T20:12:00+00:00",
+        "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115174791552667751#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 1295,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115174746962714873",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115174746962714873",
+      "parent_post_id": null,
+      "thread_root_id": "2115174746962714873",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T20:12:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115174746962714873#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115174746962714873",
+        "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T20:12:00+00:00",
+        "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115174746962714873#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 1295,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115174701387395132",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115174701387395132",
+      "parent_post_id": null,
+      "thread_root_id": "2115174701387395132",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T20:12:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115174701387395132#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115174701387395132",
+        "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T20:12:00+00:00",
+        "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115174701387395132#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 1295,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115174446495612939",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115174446495612939",
+      "parent_post_id": null,
+      "thread_root_id": "2115174446495612939",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T20:11:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115174446495612939#m",
+      "metrics": {
+        "like_count": 209,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115174446495612939",
+        "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T20:11:00+00:00",
+        "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115174446495612939#m",
+        "metrics": {
+          "like_count": 209,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 1295,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115174353977352647",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115174353977352647",
+      "parent_post_id": null,
+      "thread_root_id": "2115174353977352647",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T20:10:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115174353977352647#m",
+      "metrics": {
+        "like_count": 206,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115174353977352647",
+        "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T20:10:00+00:00",
+        "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115174353977352647#m",
+        "metrics": {
+          "like_count": 206,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 1295,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115174181138796941",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115174181138796941",
+      "parent_post_id": null,
+      "thread_root_id": "2115174181138796941",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T20:09:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115174181138796941#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115174181138796941",
+        "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T20:09:00+00:00",
+        "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115174181138796941#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 1295,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115174112993870199",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115174112993870199",
+      "parent_post_id": null,
+      "thread_root_id": "2115174112993870199",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T20:09:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115174112993870199#m",
+      "metrics": {
+        "like_count": 15,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115174112993870199",
+        "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T20:09:00+00:00",
+        "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115174112993870199#m",
+        "metrics": {
+          "like_count": 15,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 1295,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115174026587025651",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115174026587025651",
+      "parent_post_id": null,
+      "thread_root_id": "2115174026587025651",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T20:09:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115174026587025651#m",
+      "metrics": {
+        "like_count": 40,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115174026587025651",
+        "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T20:09:00+00:00",
+        "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115174026587025651#m",
+        "metrics": {
+          "like_count": 40,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 1295,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115173896790192313",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115173896790192313",
+      "parent_post_id": null,
+      "thread_root_id": "2115173896790192313",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Perfeito @anapaulahenkel \nInfelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T20:08:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115173896790192313#m",
+      "metrics": {
+        "like_count": 19,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115173896790192313",
+        "text": "Perfeito @anapaulahenkel \nInfelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T20:08:00+00:00",
+        "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115173896790192313#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 1321,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115173413413065015",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115173413413065015",
+      "parent_post_id": null,
+      "thread_root_id": "2115173413413065015",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T20:06:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115173413413065015#m",
+      "metrics": {
+        "like_count": 20,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115173413413065015",
+        "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T20:06:00+00:00",
+        "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115173413413065015#m",
+        "metrics": {
+          "like_count": 20,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 1295,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115173339945742601",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115173339945742601",
+      "parent_post_id": null,
+      "thread_root_id": "2115173339945742601",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?p",
+      "created_at": "2026-10-27T20:06:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115173339945742601#m",
+      "metrics": {
+        "like_count": 18,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115173339945742601",
+        "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?p",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T20:06:00+00:00",
+        "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115173339945742601#m",
+        "metrics": {
+          "like_count": 18,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 1296,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115173282060071016",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115173282060071016",
+      "parent_post_id": null,
+      "thread_root_id": "2115173282060071016",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T20:06:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115173282060071016#m",
+      "metrics": {
+        "like_count": 34,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115173282060071016",
+        "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T20:06:00+00:00",
+        "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115173282060071016#m",
+        "metrics": {
+          "like_count": 34,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 1295,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115173214473113626",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115173214473113626",
+      "parent_post_id": null,
+      "thread_root_id": "2115173214473113626",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T20:06:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115173214473113626#m",
+      "metrics": {
+        "like_count": 12,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115173214473113626",
+        "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T20:06:00+00:00",
+        "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115173214473113626#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 1295,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115173091668091107",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115173091668091107",
+      "parent_post_id": null,
+      "thread_root_id": "2115173091668091107",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T20:05:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115173091668091107#m",
+      "metrics": {
+        "like_count": 94,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 3
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115173091668091107",
+        "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T20:05:00+00:00",
+        "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115173091668091107#m",
+        "metrics": {
+          "like_count": 94,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      },
+      "normalized": {
+        "text_length": 1295,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115173006490185826",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115173006490185826",
+      "parent_post_id": null,
+      "thread_root_id": "2115173006490185826",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T20:05:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115173006490185826#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115173006490185826",
+        "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T20:05:00+00:00",
+        "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115173006490185826#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 1295,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115172874030076334",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115172874030076334",
+      "parent_post_id": null,
+      "thread_root_id": "2115172874030076334",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T20:04:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115172874030076334#m",
+      "metrics": {
+        "like_count": 38,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115172874030076334",
+        "text": "Infelizmente tem que parabenizar o Flávio e família, pela saída do Brasil.\nMinha sensação com a reeleição do lula é de LUTO #lutopolítico é uma profunda tristeza com a saído do @FlavioBolsonaro e família do Brasil em função das perseguições...\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T20:04:00+00:00",
+        "permalink": "https://nitter.netbub.com/rogeriofluence/status/2115172874030076334#m",
+        "metrics": {
+          "like_count": 38,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 1295,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115164415700136095",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115164415700136095",
+      "parent_post_id": null,
+      "thread_root_id": "2115164415700136095",
+      "author": {
+        "platform_id": null,
+        "display_name": "alxabreu",
+        "username": "alxabreu",
+        "profile_url": "https://x.com/alxabreu"
+      },
+      "text": "O @tarcisiogdf seria o menos ruim para este momento no lugar do Flávio... mas infelizmente teremos que suportar essa porra de molusco por mais 4 anos...",
+      "created_at": "2026-10-27T19:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/alxabreu/status/2115164415700136095#m",
+      "metrics": {
+        "like_count": 132,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115164415700136095",
+        "text": "O @tarcisiogdf seria o menos ruim para este momento no lugar do Flávio... mas infelizmente teremos que suportar essa porra de molusco por mais 4 anos...",
+        "author_username": "alxabreu",
+        "author_name": "alxabreu",
+        "created_at": "2026-10-27T19:31:00+00:00",
+        "permalink": "https://nitter.netbub.com/alxabreu/status/2115164415700136095#m",
+        "metrics": {
+          "like_count": 132,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 152,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115151318109032477",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115151318109032477",
+      "parent_post_id": null,
+      "thread_root_id": "2115151318109032477",
+      "author": {
+        "platform_id": null,
+        "display_name": "tjp_petrucci",
+        "username": "tjp_petrucci",
+        "profile_url": "https://x.com/tjp_petrucci"
+      },
+      "text": "Preparados para serem enrabados, por mais 4 anos, com esmagamento neoliberal do Partido dos Traidores?",
+      "created_at": "2026-10-27T18:39:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/tjp_petrucci/status/2115151318109032477#m",
+      "metrics": {
+        "like_count": 20,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115151318109032477",
+        "text": "Preparados para serem enrabados, por mais 4 anos, com esmagamento neoliberal do Partido dos Traidores?",
+        "author_username": "tjp_petrucci",
+        "author_name": "tjp_petrucci",
+        "created_at": "2026-10-27T18:39:00+00:00",
+        "permalink": "https://nitter.netbub.com/tjp_petrucci/status/2115151318109032477#m",
+        "metrics": {
+          "like_count": 20,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 102,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115150150230311341",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115150150230311341",
+      "parent_post_id": null,
+      "thread_root_id": "2115150150230311341",
+      "author": {
+        "platform_id": null,
+        "display_name": "tjp_petrucci",
+        "username": "tjp_petrucci",
+        "profile_url": "https://x.com/tjp_petrucci"
+      },
+      "text": "Preparados para serem enrabados, por mais 4 anos, com esmagamento neoliberal do Partido dos Traidores?",
+      "created_at": "2026-10-27T18:34:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/tjp_petrucci/status/2115150150230311341#m",
+      "metrics": {
+        "like_count": 19,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115150150230311341",
+        "text": "Preparados para serem enrabados, por mais 4 anos, com esmagamento neoliberal do Partido dos Traidores?",
+        "author_username": "tjp_petrucci",
+        "author_name": "tjp_petrucci",
+        "created_at": "2026-10-27T18:34:00+00:00",
+        "permalink": "https://nitter.netbub.com/tjp_petrucci/status/2115150150230311341#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 102,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115133843279577493",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115133843279577493",
+      "parent_post_id": null,
+      "thread_root_id": "2115133843279577493",
+      "author": {
+        "platform_id": null,
+        "display_name": "joserosaperezjr",
+        "username": "joserosaperezjr",
+        "profile_url": "https://x.com/joserosaperezjr"
+      },
+      "text": "Meu pior pesadelo, mais 4 anos com você seu ladrão.",
+      "created_at": "2026-10-27T17:29:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/joserosaperezjr/status/2115133843279577493#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115133843279577493",
+        "text": "Meu pior pesadelo, mais 4 anos com você seu ladrão.",
+        "author_username": "joserosaperezjr",
+        "author_name": "joserosaperezjr",
+        "created_at": "2026-10-27T17:29:00+00:00",
+        "permalink": "https://nitter.netbub.com/joserosaperezjr/status/2115133843279577493#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 51,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115125010578690376",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115125010578690376",
+      "parent_post_id": null,
+      "thread_root_id": "2115125010578690376",
+      "author": {
+        "platform_id": null,
+        "display_name": "CoritibaMais",
+        "username": "CoritibaMais",
+        "profile_url": "https://x.com/CoritibaMais"
+      },
+      "text": "Inacreditável com na atual fase do Coritiba conseguir 4 pontos em 18 poderá ser quase impossível.. \n#Coritiba\n#Internacional \n#Gremio \n#Corinthians \n#flamengo\n#palmeiras\n#Santos",
+      "created_at": "2026-10-27T16:54:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:03:25-03:00",
+      "permalink": "https://nitter.netbub.com/CoritibaMais/status/2115125010578690376#m",
+      "metrics": {
+        "like_count": 148,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 6
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 16,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115125010578690376",
+        "text": "Inacreditável com na atual fase do Coritiba conseguir 4 pontos em 18 poderá ser quase impossível.. \n#Coritiba\n#Internacional \n#Gremio \n#Corinthians \n#flamengo\n#palmeiras\n#Santos",
+        "author_username": "CoritibaMais",
+        "author_name": "CoritibaMais",
+        "created_at": "2026-10-27T16:54:00+00:00",
+        "permalink": "https://nitter.netbub.com/CoritibaMais/status/2115125010578690376#m",
+        "metrics": {
+          "like_count": 148,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 6
+        }
+      },
+      "normalized": {
+        "text_length": 177,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
