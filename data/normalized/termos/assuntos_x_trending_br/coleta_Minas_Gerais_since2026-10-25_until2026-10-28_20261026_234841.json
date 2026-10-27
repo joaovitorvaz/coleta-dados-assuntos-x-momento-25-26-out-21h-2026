@@ -1,0 +1,885 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Minas Gerais",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+    "collected_at": "2026-10-26T23:48:41-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 13,
+      "comments": 0,
+      "records_total": 13,
+      "skipped_duplicate": 108
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114885700038570247",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114885700038570247",
+      "parent_post_id": null,
+      "thread_root_id": "2114885700038570247",
+      "author": {
+        "platform_id": null,
+        "display_name": "TitoGremistazo",
+        "username": "TitoGremistazo",
+        "profile_url": "https://x.com/TitoGremistazo"
+      },
+      "text": "Desde 1989 quem vence em Minas Gerais...",
+      "created_at": "2026-10-27T01:03:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "permalink": "https://nitter.meowing.monster/TitoGremistazo/status/2114885700038570247#m",
+      "metrics": {
+        "like_count": 129,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114885700038570247",
+        "text": "Desde 1989 quem vence em Minas Gerais...",
+        "author_username": "TitoGremistazo",
+        "author_name": "TitoGremistazo",
+        "created_at": "2026-10-27T01:03:00+00:00",
+        "permalink": "https://nitter.meowing.monster/TitoGremistazo/status/2114885700038570247#m",
+        "metrics": {
+          "like_count": 129,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 40,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114864730447794191",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114864730447794191",
+      "parent_post_id": null,
+      "thread_root_id": "2114864730447794191",
+      "author": {
+        "platform_id": null,
+        "display_name": "PROFTULIO",
+        "username": "PROFTULIO",
+        "profile_url": "https://x.com/PROFTULIO"
+      },
+      "text": "Parabéns camaradas do @PCBMinasGerais derrotamos Zema-Simões, Aécio e Carlos Viana no primeiro turno e neste segundo turno participamos das principais manifestações populares que garantiram uma vira histórica. Em Minas Gerais nossa bandeira é vermelha. Viva o @PCBpartidao !",
+      "created_at": "2026-10-26T23:40:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "permalink": "https://nitter.meowing.monster/PROFTULIO/status/2114864730447794191#m",
+      "metrics": {
+        "like_count": 80,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 5
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114864730447794191",
+        "text": "Parabéns camaradas do @PCBMinasGerais derrotamos Zema-Simões, Aécio e Carlos Viana no primeiro turno e neste segundo turno participamos das principais manifestações populares que garantiram uma vira histórica. Em Minas Gerais nossa bandeira é vermelha. Viva o @PCBpartidao !",
+        "author_username": "PROFTULIO",
+        "author_name": "PROFTULIO",
+        "created_at": "2026-10-26T23:40:00+00:00",
+        "permalink": "https://nitter.meowing.monster/PROFTULIO/status/2114864730447794191#m",
+        "metrics": {
+          "like_count": 80,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 5
+        }
+      },
+      "normalized": {
+        "text_length": 274,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114853387669803035",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114853387669803035",
+      "parent_post_id": null,
+      "thread_root_id": "2114853387669803035",
+      "author": {
+        "platform_id": null,
+        "display_name": "DEBORAA93854687",
+        "username": "DEBORAA93854687",
+        "profile_url": "https://x.com/DEBORAA93854687"
+      },
+      "text": "Os governadores apoiaram Flávio. Não tinha como perder em Minas gerais,por exemplo.",
+      "created_at": "2026-10-26T22:55:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "permalink": "https://nitter.meowing.monster/DEBORAA93854687/status/2114853387669803035#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114853387669803035",
+        "text": "Os governadores apoiaram Flávio. Não tinha como perder em Minas gerais,por exemplo.",
+        "author_username": "DEBORAA93854687",
+        "author_name": "DEBORAA93854687",
+        "created_at": "2026-10-26T22:55:00+00:00",
+        "permalink": "https://nitter.meowing.monster/DEBORAA93854687/status/2114853387669803035#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 83,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114849303927869753",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114849303927869753",
+      "parent_post_id": null,
+      "thread_root_id": "2114849303927869753",
+      "author": {
+        "platform_id": null,
+        "display_name": "AiltonSoar62418",
+        "username": "AiltonSoar62418",
+        "profile_url": "https://x.com/AiltonSoar62418"
+      },
+      "text": "Só ver a virada em Minas gerais, quando a direita ganha não tem sistema,kkkk quando lula ganha é o sistema,vai chupar limão,o povo brasileiro acordou na hora certa, porquê Flávio ia entregar o Brasil para Trump e escravizar os trabalhadores,",
+      "created_at": "2026-10-26T22:39:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "permalink": "https://nitter.meowing.monster/AiltonSoar62418/status/2114849303927869753#m",
+      "metrics": {
+        "like_count": 12,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "direita"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114849303927869753",
+        "text": "Só ver a virada em Minas gerais, quando a direita ganha não tem sistema,kkkk quando lula ganha é o sistema,vai chupar limão,o povo brasileiro acordou na hora certa, porquê Flávio ia entregar o Brasil para Trump e escravizar os trabalhadores,",
+        "author_username": "AiltonSoar62418",
+        "author_name": "AiltonSoar62418",
+        "created_at": "2026-10-26T22:39:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AiltonSoar62418/status/2114849303927869753#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 241,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114821361726103824",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114821361726103824",
+      "parent_post_id": null,
+      "thread_root_id": "2114821361726103824",
+      "author": {
+        "platform_id": null,
+        "display_name": "RicardoReisjf",
+        "username": "RicardoReisjf",
+        "profile_url": "https://x.com/RicardoReisjf"
+      },
+      "text": "Tira Minas Gerais dessa parte Verde ai",
+      "created_at": "2026-10-26T20:47:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "permalink": "https://nitter.meowing.monster/RicardoReisjf/status/2114821361726103824#m",
+      "metrics": {
+        "like_count": 359,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 4
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114821361726103824",
+        "text": "Tira Minas Gerais dessa parte Verde ai",
+        "author_username": "RicardoReisjf",
+        "author_name": "RicardoReisjf",
+        "created_at": "2026-10-26T20:47:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RicardoReisjf/status/2114821361726103824#m",
+        "metrics": {
+          "like_count": 359,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 4
+        }
+      },
+      "normalized": {
+        "text_length": 38,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114806398395805891",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114806398395805891",
+      "parent_post_id": null,
+      "thread_root_id": "2114806398395805891",
+      "author": {
+        "platform_id": null,
+        "display_name": "tristheuzismo",
+        "username": "tristheuzismo",
+        "profile_url": "https://x.com/tristheuzismo"
+      },
+      "text": "o cara só veio em 01(UMA) unidade de cidade de Minas Gerais e reclama da porra das urnas dizendo que é fraudado",
+      "created_at": "2026-10-26T19:48:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "permalink": "https://nitter.meowing.monster/tristheuzismo/status/2114806398395805891#m",
+      "metrics": {
+        "like_count": 48,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114806398395805891",
+        "text": "o cara só veio em 01(UMA) unidade de cidade de Minas Gerais e reclama da porra das urnas dizendo que é fraudado",
+        "author_username": "tristheuzismo",
+        "author_name": "tristheuzismo",
+        "created_at": "2026-10-26T19:48:00+00:00",
+        "permalink": "https://nitter.meowing.monster/tristheuzismo/status/2114806398395805891#m",
+        "metrics": {
+          "like_count": 48,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 111,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114804439391334863",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114804439391334863",
+      "parent_post_id": null,
+      "thread_root_id": "2114804439391334863",
+      "author": {
+        "platform_id": null,
+        "display_name": "MaisMinas1",
+        "username": "MaisMinas1",
+        "profile_url": "https://x.com/MaisMinas1"
+      },
+      "text": "Ana Elisa cancela viagem a evento do PT em São Paulo após recomendação de segurança.\n\nDeputada federal eleita afirmou que considerou o cenário em Minas Gerais hostil: maisminas.com.br/politica/an…",
+      "created_at": "2026-10-26T19:40:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "permalink": "https://nitter.meowing.monster/MaisMinas1/status/2114804439391334863#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Ana Elisa",
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114804439391334863",
+        "text": "Ana Elisa cancela viagem a evento do PT em São Paulo após recomendação de segurança.\n\nDeputada federal eleita afirmou que considerou o cenário em Minas Gerais hostil: maisminas.com.br/politica/an…",
+        "author_username": "MaisMinas1",
+        "author_name": "MaisMinas1",
+        "created_at": "2026-10-26T19:40:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MaisMinas1/status/2114804439391334863#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 196,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114783294051033110",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114783294051033110",
+      "parent_post_id": null,
+      "thread_root_id": "2114783294051033110",
+      "author": {
+        "platform_id": null,
+        "display_name": "maycruz9L",
+        "username": "maycruz9L",
+        "profile_url": "https://x.com/maycruz9L"
+      },
+      "text": "Minha Minas Gerais acordou nesse 2⁰ turno !!",
+      "created_at": "2026-10-26T18:16:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "permalink": "https://nitter.meowing.monster/maycruz9L/status/2114783294051033110#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114783294051033110",
+        "text": "Minha Minas Gerais acordou nesse 2⁰ turno !!",
+        "author_username": "maycruz9L",
+        "author_name": "maycruz9L",
+        "created_at": "2026-10-26T18:16:00+00:00",
+        "permalink": "https://nitter.meowing.monster/maycruz9L/status/2114783294051033110#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 44,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114747831625871598",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114747831625871598",
+      "parent_post_id": null,
+      "thread_root_id": "2114747831625871598",
+      "author": {
+        "platform_id": null,
+        "display_name": "cleber_neris",
+        "username": "cleber_neris",
+        "profile_url": "https://x.com/cleber_neris"
+      },
+      "text": "Meu país chamado de Minas Gerais 💝\n\nE a princesinha de Minas, Juiz de Fora, não decepcionou mais uma vez 👏🏿👏🏿👏🏿",
+      "created_at": "2026-10-26T15:55:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "permalink": "https://nitter.meowing.monster/cleber_neris/status/2114747831625871598#m",
+      "metrics": {
+        "like_count": 380,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 24
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114747831625871598",
+        "text": "Meu país chamado de Minas Gerais 💝\n\nE a princesinha de Minas, Juiz de Fora, não decepcionou mais uma vez 👏🏿👏🏿👏🏿",
+        "author_username": "cleber_neris",
+        "author_name": "cleber_neris",
+        "created_at": "2026-10-26T15:55:00+00:00",
+        "permalink": "https://nitter.meowing.monster/cleber_neris/status/2114747831625871598#m",
+        "metrics": {
+          "like_count": 380,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 24
+        }
+      },
+      "normalized": {
+        "text_length": 111,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114745086286102789",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114745086286102789",
+      "parent_post_id": null,
+      "thread_root_id": "2114745086286102789",
+      "author": {
+        "platform_id": null,
+        "display_name": "MandiSilver_",
+        "username": "MandiSilver_",
+        "profile_url": "https://x.com/MandiSilver_"
+      },
+      "text": "MINAS GERAIS VEIO COM TUDO, QUE ORGULHO",
+      "created_at": "2026-10-26T15:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "permalink": "https://nitter.meowing.monster/MandiSilver_/status/2114745086286102789#m",
+      "metrics": {
+        "like_count": 139,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 3
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114745086286102789",
+        "text": "MINAS GERAIS VEIO COM TUDO, QUE ORGULHO",
+        "author_username": "MandiSilver_",
+        "author_name": "MandiSilver_",
+        "created_at": "2026-10-26T15:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MandiSilver_/status/2114745086286102789#m",
+        "metrics": {
+          "like_count": 139,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      },
+      "normalized": {
+        "text_length": 39,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114733407708058003",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114733407708058003",
+      "parent_post_id": null,
+      "thread_root_id": "2114733407708058003",
+      "author": {
+        "platform_id": null,
+        "display_name": "Brunosep_R",
+        "username": "Brunosep_R",
+        "profile_url": "https://x.com/Brunosep_R"
+      },
+      "text": "O Galudo, o galão da Márcia, o gigantesco de Minas Gerais, o time que bica...\n\nNão vai nos decepcionar, né?!",
+      "created_at": "2026-10-26T14:58:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "permalink": "https://nitter.meowing.monster/Brunosep_R/status/2114733407708058003#m",
+      "metrics": {
+        "like_count": 613,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 19
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114733407708058003",
+        "text": "O Galudo, o galão da Márcia, o gigantesco de Minas Gerais, o time que bica...\n\nNão vai nos decepcionar, né?!",
+        "author_username": "Brunosep_R",
+        "author_name": "Brunosep_R",
+        "created_at": "2026-10-26T14:58:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Brunosep_R/status/2114733407708058003#m",
+        "metrics": {
+          "like_count": 613,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 19
+        }
+      },
+      "normalized": {
+        "text_length": 108,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114722722311725441",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114722722311725441",
+      "parent_post_id": null,
+      "thread_root_id": "2114722722311725441",
+      "author": {
+        "platform_id": null,
+        "display_name": "manometeus",
+        "username": "manometeus",
+        "profile_url": "https://x.com/manometeus"
+      },
+      "text": "Que vergonha de ser Mineiro \nQue vergonha mesmo slc...\n\nInfelizmente o povo daqui merece mesmo sofrer o preconceito que sofre quando é chamado de caipira.\n\nRealmente uma mentalidade caipira e pobre merece mesmo\nMinas Gerais tem que se foder",
+      "created_at": "2026-10-26T14:16:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "permalink": "https://nitter.meowing.monster/manometeus/status/2114722722311725441#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114722722311725441",
+        "text": "Que vergonha de ser Mineiro \nQue vergonha mesmo slc...\n\nInfelizmente o povo daqui merece mesmo sofrer o preconceito que sofre quando é chamado de caipira.\n\nRealmente uma mentalidade caipira e pobre merece mesmo\nMinas Gerais tem que se foder",
+        "author_username": "manometeus",
+        "author_name": "manometeus",
+        "created_at": "2026-10-26T14:16:00+00:00",
+        "permalink": "https://nitter.meowing.monster/manometeus/status/2114722722311725441#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 240,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114696963560022034",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114696963560022034",
+      "parent_post_id": null,
+      "thread_root_id": "2114696963560022034",
+      "author": {
+        "platform_id": null,
+        "display_name": "joao8_32_JB",
+        "username": "joao8_32_JB",
+        "profile_url": "https://x.com/joao8_32_JB"
+      },
+      "text": "- O piá de bosta postou sobre ELE na véspera das eleições.🤡\n\n- Os vídeos do BLOCO 22 tinham mais ele do que Flávio.\n\n- Ao invés de ajudar a divulgar o filme do Bolsonaro, ele atacou Mário Frias.\n\n- Tentou sabotar o Senador Carlos Bolsonaro na véspera do 1º turno.\n\n- Elegeu uma PETISTA para o Senado em MG para ajudar o partido NOJO🍎\n\n- Fez o Flávio Bolsonaro ter menos votos em Minas Gerais!\n\nnikolas é o camisa 10 do PT!",
+      "created_at": "2026-10-26T12:33:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "permalink": "https://nitter.mie.foundation/joao8_32_JB/status/2114696963560022034#m",
+      "metrics": {
+        "like_count": 67,
+        "reply_count": 2,
+        "retweet_count": 1,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114696963560022034",
+        "text": "- O piá de bosta postou sobre ELE na véspera das eleições.🤡\n\n- Os vídeos do BLOCO 22 tinham mais ele do que Flávio.\n\n- Ao invés de ajudar a divulgar o filme do Bolsonaro, ele atacou Mário Frias.\n\n- Tentou sabotar o Senador Carlos Bolsonaro na véspera do 1º turno.\n\n- Elegeu uma PETISTA para o Senado em MG para ajudar o partido NOJO🍎\n\n- Fez o Flávio Bolsonaro ter menos votos em Minas Gerais!\n\nnikolas é o camisa 10 do PT!",
+        "author_username": "joao8_32_JB",
+        "author_name": "joao8_32_JB",
+        "created_at": "2026-10-26T12:33:00+00:00",
+        "permalink": "https://nitter.mie.foundation/joao8_32_JB/status/2114696963560022034#m",
+        "metrics": {
+          "like_count": 67,
+          "reply_count": 2,
+          "retweet_count": 1,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 422,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

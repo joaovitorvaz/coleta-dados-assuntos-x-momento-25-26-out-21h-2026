@@ -1,0 +1,2205 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Minas Gerais",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+    "collected_at": "2026-10-26T23:48:41-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 13,
+      "comments": 0,
+      "records_total": 13,
+      "skipped_duplicate": 108
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114893838460293449",
+            "text": "Tem que parar de viajar pra Nordeste. Nem pra Minas Gerais vou mais. Enfiem queijo de Minas no cu",
+            "author_username": "mahtukirenedra",
+            "author_name": "mahtukirenedra",
+            "created_at": "2026-10-27T01:35:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mahtukirenedra/status/2114893838460293449#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114885700038570247",
+            "text": "Desde 1989 quem vence em Minas Gerais...",
+            "author_username": "TitoGremistazo",
+            "author_name": "TitoGremistazo",
+            "created_at": "2026-10-27T01:03:00+00:00",
+            "permalink": "https://nitter.meowing.monster/TitoGremistazo/status/2114885700038570247#m",
+            "metrics": {
+              "like_count": 129,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114864730447794191",
+            "text": "Parabéns camaradas do @PCBMinasGerais derrotamos Zema-Simões, Aécio e Carlos Viana no primeiro turno e neste segundo turno participamos das principais manifestações populares que garantiram uma vira histórica. Em Minas Gerais nossa bandeira é vermelha. Viva o @PCBpartidao !",
+            "author_username": "PROFTULIO",
+            "author_name": "PROFTULIO",
+            "created_at": "2026-10-26T23:40:00+00:00",
+            "permalink": "https://nitter.meowing.monster/PROFTULIO/status/2114864730447794191#m",
+            "metrics": {
+              "like_count": 80,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114854821127762017",
+            "text": "Ódio do nordestino? E ninguém fica com raiva dos mineiros? Kkkkkkkkkkk, foi Minas gerais que deu a vitória a Lula. Sai do RJ e estou morando em João Pessoa, e vou dizer para vocês, os nordestinos são maravilhosos, João Pessoa é lindo, basta vcs não virem para o nordeste.",
+            "author_username": "marcosvsq",
+            "author_name": "marcosvsq",
+            "created_at": "2026-10-26T23:00:00+00:00",
+            "permalink": "https://nitter.meowing.monster/marcosvsq/status/2114854821127762017#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114853387669803035",
+            "text": "Os governadores apoiaram Flávio. Não tinha como perder em Minas gerais,por exemplo.",
+            "author_username": "DEBORAA93854687",
+            "author_name": "DEBORAA93854687",
+            "created_at": "2026-10-26T22:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DEBORAA93854687/status/2114853387669803035#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114849303927869753",
+            "text": "Só ver a virada em Minas gerais, quando a direita ganha não tem sistema,kkkk quando lula ganha é o sistema,vai chupar limão,o povo brasileiro acordou na hora certa, porquê Flávio ia entregar o Brasil para Trump e escravizar os trabalhadores,",
+            "author_username": "AiltonSoar62418",
+            "author_name": "AiltonSoar62418",
+            "created_at": "2026-10-26T22:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AiltonSoar62418/status/2114849303927869753#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114830768426099191",
+            "text": "Obrigada @nikolas_dm pela primeira vez te agradeço.\nConseguiu virar motivo de debate, talvez de futuras pesquisas e regulação de redes sociais em Período eleitoral, devido alcance de postagens e divulgação de Fake News, ainda conseguiu Unir Nordeste e Minas Gerais para o Lula 🇧🇷",
+            "author_username": "LoucaPsicodelia",
+            "author_name": "LoucaPsicodelia",
+            "created_at": "2026-10-26T21:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LoucaPsicodelia/status/2114830768426099191#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114829059192410250",
+            "text": "Verdade, obrigada @nikolas_dm pela primeira vez te agradeço, virou ícone de pesquisa pelos alcance dos post's, divulgações de Fake News durante período eleitoral e conseguiu juntar Nordeste e Minas Gerais em Pró do Lula.",
+            "author_username": "LoucaPsicodelia",
+            "author_name": "LoucaPsicodelia",
+            "created_at": "2026-10-26T21:18:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LoucaPsicodelia/status/2114829059192410250#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114821361726103824",
+            "text": "Tira Minas Gerais dessa parte Verde ai",
+            "author_username": "RicardoReisjf",
+            "author_name": "RicardoReisjf",
+            "created_at": "2026-10-26T20:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/RicardoReisjf/status/2114821361726103824#m",
+            "metrics": {
+              "like_count": 359,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114806398395805891",
+            "text": "o cara só veio em 01(UMA) unidade de cidade de Minas Gerais e reclama da porra das urnas dizendo que é fraudado",
+            "author_username": "tristheuzismo",
+            "author_name": "tristheuzismo",
+            "created_at": "2026-10-26T19:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/tristheuzismo/status/2114806398395805891#m",
+            "metrics": {
+              "like_count": 48,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114804439391334863",
+            "text": "Ana Elisa cancela viagem a evento do PT em São Paulo após recomendação de segurança.\n\nDeputada federal eleita afirmou que considerou o cenário em Minas Gerais hostil: maisminas.com.br/politica/an…",
+            "author_username": "MaisMinas1",
+            "author_name": "MaisMinas1",
+            "created_at": "2026-10-26T19:40:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MaisMinas1/status/2114804439391334863#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114803048409399346",
+            "text": "Mapa da votação em Minas Gerais mostra o resultado de Lula e Flávio Bolsonaro nos 853 municípios.\n\nMapa interativo e relação completa da votação presidencial por município de Minas Gerais: maisminas.com.br/eleicoes-20…",
+            "author_username": "MaisMinas1",
+            "author_name": "MaisMinas1",
+            "created_at": "2026-10-26T19:35:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MaisMinas1/status/2114803048409399346#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114801031653511400",
+            "text": "Veja as cidades que mais deram votos a Lula e Flávio Bolsonaro em Minas Gerais.\n\nRankings completos mostram os votos e percentuais dos candidatos nos 853 municípios mineiros: maisminas.com.br/eleicoes-20…",
+            "author_username": "MaisMinas1",
+            "author_name": "MaisMinas1",
+            "created_at": "2026-10-26T19:27:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MaisMinas1/status/2114801031653511400#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114783294051033110",
+            "text": "Minha Minas Gerais acordou nesse 2⁰ turno !!",
+            "author_username": "maycruz9L",
+            "author_name": "maycruz9L",
+            "created_at": "2026-10-26T18:16:00+00:00",
+            "permalink": "https://nitter.meowing.monster/maycruz9L/status/2114783294051033110#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114761431782465700",
+            "text": "No fundo, o governador eleito de Minas Gerais, @cleitinhotmj sabe que a reeleição do Presidente @LulaOficial será melhor para ele como gestor. Ele sabe que Lula não governa com ódio, que sempre atendeu aos governadores, independentemente do posicionamento político deles.",
+            "author_username": "victorcamposbh",
+            "author_name": "victorcamposbh",
+            "created_at": "2026-10-26T16:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/victorcamposbh/status/2114761431782465700#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114754869986795685",
+            "text": "luis inacio lula da silva ganhou em sp capital, rj capital, no estado de minas gerais, no amazonas, no para e em porto alegre, esse muro vai ter q ser bem grande amigão",
+            "author_username": "Dieguin21_",
+            "author_name": "Dieguin21_",
+            "created_at": "2026-10-26T16:23:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Dieguin21_/status/2114754869986795685#m",
+            "metrics": {
+              "like_count": 36,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114747831625871598",
+            "text": "Meu país chamado de Minas Gerais 💝\n\nE a princesinha de Minas, Juiz de Fora, não decepcionou mais uma vez 👏🏿👏🏿👏🏿",
+            "author_username": "cleber_neris",
+            "author_name": "cleber_neris",
+            "created_at": "2026-10-26T15:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/cleber_neris/status/2114747831625871598#m",
+            "metrics": {
+              "like_count": 380,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 24
+            }
+          },
+          {
+            "id": "2114745086286102789",
+            "text": "MINAS GERAIS VEIO COM TUDO, QUE ORGULHO",
+            "author_username": "MandiSilver_",
+            "author_name": "MandiSilver_",
+            "created_at": "2026-10-26T15:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MandiSilver_/status/2114745086286102789#m",
+            "metrics": {
+              "like_count": 139,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114733968155123956",
+            "text": "Obrigado mais uma Vez \nNordeste, Minas Gerais e Norte\nViva a Democracia ☀️🙏🏼🙏🏼\nDeus abençoe nossos próximos 4 Anos",
+            "author_username": "Geffinho10",
+            "author_name": "Geffinho10",
+            "created_at": "2026-10-26T15:00:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Geffinho10/status/2114733968155123956#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114733407708058003",
+            "text": "O Galudo, o galão da Márcia, o gigantesco de Minas Gerais, o time que bica...\n\nNão vai nos decepcionar, né?!",
+            "author_username": "Brunosep_R",
+            "author_name": "Brunosep_R",
+            "created_at": "2026-10-26T14:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Brunosep_R/status/2114733407708058003#m",
+            "metrics": {
+              "like_count": 613,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 19
+            }
+          },
+          {
+            "id": "2114731915261428010",
+            "text": "Recebi com tristeza a notícia do falecimento da companheira Márcia Magalhães, uma das fundadoras do Partido dos Trabalhadores aqui em Minas Gerais e a primeira mulher a presidir o diretório Centro-Sul de BH. Neste momento de dor, deixo meus pêsames aos familiares e amigos.\n\nQuero acreditar que Márcia nos deixa com a alegria de ver tanta gente nas ruas, especialmente nossa juventude, mobilizada pela vitória do presidente Lula, pela vitória do povo brasileiro. Afinal, foi por esse sonho que fundamos juntos o PT 🌟 ❤️",
+            "author_username": "RogerioCorreia_",
+            "author_name": "RogerioCorreia_",
+            "created_at": "2026-10-26T14:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/RogerioCorreia_/status/2114731915261428010#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 20,
+              "retweet_count": 93,
+              "quote_count": 582
+            }
+          },
+          {
+            "id": "2114722722311725441",
+            "text": "Que vergonha de ser Mineiro \nQue vergonha mesmo slc...\n\nInfelizmente o povo daqui merece mesmo sofrer o preconceito que sofre quando é chamado de caipira.\n\nRealmente uma mentalidade caipira e pobre merece mesmo\nMinas Gerais tem que se foder",
+            "author_username": "manometeus",
+            "author_name": "manometeus",
+            "created_at": "2026-10-26T14:16:00+00:00",
+            "permalink": "https://nitter.meowing.monster/manometeus/status/2114722722311725441#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114722080012792004",
+            "text": "Reclamam minas gerais votaram no Lula. Aceita todos foram ruas, idosos,jovens . exercítos Lula foi grande. Aceita 33 milhões pessoas não votou no 1 turno, não quiseram Flávio Bolsonaro kkkkkkkkkk",
+            "author_username": "2026Gigi51918",
+            "author_name": "2026Gigi51918",
+            "created_at": "2026-10-26T14:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/2026Gigi51918/status/2114722080012792004#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114717344865907079",
+            "text": "BH - Minas Gerais vocês brilharam forte como a estrela do PT. Parabéns! Viramos em Minas com força! Como diria um bom mineiro: nuuuuúdeudocéu nuuuuuuú 😂 kkkk",
+            "author_username": "MaxPsi13",
+            "author_name": "MaxPsi13",
+            "created_at": "2026-10-26T13:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MaxPsi13/status/2114717344865907079#m",
+            "metrics": {
+              "like_count": 24,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114709616151908356",
+            "text": "Aceita corno kkkk\nQuerer separar minas gerais também kkkk\nPq Lula ganhou lá",
+            "author_username": "2026Gigi51918",
+            "author_name": "2026Gigi51918",
+            "created_at": "2026-10-26T13:23:00+00:00",
+            "permalink": "https://nitter.meowing.monster/2026Gigi51918/status/2114709616151908356#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114701351762506126",
+            "text": "Nem Deus Explica Minas Gerais",
+            "author_username": "MauricioViana26",
+            "author_name": "MauricioViana26",
+            "created_at": "2026-10-26T12:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MauricioViana26/status/2114701351762506126#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114697118661091392",
+            "text": "- O piá de bosta postou sobre ELE na véspera das eleições.🤡\n\n- Os vídeos do BLOCO 22 tinham mais ele do que Flávio.\n\n- Ao invés de ajudar a divulgar o filme do Bolsonaro, ele atacou Mário Frias.\n\n- Tentou sabotar o Senador Carlos Bolsonaro na véspera do 1º turno.\n\n- Elegeu uma PETISTA para o Senado em MG para ajudar o partido NOJO🍎\n\n- Fez o Flávio Bolsonaro ter menos votos em Minas Gerais!\n\nnikolas é o camisa 10 do PT!",
+            "author_username": "joao8_32_JB",
+            "author_name": "joao8_32_JB",
+            "created_at": "2026-10-26T12:34:00+00:00",
+            "permalink": "https://nitter.meowing.monster/joao8_32_JB/status/2114697118661091392#m",
+            "metrics": {
+              "like_count": 43,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114696377284403408",
+            "text": "- O piá de bosta postou sobre ELE na véspera das eleições.🤡\n\n- Os vídeos do BLOCO 22 tinham mais ele do que Flávio.\n\n- Ao invés de ajudar a divulgar o filme do Bolsonaro, ele atacou Mário Frias.\n\n- Tentou sabotar o Senador Carlos Bolsonaro na véspera do 1º turno.\n\n- Elegeu uma PETISTA para o Senado em MG para ajudar o partido NOJO🍎\n\n- Fez o Flávio Bolsonaro ter menos votos em Minas Gerais!\n\nnikolas é o camisa 10 do PT!",
+            "author_username": "joao8_32_JB",
+            "author_name": "joao8_32_JB",
+            "created_at": "2026-10-26T12:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/joao8_32_JB/status/2114696377284403408#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 15,
+              "retweet_count": 4,
+              "quote_count": 25
+            }
+          },
+          {
+            "id": "2114688743592403335",
+            "text": "🤣🤣🤣🤣, nem Minas Gerais, sobrou só o Sul e parte do Sudeste e parte do Centro Oeste.",
+            "author_username": "peauro",
+            "author_name": "peauro",
+            "created_at": "2026-10-26T12:01:00+00:00",
+            "permalink": "https://nitter.meowing.monster/peauro/status/2114688743592403335#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114685215620927796",
+            "text": "A derrota de Flávio Bolsonaro  em Minas Gerais tem nome e sobrenome: Cleitinho Azevedo. Ao contrário de Tarcísio, que se empenhou em fazer campanha para Flávio, cleitinho não moveu um dedo para ampliar a vantagem de Flávio no estado, enquanto a esquerda estava se empenhando…",
+            "author_username": "Arielluiz_17",
+            "author_name": "Arielluiz_17",
+            "created_at": "2026-10-26T11:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Arielluiz_17/status/2114685215620927796#m",
+            "metrics": {
+              "like_count": 79,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114685197799010743",
+            "text": "Brigada pelo levante e pela lucidez nesse 2° turno Minas Gerais #VitoriaDaDemocracia",
+            "author_username": "capetelika",
+            "author_name": "capetelika",
+            "created_at": "2026-10-26T11:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/capetelika/status/2114685197799010743#m",
+            "metrics": {
+              "like_count": 22,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114684378777301046",
+            "text": "Tuas terras que são altaneiras\nO teu céu é do mais puro anil\nÉs bonita, oh terra mineira\nEsperança do nosso Brasil!\nTua lua é a mais prateada\nQue ilumina o nosso torrão!\nÉs formosa, oh terra encantada!\nÉs orgulho da nossa nação!\n\nOh! Minas Gerais!\nOh! Minas Gerais!\nQuem te conhece\nNão esquece jamais\nOh! Minas Gerais!",
+            "author_username": "mauricruzeiro",
+            "author_name": "mauricruzeiro",
+            "created_at": "2026-10-26T11:43:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mauricruzeiro/status/2114684378777301046#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114677426567414265",
+            "text": "Ô CHUPETINHA VAI SE FUDÊ MINAS GERAIS É MAIOR DO QUE VOCÊ!! 🎉",
+            "author_username": "cavidemaria",
+            "author_name": "cavidemaria",
+            "created_at": "2026-10-26T11:16:00+00:00",
+            "permalink": "https://nitter.meowing.monster/cavidemaria/status/2114677426567414265#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114673084934295788",
+            "text": "Te amo, Minas Gerais... #MinasComLula #LulaPelaDemocracia",
+            "author_username": "JardimDaiane",
+            "author_name": "JardimDaiane",
+            "created_at": "2026-10-26T10:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/JardimDaiane/status/2114673084934295788#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114670347991593219",
+            "text": "MG mantém tradição de ser 'espelho' do Brasil em virada inédita de Lula | G1 g1.globo.com/mg/minas-gerais…",
+            "author_username": "laurocesar77",
+            "author_name": "laurocesar77",
+            "created_at": "2026-10-26T10:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/laurocesar77/status/2114670347991593219#m",
+            "metrics": {
+              "like_count": 35,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114668297379610640",
+            "text": "O que o Marçal falou? E outra. Aí cobra o Nikolas , vcs perderam Minas gerais.",
+            "author_username": "lacerda_ba33135",
+            "author_name": "lacerda_ba33135",
+            "created_at": "2026-10-26T10:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/lacerda_ba33135/status/2114668297379610640#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114657425009598642",
+            "text": "Não, somos o país minas gerais...\nA gente dita o rumo do Brasil kkkkkkkkkk \n\nApesar do presidente ser do pt igual no nordeste nossa bancada e governo é MT mais próxima do sul e sudeste. \nDos 3 senadores 2 são do PL\nNosso governador não foi do PL mas é mais aliado a direita.",
+            "author_username": "raturno999",
+            "author_name": "raturno999",
+            "created_at": "2026-10-26T09:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/raturno999/status/2114657425009598642#m",
+            "metrics": {
+              "like_count": 101,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114649793188221131",
+            "text": "Só vem, Carlaaaaaaa !\nSó vem para o meu país Minas Gerais\n⭐️🤩",
+            "author_username": "Drumond_Simone",
+            "author_name": "Drumond_Simone",
+            "created_at": "2026-10-26T09:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Drumond_Simone/status/2114649793188221131#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114645566994948544",
+            "text": "bom dia MINAS GERAIS  ⭐️⭐️⭐️🇧🇷🇧🇷🇧🇷 #LulaPresidente",
+            "author_username": "luccaas_r",
+            "author_name": "luccaas_r",
+            "created_at": "2026-10-26T09:09:00+00:00",
+            "permalink": "https://nitter.meowing.monster/luccaas_r/status/2114645566994948544#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114608680620487045",
+            "text": "☝️😡 tive em Minas Gerais, trabalhei 60 dias lá. Fiz conhecimento com um Senhor que esteve em momentos com ele. Escutei cada história Sr Gerson, esse desgraça é maior chantagistas e traiçoeiro.",
+            "author_username": "sergiof53918562",
+            "author_name": "sergiof53918562",
+            "created_at": "2026-10-26T06:42:00+00:00",
+            "permalink": "https://nitter.meowing.monster/sergiof53918562/status/2114608680620487045#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114601355608236429",
+            "text": "O bom dos catarinenses é a coragem e ater auto estima.\n@grok faz uma comparação de Minas Gerais VS Santa Catarina.\nJá adianto Minas não perde em nada.",
+            "author_username": "CaLeBeS23",
+            "author_name": "CaLeBeS23",
+            "created_at": "2026-10-26T06:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/CaLeBeS23/status/2114601355608236429#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 10
+            }
+          },
+          {
+            "id": "2114594241649221800",
+            "text": "Venha, meus anjos! Cê são legais demais ❤️🌟 Saudades de Minas Gerais!",
+            "author_username": "adrianajanaina",
+            "author_name": "adrianajanaina",
+            "created_at": "2026-10-26T05:45:00+00:00",
+            "permalink": "https://nitter.meowing.monster/adrianajanaina/status/2114594241649221800#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114589856764424307",
+            "text": "Minas gerais nos abandonou",
+            "author_username": "mateusachel",
+            "author_name": "mateusachel",
+            "created_at": "2026-10-26T05:28:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mateusachel/status/2114589856764424307#m",
+            "metrics": {
+              "like_count": 56,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114588913327022387",
+            "text": "O Gado hoje não soube perder e foram matar e agredir as pessoas na rua \n\n.\n#ObrigadaJanones\nVAI TOMAR NO CU BOLSONARO\n#LulaPresidente\nVITÓRIA\nMINAS GERAIS\nVENCEMOS\nLula\n#Eleições2026\n#LulaReeleito \n#Eleições2026",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T05:24:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114588913327022387#m",
+            "metrics": {
+              "like_count": 26,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114586384098865284",
+            "text": "Esses trouxas hj estão chorando \n\n.\n#ObrigadaJanones\nVAI TOMAR NO CU BOLSONARO\n#LulaPresidente\nVITÓRIA\nMINAS GERAIS\nVENCEMOS\nLula\n#Eleições2026\n#LulaReeleito \n#Eleições2026",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T05:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114586384098865284#m",
+            "metrics": {
+              "like_count": 35,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114585967579332810",
+            "text": "Faz igual o Rico arruma a mala e vai embora \n\n.\n#ObrigadaJanones\nVAI TOMAR NO CU BOLSONARO\n#LulaPresidente\nVITÓRIA\nMINAS GERAIS\nVENCEMOS\nLula\n#Eleições2026\n#LulaReeleito \n#Eleições2026",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T05:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114585967579332810#m",
+            "metrics": {
+              "like_count": 73,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114585638427148528",
+            "text": "REELEITO \n\n.\n#ObrigadaJanones\nVAI TOMAR NO CU BOLSONARO\n#LulaPresidente\nVITÓRIA\nMINAS GERAIS\nVENCEMOS\nLula\n#Eleições2026\n#LulaReeleito \n#Eleições2026",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T05:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114585638427148528#m",
+            "metrics": {
+              "like_count": 22,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114585286193684985",
+            "text": "Quando não sabem perder, ele viram um Neymar da vida \n\n.\n#ObrigadaJanones\nVAI TOMAR NO CU BOLSONARO\n#LulaPresidente\nVITÓRIA\nMINAS GERAIS\nVENCEMOS\nLula\n#Eleições2026\n#LulaReeleito \n#Eleições2026",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T05:09:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114585286193684985#m",
+            "metrics": {
+              "like_count": 45,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114584541713035596",
+            "text": "👏👏👏👏👏👏\n\n.\n#ObrigadaJanones\nVAI TOMAR NO CU BOLSONARO\n#LulaPresidente\nVITÓRIA\nMINAS GERAIS\nVENCEMOS\nLula\n#Eleições2026\n#LulaReeleito \n#Eleições2026",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T05:06:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114584541713035596#m",
+            "metrics": {
+              "like_count": 42,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114579941937271090",
+            "text": "Amo minha Minas Gerais e meu Belo Horizonte \n\n.\n#ObrigadaJanones\nVAI TOMAR NO CU BOLSONARO\n#LulaPresidente\nVITÓRIA\nMINAS GERAIS\nVENCEMOS\nLula\n#Eleições2026\n#LulaReeleito \n#Eleições2026",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T04:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114579941937271090#m",
+            "metrics": {
+              "like_count": 157,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114579507113869457",
+            "text": "🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣 \n\n.\n#ObrigadaJanones\nVAI TOMAR NO CU BOLSONARO\n#LulaPresidente\nVITÓRIA\nMINAS GERAIS\nVENCEMOS\nLula\n#Eleições2026\n#LulaReeleito \n#Eleições2026",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T04:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114579507113869457#m",
+            "metrics": {
+              "like_count": 29,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114579185528107130",
+            "text": "No final não adiantou nada e lula ganhou as eleições \n\n.\n#ObrigadaJanones\nVAI TOMAR NO CU BOLSONARO\n#LulaPresidente\nVITÓRIA\nMINAS GERAIS\nVENCEMOS\nLula\n#Eleições2026\n#LulaReeleito \n#Eleições2026",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T04:45:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114579185528107130#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114578573377863823",
+            "text": "Gente que não sabe perder é isso mesmo,um bando de gado burro \n\n.\n#ObrigadaJanones\nVAI TOMAR NO CU BOLSONARO\n#LulaPresidente\nVITÓRIA\nMINAS GERAIS\nVENCEMOS\nLula\n#Eleições2026\n#LulaReeleito \n#Eleições2026",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T04:43:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114578573377863823#m",
+            "metrics": {
+              "like_count": 176,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114575765433909254",
+            "text": "Obrigada Minas Gerais ❤️",
+            "author_username": "sandracacto",
+            "author_name": "sandracacto",
+            "created_at": "2026-10-26T04:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/sandracacto/status/2114575765433909254#m",
+            "metrics": {
+              "like_count": 194,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114574822797721969",
+            "text": "e minas gerais deu nome e sobrenome nessa eleição, viu???? me sinto mineira agora",
+            "author_username": "WellynaS_",
+            "author_name": "WellynaS_",
+            "created_at": "2026-10-26T04:28:00+00:00",
+            "permalink": "https://nitter.meowing.monster/WellynaS_/status/2114574822797721969#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114574301797953767",
+            "text": "eu nasci pra amar minas gerais pqp meu lugar no mundo 🔺️🔺️🔺️",
+            "author_username": "vilabeimiro",
+            "author_name": "vilabeimiro",
+            "created_at": "2026-10-26T04:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/vilabeimiro/status/2114574301797953767#m",
+            "metrics": {
+              "like_count": 41,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114573405861122343",
+            "text": "Minas gerais você é grandona, filha!!!!",
+            "author_username": "13pepetos_",
+            "author_name": "13pepetos_",
+            "created_at": "2026-10-26T04:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/13pepetos_/status/2114573405861122343#m",
+            "metrics": {
+              "like_count": 55,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114564994134093831",
+            "text": "Eu alertei sobre o que \"aconteceu\" em Minas Gerais... a sabotagem do nikolas ocorreu desde o primeiro turno, enquanto ele apenas usava os comícios para se auto vangloriar!\n\nAgora vamos ver quem vai lutar de verdade pela anulação do pleito!",
+            "author_username": "joao8_32_JB",
+            "author_name": "joao8_32_JB",
+            "created_at": "2026-10-26T03:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/joao8_32_JB/status/2114564994134093831#m",
+            "metrics": {
+              "like_count": 328,
+              "reply_count": 0,
+              "retweet_count": 5,
+              "quote_count": 17
+            }
+          },
+          {
+            "id": "2114561085965558029",
+            "text": "Nossa Minas Gerais 🥹",
+            "author_username": "Danielesc",
+            "author_name": "Danielesc",
+            "created_at": "2026-10-26T03:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Danielesc/status/2114561085965558029#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114560484263301344",
+            "text": "NORDESTE É GIGANTEEEEE\n\nMINAS GERAIS GIGANTEEE",
+            "author_username": "beta_pinheiro",
+            "author_name": "beta_pinheiro",
+            "created_at": "2026-10-26T03:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/beta_pinheiro/status/2114560484263301344#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114558943041085939",
+            "text": "Comemorando nas ruas de Sete Lagoas, na região Central de Minas Gerais. O @PCBpartidao estará na linha de frente contra a extrema-direita neofascista.",
+            "author_username": "PROFTULIO",
+            "author_name": "PROFTULIO",
+            "created_at": "2026-10-26T03:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/PROFTULIO/status/2114558943041085939#m",
+            "metrics": {
+              "like_count": 408,
+              "reply_count": 1,
+              "retweet_count": 1,
+              "quote_count": 44
+            }
+          },
+          {
+            "id": "2114556121239212287",
+            "text": "Não façam turismo na Bahia e nem em Minas Gerais.",
+            "author_username": "trapo041",
+            "author_name": "trapo041",
+            "created_at": "2026-10-26T03:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/trapo041/status/2114556121239212287#m",
+            "metrics": {
+              "like_count": 159,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114555841701360001",
+            "text": "Lula\nOBRIGADA JANONES\n#Eleições2026\nTrump\nVencemos\nNikolas\nMinas Gerais\nEntrou\nTarcísio\nVenezuela\nObrigado Zé \nObrigada Zé\nJair Bolsonaro \nGolpistas\nFoi por vc tbm Ana Clara",
+            "author_username": "MeryMedeirox",
+            "author_name": "MeryMedeirox",
+            "created_at": "2026-10-26T03:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MeryMedeirox/status/2114555841701360001#m",
+            "metrics": {
+              "like_count": 157,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114554482982084683",
+            "text": "Eu alertei sobre o que \"aconteceu\" em Minas Gerais... a sabotagem do nikolas ocorreu desde o primeiro turno, enquanto ele apenas usava os comícios para se auto vangloriar!\n\nAgora vamos ver quem vai lutar de verdade pela anulação do pleito!",
+            "author_username": "joao8_32_JB",
+            "author_name": "joao8_32_JB",
+            "created_at": "2026-10-26T03:07:00+00:00",
+            "permalink": "https://nitter.meowing.monster/joao8_32_JB/status/2114554482982084683#m",
+            "metrics": {
+              "like_count": 179,
+              "reply_count": 0,
+              "retweet_count": 3,
+              "quote_count": 13
+            }
+          },
+          {
+            "id": "2114553914812932522",
+            "text": ".\n#ObrigadaJanones\nVAI TOMAR NO CU BOLSONARO\n#LulaPresidente\nVITÓRIA\nMINAS GERAIS\nVENCEMOS\nLula\n#Eleições2026\n#LulaReeleito \n#Eleições2026",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T03:05:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114553914812932522#m",
+            "metrics": {
+              "like_count": 58,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114553691357200396",
+            "text": "Xau e aproveita pra levar a Mirela junta. 🤣🤣🤣🤣🤣🤣🤣🤣\n\n.\n#ObrigadaJanones\nVAI TOMAR NO CU BOLSONARO\n#LulaPresidente\nVITÓRIA\nMINAS GERAIS\nVENCEMOS\nLula\n#Eleições2026\n#LulaReeleito \n#Eleições2026",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T03:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114553691357200396#m",
+            "metrics": {
+              "like_count": 44,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114551779098558859",
+            "text": "Norte, Nordeste e Minas Gerais ❤️🇧🇷⭐",
+            "author_username": "Aleatorioo01o",
+            "author_name": "Aleatorioo01o",
+            "created_at": "2026-10-26T02:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Aleatorioo01o/status/2114551779098558859#m",
+            "metrics": {
+              "like_count": 42,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114551018394390912",
+            "text": "MEU PAIS MINAS GERAIS VOTOU CERTO E REELEGEU MEU PRESIDENTE LUIS INÁCIO LULA DA SILVA",
+            "author_username": "jeffadosmunhoiz",
+            "author_name": "jeffadosmunhoiz",
+            "created_at": "2026-10-26T02:53:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jeffadosmunhoiz/status/2114551018394390912#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114550091725894057",
+            "text": "Realmente único defeito de minas gerais é não ter MAR. Bora lulaaaaaa",
+            "author_username": "gabaolt",
+            "author_name": "gabaolt",
+            "created_at": "2026-10-26T02:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/gabaolt/status/2114550091725894057#m",
+            "metrics": {
+              "like_count": 40,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114549439549378730",
+            "text": "Minas Gerais é Sudeste, né? Kkkk",
+            "author_username": "MiaStyles2020",
+            "author_name": "MiaStyles2020",
+            "created_at": "2026-10-26T02:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MiaStyles2020/status/2114549439549378730#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114548441023975909",
+            "text": "Ôh chupetinha, vai se fuder...Minas Gerais é bem maior do que você!!!\n🔥♥️🌟",
+            "author_username": "SrtaDora_br",
+            "author_name": "SrtaDora_br",
+            "created_at": "2026-10-26T02:43:00+00:00",
+            "permalink": "https://nitter.meowing.monster/SrtaDora_br/status/2114548441023975909#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114546585505853748",
+            "text": "MINAS GERAIS FEZ HISTORIA, SEU VERME",
+            "author_username": "desazalar",
+            "author_name": "desazalar",
+            "created_at": "2026-10-26T02:36:00+00:00",
+            "permalink": "https://nitter.meowing.monster/desazalar/status/2114546585505853748#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114545864291033322",
+            "text": "nós nordestinos aceitamos Minas Gerais",
+            "author_username": "badludssa",
+            "author_name": "badludssa",
+            "created_at": "2026-10-26T02:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/badludssa/status/2114545864291033322#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114545120527712283",
+            "text": "PEGA PORRAAAAAAAAAAAA, MINAS GERAIS É O BRASIL",
+            "author_username": "electralino",
+            "author_name": "electralino",
+            "created_at": "2026-10-26T02:30:00+00:00",
+            "permalink": "https://nitter.meowing.monster/electralino/status/2114545120527712283#m",
+            "metrics": {
+              "like_count": 108,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114542530453016596",
+            "text": "Se fosse assim vc deveria odiar Minas gerais, e eu sou carioca e estou morando agora em João Pessoa e é um lugar maravilhoso de pessoas maravilhosas, não confunda as coisas",
+            "author_username": "marcosvsq",
+            "author_name": "marcosvsq",
+            "created_at": "2026-10-26T02:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/marcosvsq/status/2114542530453016596#m",
+            "metrics": {
+              "like_count": 114,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114541849071300696",
+            "text": "Obrigado Minas Gerais 1️⃣3️⃣🇧🇷🫶",
+            "author_username": "gustuzumakisa",
+            "author_name": "gustuzumakisa",
+            "created_at": "2026-10-26T02:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/gustuzumakisa/status/2114541849071300696#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114539299953603032",
+            "text": "Eu errei no primeiro turno ao chamar Minas Gerais de Maga Gerais! Me escapuliu",
+            "author_username": "claudio_psciano",
+            "author_name": "claudio_psciano",
+            "created_at": "2026-10-26T02:07:00+00:00",
+            "permalink": "https://nitter.meowing.monster/claudio_psciano/status/2114539299953603032#m",
+            "metrics": {
+              "like_count": 59,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114538707743068512",
+            "text": "Meu país chamado MINAS GERAIS 🇧🇷🇧🇷🇧🇷\n\n#LulaPelaDemocracia #juizdefora #tetra",
+            "author_username": "cleber_neris",
+            "author_name": "cleber_neris",
+            "created_at": "2026-10-26T02:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/cleber_neris/status/2114538707743068512#m",
+            "metrics": {
+              "like_count": 34,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114538407443533914",
+            "text": "meu país, Minas Gerais. \n🤩",
+            "author_username": "Drumond_Simone",
+            "author_name": "Drumond_Simone",
+            "created_at": "2026-10-26T02:03:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Drumond_Simone/status/2114538407443533914#m",
+            "metrics": {
+              "like_count": 536,
+              "reply_count": 3,
+              "retweet_count": 3,
+              "quote_count": 37
+            }
+          },
+          {
+            "id": "2114537208363520086",
+            "text": "Parem de atacar o bezerro , ele tá a preocupado com Minas gerais gente. \nPode crer que eles vão perseguido tbem",
+            "author_username": "SusyGuerreiro1",
+            "author_name": "SusyGuerreiro1",
+            "created_at": "2026-10-26T01:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/SusyGuerreiro1/status/2114537208363520086#m",
+            "metrics": {
+              "like_count": 43,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114537091736502660",
+            "text": "Obrigado meu Nordeste, obrigado Minas Gerais.",
+            "author_username": "CleberBarros13",
+            "author_name": "CleberBarros13",
+            "created_at": "2026-10-26T01:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/CleberBarros13/status/2114537091736502660#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114536946512928977",
+            "text": "MINHA MINAS GERAIS VERMELHA ALI COISA LINDA",
+            "author_username": "soopsyc",
+            "author_name": "soopsyc",
+            "created_at": "2026-10-26T01:57:00+00:00",
+            "permalink": "https://nitter.meowing.monster/soopsyc/status/2114536946512928977#m",
+            "metrics": {
+              "like_count": 29,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114535413608013922",
+            "text": "Valeu meu nordeste pesado, meus ancestrais, que saíram na garra, na luta, valeu ao norte que se recuperou sua lucidez e valeu Minas Gerais, nossa vizinha, sabe das nossas lutas porque é bem parecida com nossa energia...valeu aos blogs, a união 🫂",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-26T01:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114535413608013922#m",
+            "metrics": {
+              "like_count": 40,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114534600764428292",
+            "text": "Minas Gerais se recusa a ficar azul",
+            "author_username": "vitorgo31766661",
+            "author_name": "vitorgo31766661",
+            "created_at": "2026-10-26T01:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/vitorgo31766661/status/2114534600764428292#m",
+            "metrics": {
+              "like_count": 397,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 7
+            }
+          },
+          {
+            "id": "2114532701189591249",
+            "text": "Minas não tem rabo preso com político. Se em 15 dias viu que o candidato é uma ameaça a boa cidadania e a democracia, o voto vira mesmo. Isso é Minas Gerais. Acostumada com grandes viradas!",
+            "author_username": "enzzrs",
+            "author_name": "enzzrs",
+            "created_at": "2026-10-26T01:40:00+00:00",
+            "permalink": "https://nitter.meowing.monster/enzzrs/status/2114532701189591249#m",
+            "metrics": {
+              "like_count": 129,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114531361105027165",
+            "text": "minas gerais realmente é um país",
+            "author_username": "nightshadespin",
+            "author_name": "nightshadespin",
+            "created_at": "2026-10-26T01:35:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nightshadespin/status/2114531361105027165#m",
+            "metrics": {
+              "like_count": 41,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114531187251089895",
+            "text": "Quem deu a vitória foi Minas gerais",
+            "author_username": "marcosvsq",
+            "author_name": "marcosvsq",
+            "created_at": "2026-10-26T01:34:00+00:00",
+            "permalink": "https://nitter.meowing.monster/marcosvsq/status/2114531187251089895#m",
+            "metrics": {
+              "like_count": 42,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114527937227596162",
+            "text": "90min em Minas Gerais são muito longos. MG é acostumado com grandes viradas!",
+            "author_username": "enzzrs",
+            "author_name": "enzzrs",
+            "created_at": "2026-10-26T01:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/enzzrs/status/2114527937227596162#m",
+            "metrics": {
+              "like_count": 127,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114527388931428693",
+            "text": "Eu gritava na porta da minha casa com a bandeira do Brasil \"Viva o nordeste e viva Minas\". Obrigada Minas Gerais!!!",
+            "author_username": "sandracacto",
+            "author_name": "sandracacto",
+            "created_at": "2026-10-26T01:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/sandracacto/status/2114527388931428693#m",
+            "metrics": {
+              "like_count": 96,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114526987192586393",
+            "text": "Minas Gerais é maior que os meninos mimados",
+            "author_username": "MonicaSeixas",
+            "author_name": "MonicaSeixas",
+            "created_at": "2026-10-26T01:18:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MonicaSeixas/status/2114526987192586393#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 17,
+              "quote_count": 161
+            }
+          },
+          {
+            "id": "2114523705724280897",
+            "text": "O que aconteceu em minas gerais...@nikolas_dm o deputado mais votado da história, @cleitinhotmj eleito em 1°turno todos de direita e o povo vota no lula para presidente  isto é  fraude...golpe na cara dura...e para fechar o advogado do lula em uma decisão monocromática extende a",
+            "author_username": "RicardoPadilha7",
+            "author_name": "RicardoPadilha7",
+            "created_at": "2026-10-26T01:05:00+00:00",
+            "permalink": "https://nitter.meowing.monster/RicardoPadilha7/status/2114523705724280897#m",
+            "metrics": {
+              "like_count": 27,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114523405126873548",
+            "text": "Na hora do valendo Minas Gerais também sabe o que fazer",
+            "author_username": "MatiasPereira_",
+            "author_name": "MatiasPereira_",
+            "created_at": "2026-10-26T01:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MatiasPereira_/status/2114523405126873548#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114522676819582992",
+            "text": "O Estado de Nikolas Ferreira eleger Lula é muito foda, épico. Obrigada, Minas Gerais. Eu te amo ❤️",
+            "author_username": "artemis_rouge",
+            "author_name": "artemis_rouge",
+            "created_at": "2026-10-26T01:01:00+00:00",
+            "permalink": "https://nitter.meowing.monster/artemis_rouge/status/2114522676819582992#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 3,
+              "retweet_count": 34,
+              "quote_count": 179
+            }
+          },
+          {
+            "id": "2114522389010923768",
+            "text": "Tenho uma opinião sobre minas gerais",
+            "author_username": "Rodrigo___1914",
+            "author_name": "Rodrigo___1914",
+            "created_at": "2026-10-26T00:59:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Rodrigo___1914/status/2114522389010923768#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114522287164510577",
+            "text": "Obrigado, Minas Gerais! Obrigado, meu Nordeste brasileiro! Obrigado,  estudantes do meu Brasil!",
+            "author_username": "mestreresende",
+            "author_name": "mestreresende",
+            "created_at": "2026-10-26T00:59:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mestreresende/status/2114522287164510577#m",
+            "metrics": {
+              "like_count": 107,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114521994150486038",
+            "text": "Esquerda não solta a mão de ninguém .. sábio Otoni de Paula.. \n\nDeus e o justos eterna gratidão a minas gerais e André janones \n\nAlexandre de Moraes .. \nJoga esse miliciano no chiqueiro com o pai dele",
+            "author_username": "DudduMauri50132",
+            "author_name": "DudduMauri50132",
+            "created_at": "2026-10-26T00:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DudduMauri50132/status/2114521994150486038#m",
+            "metrics": {
+              "like_count": 40,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114521449654276142",
+            "text": "O Nordeste, o Norte e Minas Gerais salvaram o Brasil da extrema-direita.",
+            "author_username": "alexandrefv",
+            "author_name": "alexandrefv",
+            "created_at": "2026-10-26T00:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/alexandrefv/status/2114521449654276142#m",
+            "metrics": {
+              "like_count": 65,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114521324068487580",
+            "text": "Kkkkkkkkkkkkkkkk\nMinas Gerais é 13!",
+            "author_username": "quimicadogui",
+            "author_name": "quimicadogui",
+            "created_at": "2026-10-26T00:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/quimicadogui/status/2114521324068487580#m",
+            "metrics": {
+              "like_count": 94,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114521204748878245",
+            "text": "Kkkkkkkkkkkkkkkkkkkkkkkkkkkk\nMinas Gerais é 13!",
+            "author_username": "quimicadogui",
+            "author_name": "quimicadogui",
+            "created_at": "2026-10-26T00:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/quimicadogui/status/2114521204748878245#m",
+            "metrics": {
+              "like_count": 110,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114521164101845474",
+            "text": "AQUI É MINAS GERAIS PORRA!!!\ne deveria ter sido com mais votos, mas a gente vai recuperando",
+            "author_username": "igorpatzlaff",
+            "author_name": "igorpatzlaff",
+            "created_at": "2026-10-26T00:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/igorpatzlaff/status/2114521164101845474#m",
+            "metrics": {
+              "like_count": 146,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 8
+            }
+          },
+          {
+            "id": "2114520809498919245",
+            "text": "OBRIGADA, MINAS GERAIS!!!",
+            "author_username": "JessiNayra",
+            "author_name": "JessiNayra",
+            "created_at": "2026-10-26T00:53:00+00:00",
+            "permalink": "https://nitter.meowing.monster/JessiNayra/status/2114520809498919245#m",
+            "metrics": {
+              "like_count": 80,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 9
+            }
+          },
+          {
+            "id": "2114520184102776922",
+            "text": "Minas gerais eu te amo",
+            "author_username": "vinicinho_xx_",
+            "author_name": "vinicinho_xx_",
+            "created_at": "2026-10-26T00:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/vinicinho_xx_/status/2114520184102776922#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114519401655648290",
+            "text": "Meu país Minas Gerais deu o nome!",
+            "author_username": "nahcristine",
+            "author_name": "nahcristine",
+            "created_at": "2026-10-26T00:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nahcristine/status/2114519401655648290#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114519389706039342",
+            "text": "OBRIGADA, MINAS GERAIS. PHODA.",
+            "author_username": "artemis_rouge",
+            "author_name": "artemis_rouge",
+            "created_at": "2026-10-26T00:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/artemis_rouge/status/2114519389706039342#m",
+            "metrics": {
+              "like_count": 373,
+              "reply_count": 4,
+              "retweet_count": 8,
+              "quote_count": 80
+            }
+          },
+          {
+            "id": "2114518856827834778",
+            "text": "Homen de guerra !! Parabéns  minas gerais",
+            "author_username": "DudduMauri50132",
+            "author_name": "DudduMauri50132",
+            "created_at": "2026-10-26T00:45:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DudduMauri50132/status/2114518856827834778#m",
+            "metrics": {
+              "like_count": 52,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114518304303788317",
+            "text": "Minas eu te amo te amo minas gerais",
+            "author_username": "chmontt_",
+            "author_name": "chmontt_",
+            "created_at": "2026-10-26T00:43:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chmontt_/status/2114518304303788317#m",
+            "metrics": {
+              "like_count": 32,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114518250507612616",
+            "text": "Obrigado minas gerais",
+            "author_username": "DudduMauri50132",
+            "author_name": "DudduMauri50132",
+            "created_at": "2026-10-26T00:43:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DudduMauri50132/status/2114518250507612616#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114517191311651317",
+            "text": "Minas Gerais fez sua parte. \\0/",
+            "author_username": "marcusaraujobhz",
+            "author_name": "marcusaraujobhz",
+            "created_at": "2026-10-26T00:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/marcusaraujobhz/status/2114517191311651317#m",
+            "metrics": {
+              "like_count": 557,
+              "reply_count": 4,
+              "retweet_count": 5,
+              "quote_count": 38
+            }
+          },
+          {
+            "id": "2114517183011168404",
+            "text": "Obrigado minas gerais, obrigado nordeste, obrigado Brasil",
+            "author_username": "Jcm2022gru",
+            "author_name": "Jcm2022gru",
+            "created_at": "2026-10-26T00:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Jcm2022gru/status/2114517183011168404#m",
+            "metrics": {
+              "like_count": 118,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114516448362029479",
+            "text": "MINAS GERAIS TA VERMELHAAAAA",
+            "author_username": "max_ziller",
+            "author_name": "max_ziller",
+            "created_at": "2026-10-26T00:36:00+00:00",
+            "permalink": "https://nitter.meowing.monster/max_ziller/status/2114516448362029479#m",
+            "metrics": {
+              "like_count": 104,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114516374244499815",
+            "text": "MINAS GERAIS TE RESPONDE SEU FILHO DA PUTA",
+            "author_username": "chmontt_",
+            "author_name": "chmontt_",
+            "created_at": "2026-10-26T00:36:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chmontt_/status/2114516374244499815#m",
+            "metrics": {
+              "like_count": 42,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114515643558965461",
+            "text": "LULA CONSEGUIU VIRAR O VOTA DE MINAS GERAIS\nMINAS GERAIS QUE ELEGEU O FLÁVIO NO 1°TURNO\n\nQUE ORGULHO DO MEU PAÍS DO PÃO DE QUEIJO",
+            "author_username": "httpprotazio",
+            "author_name": "httpprotazio",
+            "created_at": "2026-10-26T00:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/httpprotazio/status/2114515643558965461#m",
+            "metrics": {
+              "like_count": 48,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114515139500351762",
+            "text": "OBRIGADO MINAS GERAIS ❤️",
+            "author_username": "RafaelPFreitass",
+            "author_name": "RafaelPFreitass",
+            "created_at": "2026-10-26T00:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/RafaelPFreitass/status/2114515139500351762#m",
+            "metrics": {
+              "like_count": 35,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114513970308465130",
+            "text": "Presidente @LulaOficial!\n\nNUNCA ESQUEÇA DE MINAS GERAIS.\n\nNossa equipe de docentes trabalharam muito em Belo Horizonte.\n\n@RogerioCorreia_ @DudaSalabert @alvarodamiao @ptbrasil @AndreJanonesMG",
+            "author_username": "laurocesar77",
+            "author_name": "laurocesar77",
+            "created_at": "2026-10-26T00:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/laurocesar77/status/2114513970308465130#m",
+            "metrics": {
+              "like_count": 116,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114513754385784918",
+            "text": "FALA DA MINHA MINAS GERAIS",
+            "author_username": "guik48",
+            "author_name": "guik48",
+            "created_at": "2026-10-26T00:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/guik48/status/2114513754385784918#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114513162447761866",
+            "text": "E Minas Gerais de novo elegendo o PT de novo 😂😂😂😂😂😂😂😂😂",
+            "author_username": "CaLeBeS23",
+            "author_name": "CaLeBeS23",
+            "created_at": "2026-10-26T00:23:00+00:00",
+            "permalink": "https://nitter.meowing.monster/CaLeBeS23/status/2114513162447761866#m",
+            "metrics": {
+              "like_count": 96,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114513023167529290",
+            "text": "q orgulho do meu país minas gerais",
+            "author_username": "Leandro_SaG",
+            "author_name": "Leandro_SaG",
+            "created_at": "2026-10-26T00:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Leandro_SaG/status/2114513023167529290#m",
+            "metrics": {
+              "like_count": 62,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114512837619970314",
+            "text": "OBRIGADA MINAS GERAIS",
+            "author_username": "Barbcampos06",
+            "author_name": "Barbcampos06",
+            "created_at": "2026-10-26T00:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Barbcampos06/status/2114512837619970314#m",
+            "metrics": {
+              "like_count": 72,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114512593285259332",
+            "text": "Em Minas Gerais...",
+            "author_username": "joao8_32_JB",
+            "author_name": "joao8_32_JB",
+            "created_at": "2026-10-26T00:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/joao8_32_JB/status/2114512593285259332#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 2,
+              "retweet_count": 8,
+              "quote_count": 44
+            }
+          },
+          {
+            "id": "2114512274501128695",
+            "text": "Na véspera da eleição, ao invés de postar sobre o Flávio Bolsonaro, o moleque postou sobre ELE!\n\nO resultado em Minas Gerais não foi por acaso!",
+            "author_username": "joao8_32_JB",
+            "author_name": "joao8_32_JB",
+            "created_at": "2026-10-26T00:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/joao8_32_JB/status/2114512274501128695#m",
+            "metrics": {
+              "like_count": 24,
+              "reply_count": 155,
+              "retweet_count": 155,
+              "quote_count": 725
+            }
+          },
+          {
+            "id": "2114696963560022034",
+            "text": "- O piá de bosta postou sobre ELE na véspera das eleições.🤡\n\n- Os vídeos do BLOCO 22 tinham mais ele do que Flávio.\n\n- Ao invés de ajudar a divulgar o filme do Bolsonaro, ele atacou Mário Frias.\n\n- Tentou sabotar o Senador Carlos Bolsonaro na véspera do 1º turno.\n\n- Elegeu uma PETISTA para o Senado em MG para ajudar o partido NOJO🍎\n\n- Fez o Flávio Bolsonaro ter menos votos em Minas Gerais!\n\nnikolas é o camisa 10 do PT!",
+            "author_username": "joao8_32_JB",
+            "author_name": "joao8_32_JB",
+            "created_at": "2026-10-26T12:33:00+00:00",
+            "permalink": "https://nitter.mie.foundation/joao8_32_JB/status/2114696963560022034#m",
+            "metrics": {
+              "like_count": 67,
+              "reply_count": 2,
+              "retweet_count": 1,
+              "quote_count": 2
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 5,
+          "instance_used": "https://nitter.mie.foundation"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "assuntos_x_momento_ate_27out21h_20261026"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114885700038570247",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114885700038570247",
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114885700038570247",
+        "text": "Desde 1989 quem vence em Minas Gerais...",
+        "author_username": "TitoGremistazo",
+        "author_name": "TitoGremistazo",
+        "created_at": "2026-10-27T01:03:00+00:00",
+        "permalink": "https://nitter.meowing.monster/TitoGremistazo/status/2114885700038570247#m",
+        "metrics": {
+          "like_count": 129,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114864730447794191",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114864730447794191",
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114864730447794191",
+        "text": "Parabéns camaradas do @PCBMinasGerais derrotamos Zema-Simões, Aécio e Carlos Viana no primeiro turno e neste segundo turno participamos das principais manifestações populares que garantiram uma vira histórica. Em Minas Gerais nossa bandeira é vermelha. Viva o @PCBpartidao !",
+        "author_username": "PROFTULIO",
+        "author_name": "PROFTULIO",
+        "created_at": "2026-10-26T23:40:00+00:00",
+        "permalink": "https://nitter.meowing.monster/PROFTULIO/status/2114864730447794191#m",
+        "metrics": {
+          "like_count": 80,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 5
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114853387669803035",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114853387669803035",
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114853387669803035",
+        "text": "Os governadores apoiaram Flávio. Não tinha como perder em Minas gerais,por exemplo.",
+        "author_username": "DEBORAA93854687",
+        "author_name": "DEBORAA93854687",
+        "created_at": "2026-10-26T22:55:00+00:00",
+        "permalink": "https://nitter.meowing.monster/DEBORAA93854687/status/2114853387669803035#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114849303927869753",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114849303927869753",
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "direita"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114849303927869753",
+        "text": "Só ver a virada em Minas gerais, quando a direita ganha não tem sistema,kkkk quando lula ganha é o sistema,vai chupar limão,o povo brasileiro acordou na hora certa, porquê Flávio ia entregar o Brasil para Trump e escravizar os trabalhadores,",
+        "author_username": "AiltonSoar62418",
+        "author_name": "AiltonSoar62418",
+        "created_at": "2026-10-26T22:39:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AiltonSoar62418/status/2114849303927869753#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114821361726103824",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114821361726103824",
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114821361726103824",
+        "text": "Tira Minas Gerais dessa parte Verde ai",
+        "author_username": "RicardoReisjf",
+        "author_name": "RicardoReisjf",
+        "created_at": "2026-10-26T20:47:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RicardoReisjf/status/2114821361726103824#m",
+        "metrics": {
+          "like_count": 359,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 4
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114806398395805891",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114806398395805891",
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114806398395805891",
+        "text": "o cara só veio em 01(UMA) unidade de cidade de Minas Gerais e reclama da porra das urnas dizendo que é fraudado",
+        "author_username": "tristheuzismo",
+        "author_name": "tristheuzismo",
+        "created_at": "2026-10-26T19:48:00+00:00",
+        "permalink": "https://nitter.meowing.monster/tristheuzismo/status/2114806398395805891#m",
+        "metrics": {
+          "like_count": 48,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114804439391334863",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114804439391334863",
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "matched_terms": [
+        "Ana Elisa",
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114804439391334863",
+        "text": "Ana Elisa cancela viagem a evento do PT em São Paulo após recomendação de segurança.\n\nDeputada federal eleita afirmou que considerou o cenário em Minas Gerais hostil: maisminas.com.br/politica/an…",
+        "author_username": "MaisMinas1",
+        "author_name": "MaisMinas1",
+        "created_at": "2026-10-26T19:40:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MaisMinas1/status/2114804439391334863#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114783294051033110",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114783294051033110",
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114783294051033110",
+        "text": "Minha Minas Gerais acordou nesse 2⁰ turno !!",
+        "author_username": "maycruz9L",
+        "author_name": "maycruz9L",
+        "created_at": "2026-10-26T18:16:00+00:00",
+        "permalink": "https://nitter.meowing.monster/maycruz9L/status/2114783294051033110#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114747831625871598",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114747831625871598",
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114747831625871598",
+        "text": "Meu país chamado de Minas Gerais 💝\n\nE a princesinha de Minas, Juiz de Fora, não decepcionou mais uma vez 👏🏿👏🏿👏🏿",
+        "author_username": "cleber_neris",
+        "author_name": "cleber_neris",
+        "created_at": "2026-10-26T15:55:00+00:00",
+        "permalink": "https://nitter.meowing.monster/cleber_neris/status/2114747831625871598#m",
+        "metrics": {
+          "like_count": 380,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 24
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114745086286102789",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114745086286102789",
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114745086286102789",
+        "text": "MINAS GERAIS VEIO COM TUDO, QUE ORGULHO",
+        "author_username": "MandiSilver_",
+        "author_name": "MandiSilver_",
+        "created_at": "2026-10-26T15:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MandiSilver_/status/2114745086286102789#m",
+        "metrics": {
+          "like_count": 139,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114733407708058003",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114733407708058003",
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114733407708058003",
+        "text": "O Galudo, o galão da Márcia, o gigantesco de Minas Gerais, o time que bica...\n\nNão vai nos decepcionar, né?!",
+        "author_username": "Brunosep_R",
+        "author_name": "Brunosep_R",
+        "created_at": "2026-10-26T14:58:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Brunosep_R/status/2114733407708058003#m",
+        "metrics": {
+          "like_count": 613,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 19
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114722722311725441",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114722722311725441",
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114722722311725441",
+        "text": "Que vergonha de ser Mineiro \nQue vergonha mesmo slc...\n\nInfelizmente o povo daqui merece mesmo sofrer o preconceito que sofre quando é chamado de caipira.\n\nRealmente uma mentalidade caipira e pobre merece mesmo\nMinas Gerais tem que se foder",
+        "author_username": "manometeus",
+        "author_name": "manometeus",
+        "created_at": "2026-10-26T14:16:00+00:00",
+        "permalink": "https://nitter.meowing.monster/manometeus/status/2114722722311725441#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114696963560022034",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114696963560022034",
+      "collected_at": "2026-10-26T23:48:41-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114696963560022034",
+        "text": "- O piá de bosta postou sobre ELE na véspera das eleições.🤡\n\n- Os vídeos do BLOCO 22 tinham mais ele do que Flávio.\n\n- Ao invés de ajudar a divulgar o filme do Bolsonaro, ele atacou Mário Frias.\n\n- Tentou sabotar o Senador Carlos Bolsonaro na véspera do 1º turno.\n\n- Elegeu uma PETISTA para o Senado em MG para ajudar o partido NOJO🍎\n\n- Fez o Flávio Bolsonaro ter menos votos em Minas Gerais!\n\nnikolas é o camisa 10 do PT!",
+        "author_username": "joao8_32_JB",
+        "author_name": "joao8_32_JB",
+        "created_at": "2026-10-26T12:33:00+00:00",
+        "permalink": "https://nitter.mie.foundation/joao8_32_JB/status/2114696963560022034#m",
+        "metrics": {
+          "like_count": 67,
+          "reply_count": 2,
+          "retweet_count": 1,
+          "quote_count": 2
+        }
+      }
+    }
+  ],
+  "comments": []
+}
