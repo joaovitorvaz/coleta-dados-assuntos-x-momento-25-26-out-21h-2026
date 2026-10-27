@@ -1,0 +1,4713 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Lula",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+    "collected_at": "2026-10-26T22:45:07-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 93,
+      "comments": 0,
+      "records_total": 93,
+      "skipped_duplicate": 0
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114891750045012394",
+            "text": "E agora Petezada ,o que vocês vão fazer , Lula o Presidente de Vocês usou tudo mundo e agora vão levar a maior rasteira ,toma",
+            "author_username": "NeinhaCeciliaa",
+            "author_name": "NeinhaCeciliaa",
+            "created_at": "2026-10-27T01:27:00+00:00",
+            "permalink": "https://nitter.meowing.monster/NeinhaCeciliaa/status/2114891750045012394#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114891679614238971",
+            "text": "Espero que o Lula consiga ajudar o Richarlisson com  ilha que o Flávio tomou dele!",
+            "author_username": "chicotejp",
+            "author_name": "chicotejp",
+            "created_at": "2026-10-27T01:27:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chicotejp/status/2114891679614238971#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114891343277244570",
+            "text": "quando eu vi eu achei uma loucura kkkkk entendo NADA né, mas DOIS PORCENTO? icônico",
+            "author_username": "marianatdias_",
+            "author_name": "marianatdias_",
+            "created_at": "2026-10-27T01:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/marianatdias_/status/2114891343277244570#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114891227380281451",
+            "text": "Cara....e daí? O pedido formal chegou ao TSE, o STF deu o parecer e o Kassio, amigo do Flávio, deu a ordem 17:01. E mesmo assim foram contabilizados 35mil votos nesse horário extra. Mesmo q fossem todos pro Lula, o Flávio ainda perderia.",
+            "author_username": "CarlosXimu",
+            "author_name": "CarlosXimu",
+            "created_at": "2026-10-27T01:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/CarlosXimu/status/2114891227380281451#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114891202885468382",
+            "text": "O Lula não te tirou da pobreza não?\nVá trabalhar seu inútil 💩",
+            "author_username": "Kabulozocensura",
+            "author_name": "Kabulozocensura",
+            "created_at": "2026-10-27T01:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Kabulozocensura/status/2114891202885468382#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114890994583785543",
+            "text": "no meu mundo tem sim!\nAno que vem é Lula no Alvorada e Paes no Guanabara!",
+            "author_username": "indoevindo",
+            "author_name": "indoevindo",
+            "created_at": "2026-10-27T01:24:00+00:00",
+            "permalink": "https://nitter.meowing.monster/indoevindo/status/2114890994583785543#m",
+            "metrics": {
+              "like_count": 37,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114890492681089302",
+            "text": "Madonna passando a faixa pra Lula dia 1° de Janeiro.",
+            "author_username": "madudiscoclub",
+            "author_name": "madudiscoclub",
+            "created_at": "2026-10-27T01:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/madudiscoclub/status/2114890492681089302#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114890426532479343",
+            "text": "Não teve apoio nem interno, o PL não endossou essa ideia deles desde o início, era só a ala mais radical da equipe do Flávio, tiveram 4 pessoas que recomendaram de cara ligar para o Lula e reconhecer a derrota.\nA divulgação dos dados do TSE também de que os votos foram irrisórios próximo dos 4,4 milhões foi o prego final.\nAgora vão querer anular a chapa kkkkk",
+            "author_username": "flep",
+            "author_name": "flep",
+            "created_at": "2026-10-27T01:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/flep/status/2114890426532479343#m",
+            "metrics": {
+              "like_count": 25,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114890162945597576",
+            "text": "nossa sim... hoje eu quase repostei um post dela perguntando se poderia me empresta-lo por um dia",
+            "author_username": "marianatdias_",
+            "author_name": "marianatdias_",
+            "created_at": "2026-10-27T01:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/marianatdias_/status/2114890162945597576#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114890046079717824",
+            "text": "Agora que Lula venceu, vamos estudar, cravei várias falas importantes no discurso dele que consegui ter uma noção de novas políticas e reformas que ele irá fazer, e quais posso me atentar e me beneficiar antecipadamente, vamos, se joga!! #LulaPresidente",
+            "author_username": "ferrerstc",
+            "author_name": "ferrerstc",
+            "created_at": "2026-10-27T01:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ferrerstc/status/2114890046079717824#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114889599180808625",
+            "text": "Gov Lula só acerta",
+            "author_username": "grcastanheira",
+            "author_name": "grcastanheira",
+            "created_at": "2026-10-27T01:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/grcastanheira/status/2114889599180808625#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114889587478708330",
+            "text": "O Sistema protege o Lula o tempo todo 🤡",
+            "author_username": "TNIAMSMELO3",
+            "author_name": "TNIAMSMELO3",
+            "created_at": "2026-10-27T01:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/TNIAMSMELO3/status/2114889587478708330#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114889273031672258",
+            "text": "instagram.com/p/De8Y3hHOVip/…\nO povo não votou no Lula e sim os votos foram convertidos na apuração.TEMOS QUE FAZER A CONTAGEM MANUAL DOS BOLETM DE URNA!!",
+            "author_username": "alves_veridiano",
+            "author_name": "alves_veridiano",
+            "created_at": "2026-10-27T01:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/alves_veridiano/status/2114889273031672258#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114889265607737779",
+            "text": "vou me formar como fisioterapeuta e vou poder trabalhar em ubs no governo lula !",
+            "author_username": "tylerdabahia",
+            "author_name": "tylerdabahia",
+            "created_at": "2026-10-27T01:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/tylerdabahia/status/2114889265607737779#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114888868981821566",
+            "text": "Ela engual a gente parando uns segundinho a pra ver a cara do lula pela última vez na urna 🤧🤧",
+            "author_username": "MurucutuDePedra",
+            "author_name": "MurucutuDePedra",
+            "created_at": "2026-10-27T01:16:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MurucutuDePedra/status/2114888868981821566#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114888481340072134",
+            "text": "RECADO PRA TRUMP, QUE FICA METENDO O NARIZ MELEQUENTO NO PAÍS DOS OUTROS COMO UM URUBU, UM LADRÃO PIRATA. \nESCONDE NOS USA TERRORISTAS FUGITIVOS (OS BOLSONAROS)\nO BRASIL E UM. PAÍS SOBERANO E DEMOCRÁTICO, APESAR DOS GOLPISTAS,MAS AQUI TEMOS LEIS.\n#Trump #EleiçãoBrasil #Lula #USA",
+            "author_username": "nastenka1962",
+            "author_name": "nastenka1962",
+            "created_at": "2026-10-27T01:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nastenka1962/status/2114888481340072134#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114888449169694824",
+            "text": "Não é querendo trazer a neurose política de volta, mas acho bom já começarmos a procurar um nome pra ficar no lugar do lula, se n daqui a 4 anos nossas opções vão ser tipo: Marcinho espancatrans, Zézinho rachadinha e Hitler DLC",
+            "author_username": "Kirjava_0",
+            "author_name": "Kirjava_0",
+            "created_at": "2026-10-27T01:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Kirjava_0/status/2114888449169694824#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114888294622212123",
+            "text": "@ErikakHilton mais um caso",
+            "author_username": "Fabiportodas",
+            "author_name": "Fabiportodas",
+            "created_at": "2026-10-27T01:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fabiportodas/status/2114888294622212123#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114888251978739902",
+            "text": "Vencemos e ao nordeste devemos muito! Mas quero que esse mesmo povo não esqueça dos cantores populistas nordestinos que ficaram insentos, é preciso cobrar isso deles. Pois tinham alcance de voz, mas escolheram não se manifestar, NÃO ESQUEÇAM!!!",
+            "author_username": "emiliadantaas",
+            "author_name": "emiliadantaas",
+            "created_at": "2026-10-27T01:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/emiliadantaas/status/2114888251978739902#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114888165018534318",
+            "text": "Sim, a gente basicamente pode ter começado uma revolução de varrida da extrema direita não só na América Latina mas no mundo",
+            "author_username": "marianatdias_",
+            "author_name": "marianatdias_",
+            "created_at": "2026-10-27T01:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/marianatdias_/status/2114888165018534318#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114888009174688192",
+            "text": "Defendeu tanto o \"negociar com o patrão\" que agora vai ter que negociar com o PRESIDENTE Lula os recursos federais para o Paraná.",
+            "author_username": "vs06",
+            "author_name": "vs06",
+            "created_at": "2026-10-27T01:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/vs06/status/2114888009174688192#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114887993366392959",
+            "text": "@padilhando vai lá no exército do Lula watsapp, e veja a última recomendação dele do dia. Nao dá confiança para esse povo. Eu sequer tinha visto essa postagem dele, entendeu?",
+            "author_username": "PatricioPMelo",
+            "author_name": "PatricioPMelo",
+            "created_at": "2026-10-27T01:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/PatricioPMelo/status/2114887993366392959#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114887931663880558",
+            "text": "amo fingir que trabalho nesse muquifo",
+            "author_username": "amopeitosssssz",
+            "author_name": "amopeitosssssz",
+            "created_at": "2026-10-27T01:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/amopeitosssssz/status/2114887931663880558#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114887862034313559",
+            "text": "É, pq o lula sempre teve postura imperialista, intervencionista e pro guerra. \n\nTem tudo a ver.",
+            "author_username": "pensandinho",
+            "author_name": "pensandinho",
+            "created_at": "2026-10-27T01:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/pensandinho/status/2114887862034313559#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114887591099265366",
+            "text": "Aí vai a falência e diz que a culpa é do Lula",
+            "author_username": "renatinhofla",
+            "author_name": "renatinhofla",
+            "created_at": "2026-10-27T01:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/renatinhofla/status/2114887591099265366#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114887561885675753",
+            "text": "Aí isso aqui me destrói",
+            "author_username": "Fabiportodas",
+            "author_name": "Fabiportodas",
+            "created_at": "2026-10-27T01:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fabiportodas/status/2114887561885675753#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114887410374885450",
+            "text": "Lula reeleito, vou ver o Jão em novembro",
+            "author_username": "mododdizer",
+            "author_name": "mododdizer",
+            "created_at": "2026-10-27T01:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mododdizer/status/2114887410374885450#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114887410026955232",
+            "text": "Quem vota 13 vamos se seguir ?... aqui e no insta ?\n#Lula #lula13 #eleições #esquerda",
+            "author_username": "Yumikawaiigg",
+            "author_name": "Yumikawaiigg",
+            "created_at": "2026-10-27T01:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Yumikawaiigg/status/2114887410026955232#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114887394365145355",
+            "text": "🤔pq a esquerda está tão incomodada se venceram ? Não eram eles que chamavam os empresários de fascistas ? \nEmpresários não recuem ao chororó ,a esquerda por si só, se basta e o Lula tirou o Brasil do mapa da fome ,pq reclamam?",
+            "author_username": "AdrianaR15084",
+            "author_name": "AdrianaR15084",
+            "created_at": "2026-10-27T01:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AdrianaR15084/status/2114887394365145355#m",
+            "metrics": {
+              "like_count": 22,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114887282263990608",
+            "text": "Fãs de Moi Dix Mois com Lula ❤️⭐ 13",
+            "author_username": "bizarre_doll80s",
+            "author_name": "bizarre_doll80s",
+            "created_at": "2026-10-27T01:09:00+00:00",
+            "permalink": "https://nitter.meowing.monster/bizarre_doll80s/status/2114887282263990608#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114886904990576722",
+            "text": "Com lula vc quiz dizer",
+            "author_username": "SantosMaynart",
+            "author_name": "SantosMaynart",
+            "created_at": "2026-10-27T01:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/SantosMaynart/status/2114886904990576722#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114886734445953120",
+            "text": "E qnd um moço numa moto ontem se exibindo pós vitória do Lula e levar algumas meninas na garupa e tal, simplesmente parou mais uma vez na comemoração e serviu um beijão com um HOMEM encima da moto e geral gritou e surtou e gritou \"gays, gays, gays\"",
+            "author_username": "bru_ursa",
+            "author_name": "bru_ursa",
+            "created_at": "2026-10-27T01:07:00+00:00",
+            "permalink": "https://nitter.meowing.monster/bru_ursa/status/2114886734445953120#m",
+            "metrics": {
+              "like_count": 57,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114886236091392299",
+            "text": "Estes são os eleitores do lula....\n@realDonaldTrump \n@SecRubio\n@EmbaixadaEUA\n🇧🇷🤝🏼🇺🇸",
+            "author_username": "FernandoSalus14",
+            "author_name": "FernandoSalus14",
+            "created_at": "2026-10-27T01:05:00+00:00",
+            "permalink": "https://nitter.meowing.monster/FernandoSalus14/status/2114886236091392299#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114886158232744345",
+            "text": "O Golpe começou com a descondenação do Lula pelo Ministro Fachin. Desse momento em diante vivemos em constante negação, acreditando que ainda vivemos uma democracia. 😔",
+            "author_username": "CaduDias7",
+            "author_name": "CaduDias7",
+            "created_at": "2026-10-27T01:05:00+00:00",
+            "permalink": "https://nitter.meowing.monster/CaduDias7/status/2114886158232744345#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114886056780927201",
+            "text": "instagram.com/reel/De2XiDMJk…\n\nEsse áudio estragou meu velório várias vezes KKKKKKKK\n\n\"Vamo botar o barba lá d novo..\"\nE a gente botou 🥹 no período de prisão do Lula parecia q tudo tinha acabado...e depois, a estrela brilhou de novo!!\n\nQue homem do Carai é esse véio ❤️❤️",
+            "author_username": "priscilla_im",
+            "author_name": "priscilla_im",
+            "created_at": "2026-10-27T01:05:00+00:00",
+            "permalink": "https://nitter.meowing.monster/priscilla_im/status/2114886056780927201#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114885867663724997",
+            "text": "A equipe do Lula tem que se ligar nisso e começar a divulgar oq o Lula faz pelo Sul e oq eles fazem para atrapalhar",
+            "author_username": "ricardoferrarez",
+            "author_name": "ricardoferrarez",
+            "created_at": "2026-10-27T01:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ricardoferrarez/status/2114885867663724997#m",
+            "metrics": {
+              "like_count": 37,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114885435314909201",
+            "text": "Esta conta está subestimada. O rearranjo no orçamento só com promessas de bondades do Lula com dinheiro público será de mais de 200 bilhões para 2027.",
+            "author_username": "AGarciaS1611",
+            "author_name": "AGarciaS1611",
+            "created_at": "2026-10-27T01:02:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AGarciaS1611/status/2114885435314909201#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114885292893319404",
+            "text": "Ainda bem q não votei no Renan\nA campanha foi colossal, incluindo Fake News e benefícios concedidos.\nNÃO FOI MÉRITO\nFOI COMPRA D VOTOS LITERALMENTE!\n\nNão houve fraude na eleição, campanha do petismo foi colossal', diz Renan Santos após vitória de Lula | G1 share.google/679Mqb0SZGYhioB…",
+            "author_username": "tiggeschris",
+            "author_name": "tiggeschris",
+            "created_at": "2026-10-27T01:02:00+00:00",
+            "permalink": "https://nitter.meowing.monster/tiggeschris/status/2114885292893319404#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114885261423165841",
+            "text": "Não precisa mais de ações como essa,lula já tirou o Brasil da fome ,lembra ?",
+            "author_username": "AdrianaR15084",
+            "author_name": "AdrianaR15084",
+            "created_at": "2026-10-27T01:01:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AdrianaR15084/status/2114885261423165841#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114884660472004833",
+            "text": "Ô Lula, quer conversar com Getulio?",
+            "author_username": "renanvermelhou",
+            "author_name": "renanvermelhou",
+            "created_at": "2026-10-27T00:59:00+00:00",
+            "permalink": "https://nitter.meowing.monster/renanvermelhou/status/2114884660472004833#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114884578875724144",
+            "text": "Desgraçados q ódio",
+            "author_username": "Fabiportodas",
+            "author_name": "Fabiportodas",
+            "created_at": "2026-10-27T00:59:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fabiportodas/status/2114884578875724144#m",
+            "metrics": {
+              "like_count": 445,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 6
+            }
+          },
+          {
+            "id": "2114884465118081319",
+            "text": "É Flávio, vc vai ter que ficar aqui no Brasil mesmo ksksksksksksk a melhor notícia de hone após a reeleição do nosso amado presidente Lula 1️⃣3️⃣😍👏🏻🇧🇷❤️✊🏻🌟 #LulaReeleito #LulaOBrasilTeAma #OExercitoDoLulaVenceu #DeViradaÉMaisGostoso #LulaPresidente #ADemocraciaVenceu JUSTIÇA!!!!",
+            "author_username": "ASinergyF",
+            "author_name": "ASinergyF",
+            "created_at": "2026-10-27T00:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ASinergyF/status/2114884465118081319#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114884397497192918",
+            "text": "Q agonia meu Deus ,@ErikakHilton @AndreJanonesMG @GuilhermeBoulos @JanjaLula",
+            "author_username": "Fabiportodas",
+            "author_name": "Fabiportodas",
+            "created_at": "2026-10-27T00:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fabiportodas/status/2114884397497192918#m",
+            "metrics": {
+              "like_count": 121,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114884319621632344",
+            "text": "⚡ Votei no Lula mesmo, pois Bolsonaro era tolerante com um método de arar a terra chamado queimadas. Aí também já é esculacho. Lembram da noite em SP às 15h em Agosto de 2019 devido à queimadas em Rondônia? \n\nLula e Bolsonaro são ambos entreguistas da Amazônia! Tamo fudido!",
+            "author_username": "FogoPark24h",
+            "author_name": "FogoPark24h",
+            "created_at": "2026-10-27T00:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/FogoPark24h/status/2114884319621632344#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114884317289775365",
+            "text": "Nunca antes nas eleições pra presidente o perdedor do 1⁰ Turno virou no 2⁰!\nSó que esqueceram que o Presidente é o @Lula. E governo bom não perde eleição! 😂",
+            "author_username": "bda95485",
+            "author_name": "bda95485",
+            "created_at": "2026-10-27T00:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/bda95485/status/2114884317289775365#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114884311669231999",
+            "text": "Como acreditei na vitória do Lula, estava sem posição em nada.",
+            "author_username": "nossosmitos",
+            "author_name": "nossosmitos",
+            "created_at": "2026-10-27T00:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nossosmitos/status/2114884311669231999#m",
+            "metrics": {
+              "like_count": 84,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114884308850880839",
+            "text": "Lula reeleito e agora posso voltar a falar de \"Quem ama cuida\" e ver a Adriana meter a mais na cara da Pillar",
+            "author_username": "Eduardodsilva_",
+            "author_name": "Eduardodsilva_",
+            "created_at": "2026-10-27T00:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Eduardodsilva_/status/2114884308850880839#m",
+            "metrics": {
+              "like_count": 69,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114883836362592339",
+            "text": "O Governo Federal mudou pra sexta pra virar um feriadão 🌟 AAAAAAH LULA",
+            "author_username": "XdoCAGIL",
+            "author_name": "XdoCAGIL",
+            "created_at": "2026-10-27T00:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/XdoCAGIL/status/2114883836362592339#m",
+            "metrics": {
+              "like_count": 93,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114883824240955880",
+            "text": "O Trump também soltou a mão do Flafla e tá de cara o quanto o Lula é o maior estadista da América Latina.",
+            "author_username": "JunioBarao7",
+            "author_name": "JunioBarao7",
+            "created_at": "2026-10-27T00:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/JunioBarao7/status/2114883824240955880#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114883625464312155",
+            "text": "É um babaca",
+            "author_username": "Fabiportodas",
+            "author_name": "Fabiportodas",
+            "created_at": "2026-10-27T00:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fabiportodas/status/2114883625464312155#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114883379262828806",
+            "text": "⚡AMAZÔNIA: Não se trata de passar a boiada na floresta e transformá-la em deserto. Asfalto em rodovias já existentes e ferrovia Ferrograo entre MT e PA, dragagens para hidrovias e saneamento não vão matar a floresta. Aldo tem razão quando diz que Lula interdita o Norte!",
+            "author_username": "FogoPark24h",
+            "author_name": "FogoPark24h",
+            "created_at": "2026-10-27T00:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/FogoPark24h/status/2114883379262828806#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114883246810862024",
+            "text": "Aquele famoso jantar do dia 4 de agosto com Alexandre de Morais, lula e Alcolumbre foi coroado de êxito: lula se reelegeu, Xandão (novamente empoderado) será presidente do STF no próximo ano, e Alcolumbre provavelmente tb será reeleito.\nTrio poderoso!",
+            "author_username": "1Pbonate",
+            "author_name": "1Pbonate",
+            "created_at": "2026-10-27T00:53:00+00:00",
+            "permalink": "https://nitter.meowing.monster/1Pbonate/status/2114883246810862024#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114882986839769374",
+            "text": "Ricardo Nunes tbm ,outro verme",
+            "author_username": "Fabiportodas",
+            "author_name": "Fabiportodas",
+            "created_at": "2026-10-27T00:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fabiportodas/status/2114882986839769374#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114882943906722220",
+            "text": "APÓS A ELEIÇÃO, GOVERNO LULA ESTUDA REVER BENEFÍCIOS SOCIAIS E MUDAR REGRAS DE GASTOS COM SAÚDE E EDUCAÇÃO\n\nMal terminou a eleição, e o governo Lula já discute medidas para conter os gastos públicos. \n\nFonte: CNN Brasil\n\n pin.it/AppHjdbjW",
+            "author_username": "dhenriquesofici",
+            "author_name": "dhenriquesofici",
+            "created_at": "2026-10-27T00:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/dhenriquesofici/status/2114882943906722220#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114882940148605238",
+            "text": "Será que ela e o Pavanato tem noção da quantidade de votos que conseguiram pro Lula?",
+            "author_username": "caosdavenus",
+            "author_name": "caosdavenus",
+            "created_at": "2026-10-27T00:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/caosdavenus/status/2114882940148605238#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114882895877906483",
+            "text": "Isso era o q ia acontecer se o seboso do FB tivesse ganhado.",
+            "author_username": "Fabiportodas",
+            "author_name": "Fabiportodas",
+            "created_at": "2026-10-27T00:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fabiportodas/status/2114882895877906483#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114882832468267231",
+            "text": "Essa é a classe que o bosta do presidente Lula Inácio apoia e defende . E eles apoiam e elegem o bosta do Presidente corrupto Lula .  Bandido sempre apoia bandido . Nice Brito",
+            "author_username": "luema7687907",
+            "author_name": "luema7687907",
+            "created_at": "2026-10-27T00:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/luema7687907/status/2114882832468267231#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114882389721682061",
+            "text": "Protejam o Lula esse homem nao pode morrer",
+            "author_username": "haner_ana",
+            "author_name": "haner_ana",
+            "created_at": "2026-10-27T00:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/haner_ana/status/2114882389721682061#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114882232665969099",
+            "text": "Não foi só nas Co.unidades. o Hamas também parabenizou Lula. Se entendem e se compreendem.",
+            "author_username": "rachel_blo9944",
+            "author_name": "rachel_blo9944",
+            "created_at": "2026-10-27T00:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/rachel_blo9944/status/2114882232665969099#m",
+            "metrics": {
+              "like_count": 460,
+              "reply_count": 0,
+              "retweet_count": 10,
+              "quote_count": 44
+            }
+          },
+          {
+            "id": "2114882146447831297",
+            "text": "Agora todo mundo tem uma empresa familia, ou conhece alguém, de 5826 anos e que vai fechar amanhã porque o Lula ganhou. \n\nÉ tudo verdade, eu sou o livro-caixa",
+            "author_username": "rodrigo_berton",
+            "author_name": "rodrigo_berton",
+            "created_at": "2026-10-27T00:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/rodrigo_berton/status/2114882146447831297#m",
+            "metrics": {
+              "like_count": 220,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 13
+            }
+          },
+          {
+            "id": "2114882088792969440",
+            "text": "não vejo a hora do lula criar o\n\nmeu BYD, minha vida\nmeu Monster, minha vida",
+            "author_username": "NotSoKely",
+            "author_name": "NotSoKely",
+            "created_at": "2026-10-27T00:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/NotSoKely/status/2114882088792969440#m",
+            "metrics": {
+              "like_count": 39,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114881892071678184",
+            "text": "Todos os presidentes de direita reconhecendo a vitória do Lula, o homem é incontestável.\n\nMenos o da moto serra",
+            "author_username": "Marsthime",
+            "author_name": "Marsthime",
+            "created_at": "2026-10-27T00:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Marsthime/status/2114881892071678184#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114881834269987248",
+            "text": "Creio que sim! Pelos EUA, por Extremistas da Direita Bolsonarenta, por empresários da Faria Lima ou por empresários do Agronegócio! Todos interessados que o BR não tenha mais os benefícios e políticas públicas implementadas por Lula e a Esquerda!👿👿",
+            "author_username": "zenaideBH",
+            "author_name": "zenaideBH",
+            "created_at": "2026-10-27T00:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/zenaideBH/status/2114881834269987248#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114881781522477310",
+            "text": "#LulaOBrasilTeAma #OExercitoDoLulaVenceu \nOBRIGADO MEU PRESIDENTE LULA, ESTOU COM VC ATÉ O FIM DA MINHA VIDA, OBRIGADO, TE AMAMOS 1️⃣3️⃣❤️🇧🇷😍👏🏻🌟✊🏻",
+            "author_username": "ASinergyF",
+            "author_name": "ASinergyF",
+            "created_at": "2026-10-27T00:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ASinergyF/status/2114881781522477310#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114881568523104301",
+            "text": "Esta jornalista deu alzheimer esqueceu de falar que lula venceu com o crime organizado.",
+            "author_username": "Jandinho1245",
+            "author_name": "Jandinho1245",
+            "created_at": "2026-10-27T00:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Jandinho1245/status/2114881568523104301#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114881449295851969",
+            "text": "vi um video de um monte de bolsonarista batendo em um cachorro dentro de um carro chega galera vou silenciar tudo não quero mais saber de política de lula de bolsonaro",
+            "author_username": "srh_moon",
+            "author_name": "srh_moon",
+            "created_at": "2026-10-27T00:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/srh_moon/status/2114881449295851969#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114881395122470948",
+            "text": "A corja do herdeiro do atraso está ameaçando demitir quem votou no Lula. Mas a escória não dizia que a gente não trabalhava e só vivia de auxílio? Vão demitir quem, o funcionário imaginário? O fascismo é tão burro que não consegue nem sustentar a própria mentira!",
+            "author_username": "naoFabricio",
+            "author_name": "naoFabricio",
+            "created_at": "2026-10-27T00:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/naoFabricio/status/2114881395122470948#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114881388537094551",
+            "text": "Galera, o Lula virou. Inacreditável.",
+            "author_username": "RodrigoCabralBR",
+            "author_name": "RodrigoCabralBR",
+            "created_at": "2026-10-27T00:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/RodrigoCabralBR/status/2114881388537094551#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114881065512796454",
+            "text": "Veja pelo lado bom: não teremos sobressaltos lula IV, nada vai mudar: gastança desenfreada, simulacros de 'ajuste' prá inglês ver, baixo crescimento, juros e preços de supermercado altos, corrupção permitida e aceita, grande imprensa passando pano, discurseiras infinitas...",
+            "author_username": "1Pbonate",
+            "author_name": "1Pbonate",
+            "created_at": "2026-10-27T00:45:00+00:00",
+            "permalink": "https://nitter.meowing.monster/1Pbonate/status/2114881065512796454#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114880912278102513",
+            "text": "CONTINUEM COM OS PAUS DUROS NA TL COMEMORANDO O LULA!!!!!!",
+            "author_username": "e_4lho",
+            "author_name": "e_4lho",
+            "created_at": "2026-10-27T00:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/e_4lho/status/2114880912278102513#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114880812562665564",
+            "text": "Parem de dar palco pra esse tipo de gente não espalhem ,estamos com muita raiva ,mas não de asas . Vamos focar em denunciar",
+            "author_username": "Fabiportodas",
+            "author_name": "Fabiportodas",
+            "created_at": "2026-10-27T00:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fabiportodas/status/2114880812562665564#m",
+            "metrics": {
+              "like_count": 24,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114880459070935400",
+            "text": "Amiga, isso de defender as instituições é marketing, PT chama todo mundo e Nazista, Alckim foi o pior inimigo do PT por anos, hoje já no governo petista. Eu não caio nesse papo, mas a parada aqui é reconhecer os amigos de bem que votaram no Lula, isso é legal.",
+            "author_username": "Anderson_Evange",
+            "author_name": "Anderson_Evange",
+            "created_at": "2026-10-27T00:42:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Anderson_Evange/status/2114880459070935400#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114880425256538211",
+            "text": "@JanjaLula alguém quer um processo ,@LulaOficial tão chingando tua mulher aqui ó",
+            "author_username": "Fabiportodas",
+            "author_name": "Fabiportodas",
+            "created_at": "2026-10-27T00:42:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fabiportodas/status/2114880425256538211#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114880390124929197",
+            "text": "A gente jurou neh",
+            "author_username": "__peixinha",
+            "author_name": "__peixinha",
+            "created_at": "2026-10-27T00:42:00+00:00",
+            "permalink": "https://nitter.meowing.monster/__peixinha/status/2114880390124929197#m",
+            "metrics": {
+              "like_count": 143,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114880222176694426",
+            "text": "A vitória do Lula como esperança de barrar as ameaças de trump na América Latina não tá escrito. \n\nDepois que esse lixo foi eleito a maioria dos governantes dos países da América Latina foram de direita. Isso minou nossas esperanças.\n\nDito isso é luladroid para sempre",
+            "author_username": "__peixinha",
+            "author_name": "__peixinha",
+            "created_at": "2026-10-27T00:41:00+00:00",
+            "permalink": "https://nitter.meowing.monster/__peixinha/status/2114880222176694426#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114880200366510325",
+            "text": "aí do nada, cai a ficha, né? cai a ficha de que lula não é o maior do brasil, é o maior do mundo. e eu vivi pra votar numa lenda eternizada na história. caraca.",
+            "author_username": "pfvrflores",
+            "author_name": "pfvrflores",
+            "created_at": "2026-10-27T00:41:00+00:00",
+            "permalink": "https://nitter.meowing.monster/pfvrflores/status/2114880200366510325#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114879623918129418",
+            "text": "Agricultor, o Lula vai cair com Xandão na presidência do STF que provavelmente vai tentar assumir a presidência da porra toda, tirando o Alckmin da jogada. Aí não sei o que seria pior: Lula continuar presidente ou Xandão assumir.",
+            "author_username": "Vetor07911041",
+            "author_name": "Vetor07911041",
+            "created_at": "2026-10-27T00:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Vetor07911041/status/2114879623918129418#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114879341427601809",
+            "text": "E quem me garante que na totalização não trocaram os candidatos? 13 vai para Flávio e 22 para o Lula, daí os números batem com as estatísticas durante o segundo turno",
+            "author_username": "Pmeam001",
+            "author_name": "Pmeam001",
+            "created_at": "2026-10-27T00:38:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Pmeam001/status/2114879341427601809#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114879303661871169",
+            "text": "AMOOOOOOO, mande sim",
+            "author_username": "filosoboni",
+            "author_name": "filosoboni",
+            "created_at": "2026-10-27T00:38:00+00:00",
+            "permalink": "https://nitter.meowing.monster/filosoboni/status/2114879303661871169#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114879185684754905",
+            "text": "Essa musica do bora bora bora lula virar ficou na minha cabeça",
+            "author_username": "Bilauinox",
+            "author_name": "Bilauinox",
+            "created_at": "2026-10-27T00:37:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Bilauinox/status/2114879185684754905#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114895951466746363",
+            "text": "Mano, durante as eleições fiz vários posts nos meus stories, mas não mandei nada no direct dos petistas que conheço. \n\nAgora porrrrrrrr , até hoje eles estão me mandando direct de coisa do Lula. \n\nTô nem aí pro lula, meu irmão!",
+            "author_username": "farminhalet",
+            "author_name": "farminhalet",
+            "created_at": "2026-10-27T01:44:00+00:00",
+            "permalink": "https://nitter.mie.foundation/farminhalet/status/2114895951466746363#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114895313345384747",
+            "text": "Apanharam pouco, bando de vagabundos! Eleitores do Lula!",
+            "author_username": "LourivalAnton",
+            "author_name": "LourivalAnton",
+            "created_at": "2026-10-27T01:41:00+00:00",
+            "permalink": "https://nitter.mie.foundation/LourivalAnton/status/2114895313345384747#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114895201881718933",
+            "text": "Podem não se importarem, mas esse pastor merece ser lembrado diante do voto que eles deram o Lula. Talvez uma dia se Deus quiser, eles caem em si.",
+            "author_username": "mendonca_photos",
+            "author_name": "mendonca_photos",
+            "created_at": "2026-10-27T01:41:00+00:00",
+            "permalink": "https://nitter.mie.foundation/mendonca_photos/status/2114895201881718933#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114895012710256786",
+            "text": "LULA VAI ACABAR COM POLÍCIA",
+            "author_username": "Nataliaterapeut",
+            "author_name": "Nataliaterapeut",
+            "created_at": "2026-10-27T01:40:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Nataliaterapeut/status/2114895012710256786#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114894772091359522",
+            "text": "igual eu com a aava santiago quando fui na manifestação",
+            "author_username": "marianatdias_",
+            "author_name": "marianatdias_",
+            "created_at": "2026-10-27T01:39:00+00:00",
+            "permalink": "https://nitter.mie.foundation/marianatdias_/status/2114894772091359522#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114894646589497396",
+            "text": "⚠️ Quando se sentir um otário, lembre-se dos 64.256.232 votos do Lula.\n\nA conta chegou e não levou nem 24h! 🤣😂🤡",
+            "author_username": "JordoFerre92762",
+            "author_name": "JordoFerre92762",
+            "created_at": "2026-10-27T01:39:00+00:00",
+            "permalink": "https://nitter.mie.foundation/JordoFerre92762/status/2114894646589497396#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114894156942229893",
+            "text": "Vou comemorar a vitória do Lula ficando com 13 pessoas na mistério do caramelo 🙏🙌",
+            "author_username": "besbi_besbi",
+            "author_name": "besbi_besbi",
+            "created_at": "2026-10-27T01:37:00+00:00",
+            "permalink": "https://nitter.mie.foundation/besbi_besbi/status/2114894156942229893#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114894011357868498",
+            "text": "Porto Alegre é LULA!",
+            "author_username": "mafercosta_1965",
+            "author_name": "mafercosta_1965",
+            "created_at": "2026-10-27T01:36:00+00:00",
+            "permalink": "https://nitter.mie.foundation/mafercosta_1965/status/2114894011357868498#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114893566690337241",
+            "text": "“Minha consciência continua limpa, minha cabeça erguida e meus princípios intactos. Não votei no Lula, e essa culpa eu não carrego!” 🇧🇷\n#soudedireita \n#souflaviobolsonaro",
+            "author_username": "almacigana7",
+            "author_name": "almacigana7",
+            "created_at": "2026-10-27T01:34:00+00:00",
+            "permalink": "https://nitter.mie.foundation/almacigana7/status/2114893566690337241#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114892602365374747",
+            "text": "Pois é, meu Parabéns por deixar o advogado de Lula interferir nas Eleições do País! \nEra preciso poucas horas para carregar o programa, travar a apuração já estava manjado... Ainda esquerda na Bahia adesiva os ônibus, entra com ação para atrasar o fim das eleições e vrauuu...🤦🤦",
+            "author_username": "Everton99869486",
+            "author_name": "Everton99869486",
+            "created_at": "2026-10-27T01:31:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Everton99869486/status/2114892602365374747#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114892590612898020",
+            "text": "Aqui na minha cidade e na vizinha, Lula ganhou.",
+            "author_username": "AlanBergmanndj",
+            "author_name": "AlanBergmanndj",
+            "created_at": "2026-10-27T01:31:00+00:00",
+            "permalink": "https://nitter.mie.foundation/AlanBergmanndj/status/2114892590612898020#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114892542021898261",
+            "text": "Flávio Bolsonaro ,teve foi um livramento daqueles 🙏🙏🙏🙏🙏🙏🙏🙏🙏  quero ver em quem este Desgoverno vai colocar a culpa agora \nLula e Sistema de afundar juntos ,conseguiram o famoso milagre nas URNAS nas Contas públicas não vai ter milagre ,cheque Marte 🤣🤣🤣🤣",
+            "author_username": "NeinhaCeciliaa",
+            "author_name": "NeinhaCeciliaa",
+            "created_at": "2026-10-27T01:30:00+00:00",
+            "permalink": "https://nitter.mie.foundation/NeinhaCeciliaa/status/2114892542021898261#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114892371074711705",
+            "text": "A previsão dele se perde na narrativa quando ele diz que se o Lula morrer quem vai assumir é o Alexandre de Moraes, quem assumiria seria o Geraldo Alckmin, vice presidente!\nE o Xandão não está arrumando nada para prender o Flávio, o rachadinha tem vários crimes sendo investigado.",
+            "author_username": "Samuel_Bastille",
+            "author_name": "Samuel_Bastille",
+            "created_at": "2026-10-27T01:30:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Samuel_Bastille/status/2114892371074711705#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 4,
+          "instance_used": "https://nitter.mie.foundation"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "assuntos_x_momento_ate_27out21h_20261026"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114891750045012394",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114891750045012394",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114891750045012394",
+        "text": "E agora Petezada ,o que vocês vão fazer , Lula o Presidente de Vocês usou tudo mundo e agora vão levar a maior rasteira ,toma",
+        "author_username": "NeinhaCeciliaa",
+        "author_name": "NeinhaCeciliaa",
+        "created_at": "2026-10-27T01:27:00+00:00",
+        "permalink": "https://nitter.meowing.monster/NeinhaCeciliaa/status/2114891750045012394#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114891679614238971",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114891679614238971",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114891679614238971",
+        "text": "Espero que o Lula consiga ajudar o Richarlisson com  ilha que o Flávio tomou dele!",
+        "author_username": "chicotejp",
+        "author_name": "chicotejp",
+        "created_at": "2026-10-27T01:27:00+00:00",
+        "permalink": "https://nitter.meowing.monster/chicotejp/status/2114891679614238971#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114891343277244570",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114891343277244570",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114891343277244570",
+        "text": "quando eu vi eu achei uma loucura kkkkk entendo NADA né, mas DOIS PORCENTO? icônico",
+        "author_username": "marianatdias_",
+        "author_name": "marianatdias_",
+        "created_at": "2026-10-27T01:26:00+00:00",
+        "permalink": "https://nitter.meowing.monster/marianatdias_/status/2114891343277244570#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114891227380281451",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114891227380281451",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114891227380281451",
+        "text": "Cara....e daí? O pedido formal chegou ao TSE, o STF deu o parecer e o Kassio, amigo do Flávio, deu a ordem 17:01. E mesmo assim foram contabilizados 35mil votos nesse horário extra. Mesmo q fossem todos pro Lula, o Flávio ainda perderia.",
+        "author_username": "CarlosXimu",
+        "author_name": "CarlosXimu",
+        "created_at": "2026-10-27T01:25:00+00:00",
+        "permalink": "https://nitter.meowing.monster/CarlosXimu/status/2114891227380281451#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114891202885468382",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114891202885468382",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114891202885468382",
+        "text": "O Lula não te tirou da pobreza não?\nVá trabalhar seu inútil 💩",
+        "author_username": "Kabulozocensura",
+        "author_name": "Kabulozocensura",
+        "created_at": "2026-10-27T01:25:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Kabulozocensura/status/2114891202885468382#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114890994583785543",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114890994583785543",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114890994583785543",
+        "text": "no meu mundo tem sim!\nAno que vem é Lula no Alvorada e Paes no Guanabara!",
+        "author_username": "indoevindo",
+        "author_name": "indoevindo",
+        "created_at": "2026-10-27T01:24:00+00:00",
+        "permalink": "https://nitter.meowing.monster/indoevindo/status/2114890994583785543#m",
+        "metrics": {
+          "like_count": 37,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114890492681089302",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114890492681089302",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114890492681089302",
+        "text": "Madonna passando a faixa pra Lula dia 1° de Janeiro.",
+        "author_username": "madudiscoclub",
+        "author_name": "madudiscoclub",
+        "created_at": "2026-10-27T01:22:00+00:00",
+        "permalink": "https://nitter.meowing.monster/madudiscoclub/status/2114890492681089302#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114890426532479343",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114890426532479343",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114890426532479343",
+        "text": "Não teve apoio nem interno, o PL não endossou essa ideia deles desde o início, era só a ala mais radical da equipe do Flávio, tiveram 4 pessoas que recomendaram de cara ligar para o Lula e reconhecer a derrota.\nA divulgação dos dados do TSE também de que os votos foram irrisórios próximo dos 4,4 milhões foi o prego final.\nAgora vão querer anular a chapa kkkkk",
+        "author_username": "flep",
+        "author_name": "flep",
+        "created_at": "2026-10-27T01:22:00+00:00",
+        "permalink": "https://nitter.meowing.monster/flep/status/2114890426532479343#m",
+        "metrics": {
+          "like_count": 25,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114890162945597576",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114890162945597576",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114890162945597576",
+        "text": "nossa sim... hoje eu quase repostei um post dela perguntando se poderia me empresta-lo por um dia",
+        "author_username": "marianatdias_",
+        "author_name": "marianatdias_",
+        "created_at": "2026-10-27T01:21:00+00:00",
+        "permalink": "https://nitter.meowing.monster/marianatdias_/status/2114890162945597576#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114890046079717824",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114890046079717824",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114890046079717824",
+        "text": "Agora que Lula venceu, vamos estudar, cravei várias falas importantes no discurso dele que consegui ter uma noção de novas políticas e reformas que ele irá fazer, e quais posso me atentar e me beneficiar antecipadamente, vamos, se joga!! #LulaPresidente",
+        "author_username": "ferrerstc",
+        "author_name": "ferrerstc",
+        "created_at": "2026-10-27T01:20:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ferrerstc/status/2114890046079717824#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114889599180808625",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114889599180808625",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114889599180808625",
+        "text": "Gov Lula só acerta",
+        "author_username": "grcastanheira",
+        "author_name": "grcastanheira",
+        "created_at": "2026-10-27T01:19:00+00:00",
+        "permalink": "https://nitter.meowing.monster/grcastanheira/status/2114889599180808625#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114889587478708330",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114889587478708330",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114889587478708330",
+        "text": "O Sistema protege o Lula o tempo todo 🤡",
+        "author_username": "TNIAMSMELO3",
+        "author_name": "TNIAMSMELO3",
+        "created_at": "2026-10-27T01:19:00+00:00",
+        "permalink": "https://nitter.meowing.monster/TNIAMSMELO3/status/2114889587478708330#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114889273031672258",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114889273031672258",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114889273031672258",
+        "text": "instagram.com/p/De8Y3hHOVip/…\nO povo não votou no Lula e sim os votos foram convertidos na apuração.TEMOS QUE FAZER A CONTAGEM MANUAL DOS BOLETM DE URNA!!",
+        "author_username": "alves_veridiano",
+        "author_name": "alves_veridiano",
+        "created_at": "2026-10-27T01:17:00+00:00",
+        "permalink": "https://nitter.meowing.monster/alves_veridiano/status/2114889273031672258#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114889265607737779",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114889265607737779",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114889265607737779",
+        "text": "vou me formar como fisioterapeuta e vou poder trabalhar em ubs no governo lula !",
+        "author_username": "tylerdabahia",
+        "author_name": "tylerdabahia",
+        "created_at": "2026-10-27T01:17:00+00:00",
+        "permalink": "https://nitter.meowing.monster/tylerdabahia/status/2114889265607737779#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114888868981821566",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114888868981821566",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114888868981821566",
+        "text": "Ela engual a gente parando uns segundinho a pra ver a cara do lula pela última vez na urna 🤧🤧",
+        "author_username": "MurucutuDePedra",
+        "author_name": "MurucutuDePedra",
+        "created_at": "2026-10-27T01:16:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MurucutuDePedra/status/2114888868981821566#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114888481340072134",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114888481340072134",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114888481340072134",
+        "text": "RECADO PRA TRUMP, QUE FICA METENDO O NARIZ MELEQUENTO NO PAÍS DOS OUTROS COMO UM URUBU, UM LADRÃO PIRATA. \nESCONDE NOS USA TERRORISTAS FUGITIVOS (OS BOLSONAROS)\nO BRASIL E UM. PAÍS SOBERANO E DEMOCRÁTICO, APESAR DOS GOLPISTAS,MAS AQUI TEMOS LEIS.\n#Trump #EleiçãoBrasil #Lula #USA",
+        "author_username": "nastenka1962",
+        "author_name": "nastenka1962",
+        "created_at": "2026-10-27T01:14:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nastenka1962/status/2114888481340072134#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114888449169694824",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114888449169694824",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114888449169694824",
+        "text": "Não é querendo trazer a neurose política de volta, mas acho bom já começarmos a procurar um nome pra ficar no lugar do lula, se n daqui a 4 anos nossas opções vão ser tipo: Marcinho espancatrans, Zézinho rachadinha e Hitler DLC",
+        "author_username": "Kirjava_0",
+        "author_name": "Kirjava_0",
+        "created_at": "2026-10-27T01:14:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Kirjava_0/status/2114888449169694824#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114888294622212123",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114888294622212123",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114888294622212123",
+        "text": "@ErikakHilton mais um caso",
+        "author_username": "Fabiportodas",
+        "author_name": "Fabiportodas",
+        "created_at": "2026-10-27T01:13:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fabiportodas/status/2114888294622212123#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114888251978739902",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114888251978739902",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114888251978739902",
+        "text": "Vencemos e ao nordeste devemos muito! Mas quero que esse mesmo povo não esqueça dos cantores populistas nordestinos que ficaram insentos, é preciso cobrar isso deles. Pois tinham alcance de voz, mas escolheram não se manifestar, NÃO ESQUEÇAM!!!",
+        "author_username": "emiliadantaas",
+        "author_name": "emiliadantaas",
+        "created_at": "2026-10-27T01:13:00+00:00",
+        "permalink": "https://nitter.meowing.monster/emiliadantaas/status/2114888251978739902#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114888165018534318",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114888165018534318",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "direita"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114888165018534318",
+        "text": "Sim, a gente basicamente pode ter começado uma revolução de varrida da extrema direita não só na América Latina mas no mundo",
+        "author_username": "marianatdias_",
+        "author_name": "marianatdias_",
+        "created_at": "2026-10-27T01:13:00+00:00",
+        "permalink": "https://nitter.meowing.monster/marianatdias_/status/2114888165018534318#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114888009174688192",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114888009174688192",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114888009174688192",
+        "text": "Defendeu tanto o \"negociar com o patrão\" que agora vai ter que negociar com o PRESIDENTE Lula os recursos federais para o Paraná.",
+        "author_username": "vs06",
+        "author_name": "vs06",
+        "created_at": "2026-10-27T01:12:00+00:00",
+        "permalink": "https://nitter.meowing.monster/vs06/status/2114888009174688192#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114887993366392959",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114887993366392959",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114887993366392959",
+        "text": "@padilhando vai lá no exército do Lula watsapp, e veja a última recomendação dele do dia. Nao dá confiança para esse povo. Eu sequer tinha visto essa postagem dele, entendeu?",
+        "author_username": "PatricioPMelo",
+        "author_name": "PatricioPMelo",
+        "created_at": "2026-10-27T01:12:00+00:00",
+        "permalink": "https://nitter.meowing.monster/PatricioPMelo/status/2114887993366392959#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114887931663880558",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114887931663880558",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114887931663880558",
+        "text": "amo fingir que trabalho nesse muquifo",
+        "author_username": "amopeitosssssz",
+        "author_name": "amopeitosssssz",
+        "created_at": "2026-10-27T01:12:00+00:00",
+        "permalink": "https://nitter.meowing.monster/amopeitosssssz/status/2114887931663880558#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114887862034313559",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114887862034313559",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114887862034313559",
+        "text": "É, pq o lula sempre teve postura imperialista, intervencionista e pro guerra. \n\nTem tudo a ver.",
+        "author_username": "pensandinho",
+        "author_name": "pensandinho",
+        "created_at": "2026-10-27T01:12:00+00:00",
+        "permalink": "https://nitter.meowing.monster/pensandinho/status/2114887862034313559#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114887591099265366",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114887591099265366",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114887591099265366",
+        "text": "Aí vai a falência e diz que a culpa é do Lula",
+        "author_username": "renatinhofla",
+        "author_name": "renatinhofla",
+        "created_at": "2026-10-27T01:11:00+00:00",
+        "permalink": "https://nitter.meowing.monster/renatinhofla/status/2114887591099265366#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114887561885675753",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114887561885675753",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114887561885675753",
+        "text": "Aí isso aqui me destrói",
+        "author_username": "Fabiportodas",
+        "author_name": "Fabiportodas",
+        "created_at": "2026-10-27T01:11:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fabiportodas/status/2114887561885675753#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114887410374885450",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114887410374885450",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114887410374885450",
+        "text": "Lula reeleito, vou ver o Jão em novembro",
+        "author_username": "mododdizer",
+        "author_name": "mododdizer",
+        "created_at": "2026-10-27T01:10:00+00:00",
+        "permalink": "https://nitter.meowing.monster/mododdizer/status/2114887410374885450#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114887410026955232",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114887410026955232",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114887410026955232",
+        "text": "Quem vota 13 vamos se seguir ?... aqui e no insta ?\n#Lula #lula13 #eleições #esquerda",
+        "author_username": "Yumikawaiigg",
+        "author_name": "Yumikawaiigg",
+        "created_at": "2026-10-27T01:10:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Yumikawaiigg/status/2114887410026955232#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114887394365145355",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114887394365145355",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114887394365145355",
+        "text": "🤔pq a esquerda está tão incomodada se venceram ? Não eram eles que chamavam os empresários de fascistas ? \nEmpresários não recuem ao chororó ,a esquerda por si só, se basta e o Lula tirou o Brasil do mapa da fome ,pq reclamam?",
+        "author_username": "AdrianaR15084",
+        "author_name": "AdrianaR15084",
+        "created_at": "2026-10-27T01:10:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AdrianaR15084/status/2114887394365145355#m",
+        "metrics": {
+          "like_count": 22,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114887282263990608",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114887282263990608",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114887282263990608",
+        "text": "Fãs de Moi Dix Mois com Lula ❤️⭐ 13",
+        "author_username": "bizarre_doll80s",
+        "author_name": "bizarre_doll80s",
+        "created_at": "2026-10-27T01:09:00+00:00",
+        "permalink": "https://nitter.meowing.monster/bizarre_doll80s/status/2114887282263990608#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114886904990576722",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114886904990576722",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114886904990576722",
+        "text": "Com lula vc quiz dizer",
+        "author_username": "SantosMaynart",
+        "author_name": "SantosMaynart",
+        "created_at": "2026-10-27T01:08:00+00:00",
+        "permalink": "https://nitter.meowing.monster/SantosMaynart/status/2114886904990576722#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114886734445953120",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114886734445953120",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114886734445953120",
+        "text": "E qnd um moço numa moto ontem se exibindo pós vitória do Lula e levar algumas meninas na garupa e tal, simplesmente parou mais uma vez na comemoração e serviu um beijão com um HOMEM encima da moto e geral gritou e surtou e gritou \"gays, gays, gays\"",
+        "author_username": "bru_ursa",
+        "author_name": "bru_ursa",
+        "created_at": "2026-10-27T01:07:00+00:00",
+        "permalink": "https://nitter.meowing.monster/bru_ursa/status/2114886734445953120#m",
+        "metrics": {
+          "like_count": 57,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114886236091392299",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114886236091392299",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114886236091392299",
+        "text": "Estes são os eleitores do lula....\n@realDonaldTrump \n@SecRubio\n@EmbaixadaEUA\n🇧🇷🤝🏼🇺🇸",
+        "author_username": "FernandoSalus14",
+        "author_name": "FernandoSalus14",
+        "created_at": "2026-10-27T01:05:00+00:00",
+        "permalink": "https://nitter.meowing.monster/FernandoSalus14/status/2114886236091392299#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114886158232744345",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114886158232744345",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114886158232744345",
+        "text": "O Golpe começou com a descondenação do Lula pelo Ministro Fachin. Desse momento em diante vivemos em constante negação, acreditando que ainda vivemos uma democracia. 😔",
+        "author_username": "CaduDias7",
+        "author_name": "CaduDias7",
+        "created_at": "2026-10-27T01:05:00+00:00",
+        "permalink": "https://nitter.meowing.monster/CaduDias7/status/2114886158232744345#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114886056780927201",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114886056780927201",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114886056780927201",
+        "text": "instagram.com/reel/De2XiDMJk…\n\nEsse áudio estragou meu velório várias vezes KKKKKKKK\n\n\"Vamo botar o barba lá d novo..\"\nE a gente botou 🥹 no período de prisão do Lula parecia q tudo tinha acabado...e depois, a estrela brilhou de novo!!\n\nQue homem do Carai é esse véio ❤️❤️",
+        "author_username": "priscilla_im",
+        "author_name": "priscilla_im",
+        "created_at": "2026-10-27T01:05:00+00:00",
+        "permalink": "https://nitter.meowing.monster/priscilla_im/status/2114886056780927201#m",
+        "metrics": {
+          "like_count": 17,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114885867663724997",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114885867663724997",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114885867663724997",
+        "text": "A equipe do Lula tem que se ligar nisso e começar a divulgar oq o Lula faz pelo Sul e oq eles fazem para atrapalhar",
+        "author_username": "ricardoferrarez",
+        "author_name": "ricardoferrarez",
+        "created_at": "2026-10-27T01:04:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ricardoferrarez/status/2114885867663724997#m",
+        "metrics": {
+          "like_count": 37,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114885435314909201",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114885435314909201",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114885435314909201",
+        "text": "Esta conta está subestimada. O rearranjo no orçamento só com promessas de bondades do Lula com dinheiro público será de mais de 200 bilhões para 2027.",
+        "author_username": "AGarciaS1611",
+        "author_name": "AGarciaS1611",
+        "created_at": "2026-10-27T01:02:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AGarciaS1611/status/2114885435314909201#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114885292893319404",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114885292893319404",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114885292893319404",
+        "text": "Ainda bem q não votei no Renan\nA campanha foi colossal, incluindo Fake News e benefícios concedidos.\nNÃO FOI MÉRITO\nFOI COMPRA D VOTOS LITERALMENTE!\n\nNão houve fraude na eleição, campanha do petismo foi colossal', diz Renan Santos após vitória de Lula | G1 share.google/679Mqb0SZGYhioB…",
+        "author_username": "tiggeschris",
+        "author_name": "tiggeschris",
+        "created_at": "2026-10-27T01:02:00+00:00",
+        "permalink": "https://nitter.meowing.monster/tiggeschris/status/2114885292893319404#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114885261423165841",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114885261423165841",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114885261423165841",
+        "text": "Não precisa mais de ações como essa,lula já tirou o Brasil da fome ,lembra ?",
+        "author_username": "AdrianaR15084",
+        "author_name": "AdrianaR15084",
+        "created_at": "2026-10-27T01:01:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AdrianaR15084/status/2114885261423165841#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114884660472004833",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114884660472004833",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114884660472004833",
+        "text": "Ô Lula, quer conversar com Getulio?",
+        "author_username": "renanvermelhou",
+        "author_name": "renanvermelhou",
+        "created_at": "2026-10-27T00:59:00+00:00",
+        "permalink": "https://nitter.meowing.monster/renanvermelhou/status/2114884660472004833#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114884578875724144",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114884578875724144",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114884578875724144",
+        "text": "Desgraçados q ódio",
+        "author_username": "Fabiportodas",
+        "author_name": "Fabiportodas",
+        "created_at": "2026-10-27T00:59:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fabiportodas/status/2114884578875724144#m",
+        "metrics": {
+          "like_count": 445,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 6
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114884465118081319",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114884465118081319",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114884465118081319",
+        "text": "É Flávio, vc vai ter que ficar aqui no Brasil mesmo ksksksksksksk a melhor notícia de hone após a reeleição do nosso amado presidente Lula 1️⃣3️⃣😍👏🏻🇧🇷❤️✊🏻🌟 #LulaReeleito #LulaOBrasilTeAma #OExercitoDoLulaVenceu #DeViradaÉMaisGostoso #LulaPresidente #ADemocraciaVenceu JUSTIÇA!!!!",
+        "author_username": "ASinergyF",
+        "author_name": "ASinergyF",
+        "created_at": "2026-10-27T00:58:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ASinergyF/status/2114884465118081319#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114884397497192918",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114884397497192918",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114884397497192918",
+        "text": "Q agonia meu Deus ,@ErikakHilton @AndreJanonesMG @GuilhermeBoulos @JanjaLula",
+        "author_username": "Fabiportodas",
+        "author_name": "Fabiportodas",
+        "created_at": "2026-10-27T00:58:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fabiportodas/status/2114884397497192918#m",
+        "metrics": {
+          "like_count": 121,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114884319621632344",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114884319621632344",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114884319621632344",
+        "text": "⚡ Votei no Lula mesmo, pois Bolsonaro era tolerante com um método de arar a terra chamado queimadas. Aí também já é esculacho. Lembram da noite em SP às 15h em Agosto de 2019 devido à queimadas em Rondônia? \n\nLula e Bolsonaro são ambos entreguistas da Amazônia! Tamo fudido!",
+        "author_username": "FogoPark24h",
+        "author_name": "FogoPark24h",
+        "created_at": "2026-10-27T00:58:00+00:00",
+        "permalink": "https://nitter.meowing.monster/FogoPark24h/status/2114884319621632344#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114884317289775365",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114884317289775365",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114884317289775365",
+        "text": "Nunca antes nas eleições pra presidente o perdedor do 1⁰ Turno virou no 2⁰!\nSó que esqueceram que o Presidente é o @Lula. E governo bom não perde eleição! 😂",
+        "author_username": "bda95485",
+        "author_name": "bda95485",
+        "created_at": "2026-10-27T00:58:00+00:00",
+        "permalink": "https://nitter.meowing.monster/bda95485/status/2114884317289775365#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114884311669231999",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114884311669231999",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114884311669231999",
+        "text": "Como acreditei na vitória do Lula, estava sem posição em nada.",
+        "author_username": "nossosmitos",
+        "author_name": "nossosmitos",
+        "created_at": "2026-10-27T00:58:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nossosmitos/status/2114884311669231999#m",
+        "metrics": {
+          "like_count": 84,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114884308850880839",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114884308850880839",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114884308850880839",
+        "text": "Lula reeleito e agora posso voltar a falar de \"Quem ama cuida\" e ver a Adriana meter a mais na cara da Pillar",
+        "author_username": "Eduardodsilva_",
+        "author_name": "Eduardodsilva_",
+        "created_at": "2026-10-27T00:58:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Eduardodsilva_/status/2114884308850880839#m",
+        "metrics": {
+          "like_count": 69,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114883836362592339",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114883836362592339",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114883836362592339",
+        "text": "O Governo Federal mudou pra sexta pra virar um feriadão 🌟 AAAAAAH LULA",
+        "author_username": "XdoCAGIL",
+        "author_name": "XdoCAGIL",
+        "created_at": "2026-10-27T00:56:00+00:00",
+        "permalink": "https://nitter.meowing.monster/XdoCAGIL/status/2114883836362592339#m",
+        "metrics": {
+          "like_count": 93,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114883824240955880",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114883824240955880",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114883824240955880",
+        "text": "O Trump também soltou a mão do Flafla e tá de cara o quanto o Lula é o maior estadista da América Latina.",
+        "author_username": "JunioBarao7",
+        "author_name": "JunioBarao7",
+        "created_at": "2026-10-27T00:56:00+00:00",
+        "permalink": "https://nitter.meowing.monster/JunioBarao7/status/2114883824240955880#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114883625464312155",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114883625464312155",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114883625464312155",
+        "text": "É um babaca",
+        "author_username": "Fabiportodas",
+        "author_name": "Fabiportodas",
+        "created_at": "2026-10-27T00:55:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fabiportodas/status/2114883625464312155#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114883379262828806",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114883379262828806",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114883379262828806",
+        "text": "⚡AMAZÔNIA: Não se trata de passar a boiada na floresta e transformá-la em deserto. Asfalto em rodovias já existentes e ferrovia Ferrograo entre MT e PA, dragagens para hidrovias e saneamento não vão matar a floresta. Aldo tem razão quando diz que Lula interdita o Norte!",
+        "author_username": "FogoPark24h",
+        "author_name": "FogoPark24h",
+        "created_at": "2026-10-27T00:54:00+00:00",
+        "permalink": "https://nitter.meowing.monster/FogoPark24h/status/2114883379262828806#m",
+        "metrics": {
+          "like_count": 31,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114883246810862024",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114883246810862024",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114883246810862024",
+        "text": "Aquele famoso jantar do dia 4 de agosto com Alexandre de Morais, lula e Alcolumbre foi coroado de êxito: lula se reelegeu, Xandão (novamente empoderado) será presidente do STF no próximo ano, e Alcolumbre provavelmente tb será reeleito.\nTrio poderoso!",
+        "author_username": "1Pbonate",
+        "author_name": "1Pbonate",
+        "created_at": "2026-10-27T00:53:00+00:00",
+        "permalink": "https://nitter.meowing.monster/1Pbonate/status/2114883246810862024#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114882986839769374",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114882986839769374",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114882986839769374",
+        "text": "Ricardo Nunes tbm ,outro verme",
+        "author_username": "Fabiportodas",
+        "author_name": "Fabiportodas",
+        "created_at": "2026-10-27T00:52:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fabiportodas/status/2114882986839769374#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114882943906722220",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114882943906722220",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114882943906722220",
+        "text": "APÓS A ELEIÇÃO, GOVERNO LULA ESTUDA REVER BENEFÍCIOS SOCIAIS E MUDAR REGRAS DE GASTOS COM SAÚDE E EDUCAÇÃO\n\nMal terminou a eleição, e o governo Lula já discute medidas para conter os gastos públicos. \n\nFonte: CNN Brasil\n\n pin.it/AppHjdbjW",
+        "author_username": "dhenriquesofici",
+        "author_name": "dhenriquesofici",
+        "created_at": "2026-10-27T00:52:00+00:00",
+        "permalink": "https://nitter.meowing.monster/dhenriquesofici/status/2114882943906722220#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114882940148605238",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114882940148605238",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114882940148605238",
+        "text": "Será que ela e o Pavanato tem noção da quantidade de votos que conseguiram pro Lula?",
+        "author_username": "caosdavenus",
+        "author_name": "caosdavenus",
+        "created_at": "2026-10-27T00:52:00+00:00",
+        "permalink": "https://nitter.meowing.monster/caosdavenus/status/2114882940148605238#m",
+        "metrics": {
+          "like_count": 16,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114882895877906483",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114882895877906483",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114882895877906483",
+        "text": "Isso era o q ia acontecer se o seboso do FB tivesse ganhado.",
+        "author_username": "Fabiportodas",
+        "author_name": "Fabiportodas",
+        "created_at": "2026-10-27T00:52:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fabiportodas/status/2114882895877906483#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114882832468267231",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114882832468267231",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114882832468267231",
+        "text": "Essa é a classe que o bosta do presidente Lula Inácio apoia e defende . E eles apoiam e elegem o bosta do Presidente corrupto Lula .  Bandido sempre apoia bandido . Nice Brito",
+        "author_username": "luema7687907",
+        "author_name": "luema7687907",
+        "created_at": "2026-10-27T00:52:00+00:00",
+        "permalink": "https://nitter.meowing.monster/luema7687907/status/2114882832468267231#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114882389721682061",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114882389721682061",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114882389721682061",
+        "text": "Protejam o Lula esse homem nao pode morrer",
+        "author_username": "haner_ana",
+        "author_name": "haner_ana",
+        "created_at": "2026-10-27T00:50:00+00:00",
+        "permalink": "https://nitter.meowing.monster/haner_ana/status/2114882389721682061#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114882232665969099",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114882232665969099",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114882232665969099",
+        "text": "Não foi só nas Co.unidades. o Hamas também parabenizou Lula. Se entendem e se compreendem.",
+        "author_username": "rachel_blo9944",
+        "author_name": "rachel_blo9944",
+        "created_at": "2026-10-27T00:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/rachel_blo9944/status/2114882232665969099#m",
+        "metrics": {
+          "like_count": 460,
+          "reply_count": 0,
+          "retweet_count": 10,
+          "quote_count": 44
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114882146447831297",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114882146447831297",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114882146447831297",
+        "text": "Agora todo mundo tem uma empresa familia, ou conhece alguém, de 5826 anos e que vai fechar amanhã porque o Lula ganhou. \n\nÉ tudo verdade, eu sou o livro-caixa",
+        "author_username": "rodrigo_berton",
+        "author_name": "rodrigo_berton",
+        "created_at": "2026-10-27T00:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/rodrigo_berton/status/2114882146447831297#m",
+        "metrics": {
+          "like_count": 220,
+          "reply_count": 2,
+          "retweet_count": 0,
+          "quote_count": 13
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114882088792969440",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114882088792969440",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114882088792969440",
+        "text": "não vejo a hora do lula criar o\n\nmeu BYD, minha vida\nmeu Monster, minha vida",
+        "author_username": "NotSoKely",
+        "author_name": "NotSoKely",
+        "created_at": "2026-10-27T00:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/NotSoKely/status/2114882088792969440#m",
+        "metrics": {
+          "like_count": 39,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114881892071678184",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114881892071678184",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "direita"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114881892071678184",
+        "text": "Todos os presidentes de direita reconhecendo a vitória do Lula, o homem é incontestável.\n\nMenos o da moto serra",
+        "author_username": "Marsthime",
+        "author_name": "Marsthime",
+        "created_at": "2026-10-27T00:48:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Marsthime/status/2114881892071678184#m",
+        "metrics": {
+          "like_count": 23,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 4
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114881834269987248",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114881834269987248",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "direita",
+        "esquerda",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114881834269987248",
+        "text": "Creio que sim! Pelos EUA, por Extremistas da Direita Bolsonarenta, por empresários da Faria Lima ou por empresários do Agronegócio! Todos interessados que o BR não tenha mais os benefícios e políticas públicas implementadas por Lula e a Esquerda!👿👿",
+        "author_username": "zenaideBH",
+        "author_name": "zenaideBH",
+        "created_at": "2026-10-27T00:48:00+00:00",
+        "permalink": "https://nitter.meowing.monster/zenaideBH/status/2114881834269987248#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114881781522477310",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114881781522477310",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114881781522477310",
+        "text": "#LulaOBrasilTeAma #OExercitoDoLulaVenceu \nOBRIGADO MEU PRESIDENTE LULA, ESTOU COM VC ATÉ O FIM DA MINHA VIDA, OBRIGADO, TE AMAMOS 1️⃣3️⃣❤️🇧🇷😍👏🏻🌟✊🏻",
+        "author_username": "ASinergyF",
+        "author_name": "ASinergyF",
+        "created_at": "2026-10-27T00:48:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ASinergyF/status/2114881781522477310#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114881568523104301",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114881568523104301",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114881568523104301",
+        "text": "Esta jornalista deu alzheimer esqueceu de falar que lula venceu com o crime organizado.",
+        "author_username": "Jandinho1245",
+        "author_name": "Jandinho1245",
+        "created_at": "2026-10-27T00:47:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Jandinho1245/status/2114881568523104301#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114881449295851969",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114881449295851969",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114881449295851969",
+        "text": "vi um video de um monte de bolsonarista batendo em um cachorro dentro de um carro chega galera vou silenciar tudo não quero mais saber de política de lula de bolsonaro",
+        "author_username": "srh_moon",
+        "author_name": "srh_moon",
+        "created_at": "2026-10-27T00:46:00+00:00",
+        "permalink": "https://nitter.meowing.monster/srh_moon/status/2114881449295851969#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114881395122470948",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114881395122470948",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114881395122470948",
+        "text": "A corja do herdeiro do atraso está ameaçando demitir quem votou no Lula. Mas a escória não dizia que a gente não trabalhava e só vivia de auxílio? Vão demitir quem, o funcionário imaginário? O fascismo é tão burro que não consegue nem sustentar a própria mentira!",
+        "author_username": "naoFabricio",
+        "author_name": "naoFabricio",
+        "created_at": "2026-10-27T00:46:00+00:00",
+        "permalink": "https://nitter.meowing.monster/naoFabricio/status/2114881395122470948#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114881388537094551",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114881388537094551",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114881388537094551",
+        "text": "Galera, o Lula virou. Inacreditável.",
+        "author_username": "RodrigoCabralBR",
+        "author_name": "RodrigoCabralBR",
+        "created_at": "2026-10-27T00:46:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RodrigoCabralBR/status/2114881388537094551#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114881065512796454",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114881065512796454",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114881065512796454",
+        "text": "Veja pelo lado bom: não teremos sobressaltos lula IV, nada vai mudar: gastança desenfreada, simulacros de 'ajuste' prá inglês ver, baixo crescimento, juros e preços de supermercado altos, corrupção permitida e aceita, grande imprensa passando pano, discurseiras infinitas...",
+        "author_username": "1Pbonate",
+        "author_name": "1Pbonate",
+        "created_at": "2026-10-27T00:45:00+00:00",
+        "permalink": "https://nitter.meowing.monster/1Pbonate/status/2114881065512796454#m",
+        "metrics": {
+          "like_count": 23,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114880912278102513",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114880912278102513",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114880912278102513",
+        "text": "CONTINUEM COM OS PAUS DUROS NA TL COMEMORANDO O LULA!!!!!!",
+        "author_username": "e_4lho",
+        "author_name": "e_4lho",
+        "created_at": "2026-10-27T00:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/e_4lho/status/2114880912278102513#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114880812562665564",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114880812562665564",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114880812562665564",
+        "text": "Parem de dar palco pra esse tipo de gente não espalhem ,estamos com muita raiva ,mas não de asas . Vamos focar em denunciar",
+        "author_username": "Fabiportodas",
+        "author_name": "Fabiportodas",
+        "created_at": "2026-10-27T00:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fabiportodas/status/2114880812562665564#m",
+        "metrics": {
+          "like_count": 24,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114880459070935400",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114880459070935400",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114880459070935400",
+        "text": "Amiga, isso de defender as instituições é marketing, PT chama todo mundo e Nazista, Alckim foi o pior inimigo do PT por anos, hoje já no governo petista. Eu não caio nesse papo, mas a parada aqui é reconhecer os amigos de bem que votaram no Lula, isso é legal.",
+        "author_username": "Anderson_Evange",
+        "author_name": "Anderson_Evange",
+        "created_at": "2026-10-27T00:42:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Anderson_Evange/status/2114880459070935400#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114880425256538211",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114880425256538211",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114880425256538211",
+        "text": "@JanjaLula alguém quer um processo ,@LulaOficial tão chingando tua mulher aqui ó",
+        "author_username": "Fabiportodas",
+        "author_name": "Fabiportodas",
+        "created_at": "2026-10-27T00:42:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fabiportodas/status/2114880425256538211#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114880390124929197",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114880390124929197",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114880390124929197",
+        "text": "A gente jurou neh",
+        "author_username": "__peixinha",
+        "author_name": "__peixinha",
+        "created_at": "2026-10-27T00:42:00+00:00",
+        "permalink": "https://nitter.meowing.monster/__peixinha/status/2114880390124929197#m",
+        "metrics": {
+          "like_count": 143,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114880222176694426",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114880222176694426",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "direita"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114880222176694426",
+        "text": "A vitória do Lula como esperança de barrar as ameaças de trump na América Latina não tá escrito. \n\nDepois que esse lixo foi eleito a maioria dos governantes dos países da América Latina foram de direita. Isso minou nossas esperanças.\n\nDito isso é luladroid para sempre",
+        "author_username": "__peixinha",
+        "author_name": "__peixinha",
+        "created_at": "2026-10-27T00:41:00+00:00",
+        "permalink": "https://nitter.meowing.monster/__peixinha/status/2114880222176694426#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114880200366510325",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114880200366510325",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114880200366510325",
+        "text": "aí do nada, cai a ficha, né? cai a ficha de que lula não é o maior do brasil, é o maior do mundo. e eu vivi pra votar numa lenda eternizada na história. caraca.",
+        "author_username": "pfvrflores",
+        "author_name": "pfvrflores",
+        "created_at": "2026-10-27T00:41:00+00:00",
+        "permalink": "https://nitter.meowing.monster/pfvrflores/status/2114880200366510325#m",
+        "metrics": {
+          "like_count": 21,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114879623918129418",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114879623918129418",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114879623918129418",
+        "text": "Agricultor, o Lula vai cair com Xandão na presidência do STF que provavelmente vai tentar assumir a presidência da porra toda, tirando o Alckmin da jogada. Aí não sei o que seria pior: Lula continuar presidente ou Xandão assumir.",
+        "author_username": "Vetor07911041",
+        "author_name": "Vetor07911041",
+        "created_at": "2026-10-27T00:39:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Vetor07911041/status/2114879623918129418#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114879341427601809",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114879341427601809",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114879341427601809",
+        "text": "E quem me garante que na totalização não trocaram os candidatos? 13 vai para Flávio e 22 para o Lula, daí os números batem com as estatísticas durante o segundo turno",
+        "author_username": "Pmeam001",
+        "author_name": "Pmeam001",
+        "created_at": "2026-10-27T00:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Pmeam001/status/2114879341427601809#m",
+        "metrics": {
+          "like_count": 31,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114879303661871169",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114879303661871169",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114879303661871169",
+        "text": "AMOOOOOOO, mande sim",
+        "author_username": "filosoboni",
+        "author_name": "filosoboni",
+        "created_at": "2026-10-27T00:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/filosoboni/status/2114879303661871169#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114879185684754905",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114879185684754905",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114879185684754905",
+        "text": "Essa musica do bora bora bora lula virar ficou na minha cabeça",
+        "author_username": "Bilauinox",
+        "author_name": "Bilauinox",
+        "created_at": "2026-10-27T00:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Bilauinox/status/2114879185684754905#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114895951466746363",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114895951466746363",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114895951466746363",
+        "text": "Mano, durante as eleições fiz vários posts nos meus stories, mas não mandei nada no direct dos petistas que conheço. \n\nAgora porrrrrrrr , até hoje eles estão me mandando direct de coisa do Lula. \n\nTô nem aí pro lula, meu irmão!",
+        "author_username": "farminhalet",
+        "author_name": "farminhalet",
+        "created_at": "2026-10-27T01:44:00+00:00",
+        "permalink": "https://nitter.mie.foundation/farminhalet/status/2114895951466746363#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114895313345384747",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114895313345384747",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114895313345384747",
+        "text": "Apanharam pouco, bando de vagabundos! Eleitores do Lula!",
+        "author_username": "LourivalAnton",
+        "author_name": "LourivalAnton",
+        "created_at": "2026-10-27T01:41:00+00:00",
+        "permalink": "https://nitter.mie.foundation/LourivalAnton/status/2114895313345384747#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114895201881718933",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114895201881718933",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114895201881718933",
+        "text": "Podem não se importarem, mas esse pastor merece ser lembrado diante do voto que eles deram o Lula. Talvez uma dia se Deus quiser, eles caem em si.",
+        "author_username": "mendonca_photos",
+        "author_name": "mendonca_photos",
+        "created_at": "2026-10-27T01:41:00+00:00",
+        "permalink": "https://nitter.mie.foundation/mendonca_photos/status/2114895201881718933#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114895012710256786",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114895012710256786",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114895012710256786",
+        "text": "LULA VAI ACABAR COM POLÍCIA",
+        "author_username": "Nataliaterapeut",
+        "author_name": "Nataliaterapeut",
+        "created_at": "2026-10-27T01:40:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Nataliaterapeut/status/2114895012710256786#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114894772091359522",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114894772091359522",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114894772091359522",
+        "text": "igual eu com a aava santiago quando fui na manifestação",
+        "author_username": "marianatdias_",
+        "author_name": "marianatdias_",
+        "created_at": "2026-10-27T01:39:00+00:00",
+        "permalink": "https://nitter.mie.foundation/marianatdias_/status/2114894772091359522#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114894646589497396",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114894646589497396",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114894646589497396",
+        "text": "⚠️ Quando se sentir um otário, lembre-se dos 64.256.232 votos do Lula.\n\nA conta chegou e não levou nem 24h! 🤣😂🤡",
+        "author_username": "JordoFerre92762",
+        "author_name": "JordoFerre92762",
+        "created_at": "2026-10-27T01:39:00+00:00",
+        "permalink": "https://nitter.mie.foundation/JordoFerre92762/status/2114894646589497396#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114894156942229893",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114894156942229893",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114894156942229893",
+        "text": "Vou comemorar a vitória do Lula ficando com 13 pessoas na mistério do caramelo 🙏🙌",
+        "author_username": "besbi_besbi",
+        "author_name": "besbi_besbi",
+        "created_at": "2026-10-27T01:37:00+00:00",
+        "permalink": "https://nitter.mie.foundation/besbi_besbi/status/2114894156942229893#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114894011357868498",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114894011357868498",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114894011357868498",
+        "text": "Porto Alegre é LULA!",
+        "author_username": "mafercosta_1965",
+        "author_name": "mafercosta_1965",
+        "created_at": "2026-10-27T01:36:00+00:00",
+        "permalink": "https://nitter.mie.foundation/mafercosta_1965/status/2114894011357868498#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114893566690337241",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114893566690337241",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "direita"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114893566690337241",
+        "text": "“Minha consciência continua limpa, minha cabeça erguida e meus princípios intactos. Não votei no Lula, e essa culpa eu não carrego!” 🇧🇷\n#soudedireita \n#souflaviobolsonaro",
+        "author_username": "almacigana7",
+        "author_name": "almacigana7",
+        "created_at": "2026-10-27T01:34:00+00:00",
+        "permalink": "https://nitter.mie.foundation/almacigana7/status/2114893566690337241#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114892602365374747",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114892602365374747",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114892602365374747",
+        "text": "Pois é, meu Parabéns por deixar o advogado de Lula interferir nas Eleições do País! \nEra preciso poucas horas para carregar o programa, travar a apuração já estava manjado... Ainda esquerda na Bahia adesiva os ônibus, entra com ação para atrasar o fim das eleições e vrauuu...🤦🤦",
+        "author_username": "Everton99869486",
+        "author_name": "Everton99869486",
+        "created_at": "2026-10-27T01:31:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Everton99869486/status/2114892602365374747#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114892590612898020",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114892590612898020",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114892590612898020",
+        "text": "Aqui na minha cidade e na vizinha, Lula ganhou.",
+        "author_username": "AlanBergmanndj",
+        "author_name": "AlanBergmanndj",
+        "created_at": "2026-10-27T01:31:00+00:00",
+        "permalink": "https://nitter.mie.foundation/AlanBergmanndj/status/2114892590612898020#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114892542021898261",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114892542021898261",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114892542021898261",
+        "text": "Flávio Bolsonaro ,teve foi um livramento daqueles 🙏🙏🙏🙏🙏🙏🙏🙏🙏  quero ver em quem este Desgoverno vai colocar a culpa agora \nLula e Sistema de afundar juntos ,conseguiram o famoso milagre nas URNAS nas Contas públicas não vai ter milagre ,cheque Marte 🤣🤣🤣🤣",
+        "author_username": "NeinhaCeciliaa",
+        "author_name": "NeinhaCeciliaa",
+        "created_at": "2026-10-27T01:30:00+00:00",
+        "permalink": "https://nitter.mie.foundation/NeinhaCeciliaa/status/2114892542021898261#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114892371074711705",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114892371074711705",
+      "collected_at": "2026-10-26T22:45:07-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114892371074711705",
+        "text": "A previsão dele se perde na narrativa quando ele diz que se o Lula morrer quem vai assumir é o Alexandre de Moraes, quem assumiria seria o Geraldo Alckmin, vice presidente!\nE o Xandão não está arrumando nada para prender o Flávio, o rachadinha tem vários crimes sendo investigado.",
+        "author_username": "Samuel_Bastille",
+        "author_name": "Samuel_Bastille",
+        "created_at": "2026-10-27T01:30:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Samuel_Bastille/status/2114892371074711705#m",
+        "metrics": {
+          "like_count": 16,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}
