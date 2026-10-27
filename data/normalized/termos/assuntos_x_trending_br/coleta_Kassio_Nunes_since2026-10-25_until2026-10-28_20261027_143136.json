@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Kassio Nunes",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+    "collected_at": "2026-10-27T14:31:36-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 3,
+      "comments": 0,
+      "records_total": 3,
+      "skipped_duplicate": 45
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115100474890137659",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115100474890137659",
+      "parent_post_id": null,
+      "thread_root_id": "2115100474890137659",
+      "author": {
+        "platform_id": null,
+        "display_name": "RodrigoPina01",
+        "username": "RodrigoPina01",
+        "profile_url": "https://x.com/RodrigoPina01"
+      },
+      "text": "Kassio Nunes se juntou a Lula também??",
+      "created_at": "2026-10-27T15:17:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T14:31:36-03:00",
+      "permalink": "https://nitter.meowing.monster/RodrigoPina01/status/2115100474890137659#m",
+      "metrics": {
+        "like_count": 55,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Kassio Nunes",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115100474890137659",
+        "text": "Kassio Nunes se juntou a Lula também??",
+        "author_username": "RodrigoPina01",
+        "author_name": "RodrigoPina01",
+        "created_at": "2026-10-27T15:17:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RodrigoPina01/status/2115100474890137659#m",
+        "metrics": {
+          "like_count": 55,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 38,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115099896936018198",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115099896936018198",
+      "parent_post_id": null,
+      "thread_root_id": "2115099896936018198",
+      "author": {
+        "platform_id": null,
+        "display_name": "caiohf25",
+        "username": "caiohf25",
+        "profile_url": "https://x.com/caiohf25"
+      },
+      "text": "Alexandre de Moraes, Toffoli e Kassio Nunes precisam sofrer impeachment, isso é inegociável",
+      "created_at": "2026-10-27T15:14:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T14:31:36-03:00",
+      "permalink": "https://nitter.meowing.monster/caiohf25/status/2115099896936018198#m",
+      "metrics": {
+        "like_count": 94,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Kassio Nunes",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115099896936018198",
+        "text": "Alexandre de Moraes, Toffoli e Kassio Nunes precisam sofrer impeachment, isso é inegociável",
+        "author_username": "caiohf25",
+        "author_name": "caiohf25",
+        "created_at": "2026-10-27T15:14:00+00:00",
+        "permalink": "https://nitter.meowing.monster/caiohf25/status/2115099896936018198#m",
+        "metrics": {
+          "like_count": 94,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 91,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115082578659098757",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115082578659098757",
+      "parent_post_id": null,
+      "thread_root_id": "2115082578659098757",
+      "author": {
+        "platform_id": null,
+        "display_name": "Fabrici70242229",
+        "username": "Fabrici70242229",
+        "profile_url": "https://x.com/Fabrici70242229"
+      },
+      "text": "Engraçado q vc fala em Alexydw Moraes e esquece do Dias Toffoli e do Kassio Nunes Né? Mto conveniente agir assim",
+      "created_at": "2026-10-27T14:05:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T14:31:36-03:00",
+      "permalink": "https://nitter.meowing.monster/Fabrici70242229/status/2115082578659098757#m",
+      "metrics": {
+        "like_count": 16,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Kassio Nunes",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115082578659098757",
+        "text": "Engraçado q vc fala em Alexydw Moraes e esquece do Dias Toffoli e do Kassio Nunes Né? Mto conveniente agir assim",
+        "author_username": "Fabrici70242229",
+        "author_name": "Fabrici70242229",
+        "created_at": "2026-10-27T14:05:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fabrici70242229/status/2115082578659098757#m",
+        "metrics": {
+          "like_count": 16,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 112,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
