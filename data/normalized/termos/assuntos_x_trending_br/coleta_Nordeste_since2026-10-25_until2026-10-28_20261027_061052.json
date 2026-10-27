@@ -1,0 +1,559 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "3f313541-c89c-4314-9ab3-e59b766bc37b",
+    "collected_at": "2026-10-27T06:10:52-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 8,
+      "comments": 0,
+      "records_total": 8,
+      "skipped_duplicate": 332
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114996497427341379",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114996497427341379",
+      "parent_post_id": null,
+      "thread_root_id": "2114996497427341379",
+      "author": {
+        "platform_id": null,
+        "display_name": "ciridospampas",
+        "username": "ciridospampas",
+        "profile_url": "https://x.com/ciridospampas"
+      },
+      "text": "Mandem pro nordeste!",
+      "created_at": "2026-10-27T08:23:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T06:10:52-03:00",
+      "permalink": "https://nitter.meowing.monster/ciridospampas/status/2114996497427341379#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "3f313541-c89c-4314-9ab3-e59b766bc37b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114996497427341379",
+        "text": "Mandem pro nordeste!",
+        "author_username": "ciridospampas",
+        "author_name": "ciridospampas",
+        "created_at": "2026-10-27T08:23:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ciridospampas/status/2114996497427341379#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 20,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114996422630396364",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114996422630396364",
+      "parent_post_id": null,
+      "thread_root_id": "2114996422630396364",
+      "author": {
+        "platform_id": null,
+        "display_name": "ciridospampas",
+        "username": "ciridospampas",
+        "profile_url": "https://x.com/ciridospampas"
+      },
+      "text": "Acho justo hahahahah desgraçadaos! Petistas devem ir tudo pro nordeste! Deixem a Argentina",
+      "created_at": "2026-10-27T08:23:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T06:10:52-03:00",
+      "permalink": "https://nitter.meowing.monster/ciridospampas/status/2114996422630396364#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "3f313541-c89c-4314-9ab3-e59b766bc37b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114996422630396364",
+        "text": "Acho justo hahahahah desgraçadaos! Petistas devem ir tudo pro nordeste! Deixem a Argentina",
+        "author_username": "ciridospampas",
+        "author_name": "ciridospampas",
+        "created_at": "2026-10-27T08:23:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ciridospampas/status/2114996422630396364#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 90,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114995312410726845",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114995312410726845",
+      "parent_post_id": null,
+      "thread_root_id": "2114995312410726845",
+      "author": {
+        "platform_id": null,
+        "display_name": "ciridospampas",
+        "username": "ciridospampas",
+        "profile_url": "https://x.com/ciridospampas"
+      },
+      "text": "Cidade aqui maioria Flávio! O problema do Brasil se chama nordeste",
+      "created_at": "2026-10-27T08:19:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T06:10:52-03:00",
+      "permalink": "https://nitter.meowing.monster/ciridospampas/status/2114995312410726845#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "3f313541-c89c-4314-9ab3-e59b766bc37b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114995312410726845",
+        "text": "Cidade aqui maioria Flávio! O problema do Brasil se chama nordeste",
+        "author_username": "ciridospampas",
+        "author_name": "ciridospampas",
+        "created_at": "2026-10-27T08:19:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ciridospampas/status/2114995312410726845#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 66,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114988318102319500",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114988318102319500",
+      "parent_post_id": null,
+      "thread_root_id": "2114988318102319500",
+      "author": {
+        "platform_id": null,
+        "display_name": "AdrianaR15084",
+        "username": "AdrianaR15084",
+        "profile_url": "https://x.com/AdrianaR15084"
+      },
+      "text": "O nordeste vai salvar o Brasil😒\nNada me orgulha em ser nordestina ,minha dor tem raízes profundas",
+      "created_at": "2026-10-27T07:51:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T06:10:52-03:00",
+      "permalink": "https://nitter.meowing.monster/AdrianaR15084/status/2114988318102319500#m",
+      "metrics": {
+        "like_count": 35,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "3f313541-c89c-4314-9ab3-e59b766bc37b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114988318102319500",
+        "text": "O nordeste vai salvar o Brasil😒\nNada me orgulha em ser nordestina ,minha dor tem raízes profundas",
+        "author_username": "AdrianaR15084",
+        "author_name": "AdrianaR15084",
+        "created_at": "2026-10-27T07:51:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AdrianaR15084/status/2114988318102319500#m",
+        "metrics": {
+          "like_count": 35,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 97,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114987908847513905",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114987908847513905",
+      "parent_post_id": null,
+      "thread_root_id": "2114987908847513905",
+      "author": {
+        "platform_id": null,
+        "display_name": "ciridospampas",
+        "username": "ciridospampas",
+        "profile_url": "https://x.com/ciridospampas"
+      },
+      "text": "Não façam turismo no nordeste!",
+      "created_at": "2026-10-27T07:49:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T06:10:52-03:00",
+      "permalink": "https://nitter.meowing.monster/ciridospampas/status/2114987908847513905#m",
+      "metrics": {
+        "like_count": 135,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "3f313541-c89c-4314-9ab3-e59b766bc37b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114987908847513905",
+        "text": "Não façam turismo no nordeste!",
+        "author_username": "ciridospampas",
+        "author_name": "ciridospampas",
+        "created_at": "2026-10-27T07:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ciridospampas/status/2114987908847513905#m",
+        "metrics": {
+          "like_count": 135,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 30,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114986683565539707",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114986683565539707",
+      "parent_post_id": null,
+      "thread_root_id": "2114986683565539707",
+      "author": {
+        "platform_id": null,
+        "display_name": "ciridospampas",
+        "username": "ciridospampas",
+        "profile_url": "https://x.com/ciridospampas"
+      },
+      "text": "Nunca fui ao nordeste. Por mim os petistas deviam ir tudo lá pra cima de deixava o sul para a maioria que odeia PT. A Cida ia ser ótima..",
+      "created_at": "2026-10-27T07:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T06:10:52-03:00",
+      "permalink": "https://nitter.meowing.monster/ciridospampas/status/2114986683565539707#m",
+      "metrics": {
+        "like_count": 12,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "3f313541-c89c-4314-9ab3-e59b766bc37b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114986683565539707",
+        "text": "Nunca fui ao nordeste. Por mim os petistas deviam ir tudo lá pra cima de deixava o sul para a maioria que odeia PT. A Cida ia ser ótima..",
+        "author_username": "ciridospampas",
+        "author_name": "ciridospampas",
+        "created_at": "2026-10-27T07:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ciridospampas/status/2114986683565539707#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 137,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114953066084540577",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114953066084540577",
+      "parent_post_id": null,
+      "thread_root_id": "2114953066084540577",
+      "author": {
+        "platform_id": null,
+        "display_name": "bruno_vieiravp",
+        "username": "bruno_vieiravp",
+        "profile_url": "https://x.com/bruno_vieiravp"
+      },
+      "text": "Depois NÃO ENTENDEM o pq perderam duas eleições seguidas pro PT E VÃO PERDER A TERCEIRA se não calçar a sandália da humildade.\n\nNÃO É DIFÍCIL entender o motivo do Nordeste votar no PT.",
+      "created_at": "2026-10-27T05:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T06:10:52-03:00",
+      "permalink": "https://nitter.meowing.monster/bruno_vieiravp/status/2114953066084540577#m",
+      "metrics": {
+        "like_count": 116,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 3
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "3f313541-c89c-4314-9ab3-e59b766bc37b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114953066084540577",
+        "text": "Depois NÃO ENTENDEM o pq perderam duas eleições seguidas pro PT E VÃO PERDER A TERCEIRA se não calçar a sandália da humildade.\n\nNÃO É DIFÍCIL entender o motivo do Nordeste votar no PT.",
+        "author_username": "bruno_vieiravp",
+        "author_name": "bruno_vieiravp",
+        "created_at": "2026-10-27T05:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/bruno_vieiravp/status/2114953066084540577#m",
+        "metrics": {
+          "like_count": 116,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      },
+      "normalized": {
+        "text_length": 184,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114582644990087221",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114582644990087221",
+      "parent_post_id": null,
+      "thread_root_id": "2114582644990087221",
+      "author": {
+        "platform_id": null,
+        "display_name": "crfsta",
+        "username": "crfsta",
+        "profile_url": "https://x.com/crfsta"
+      },
+      "text": "eu jamais esquecerei o nordeste e minas gerais eles foram GIGANTES para a vitória do lula estou com eles até o fim",
+      "created_at": "2026-10-26T04:59:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T06:10:52-03:00",
+      "permalink": "https://nitter.meowing.monster/crfsta/status/2114582644990087221#m",
+      "metrics": {
+        "like_count": 17,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "3f313541-c89c-4314-9ab3-e59b766bc37b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114582644990087221",
+        "text": "eu jamais esquecerei o nordeste e minas gerais eles foram GIGANTES para a vitória do lula estou com eles até o fim",
+        "author_username": "crfsta",
+        "author_name": "crfsta",
+        "created_at": "2026-10-26T04:59:00+00:00",
+        "permalink": "https://nitter.meowing.monster/crfsta/status/2114582644990087221#m",
+        "metrics": {
+          "like_count": 17,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 114,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
