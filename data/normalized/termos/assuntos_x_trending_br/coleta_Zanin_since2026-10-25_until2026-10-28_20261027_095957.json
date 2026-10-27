@@ -1,0 +1,550 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Zanin",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+    "collected_at": "2026-10-27T09:59:57-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 8,
+      "comments": 0,
+      "records_total": 8,
+      "skipped_duplicate": 147
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115058143055036581",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115058143055036581",
+      "parent_post_id": null,
+      "thread_root_id": "2115058143055036581",
+      "author": {
+        "platform_id": null,
+        "display_name": "RivanySantos3",
+        "username": "RivanySantos3",
+        "profile_url": "https://x.com/RivanySantos3"
+      },
+      "text": "NA VERDADE PRORROGAÇÃO É PRA JOGO DE FUTEBOL\n\nELEIÇÃO É 8 DA MANHÃ AS 5 DA TARDE! \n\nNO 1° TUNO TIVEMOS MAIS CANDIDATOS A VOTAÇÃO FOI ENCERRADA NO TEMPO CERTO\n\n2 CANDIDATOS E ESSA PALHAÇADA DE PRORROGAÇÃO❓❓\n\nCANALHICE  ZANIN",
+      "created_at": "2026-10-27T12:28:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T09:59:57-03:00",
+      "permalink": "https://nitter.meowing.monster/RivanySantos3/status/2115058143055036581#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Zanin",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 21,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115058143055036581",
+        "text": "NA VERDADE PRORROGAÇÃO É PRA JOGO DE FUTEBOL\n\nELEIÇÃO É 8 DA MANHÃ AS 5 DA TARDE! \n\nNO 1° TUNO TIVEMOS MAIS CANDIDATOS A VOTAÇÃO FOI ENCERRADA NO TEMPO CERTO\n\n2 CANDIDATOS E ESSA PALHAÇADA DE PRORROGAÇÃO❓❓\n\nCANALHICE  ZANIN",
+        "author_username": "RivanySantos3",
+        "author_name": "RivanySantos3",
+        "created_at": "2026-10-27T12:28:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RivanySantos3/status/2115058143055036581#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 223,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115055400437665835",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115055400437665835",
+      "parent_post_id": null,
+      "thread_root_id": "2115055400437665835",
+      "author": {
+        "platform_id": null,
+        "display_name": "RobeiltonL",
+        "username": "RobeiltonL",
+        "profile_url": "https://x.com/RobeiltonL"
+      },
+      "text": "Agora @DamaresAlves VAI ELOGIAR O GOLPISTA do Zanin?",
+      "created_at": "2026-10-27T12:17:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T09:59:57-03:00",
+      "permalink": "https://nitter.meowing.monster/RobeiltonL/status/2115055400437665835#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Zanin",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 21,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115055400437665835",
+        "text": "Agora @DamaresAlves VAI ELOGIAR O GOLPISTA do Zanin?",
+        "author_username": "RobeiltonL",
+        "author_name": "RobeiltonL",
+        "created_at": "2026-10-27T12:17:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RobeiltonL/status/2115055400437665835#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 52,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115053726360567974",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115053726360567974",
+      "parent_post_id": null,
+      "thread_root_id": "2115053726360567974",
+      "author": {
+        "platform_id": null,
+        "display_name": "ValHerdy",
+        "username": "ValHerdy",
+        "profile_url": "https://x.com/ValHerdy"
+      },
+      "text": "Impeachment coletivo de ministros Moraes, Gilmar, Zanin, Dino e Kassio.",
+      "created_at": "2026-10-27T12:11:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T09:59:57-03:00",
+      "permalink": "https://nitter.meowing.monster/ValHerdy/status/2115053726360567974#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Zanin",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 21,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115053726360567974",
+        "text": "Impeachment coletivo de ministros Moraes, Gilmar, Zanin, Dino e Kassio.",
+        "author_username": "ValHerdy",
+        "author_name": "ValHerdy",
+        "created_at": "2026-10-27T12:11:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ValHerdy/status/2115053726360567974#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 71,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115047642589761865",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115047642589761865",
+      "parent_post_id": null,
+      "thread_root_id": "2115047642589761865",
+      "author": {
+        "platform_id": null,
+        "display_name": "LaneBatista5",
+        "username": "LaneBatista5",
+        "profile_url": "https://x.com/LaneBatista5"
+      },
+      "text": "Ninguém está feliz com a decisão do Zanin. Não fale inverdades!",
+      "created_at": "2026-10-27T11:47:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T09:59:57-03:00",
+      "permalink": "https://nitter.meowing.monster/LaneBatista5/status/2115047642589761865#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Zanin",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 21,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115047642589761865",
+        "text": "Ninguém está feliz com a decisão do Zanin. Não fale inverdades!",
+        "author_username": "LaneBatista5",
+        "author_name": "LaneBatista5",
+        "created_at": "2026-10-27T11:47:00+00:00",
+        "permalink": "https://nitter.meowing.monster/LaneBatista5/status/2115047642589761865#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 63,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115037750286061978",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115037750286061978",
+      "parent_post_id": null,
+      "thread_root_id": "2115037750286061978",
+      "author": {
+        "platform_id": null,
+        "display_name": "thiagodias777",
+        "username": "thiagodias777",
+        "profile_url": "https://x.com/thiagodias777"
+      },
+      "text": "Não podemos nos esquecer:\n\nVelhinhos do INSS\nLulinha\nMaster e STF\nAcolumbre\nHugo Mota\nMensalão\nPetrolão\nLava Jato\nZanin",
+      "created_at": "2026-10-27T11:07:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T09:59:57-03:00",
+      "permalink": "https://nitter.meowing.monster/thiagodias777/status/2115037750286061978#m",
+      "metrics": {
+        "like_count": 96,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Zanin",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 21,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115037750286061978",
+        "text": "Não podemos nos esquecer:\n\nVelhinhos do INSS\nLulinha\nMaster e STF\nAcolumbre\nHugo Mota\nMensalão\nPetrolão\nLava Jato\nZanin",
+        "author_username": "thiagodias777",
+        "author_name": "thiagodias777",
+        "created_at": "2026-10-27T11:07:00+00:00",
+        "permalink": "https://nitter.meowing.monster/thiagodias777/status/2115037750286061978#m",
+        "metrics": {
+          "like_count": 96,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 119,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115032922600214558",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115032922600214558",
+      "parent_post_id": null,
+      "thread_root_id": "2115032922600214558",
+      "author": {
+        "platform_id": null,
+        "display_name": "briciovieeira",
+        "username": "briciovieeira",
+        "profile_url": "https://x.com/briciovieeira"
+      },
+      "text": "Video bem didático para entender porque todo processo foi um erro de Kassio Nunes e que o Ministro Fachin fez um sorteio no qual o Zanin foi sorteado.",
+      "created_at": "2026-10-27T10:48:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T09:59:57-03:00",
+      "permalink": "https://nitter.meowing.monster/briciovieeira/status/2115032922600214558#m",
+      "metrics": {
+        "like_count": 916,
+        "reply_count": 0,
+        "retweet_count": 5,
+        "quote_count": 21
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Zanin",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 21,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115032922600214558",
+        "text": "Video bem didático para entender porque todo processo foi um erro de Kassio Nunes e que o Ministro Fachin fez um sorteio no qual o Zanin foi sorteado.",
+        "author_username": "briciovieeira",
+        "author_name": "briciovieeira",
+        "created_at": "2026-10-27T10:48:00+00:00",
+        "permalink": "https://nitter.meowing.monster/briciovieeira/status/2115032922600214558#m",
+        "metrics": {
+          "like_count": 916,
+          "reply_count": 0,
+          "retweet_count": 5,
+          "quote_count": 21
+        }
+      },
+      "normalized": {
+        "text_length": 150,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115032165373051217",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115032165373051217",
+      "parent_post_id": null,
+      "thread_root_id": "2115032165373051217",
+      "author": {
+        "platform_id": null,
+        "display_name": "065999036707cba",
+        "username": "065999036707cba",
+        "profile_url": "https://x.com/065999036707cba"
+      },
+      "text": "DELTAN: \nDECISÃO DE ZANIN BURLOU REGRA DO STF",
+      "created_at": "2026-10-27T10:45:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T09:59:57-03:00",
+      "permalink": "https://nitter.meowing.monster/065999036707cba/status/2115032165373051217#m",
+      "metrics": {
+        "like_count": 609,
+        "reply_count": 2,
+        "retweet_count": 4,
+        "quote_count": 21
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Zanin",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 21,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115032165373051217",
+        "text": "DELTAN: \nDECISÃO DE ZANIN BURLOU REGRA DO STF",
+        "author_username": "065999036707cba",
+        "author_name": "065999036707cba",
+        "created_at": "2026-10-27T10:45:00+00:00",
+        "permalink": "https://nitter.meowing.monster/065999036707cba/status/2115032165373051217#m",
+        "metrics": {
+          "like_count": 609,
+          "reply_count": 2,
+          "retweet_count": 4,
+          "quote_count": 21
+        }
+      },
+      "normalized": {
+        "text_length": 45,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114525073453252792",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114525073453252792",
+      "parent_post_id": null,
+      "thread_root_id": "2114525073453252792",
+      "author": {
+        "platform_id": null,
+        "display_name": "ngelaMariaDiLo1",
+        "username": "ngelaMariaDiLo1",
+        "profile_url": "https://x.com/ngelaMariaDiLo1"
+      },
+      "text": "ZANIN FECHOU AS 18:15 PRA ROUBAR VOTO DE FLÁVIO",
+      "created_at": "2026-10-26T01:10:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T09:59:57-03:00",
+      "permalink": "https://nitter.meowing.monster/ngelaMariaDiLo1/status/2114525073453252792#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Zanin",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 21,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114525073453252792",
+        "text": "ZANIN FECHOU AS 18:15 PRA ROUBAR VOTO DE FLÁVIO",
+        "author_username": "ngelaMariaDiLo1",
+        "author_name": "ngelaMariaDiLo1",
+        "created_at": "2026-10-26T01:10:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ngelaMariaDiLo1/status/2114525073453252792#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 47,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
