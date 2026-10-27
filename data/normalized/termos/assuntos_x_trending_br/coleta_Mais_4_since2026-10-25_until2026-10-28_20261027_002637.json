@@ -1,0 +1,1284 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Mais 4",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+    "collected_at": "2026-10-27T00:26:37-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 19,
+      "comments": 0,
+      "records_total": 19,
+      "skipped_duplicate": 103
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114909964837716092",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114909964837716092",
+      "parent_post_id": null,
+      "thread_root_id": "2114909964837716092",
+      "author": {
+        "platform_id": null,
+        "display_name": "_mesapra4",
+        "username": "_mesapra4",
+        "profile_url": "https://x.com/_mesapra4"
+      },
+      "text": "Finalmente chegou a nova adaptação pras telonas de um dos jogos mais famosos do mundo: \"Street Fighter\"!\n\n#mesacast #streetfighter #capcom #videogame",
+      "created_at": "2026-10-27T02:40:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:26:37-03:00",
+      "permalink": "https://nitter.meowing.monster/_mesapra4/status/2114909964837716092#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114909964837716092",
+        "text": "Finalmente chegou a nova adaptação pras telonas de um dos jogos mais famosos do mundo: \"Street Fighter\"!\n\n#mesacast #streetfighter #capcom #videogame",
+        "author_username": "_mesapra4",
+        "author_name": "_mesapra4",
+        "created_at": "2026-10-27T02:40:00+00:00",
+        "permalink": "https://nitter.meowing.monster/_mesapra4/status/2114909964837716092#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 149,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114905073318859253",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114905073318859253",
+      "parent_post_id": null,
+      "thread_root_id": "2114905073318859253",
+      "author": {
+        "platform_id": null,
+        "display_name": "AdrianaR15084",
+        "username": "AdrianaR15084",
+        "profile_url": "https://x.com/AdrianaR15084"
+      },
+      "text": "Aparentemente depois de 4 anos a cabeça ficou mais do que quente!\ncansaram!",
+      "created_at": "2026-10-27T02:20:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:26:37-03:00",
+      "permalink": "https://nitter.meowing.monster/AdrianaR15084/status/2114905073318859253#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114905073318859253",
+        "text": "Aparentemente depois de 4 anos a cabeça ficou mais do que quente!\ncansaram!",
+        "author_username": "AdrianaR15084",
+        "author_name": "AdrianaR15084",
+        "created_at": "2026-10-27T02:20:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AdrianaR15084/status/2114905073318859253#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 75,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114903478950564009",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114903478950564009",
+      "parent_post_id": null,
+      "thread_root_id": "2114903478950564009",
+      "author": {
+        "platform_id": null,
+        "display_name": "NeinhaCeciliaa",
+        "username": "NeinhaCeciliaa",
+        "profile_url": "https://x.com/NeinhaCeciliaa"
+      },
+      "text": "Já sabemos que isso poderia acontecer a esquerda joga sujo pensando bem Flávio teve  livramento porque País está UTI temos Desgoverno incompetente vamos aguentar mais 4 anos queremos olhar para frente  elegemos  Congresso de direita e esperamos que Vocês não deixem STF  Legislar",
+      "created_at": "2026-10-27T02:14:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:26:37-03:00",
+      "permalink": "https://nitter.meowing.monster/NeinhaCeciliaa/status/2114903478950564009#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "direita",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114903478950564009",
+        "text": "Já sabemos que isso poderia acontecer a esquerda joga sujo pensando bem Flávio teve  livramento porque País está UTI temos Desgoverno incompetente vamos aguentar mais 4 anos queremos olhar para frente  elegemos  Congresso de direita e esperamos que Vocês não deixem STF  Legislar",
+        "author_username": "NeinhaCeciliaa",
+        "author_name": "NeinhaCeciliaa",
+        "created_at": "2026-10-27T02:14:00+00:00",
+        "permalink": "https://nitter.meowing.monster/NeinhaCeciliaa/status/2114903478950564009#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 279,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114895371306418551",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114895371306418551",
+      "parent_post_id": null,
+      "thread_root_id": "2114895371306418551",
+      "author": {
+        "platform_id": null,
+        "display_name": "SANDRORCOUTINHO",
+        "username": "SANDRORCOUTINHO",
+        "profile_url": "https://x.com/SANDRORCOUTINHO"
+      },
+      "text": "NÃO ADIANTA POHA NENHUMA. \n\nELE ESTÁ SALVO DA NOSSA DITADURA,  SÓ ISSO.\n\nENQUANTO,  NÓS,  VAMOS TER QUE SUPORTAR ESSE FELADAPUTA CORRUPTO DO KARALHO POR MAIS 4 ANOS E A BISCATE VIAJANDO ÀS NOSSAS CUSTAS.",
+      "created_at": "2026-10-27T01:42:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:26:37-03:00",
+      "permalink": "https://nitter.meowing.monster/SANDRORCOUTINHO/status/2114895371306418551#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114895371306418551",
+        "text": "NÃO ADIANTA POHA NENHUMA. \n\nELE ESTÁ SALVO DA NOSSA DITADURA,  SÓ ISSO.\n\nENQUANTO,  NÓS,  VAMOS TER QUE SUPORTAR ESSE FELADAPUTA CORRUPTO DO KARALHO POR MAIS 4 ANOS E A BISCATE VIAJANDO ÀS NOSSAS CUSTAS.",
+        "author_username": "SANDRORCOUTINHO",
+        "author_name": "SANDRORCOUTINHO",
+        "created_at": "2026-10-27T01:42:00+00:00",
+        "permalink": "https://nitter.meowing.monster/SANDRORCOUTINHO/status/2114895371306418551#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 203,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114894909089992842",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114894909089992842",
+      "parent_post_id": null,
+      "thread_root_id": "2114894909089992842",
+      "author": {
+        "platform_id": null,
+        "display_name": "jklmarcoss",
+        "username": "jklmarcoss",
+        "profile_url": "https://x.com/jklmarcoss"
+      },
+      "text": "tenho uma impressão que a esquerda vai ficar ainda mais dividida em 4 anos, pior do que 2018",
+      "created_at": "2026-10-27T01:40:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:26:37-03:00",
+      "permalink": "https://nitter.meowing.monster/jklmarcoss/status/2114894909089992842#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114894909089992842",
+        "text": "tenho uma impressão que a esquerda vai ficar ainda mais dividida em 4 anos, pior do que 2018",
+        "author_username": "jklmarcoss",
+        "author_name": "jklmarcoss",
+        "created_at": "2026-10-27T01:40:00+00:00",
+        "permalink": "https://nitter.meowing.monster/jklmarcoss/status/2114894909089992842#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 92,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114892123417747808",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114892123417747808",
+      "parent_post_id": null,
+      "thread_root_id": "2114892123417747808",
+      "author": {
+        "platform_id": null,
+        "display_name": "FabioEstevam7",
+        "username": "FabioEstevam7",
+        "profile_url": "https://x.com/FabioEstevam7"
+      },
+      "text": "Kkkkkkkkk faz um L Não queria esse corno na presidência agora chora por mais 4 anos entrando no grosso dele",
+      "created_at": "2026-10-27T01:29:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:26:37-03:00",
+      "permalink": "https://nitter.meowing.monster/FabioEstevam7/status/2114892123417747808#m",
+      "metrics": {
+        "like_count": 25,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114892123417747808",
+        "text": "Kkkkkkkkk faz um L Não queria esse corno na presidência agora chora por mais 4 anos entrando no grosso dele",
+        "author_username": "FabioEstevam7",
+        "author_name": "FabioEstevam7",
+        "created_at": "2026-10-27T01:29:00+00:00",
+        "permalink": "https://nitter.meowing.monster/FabioEstevam7/status/2114892123417747808#m",
+        "metrics": {
+          "like_count": 25,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 107,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114887457531445536",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114887457531445536",
+      "parent_post_id": null,
+      "thread_root_id": "2114887457531445536",
+      "author": {
+        "platform_id": null,
+        "display_name": "FlavioPororoca",
+        "username": "FlavioPororoca",
+        "profile_url": "https://x.com/FlavioPororoca"
+      },
+      "text": "Flavio não tinha propostas e você muito menos. O estado do Rio mais uma vez vai ficar 4 anos na merda, isso se o próximo não for preso antes de terminar seu mandato",
+      "created_at": "2026-10-27T01:10:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:26:37-03:00",
+      "permalink": "https://nitter.meowing.monster/FlavioPororoca/status/2114887457531445536#m",
+      "metrics": {
+        "like_count": 73,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114887457531445536",
+        "text": "Flavio não tinha propostas e você muito menos. O estado do Rio mais uma vez vai ficar 4 anos na merda, isso se o próximo não for preso antes de terminar seu mandato",
+        "author_username": "FlavioPororoca",
+        "author_name": "FlavioPororoca",
+        "created_at": "2026-10-27T01:10:00+00:00",
+        "permalink": "https://nitter.meowing.monster/FlavioPororoca/status/2114887457531445536#m",
+        "metrics": {
+          "like_count": 73,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 164,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114884204148212182",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114884204148212182",
+      "parent_post_id": null,
+      "thread_root_id": "2114884204148212182",
+      "author": {
+        "platform_id": null,
+        "display_name": "e_4lho",
+        "username": "e_4lho",
+        "profile_url": "https://x.com/e_4lho"
+      },
+      "text": "acho que ta na hora de me proibir um pouquinho, ja ia beber mais mas daí ja ia passar de 24h que to bebendo\neu vou morrer",
+      "created_at": "2026-10-27T00:57:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:26:37-03:00",
+      "permalink": "https://nitter.meowing.monster/e_4lho/status/2114884204148212182#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114884204148212182",
+        "text": "acho que ta na hora de me proibir um pouquinho, ja ia beber mais mas daí ja ia passar de 24h que to bebendo\neu vou morrer",
+        "author_username": "e_4lho",
+        "author_name": "e_4lho",
+        "created_at": "2026-10-27T00:57:00+00:00",
+        "permalink": "https://nitter.meowing.monster/e_4lho/status/2114884204148212182#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 121,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114871916485857719",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114871916485857719",
+      "parent_post_id": null,
+      "thread_root_id": "2114871916485857719",
+      "author": {
+        "platform_id": null,
+        "display_name": "MouraAriela",
+        "username": "MouraAriela",
+        "profile_url": "https://x.com/MouraAriela"
+      },
+      "text": "Ontem foi a minha mudança de vez para a minha nova vida. Casada, feliz e morando em outro endereço. E a vida ainda né presenteou com a vitória do Lula. Ela via o meu medo, o nosso medo! Temos mais 4 anos longe dessa família desumana. Estamos  extremamente felizes ❤️🕊️",
+      "created_at": "2026-10-27T00:08:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:26:37-03:00",
+      "permalink": "https://nitter.meowing.monster/MouraAriela/status/2114871916485857719#m",
+      "metrics": {
+        "like_count": 144,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 7
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114871916485857719",
+        "text": "Ontem foi a minha mudança de vez para a minha nova vida. Casada, feliz e morando em outro endereço. E a vida ainda né presenteou com a vitória do Lula. Ela via o meu medo, o nosso medo! Temos mais 4 anos longe dessa família desumana. Estamos  extremamente felizes ❤️🕊️",
+        "author_username": "MouraAriela",
+        "author_name": "MouraAriela",
+        "created_at": "2026-10-27T00:08:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MouraAriela/status/2114871916485857719#m",
+        "metrics": {
+          "like_count": 144,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 7
+        }
+      },
+      "normalized": {
+        "text_length": 268,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114851633532420452",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114851633532420452",
+      "parent_post_id": null,
+      "thread_root_id": "2114851633532420452",
+      "author": {
+        "platform_id": null,
+        "display_name": "tiggeschris",
+        "username": "tiggeschris",
+        "profile_url": "https://x.com/tiggeschris"
+      },
+      "text": "Inacreditável.\nDecisão de um ministro MAIS DO QUE SUSPEITO.\n\nEsse é o Brasil a nós espera por mais 4 anos.",
+      "created_at": "2026-10-26T22:48:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:26:37-03:00",
+      "permalink": "https://nitter.meowing.monster/tiggeschris/status/2114851633532420452#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114851633532420452",
+        "text": "Inacreditável.\nDecisão de um ministro MAIS DO QUE SUSPEITO.\n\nEsse é o Brasil a nós espera por mais 4 anos.",
+        "author_username": "tiggeschris",
+        "author_name": "tiggeschris",
+        "created_at": "2026-10-26T22:48:00+00:00",
+        "permalink": "https://nitter.meowing.monster/tiggeschris/status/2114851633532420452#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 106,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114840848663720239",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114840848663720239",
+      "parent_post_id": null,
+      "thread_root_id": "2114840848663720239",
+      "author": {
+        "platform_id": null,
+        "display_name": "Dejavu1619",
+        "username": "Dejavu1619",
+        "profile_url": "https://x.com/Dejavu1619"
+      },
+      "text": "Você só errou em um ponto,Lula e o regime não sairão mais do poder.Por isso ele terá muitos anos para fazer o que sempre fez,destruir o país. Não será 4 anos. Deus tenha piedade do Brasil.",
+      "created_at": "2026-10-26T22:05:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:26:37-03:00",
+      "permalink": "https://nitter.meowing.monster/Dejavu1619/status/2114840848663720239#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114840848663720239",
+        "text": "Você só errou em um ponto,Lula e o regime não sairão mais do poder.Por isso ele terá muitos anos para fazer o que sempre fez,destruir o país. Não será 4 anos. Deus tenha piedade do Brasil.",
+        "author_username": "Dejavu1619",
+        "author_name": "Dejavu1619",
+        "created_at": "2026-10-26T22:05:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Dejavu1619/status/2114840848663720239#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 188,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114838550248390992",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114838550248390992",
+      "parent_post_id": null,
+      "thread_root_id": "2114838550248390992",
+      "author": {
+        "platform_id": null,
+        "display_name": "starcckman",
+        "username": "starcckman",
+        "profile_url": "https://x.com/starcckman"
+      },
+      "text": "É mais fácil controlar uma única variável do que várias ao mesmo tempo. Pense naquele jogo de bolinhas de uma mão para outra. 1 bolinha é fácil. 2, complica. 3, 4 já fica quase  impossível.",
+      "created_at": "2026-10-26T21:56:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:26:37-03:00",
+      "permalink": "https://nitter.meowing.monster/starcckman/status/2114838550248390992#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114838550248390992",
+        "text": "É mais fácil controlar uma única variável do que várias ao mesmo tempo. Pense naquele jogo de bolinhas de uma mão para outra. 1 bolinha é fácil. 2, complica. 3, 4 já fica quase  impossível.",
+        "author_username": "starcckman",
+        "author_name": "starcckman",
+        "created_at": "2026-10-26T21:56:00+00:00",
+        "permalink": "https://nitter.meowing.monster/starcckman/status/2114838550248390992#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 189,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114822845062680951",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114822845062680951",
+      "parent_post_id": null,
+      "thread_root_id": "2114822845062680951",
+      "author": {
+        "platform_id": null,
+        "display_name": "munho30496",
+        "username": "munho30496",
+        "profile_url": "https://x.com/munho30496"
+      },
+      "text": "Uma hora ele vai morrer. Nem sei se resiste mais 4 anos.",
+      "created_at": "2026-10-26T20:53:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:26:37-03:00",
+      "permalink": "https://nitter.meowing.monster/munho30496/status/2114822845062680951#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114822845062680951",
+        "text": "Uma hora ele vai morrer. Nem sei se resiste mais 4 anos.",
+        "author_username": "munho30496",
+        "author_name": "munho30496",
+        "created_at": "2026-10-26T20:53:00+00:00",
+        "permalink": "https://nitter.meowing.monster/munho30496/status/2114822845062680951#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 56,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114816345615532054",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114816345615532054",
+      "parent_post_id": null,
+      "thread_root_id": "2114816345615532054",
+      "author": {
+        "platform_id": null,
+        "display_name": "Xandy01",
+        "username": "Xandy01",
+        "profile_url": "https://x.com/Xandy01"
+      },
+      "text": "Uma sugestão motivada pela falta de educação do povo.\nEm Deodoro, aumentar o comprimento da grade da 4° fila do 61 porque o ônibus encosta e a fila para ir em pé, que criaram, sai atravessando.\nDeixa-los mais atrás pode inibir a má-educação.\n@BRTMobiRio",
+      "created_at": "2026-10-26T20:28:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:26:37-03:00",
+      "permalink": "https://nitter.meowing.monster/Xandy01/status/2114816345615532054#m",
+      "metrics": {
+        "like_count": 311,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114816345615532054",
+        "text": "Uma sugestão motivada pela falta de educação do povo.\nEm Deodoro, aumentar o comprimento da grade da 4° fila do 61 porque o ônibus encosta e a fila para ir em pé, que criaram, sai atravessando.\nDeixa-los mais atrás pode inibir a má-educação.\n@BRTMobiRio",
+        "author_username": "Xandy01",
+        "author_name": "Xandy01",
+        "created_at": "2026-10-26T20:28:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Xandy01/status/2114816345615532054#m",
+        "metrics": {
+          "like_count": 311,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 253,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114813700813238603",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114813700813238603",
+      "parent_post_id": null,
+      "thread_root_id": "2114813700813238603",
+      "author": {
+        "platform_id": null,
+        "display_name": "morcelli_s1904",
+        "username": "morcelli_s1904",
+        "profile_url": "https://x.com/morcelli_s1904"
+      },
+      "text": "Vai beber água de açude mais 4 anos seus Gado",
+      "created_at": "2026-10-26T20:17:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:26:37-03:00",
+      "permalink": "https://nitter.meowing.monster/morcelli_s1904/status/2114813700813238603#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114813700813238603",
+        "text": "Vai beber água de açude mais 4 anos seus Gado",
+        "author_username": "morcelli_s1904",
+        "author_name": "morcelli_s1904",
+        "created_at": "2026-10-26T20:17:00+00:00",
+        "permalink": "https://nitter.meowing.monster/morcelli_s1904/status/2114813700813238603#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 45,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114813080962040174",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114813080962040174",
+      "parent_post_id": null,
+      "thread_root_id": "2114813080962040174",
+      "author": {
+        "platform_id": null,
+        "display_name": "FabioPorao99",
+        "username": "FabioPorao99",
+        "profile_url": "https://x.com/FabioPorao99"
+      },
+      "text": "Ninguém vai entender nada quando descobrirem que o PL não tem nada de direita e os senadores vão abrir as pernas para o centrão, reelegem o Alcolumbre, não cai ninguem do STF e o painho indica mais 4 cadeiras",
+      "created_at": "2026-10-26T20:15:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:26:37-03:00",
+      "permalink": "https://nitter.meowing.monster/FabioPorao99/status/2114813080962040174#m",
+      "metrics": {
+        "like_count": 149,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 4
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "direita",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114813080962040174",
+        "text": "Ninguém vai entender nada quando descobrirem que o PL não tem nada de direita e os senadores vão abrir as pernas para o centrão, reelegem o Alcolumbre, não cai ninguem do STF e o painho indica mais 4 cadeiras",
+        "author_username": "FabioPorao99",
+        "author_name": "FabioPorao99",
+        "created_at": "2026-10-26T20:15:00+00:00",
+        "permalink": "https://nitter.meowing.monster/FabioPorao99/status/2114813080962040174#m",
+        "metrics": {
+          "like_count": 149,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 4
+        }
+      },
+      "normalized": {
+        "text_length": 208,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114793979460088085",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114793979460088085",
+      "parent_post_id": null,
+      "thread_root_id": "2114793979460088085",
+      "author": {
+        "platform_id": null,
+        "display_name": "AdrianaR15084",
+        "username": "AdrianaR15084",
+        "profile_url": "https://x.com/AdrianaR15084"
+      },
+      "text": "Sabe aquele tio que é aposentado e vende balinhas na banquinha,é de esquerda e está todo feliz?\nNão dou mais nem um bom dia!\nSomos vingativos !?\nNão ! \nSe nossos votos não valem ,nosso dinheiro também não !É em tudo,farei isso durante esses 4 anos sem nenhum remoço,cansei",
+      "created_at": "2026-10-26T18:59:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:26:37-03:00",
+      "permalink": "https://nitter.meowing.monster/AdrianaR15084/status/2114793979460088085#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 5,
+        "retweet_count": 10,
+        "quote_count": 84
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114793979460088085",
+        "text": "Sabe aquele tio que é aposentado e vende balinhas na banquinha,é de esquerda e está todo feliz?\nNão dou mais nem um bom dia!\nSomos vingativos !?\nNão ! \nSe nossos votos não valem ,nosso dinheiro também não !É em tudo,farei isso durante esses 4 anos sem nenhum remoço,cansei",
+        "author_username": "AdrianaR15084",
+        "author_name": "AdrianaR15084",
+        "created_at": "2026-10-26T18:59:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AdrianaR15084/status/2114793979460088085#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 5,
+          "retweet_count": 10,
+          "quote_count": 84
+        }
+      },
+      "normalized": {
+        "text_length": 272,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114784717161562512",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114784717161562512",
+      "parent_post_id": null,
+      "thread_root_id": "2114784717161562512",
+      "author": {
+        "platform_id": null,
+        "display_name": "jean_braga",
+        "username": "jean_braga",
+        "profile_url": "https://x.com/jean_braga"
+      },
+      "text": "Perguntaram porque tô aqui com olho todo marejado 🥹 é porque tô vendo relatos e isso me deixa emotivo e feliz, saber que ainda podemos viver mais 4 anos de uma forma que podemos demonstrar amor por aí sem ser repreendido ou morto, é uma batalha diária de sobrevivência sabe",
+      "created_at": "2026-10-26T18:22:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:26:37-03:00",
+      "permalink": "https://nitter.meowing.monster/jean_braga/status/2114784717161562512#m",
+      "metrics": {
+        "like_count": 647,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 19
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114784717161562512",
+        "text": "Perguntaram porque tô aqui com olho todo marejado 🥹 é porque tô vendo relatos e isso me deixa emotivo e feliz, saber que ainda podemos viver mais 4 anos de uma forma que podemos demonstrar amor por aí sem ser repreendido ou morto, é uma batalha diária de sobrevivência sabe",
+        "author_username": "jean_braga",
+        "author_name": "jean_braga",
+        "created_at": "2026-10-26T18:22:00+00:00",
+        "permalink": "https://nitter.meowing.monster/jean_braga/status/2114784717161562512#m",
+        "metrics": {
+          "like_count": 647,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 19
+        }
+      },
+      "normalized": {
+        "text_length": 273,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114918965260484618",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114918965260484618",
+      "parent_post_id": null,
+      "thread_root_id": "2114918965260484618",
+      "author": {
+        "platform_id": null,
+        "display_name": "surtasa_dev",
+        "username": "surtasa_dev",
+        "profile_url": "https://x.com/surtasa_dev"
+      },
+      "text": "Por mais 4 ano terei um governo/estado que nunca me representou... Vou me juntar com a galera ancap.",
+      "created_at": "2026-10-27T03:15:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:26:37-03:00",
+      "permalink": "https://nitter.mie.foundation/surtasa_dev/status/2114918965260484618#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114918965260484618",
+        "text": "Por mais 4 ano terei um governo/estado que nunca me representou... Vou me juntar com a galera ancap.",
+        "author_username": "surtasa_dev",
+        "author_name": "surtasa_dev",
+        "created_at": "2026-10-27T03:15:00+00:00",
+        "permalink": "https://nitter.mie.foundation/surtasa_dev/status/2114918965260484618#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 100,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
