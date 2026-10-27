@@ -1,0 +1,288 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Zanin",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+    "collected_at": "2026-10-27T12:58:26-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 4,
+      "comments": 0,
+      "records_total": 4,
+      "skipped_duplicate": 154
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115106372324880803",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115106372324880803",
+      "parent_post_id": null,
+      "thread_root_id": "2115106372324880803",
+      "author": {
+        "platform_id": null,
+        "display_name": "LeninhaLopes77",
+        "username": "LeninhaLopes77",
+        "profile_url": "https://x.com/LeninhaLopes77"
+      },
+      "text": "Sempre o apoiarei , independente do golpe do ZANIN EX -ADVOGADO DO LULA 🚩",
+      "created_at": "2026-10-27T15:40:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:58:26-03:00",
+      "permalink": "https://nitter.meowing.monster/LeninhaLopes77/status/2115106372324880803#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Zanin",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 21,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115106372324880803",
+        "text": "Sempre o apoiarei , independente do golpe do ZANIN EX -ADVOGADO DO LULA 🚩",
+        "author_username": "LeninhaLopes77",
+        "author_name": "LeninhaLopes77",
+        "created_at": "2026-10-27T15:40:00+00:00",
+        "permalink": "https://nitter.meowing.monster/LeninhaLopes77/status/2115106372324880803#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 73,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115104035778834708",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115104035778834708",
+      "parent_post_id": null,
+      "thread_root_id": "2115104035778834708",
+      "author": {
+        "platform_id": null,
+        "display_name": "PrincipeBandei1",
+        "username": "PrincipeBandei1",
+        "profile_url": "https://x.com/PrincipeBandei1"
+      },
+      "text": "Esse cara é um dos mais canalhas da Mídia.\n\nOnde esse puto estava qd o Zanin, interferiu nas eleições ?\n\nQd um Ministro do TSE , aplicou censura prévia aí @nikolas_dm @pablomarcal \n\nDesgracado",
+      "created_at": "2026-10-27T15:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:58:26-03:00",
+      "permalink": "https://nitter.meowing.monster/PrincipeBandei1/status/2115104035778834708#m",
+      "metrics": {
+        "like_count": 51,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Zanin",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 21,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115104035778834708",
+        "text": "Esse cara é um dos mais canalhas da Mídia.\n\nOnde esse puto estava qd o Zanin, interferiu nas eleições ?\n\nQd um Ministro do TSE , aplicou censura prévia aí @nikolas_dm @pablomarcal \n\nDesgracado",
+        "author_username": "PrincipeBandei1",
+        "author_name": "PrincipeBandei1",
+        "created_at": "2026-10-27T15:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/PrincipeBandei1/status/2115104035778834708#m",
+        "metrics": {
+          "like_count": 51,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 192,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115101449671623034",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115101449671623034",
+      "parent_post_id": null,
+      "thread_root_id": "2115101449671623034",
+      "author": {
+        "platform_id": null,
+        "display_name": "Wanda22035823",
+        "username": "Wanda22035823",
+        "profile_url": "https://x.com/Wanda22035823"
+      },
+      "text": "O problema é  que só  ficamos falando é provando a verdade, mas é as denúncias que os juristas verdadeiros deveram fazer em massa?  Encostar o Zanin eo Kássio Nunes na parede, denunciar para o mundo todo saber em alto e bom som.\n🇧🇷🙏🏻🇧🇷🇺🇸🇮🇱🇦🇷",
+      "created_at": "2026-10-27T15:20:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:58:26-03:00",
+      "permalink": "https://nitter.meowing.monster/Wanda22035823/status/2115101449671623034#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Zanin",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 21,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115101449671623034",
+        "text": "O problema é  que só  ficamos falando é provando a verdade, mas é as denúncias que os juristas verdadeiros deveram fazer em massa?  Encostar o Zanin eo Kássio Nunes na parede, denunciar para o mundo todo saber em alto e bom som.\n🇧🇷🙏🏻🇧🇷🇺🇸🇮🇱🇦🇷",
+        "author_username": "Wanda22035823",
+        "author_name": "Wanda22035823",
+        "created_at": "2026-10-27T15:20:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Wanda22035823/status/2115101449671623034#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 241,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115075351898362226",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115075351898362226",
+      "parent_post_id": null,
+      "thread_root_id": "2115075351898362226",
+      "author": {
+        "platform_id": null,
+        "display_name": "RKarkara0902",
+        "username": "RKarkara0902",
+        "profile_url": "https://x.com/RKarkara0902"
+      },
+      "text": "Depois que Flávio Dino atestou para o Brasil e para o mundo \"é o momento mais corrupto da história do poder judiciário\" nada mais é novidade. Nesse quadro imoral, a decisão de Zanin está plenamente justificada.",
+      "created_at": "2026-10-27T13:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:58:26-03:00",
+      "permalink": "https://nitter.meowing.monster/RKarkara0902/status/2115075351898362226#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Zanin",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 21,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115075351898362226",
+        "text": "Depois que Flávio Dino atestou para o Brasil e para o mundo \"é o momento mais corrupto da história do poder judiciário\" nada mais é novidade. Nesse quadro imoral, a decisão de Zanin está plenamente justificada.",
+        "author_username": "RKarkara0902",
+        "author_name": "RKarkara0902",
+        "created_at": "2026-10-27T13:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RKarkara0902/status/2115075351898362226#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 210,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

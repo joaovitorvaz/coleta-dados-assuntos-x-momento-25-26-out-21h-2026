@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "VIVA A DEMOCRACIA",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+    "collected_at": "2026-10-27T13:02:56-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 101
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115096259044217006",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115096259044217006",
+      "parent_post_id": null,
+      "thread_root_id": "2115096259044217006",
+      "author": {
+        "platform_id": null,
+        "display_name": "bbbardot",
+        "username": "bbbardot",
+        "profile_url": "https://x.com/bbbardot"
+      },
+      "text": "instagram.com/p/De-ikZ9I0YS/…\nViva os povos originários e sua força e resistência 🏹✊🏽\nViva a democracia",
+      "created_at": "2026-10-27T15:00:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:02:56-03:00",
+      "permalink": "https://nitter.meowing.monster/bbbardot/status/2115096259044217006#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 9,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115096259044217006",
+        "text": "instagram.com/p/De-ikZ9I0YS/…\nViva os povos originários e sua força e resistência 🏹✊🏽\nViva a democracia",
+        "author_username": "bbbardot",
+        "author_name": "bbbardot",
+        "created_at": "2026-10-27T15:00:00+00:00",
+        "permalink": "https://nitter.meowing.monster/bbbardot/status/2115096259044217006#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 103,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115079778352898307",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115079778352898307",
+      "parent_post_id": null,
+      "thread_root_id": "2115079778352898307",
+      "author": {
+        "platform_id": null,
+        "display_name": "Wendelzito",
+        "username": "Wendelzito",
+        "profile_url": "https://x.com/Wendelzito"
+      },
+      "text": "Maneiro, logo no outro dia pelo Alexandre Frota que apoia o Lula, casualmente caiu no colo do Moraes. Viva a democracia que eles dizem 🤣",
+      "created_at": "2026-10-27T13:54:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:02:56-03:00",
+      "permalink": "https://nitter.meowing.monster/Wendelzito/status/2115079778352898307#m",
+      "metrics": {
+        "like_count": 47,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 5
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 9,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115079778352898307",
+        "text": "Maneiro, logo no outro dia pelo Alexandre Frota que apoia o Lula, casualmente caiu no colo do Moraes. Viva a democracia que eles dizem 🤣",
+        "author_username": "Wendelzito",
+        "author_name": "Wendelzito",
+        "created_at": "2026-10-27T13:54:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Wendelzito/status/2115079778352898307#m",
+        "metrics": {
+          "like_count": 47,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 5
+        }
+      },
+      "normalized": {
+        "text_length": 136,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
