@@ -1,0 +1,485 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Bahia",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+    "collected_at": "2026-10-27T14:07:33-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 7,
+      "comments": 0,
+      "records_total": 7,
+      "skipped_duplicate": 113
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115125575681802552",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115125575681802552",
+      "parent_post_id": null,
+      "thread_root_id": "2115125575681802552",
+      "author": {
+        "platform_id": null,
+        "display_name": "pythonegra",
+        "username": "pythonegra",
+        "profile_url": "https://x.com/pythonegra"
+      },
+      "text": "E na bahia ter a maior margem de votos. Quase 4 milhões de diferença, mas nao serve kkkkkkkkkkkkkkk",
+      "created_at": "2026-10-27T16:56:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T14:07:33-03:00",
+      "permalink": "https://nitter.meowing.monster/pythonegra/status/2115125575681802552#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 20,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115125575681802552",
+        "text": "E na bahia ter a maior margem de votos. Quase 4 milhões de diferença, mas nao serve kkkkkkkkkkkkkkk",
+        "author_username": "pythonegra",
+        "author_name": "pythonegra",
+        "created_at": "2026-10-27T16:56:00+00:00",
+        "permalink": "https://nitter.meowing.monster/pythonegra/status/2115125575681802552#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 99,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115122672049033424",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115122672049033424",
+      "parent_post_id": null,
+      "thread_root_id": "2115122672049033424",
+      "author": {
+        "platform_id": null,
+        "display_name": "nandocruz",
+        "username": "nandocruz",
+        "profile_url": "https://x.com/nandocruz"
+      },
+      "text": "PESSOAL URGENTE na estrada das barreiras e na engoma ainda se encontra barbearia a 20/25 wokecoins! vamos ficando na régua e utilizando o cheque especial pra isso! e a Bahia segue ENTREGANDO",
+      "created_at": "2026-10-27T16:45:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T14:07:33-03:00",
+      "permalink": "https://nitter.meowing.monster/nandocruz/status/2115122672049033424#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 20,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115122672049033424",
+        "text": "PESSOAL URGENTE na estrada das barreiras e na engoma ainda se encontra barbearia a 20/25 wokecoins! vamos ficando na régua e utilizando o cheque especial pra isso! e a Bahia segue ENTREGANDO",
+        "author_username": "nandocruz",
+        "author_name": "nandocruz",
+        "created_at": "2026-10-27T16:45:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nandocruz/status/2115122672049033424#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 190,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115117103346745478",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115117103346745478",
+      "parent_post_id": null,
+      "thread_root_id": "2115117103346745478",
+      "author": {
+        "platform_id": null,
+        "display_name": "flagreinabahia",
+        "username": "flagreinabahia",
+        "profile_url": "https://x.com/flagreinabahia"
+      },
+      "text": "Verdade",
+      "created_at": "2026-10-27T16:23:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T14:07:33-03:00",
+      "permalink": "https://nitter.meowing.monster/flagreinabahia/status/2115117103346745478#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 20,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115117103346745478",
+        "text": "Verdade",
+        "author_username": "flagreinabahia",
+        "author_name": "flagreinabahia",
+        "created_at": "2026-10-27T16:23:00+00:00",
+        "permalink": "https://nitter.meowing.monster/flagreinabahia/status/2115117103346745478#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 7,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115113639094960516",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115113639094960516",
+      "parent_post_id": null,
+      "thread_root_id": "2115113639094960516",
+      "author": {
+        "platform_id": null,
+        "display_name": "Fabiportodas",
+        "username": "Fabiportodas",
+        "profile_url": "https://x.com/Fabiportodas"
+      },
+      "text": "Comemorem Bahia ,uma xenofobia a menos .",
+      "created_at": "2026-10-27T16:09:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T14:07:33-03:00",
+      "permalink": "https://nitter.meowing.monster/Fabiportodas/status/2115113639094960516#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 20,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115113639094960516",
+        "text": "Comemorem Bahia ,uma xenofobia a menos .",
+        "author_username": "Fabiportodas",
+        "author_name": "Fabiportodas",
+        "created_at": "2026-10-27T16:09:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fabiportodas/status/2115113639094960516#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 40,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115110716743020570",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115110716743020570",
+      "parent_post_id": null,
+      "thread_root_id": "2115110716743020570",
+      "author": {
+        "platform_id": null,
+        "display_name": "RKarkara0902",
+        "username": "RKarkara0902",
+        "profile_url": "https://x.com/RKarkara0902"
+      },
+      "text": "O jogo do Bahia é irrelevante. Nosso SPFC tem a obrigação moral de vencer o Corinthians. Jogar como se fosse uma decisão da libertadores.",
+      "created_at": "2026-10-27T15:57:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T14:07:33-03:00",
+      "permalink": "https://nitter.meowing.monster/RKarkara0902/status/2115110716743020570#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 20,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115110716743020570",
+        "text": "O jogo do Bahia é irrelevante. Nosso SPFC tem a obrigação moral de vencer o Corinthians. Jogar como se fosse uma decisão da libertadores.",
+        "author_username": "RKarkara0902",
+        "author_name": "RKarkara0902",
+        "created_at": "2026-10-27T15:57:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RKarkara0902/status/2115110716743020570#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 137,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115097542274805927",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115097542274805927",
+      "parent_post_id": null,
+      "thread_root_id": "2115097542274805927",
+      "author": {
+        "platform_id": null,
+        "display_name": "MillenaSantiago",
+        "username": "MillenaSantiago",
+        "profile_url": "https://x.com/MillenaSantiago"
+      },
+      "text": "O secretário da SEMOB está ao vivo no Bahia Meio Dia NEGANDO a redução de ônibus em Salvador no dia eleição? É isso mesmo? Ele está negando a redução? \nÉ muita putaria com a cara da população, viu?",
+      "created_at": "2026-10-27T15:05:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T14:07:33-03:00",
+      "permalink": "https://nitter.meowing.monster/MillenaSantiago/status/2115097542274805927#m",
+      "metrics": {
+        "like_count": 248,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 11
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 20,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115097542274805927",
+        "text": "O secretário da SEMOB está ao vivo no Bahia Meio Dia NEGANDO a redução de ônibus em Salvador no dia eleição? É isso mesmo? Ele está negando a redução? \nÉ muita putaria com a cara da população, viu?",
+        "author_username": "MillenaSantiago",
+        "author_name": "MillenaSantiago",
+        "created_at": "2026-10-27T15:05:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MillenaSantiago/status/2115097542274805927#m",
+        "metrics": {
+          "like_count": 248,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 11
+        }
+      },
+      "normalized": {
+        "text_length": 197,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114838487014813748",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114838487014813748",
+      "parent_post_id": null,
+      "thread_root_id": "2114838487014813748",
+      "author": {
+        "platform_id": null,
+        "display_name": "Sandra08904140",
+        "username": "Sandra08904140",
+        "profile_url": "https://x.com/Sandra08904140"
+      },
+      "text": "Todos viram o que foi feito, mas parece que consola culpar o nordestino. Sinto muito por isso, @FlvioHolanda3. Meu pai é baiano, veio jovem para SP, trabalhou, aposentou, voltou para Bahia e NUNCA votou no LULA. Mandou msg ontem indignado com falcatrua descarada.",
+      "created_at": "2026-10-26T21:56:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T14:07:33-03:00",
+      "permalink": "https://nitter.meowing.monster/Sandra08904140/status/2114838487014813748#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 20,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114838487014813748",
+        "text": "Todos viram o que foi feito, mas parece que consola culpar o nordestino. Sinto muito por isso, @FlvioHolanda3. Meu pai é baiano, veio jovem para SP, trabalhou, aposentou, voltou para Bahia e NUNCA votou no LULA. Mandou msg ontem indignado com falcatrua descarada.",
+        "author_username": "Sandra08904140",
+        "author_name": "Sandra08904140",
+        "created_at": "2026-10-26T21:56:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Sandra08904140/status/2114838487014813748#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 263,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
