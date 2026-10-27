@@ -1,0 +1,880 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Rio de Janeiro",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+    "collected_at": "2026-10-27T18:59:38-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 13,
+      "comments": 0,
+      "records_total": 13,
+      "skipped_duplicate": 76
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115186885521989702",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115186885521989702",
+      "parent_post_id": null,
+      "thread_root_id": "2115186885521989702",
+      "author": {
+        "platform_id": null,
+        "display_name": "alepublicidades",
+        "username": "alepublicidades",
+        "profile_url": "https://x.com/alepublicidades"
+      },
+      "text": "Vocês esqueceu que Tarcísio  é daqui do rio de janeiro e pertence o escritório do crime a melícia mais famosa do rj,e são Paulo abraçou ele,e agora o derrite ia ser o chefe da milícia em são paulo",
+      "created_at": "2026-10-27T21:00:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "permalink": "https://nitter.mie.foundation/alepublicidades/status/2115186885521989702#m",
+      "metrics": {
+        "like_count": 209,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 12,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115186885521989702",
+        "text": "Vocês esqueceu que Tarcísio  é daqui do rio de janeiro e pertence o escritório do crime a melícia mais famosa do rj,e são Paulo abraçou ele,e agora o derrite ia ser o chefe da milícia em são paulo",
+        "author_username": "alepublicidades",
+        "author_name": "alepublicidades",
+        "created_at": "2026-10-27T21:00:00+00:00",
+        "permalink": "https://nitter.mie.foundation/alepublicidades/status/2115186885521989702#m",
+        "metrics": {
+          "like_count": 209,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 196,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115184974748160277",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115184974748160277",
+      "parent_post_id": null,
+      "thread_root_id": "2115184974748160277",
+      "author": {
+        "platform_id": null,
+        "display_name": "AliciaFofuras",
+        "username": "AliciaFofuras",
+        "profile_url": "https://x.com/AliciaFofuras"
+      },
+      "text": "ESSE SR. SOLTOU LULA ESSE SR. PROIBIU POLICIA SUBIR NOS MORROS DO RIO JANEIRO ESTE SR. TIROU DAS MÃOS DE MENDONÇA RELATORIA CASOS MASTER E LULINHA ESSE SR. DEIXOU ZANIN INTERFERIR NAS ELEIÇÕES NÃO FALOU NADA O POVO PERCEBEU ISSO?",
+      "created_at": "2026-10-27T20:52:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "permalink": "https://nitter.mie.foundation/AliciaFofuras/status/2115184974748160277#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 12,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115184974748160277",
+        "text": "ESSE SR. SOLTOU LULA ESSE SR. PROIBIU POLICIA SUBIR NOS MORROS DO RIO JANEIRO ESTE SR. TIROU DAS MÃOS DE MENDONÇA RELATORIA CASOS MASTER E LULINHA ESSE SR. DEIXOU ZANIN INTERFERIR NAS ELEIÇÕES NÃO FALOU NADA O POVO PERCEBEU ISSO?",
+        "author_username": "AliciaFofuras",
+        "author_name": "AliciaFofuras",
+        "created_at": "2026-10-27T20:52:00+00:00",
+        "permalink": "https://nitter.mie.foundation/AliciaFofuras/status/2115184974748160277#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 229,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115182829071970491",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115182829071970491",
+      "parent_post_id": null,
+      "thread_root_id": "2115182829071970491",
+      "author": {
+        "platform_id": null,
+        "display_name": "juan_meeeis",
+        "username": "juan_meeeis",
+        "profile_url": "https://x.com/juan_meeeis"
+      },
+      "text": "Rio de janeiro e espírito santo é muito mais direita que o rio grande do sul e vcs ficam nessa",
+      "created_at": "2026-10-27T20:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "permalink": "https://nitter.mie.foundation/juan_meeeis/status/2115182829071970491#m",
+      "metrics": {
+        "like_count": 41,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "direita"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 12,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115182829071970491",
+        "text": "Rio de janeiro e espírito santo é muito mais direita que o rio grande do sul e vcs ficam nessa",
+        "author_username": "juan_meeeis",
+        "author_name": "juan_meeeis",
+        "created_at": "2026-10-27T20:44:00+00:00",
+        "permalink": "https://nitter.mie.foundation/juan_meeeis/status/2115182829071970491#m",
+        "metrics": {
+          "like_count": 41,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 94,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115181184397500660",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115181184397500660",
+      "parent_post_id": null,
+      "thread_root_id": "2115181184397500660",
+      "author": {
+        "platform_id": null,
+        "display_name": "barrosorg",
+        "username": "barrosorg",
+        "profile_url": "https://x.com/barrosorg"
+      },
+      "text": "PESSOAL,URGENTE! SEGUNDO TURNO NO RIO DE JANEIRO JÁ!",
+      "created_at": "2026-10-27T20:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "permalink": "https://nitter.mie.foundation/barrosorg/status/2115181184397500660#m",
+      "metrics": {
+        "like_count": 30,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 12,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115181184397500660",
+        "text": "PESSOAL,URGENTE! SEGUNDO TURNO NO RIO DE JANEIRO JÁ!",
+        "author_username": "barrosorg",
+        "author_name": "barrosorg",
+        "created_at": "2026-10-27T20:37:00+00:00",
+        "permalink": "https://nitter.mie.foundation/barrosorg/status/2115181184397500660#m",
+        "metrics": {
+          "like_count": 30,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 52,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115176322116837879",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115176322116837879",
+      "parent_post_id": null,
+      "thread_root_id": "2115176322116837879",
+      "author": {
+        "platform_id": null,
+        "display_name": "EloNairo",
+        "username": "EloNairo",
+        "profile_url": "https://x.com/EloNairo"
+      },
+      "text": "Em muitos filmes dos anos 70/80 o ladrão ou ditador vinha se esconder aqui no Brasil rsrs\nTeve um caso famoso de um ladrão inglês Ronald Biggs, virou \"celebridade\" no Rio de Janeiro \nO filho virou cantor mirim de sucesso na época \n\nbbc.com/portuguese/noticias/…",
+      "created_at": "2026-10-27T20:18:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "permalink": "https://nitter.mie.foundation/EloNairo/status/2115176322116837879#m",
+      "metrics": {
+        "like_count": 377,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 12,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115176322116837879",
+        "text": "Em muitos filmes dos anos 70/80 o ladrão ou ditador vinha se esconder aqui no Brasil rsrs\nTeve um caso famoso de um ladrão inglês Ronald Biggs, virou \"celebridade\" no Rio de Janeiro \nO filho virou cantor mirim de sucesso na época \n\nbbc.com/portuguese/noticias/…",
+        "author_username": "EloNairo",
+        "author_name": "EloNairo",
+        "created_at": "2026-10-27T20:18:00+00:00",
+        "permalink": "https://nitter.mie.foundation/EloNairo/status/2115176322116837879#m",
+        "metrics": {
+          "like_count": 377,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 261,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115162051312341048",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115162051312341048",
+      "parent_post_id": null,
+      "thread_root_id": "2115162051312341048",
+      "author": {
+        "platform_id": null,
+        "display_name": "mahtukirenedra",
+        "username": "mahtukirenedra",
+        "profile_url": "https://x.com/mahtukirenedra"
+      },
+      "text": "Não perdemos não. Temos Jurerê, Ubatuba, Rio de Janeiro e seu carnaval, Bonito, etc... NÃO PRECISAMOS DE VOCÊS.",
+      "created_at": "2026-10-27T19:21:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "permalink": "https://nitter.mie.foundation/mahtukirenedra/status/2115162051312341048#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 12,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115162051312341048",
+        "text": "Não perdemos não. Temos Jurerê, Ubatuba, Rio de Janeiro e seu carnaval, Bonito, etc... NÃO PRECISAMOS DE VOCÊS.",
+        "author_username": "mahtukirenedra",
+        "author_name": "mahtukirenedra",
+        "created_at": "2026-10-27T19:21:00+00:00",
+        "permalink": "https://nitter.mie.foundation/mahtukirenedra/status/2115162051312341048#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 111,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115158898487570910",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115158898487570910",
+      "parent_post_id": null,
+      "thread_root_id": "2115158898487570910",
+      "author": {
+        "platform_id": null,
+        "display_name": "Anna_hope94",
+        "username": "Anna_hope94",
+        "profile_url": "https://x.com/Anna_hope94"
+      },
+      "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO! #SegundoTurnoNoRJ",
+      "created_at": "2026-10-27T19:09:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115158898487570910#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 12,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115158898487570910",
+        "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO! #SegundoTurnoNoRJ",
+        "author_username": "Anna_hope94",
+        "author_name": "Anna_hope94",
+        "created_at": "2026-10-27T19:09:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115158898487570910#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 72,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115158859174027664",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115158859174027664",
+      "parent_post_id": null,
+      "thread_root_id": "2115158859174027664",
+      "author": {
+        "platform_id": null,
+        "display_name": "Anna_hope94",
+        "username": "Anna_hope94",
+        "profile_url": "https://x.com/Anna_hope94"
+      },
+      "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO! #SegundoTurnoNoRJ",
+      "created_at": "2026-10-27T19:09:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115158859174027664#m",
+      "metrics": {
+        "like_count": 9,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 12,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115158859174027664",
+        "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO! #SegundoTurnoNoRJ",
+        "author_username": "Anna_hope94",
+        "author_name": "Anna_hope94",
+        "created_at": "2026-10-27T19:09:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115158859174027664#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 72,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115158431292432454",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115158431292432454",
+      "parent_post_id": null,
+      "thread_root_id": "2115158431292432454",
+      "author": {
+        "platform_id": null,
+        "display_name": "Anna_hope94",
+        "username": "Anna_hope94",
+        "profile_url": "https://x.com/Anna_hope94"
+      },
+      "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO! #SegundoTurnoNoRJ",
+      "created_at": "2026-10-27T19:07:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115158431292432454#m",
+      "metrics": {
+        "like_count": 17,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 12,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115158431292432454",
+        "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO! #SegundoTurnoNoRJ",
+        "author_username": "Anna_hope94",
+        "author_name": "Anna_hope94",
+        "created_at": "2026-10-27T19:07:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115158431292432454#m",
+        "metrics": {
+          "like_count": 17,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 72,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115158343451058309",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115158343451058309",
+      "parent_post_id": null,
+      "thread_root_id": "2115158343451058309",
+      "author": {
+        "platform_id": null,
+        "display_name": "Anna_hope94",
+        "username": "Anna_hope94",
+        "profile_url": "https://x.com/Anna_hope94"
+      },
+      "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO! #SegundoTurnoNoRJ",
+      "created_at": "2026-10-27T19:07:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115158343451058309#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 12,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115158343451058309",
+        "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO! #SegundoTurnoNoRJ",
+        "author_username": "Anna_hope94",
+        "author_name": "Anna_hope94",
+        "created_at": "2026-10-27T19:07:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115158343451058309#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 72,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115156457801019514",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115156457801019514",
+      "parent_post_id": null,
+      "thread_root_id": "2115156457801019514",
+      "author": {
+        "platform_id": null,
+        "display_name": "Anna_hope94",
+        "username": "Anna_hope94",
+        "profile_url": "https://x.com/Anna_hope94"
+      },
+      "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO!",
+      "created_at": "2026-10-27T18:59:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115156457801019514#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 12,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115156457801019514",
+        "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO!",
+        "author_username": "Anna_hope94",
+        "author_name": "Anna_hope94",
+        "created_at": "2026-10-27T18:59:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115156457801019514#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 54,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115156381200462237",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115156381200462237",
+      "parent_post_id": null,
+      "thread_root_id": "2115156381200462237",
+      "author": {
+        "platform_id": null,
+        "display_name": "Anna_hope94",
+        "username": "Anna_hope94",
+        "profile_url": "https://x.com/Anna_hope94"
+      },
+      "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO!",
+      "created_at": "2026-10-27T18:59:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115156381200462237#m",
+      "metrics": {
+        "like_count": 20,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 12,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115156381200462237",
+        "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO!",
+        "author_username": "Anna_hope94",
+        "author_name": "Anna_hope94",
+        "created_at": "2026-10-27T18:59:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115156381200462237#m",
+        "metrics": {
+          "like_count": 20,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 54,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115136756668600799",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115136756668600799",
+      "parent_post_id": null,
+      "thread_root_id": "2115136756668600799",
+      "author": {
+        "platform_id": null,
+        "display_name": "levi_mario84",
+        "username": "levi_mario84",
+        "profile_url": "https://x.com/levi_mario84"
+      },
+      "text": "O Rio de Janeiro quer segundo turno!\n\n#SegundoTurnoNoRJ",
+      "created_at": "2026-10-27T17:41:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "permalink": "https://nitter.mie.foundation/levi_mario84/status/2115136756668600799#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 12,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115136756668600799",
+        "text": "O Rio de Janeiro quer segundo turno!\n\n#SegundoTurnoNoRJ",
+        "author_username": "levi_mario84",
+        "author_name": "levi_mario84",
+        "created_at": "2026-10-27T17:41:00+00:00",
+        "permalink": "https://nitter.mie.foundation/levi_mario84/status/2115136756668600799#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 55,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

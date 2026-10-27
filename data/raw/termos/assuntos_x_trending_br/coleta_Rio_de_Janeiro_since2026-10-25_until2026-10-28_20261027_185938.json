@@ -1,0 +1,2900 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Rio de Janeiro",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+    "collected_at": "2026-10-27T18:59:38-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 13,
+      "comments": 0,
+      "records_total": 13,
+      "skipped_duplicate": 76
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2115186885521989702",
+            "text": "Vocês esqueceu que Tarcísio  é daqui do rio de janeiro e pertence o escritório do crime a melícia mais famosa do rj,e são Paulo abraçou ele,e agora o derrite ia ser o chefe da milícia em são paulo",
+            "author_username": "alepublicidades",
+            "author_name": "alepublicidades",
+            "created_at": "2026-10-27T21:00:00+00:00",
+            "permalink": "https://nitter.mie.foundation/alepublicidades/status/2115186885521989702#m",
+            "metrics": {
+              "like_count": 209,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2115184974748160277",
+            "text": "ESSE SR. SOLTOU LULA ESSE SR. PROIBIU POLICIA SUBIR NOS MORROS DO RIO JANEIRO ESTE SR. TIROU DAS MÃOS DE MENDONÇA RELATORIA CASOS MASTER E LULINHA ESSE SR. DEIXOU ZANIN INTERFERIR NAS ELEIÇÕES NÃO FALOU NADA O POVO PERCEBEU ISSO?",
+            "author_username": "AliciaFofuras",
+            "author_name": "AliciaFofuras",
+            "created_at": "2026-10-27T20:52:00+00:00",
+            "permalink": "https://nitter.mie.foundation/AliciaFofuras/status/2115184974748160277#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115182829071970491",
+            "text": "Rio de janeiro e espírito santo é muito mais direita que o rio grande do sul e vcs ficam nessa",
+            "author_username": "juan_meeeis",
+            "author_name": "juan_meeeis",
+            "created_at": "2026-10-27T20:44:00+00:00",
+            "permalink": "https://nitter.mie.foundation/juan_meeeis/status/2115182829071970491#m",
+            "metrics": {
+              "like_count": 41,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115181184397500660",
+            "text": "PESSOAL,URGENTE! SEGUNDO TURNO NO RIO DE JANEIRO JÁ!",
+            "author_username": "barrosorg",
+            "author_name": "barrosorg",
+            "created_at": "2026-10-27T20:37:00+00:00",
+            "permalink": "https://nitter.mie.foundation/barrosorg/status/2115181184397500660#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2115176322116837879",
+            "text": "Em muitos filmes dos anos 70/80 o ladrão ou ditador vinha se esconder aqui no Brasil rsrs\nTeve um caso famoso de um ladrão inglês Ronald Biggs, virou \"celebridade\" no Rio de Janeiro \nO filho virou cantor mirim de sucesso na época \n\nbbc.com/portuguese/noticias/…",
+            "author_username": "EloNairo",
+            "author_name": "EloNairo",
+            "created_at": "2026-10-27T20:18:00+00:00",
+            "permalink": "https://nitter.mie.foundation/EloNairo/status/2115176322116837879#m",
+            "metrics": {
+              "like_count": 377,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2115162051312341048",
+            "text": "Não perdemos não. Temos Jurerê, Ubatuba, Rio de Janeiro e seu carnaval, Bonito, etc... NÃO PRECISAMOS DE VOCÊS.",
+            "author_username": "mahtukirenedra",
+            "author_name": "mahtukirenedra",
+            "created_at": "2026-10-27T19:21:00+00:00",
+            "permalink": "https://nitter.mie.foundation/mahtukirenedra/status/2115162051312341048#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115158898487570910",
+            "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO! #SegundoTurnoNoRJ",
+            "author_username": "Anna_hope94",
+            "author_name": "Anna_hope94",
+            "created_at": "2026-10-27T19:09:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115158898487570910#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115158859174027664",
+            "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO! #SegundoTurnoNoRJ",
+            "author_username": "Anna_hope94",
+            "author_name": "Anna_hope94",
+            "created_at": "2026-10-27T19:09:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115158859174027664#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115158431292432454",
+            "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO! #SegundoTurnoNoRJ",
+            "author_username": "Anna_hope94",
+            "author_name": "Anna_hope94",
+            "created_at": "2026-10-27T19:07:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115158431292432454#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2115158343451058309",
+            "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO! #SegundoTurnoNoRJ",
+            "author_username": "Anna_hope94",
+            "author_name": "Anna_hope94",
+            "created_at": "2026-10-27T19:07:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115158343451058309#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2115156457801019514",
+            "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO!",
+            "author_username": "Anna_hope94",
+            "author_name": "Anna_hope94",
+            "created_at": "2026-10-27T18:59:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115156457801019514#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115156381200462237",
+            "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO!",
+            "author_username": "Anna_hope94",
+            "author_name": "Anna_hope94",
+            "created_at": "2026-10-27T18:59:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115156381200462237#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115136756668600799",
+            "text": "O Rio de Janeiro quer segundo turno!\n\n#SegundoTurnoNoRJ",
+            "author_username": "levi_mario84",
+            "author_name": "levi_mario84",
+            "created_at": "2026-10-27T17:41:00+00:00",
+            "permalink": "https://nitter.mie.foundation/levi_mario84/status/2115136756668600799#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115126072677109853",
+            "text": "Eu quero que o estado do Rio de Janeiro tmb tenha um plebiscito. \n\nNão aguentamos mais ser humilhados por Brasília.",
+            "author_username": "MarcoSouthern",
+            "author_name": "MarcoSouthern",
+            "created_at": "2026-10-27T16:58:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MarcoSouthern/status/2115126072677109853#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115120327017578637",
+            "text": "Rio de Janeiro é estratégico para um governo aliado da esquerda. Se acontecer, já sabemos o resultado, se não acontecer, também sabemos o resultado. Inventarão milhares de coisas para atrapalhar.",
+            "author_username": "jccunhaaraujo",
+            "author_name": "jccunhaaraujo",
+            "created_at": "2026-10-27T16:35:00+00:00",
+            "permalink": "https://nitter.mie.foundation/jccunhaaraujo/status/2115120327017578637#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115114706822148120",
+            "text": "Não dá pra jogar limpo com a Esquerda! Eduardo Paes querendo pegar o Rio de Janeiro na mão grande. Temos que reagir com Força 🫡🇧🇷",
+            "author_username": "jcmachadorj",
+            "author_name": "jcmachadorj",
+            "created_at": "2026-10-27T16:13:00+00:00",
+            "permalink": "https://nitter.mie.foundation/jcmachadorj/status/2115114706822148120#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115097891496718338",
+            "text": "O Rio de Janeiro é viciado em ser lascar mesmo",
+            "author_username": "renanvermelhou",
+            "author_name": "renanvermelhou",
+            "created_at": "2026-10-27T15:06:00+00:00",
+            "permalink": "https://nitter.mie.foundation/renanvermelhou/status/2115097891496718338#m",
+            "metrics": {
+              "like_count": 203,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2115097297390346587",
+            "text": "kkkkkkkkkkkkkkkkkk quando vai la ver os comentários se torna mais engraçado ainda o post, o paes sendo prefeito do Rio de Janeiro, tentou o governo do estado, quiseram o Ruas e ainda sim cobrando algo do paes kkkkkkkkkkkkkk passo mal",
+            "author_username": "_rodriguesju5",
+            "author_name": "_rodriguesju5",
+            "created_at": "2026-10-27T15:04:00+00:00",
+            "permalink": "https://nitter.mie.foundation/_rodriguesju5/status/2115097297390346587#m",
+            "metrics": {
+              "like_count": 40,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115074714066415667",
+            "text": "Alô Rio de Janeiro, seus maravilhosos. eu tô passada q não deu para rachadinha na casa dele. O poder também é d vocês. Eu nunca tantas vi pessoas com deficiência, gente cade as cadeiras d rodas, o respeito a acessibilidade p vocação? Pessoas vindo d braço#JaboatãoDosGuararapes.",
+            "author_username": "FamilyBuscapeLT",
+            "author_name": "FamilyBuscapeLT",
+            "created_at": "2026-10-27T13:34:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FamilyBuscapeLT/status/2115074714066415667#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115067260083536226",
+            "text": "Aconteceu o mesmo comigo hoje ao engajar a causa dos franceses.",
+            "author_username": "fajeremias",
+            "author_name": "fajeremias",
+            "created_at": "2026-10-27T13:05:00+00:00",
+            "permalink": "https://nitter.mie.foundation/fajeremias/status/2115067260083536226#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2115056258180870499",
+            "text": "E agora o Rio de Janeiro com essa maluquice de pedir segundo turno pra Governador. Vcs acham mesmo que eu quero ter que sair de casa de novo pra votar no @eduardopaes ??\n\nAcertaram, caralho. Vamos derrubar aquele orelha de abano lá, porra. BORA DUDU! 55 NA CABEÇA!",
+            "author_username": "marcustannerpit",
+            "author_name": "marcustannerpit",
+            "created_at": "2026-10-27T12:21:00+00:00",
+            "permalink": "https://nitter.mie.foundation/marcustannerpit/status/2115056258180870499#m",
+            "metrics": {
+              "like_count": 62,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2115044624632877139",
+            "text": "Paulista é elitista mesmo, eu sou um deles, tanto que fico no site do IBGE comparando cidades de São Paulo com as de Minas Gerais, Paraná e Rio de Janeiro, mas tenho a humildade de abraçar o Brasil inteiro por que somos uma só nação, mas você entende ser humano 😂😂😂😂😂",
+            "author_username": "CaLeBeS23",
+            "author_name": "CaLeBeS23",
+            "created_at": "2026-10-27T11:35:00+00:00",
+            "permalink": "https://nitter.mie.foundation/CaLeBeS23/status/2115044624632877139#m",
+            "metrics": {
+              "like_count": 53,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2115036314814796008",
+            "text": "#SegundoTurnoNoRJ \n@FederalStf\nQueremos segundo turno no Rio de Janeiro! Temos direito de votar!",
+            "author_username": "frabicarvalho",
+            "author_name": "frabicarvalho",
+            "created_at": "2026-10-27T11:02:00+00:00",
+            "permalink": "https://nitter.mie.foundation/frabicarvalho/status/2115036314814796008#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115029750196351172",
+            "text": "Arquitetura 🏛️ lembrou comunidades aqui no Rio de Janeiro",
+            "author_username": "PaixaoAoFutebol",
+            "author_name": "PaixaoAoFutebol",
+            "created_at": "2026-10-27T10:36:00+00:00",
+            "permalink": "https://nitter.mie.foundation/PaixaoAoFutebol/status/2115029750196351172#m",
+            "metrics": {
+              "like_count": 211,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114991214931918851",
+            "text": "Rio de Janeiro 🇧🇷",
+            "author_username": "PaixaoAoFutebol",
+            "author_name": "PaixaoAoFutebol",
+            "created_at": "2026-10-27T08:02:00+00:00",
+            "permalink": "https://nitter.mie.foundation/PaixaoAoFutebol/status/2114991214931918851#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114920681846477167",
+            "text": "Põe são Paulo e Rio de Janeiro aí. Deixa a gente aqui não pfv kkk",
+            "author_username": "TerraJoaoVictor",
+            "author_name": "TerraJoaoVictor",
+            "created_at": "2026-10-27T03:22:00+00:00",
+            "permalink": "https://nitter.mie.foundation/TerraJoaoVictor/status/2114920681846477167#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114910095079313710",
+            "text": "8 de janeiro ainda não acabou!\nSó acaba quando Todos os responsáveis, organizadores, financiadores, militares e políticos forem presos. Esses organizaram as manifestações em Rio Verde\nDenuncie, Sem Anistia\n@policiafederal @MPF_PGR @TSEjusbr @STF_oficial @CNJ_oficial",
+            "author_username": "DistopiaBrazil",
+            "author_name": "DistopiaBrazil",
+            "created_at": "2026-10-27T02:40:00+00:00",
+            "permalink": "https://nitter.mie.foundation/DistopiaBrazil/status/2114910095079313710#m",
+            "metrics": {
+              "like_count": 802,
+              "reply_count": 3,
+              "retweet_count": 34,
+              "quote_count": 62
+            }
+          },
+          {
+            "id": "2114905824036622604",
+            "text": "#exercitododudu55 \n\nSiga o canal \"EXÉRCITO DO DUDU 55 🚀\" no WhatsApp: whatsapp.com/channel/0029VbE…\n\nQUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO!!!",
+            "author_username": "limmacantor",
+            "author_name": "limmacantor",
+            "created_at": "2026-10-27T02:23:00+00:00",
+            "permalink": "https://nitter.mie.foundation/limmacantor/status/2114905824036622604#m",
+            "metrics": {
+              "like_count": 88,
+              "reply_count": 2,
+              "retweet_count": 1,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114889569417953630",
+            "text": "a milicia matou o irmão da samia tomando uma cerveja num quiosque no rio de janeiro amigão a parada pra ela é sobretudo pessoal.",
+            "author_username": "murillobobagens",
+            "author_name": "murillobobagens",
+            "created_at": "2026-10-27T01:19:00+00:00",
+            "permalink": "https://nitter.mie.foundation/murillobobagens/status/2114889569417953630#m",
+            "metrics": {
+              "like_count": 66,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114877433300021526",
+            "text": "Estamos fazendo uma mobilização para pressionar que aconteça o Segundo Turno no Rio de Janeiro. O caso está na mão do Zanin. Nossas chances são favoráveis.",
+            "author_username": "missmariabeatz",
+            "author_name": "missmariabeatz",
+            "created_at": "2026-10-27T00:30:00+00:00",
+            "permalink": "https://nitter.mie.foundation/missmariabeatz/status/2114877433300021526#m",
+            "metrics": {
+              "like_count": 33,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114877366732529803",
+            "text": "Não desista, Estado do Rio de Janeiro\nVamos fazer um 2027 diferente",
+            "author_username": "FabianaSaotome",
+            "author_name": "FabianaSaotome",
+            "created_at": "2026-10-27T00:30:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FabianaSaotome/status/2114877366732529803#m",
+            "metrics": {
+              "like_count": 383,
+              "reply_count": 1,
+              "retweet_count": 1,
+              "quote_count": 36
+            }
+          },
+          {
+            "id": "2114866278968013028",
+            "text": "#exercitododudu55 \nQueremos ser respeitados no Rio de Janeiro! Exijo do @STF_oficial e do @TSEjusbr que garantam o direito de voto de segundo turno no meu estado. Douglas Ruas não venceu. Garotinho foi um candidato de atrapalho que a corte não teve labor correto. Resolvam isso já",
+            "author_username": "limmacantor",
+            "author_name": "limmacantor",
+            "created_at": "2026-10-26T23:46:00+00:00",
+            "permalink": "https://nitter.mie.foundation/limmacantor/status/2114866278968013028#m",
+            "metrics": {
+              "like_count": 39,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114865300470460687",
+            "text": "que lindo estou com vocês aqui do rio de janeiro",
+            "author_username": "luvasconcelox",
+            "author_name": "luvasconcelox",
+            "created_at": "2026-10-26T23:42:00+00:00",
+            "permalink": "https://nitter.mie.foundation/luvasconcelox/status/2114865300470460687#m",
+            "metrics": {
+              "like_count": 37,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114862745615319325",
+            "text": "Gostaria que tivesse esse plebiscito aqui no Rio de Janeiro também. O fluminense e o carioca são humilhados diariamente por Brasília, que leva os nossos impostos e não retorna nada. Não há grana para a segurança pública, não tem grana para infraestrutura. Nós tmb temos o direito.",
+            "author_username": "MarcoSouthern",
+            "author_name": "MarcoSouthern",
+            "created_at": "2026-10-26T23:32:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MarcoSouthern/status/2114862745615319325#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114862075163840616",
+            "text": "Gostaria que tivesse esse plebiscito aqui no Rio de Janeiro também. O fluminense e o carioca são humilhados diariamente por Brasília, que leva os nossos impostos e não retorna nada. Não há grana para a segurança pública, não tem grana para infraestrutura. Nós temos o direito tmb.",
+            "author_username": "MarcoSouthern",
+            "author_name": "MarcoSouthern",
+            "created_at": "2026-10-26T23:29:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MarcoSouthern/status/2114862075163840616#m",
+            "metrics": {
+              "like_count": 161,
+              "reply_count": 4,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114856960218767407",
+            "text": "Seria sonho um plebiscito para que o Rio de Janeiro seja um estado autônomo, independente, seguindo sua vida sem se ajoelhar para Brasília. \n\nChega de sermos EXPLORADOS economicamente, tributariamente e politicamente.\n\nPlantando aqui uma sementinha para os locais pensem nisso.",
+            "author_username": "MarcoSouthern",
+            "author_name": "MarcoSouthern",
+            "created_at": "2026-10-26T23:09:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MarcoSouthern/status/2114856960218767407#m",
+            "metrics": {
+              "like_count": 136,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114855543718228153",
+            "text": "Nota oficial do Vasco:\n\n\"O Vasco da Gama informa que, após reunião realizada nesta segunda-feira (26), na Federação de Futebol do Estado do Rio de Janeiro (FERJ), decidiu atender à solicitação da Confederação Brasileira de Futebol (CBF) e da FERJ para estabelecer a divisão igualitária de ingressos entre as torcidas de Vasco e Flamengo, na partida do próximo dia 29 de outubro, no Estádio Nilton Santos.\n\nEmbora, na condição de mandante, tivesse definido inicialmente a distribuição de 90% dos ingressos para sua torcida e 10% para a torcida visitante, o Vasco optou por rever essa decisão em favor de uma solução construída pelo diálogo e pelo respeito às instituições que organizam o futebol brasileiro.\n\nA decisão reflete uma convicção da atual gestão: defender os interesses do Vasco não significa deixar de reconhecer a importância do diálogo, do equilíbrio institucional e da responsabilidade coletiva com o futebol.\n\nO Vasco tem plena consciência de sua grandeza, de seus direitos e da força de sua torcida. E é justamente por isso que entende que a firmeza na defesa desses direitos pode e deve caminhar ao lado da capacidade de construir soluções que contribuam para o fortalecimento das competições e do futebol brasileiro.\n\nEm razão da nova distribuição de 50% dos ingressos para cada torcida, o clube realizará os ajustes necessários nos setores do estádio e divulgará, em breve, as novas informações sobre comercialização e preços.\n\nOs torcedores que já adquiriram ingressos para setores que serão readequados receberão as devidas orientações. Aqueles que tenham pago valores superiores aos previstos na nova tabela receberão o reembolso da diferença.\n\nO Vasco reafirma seu compromisso com seus sócios e torcedores, que merecem respeito, transparência e atenção em todas as decisões.\n\nO Vasco seguirá defendendo seus direitos com firmeza, dialogando com as instituições e contribuindo para um futebol mais forte, equilibrado e respeitoso.\"",
+            "author_username": "RB_Atiliense",
+            "author_name": "RB_Atiliense",
+            "created_at": "2026-10-26T23:03:00+00:00",
+            "permalink": "https://nitter.mie.foundation/RB_Atiliense/status/2114855543718228153#m",
+            "metrics": {
+              "like_count": 52,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114854005125910805",
+            "text": "Espero que o estado do Rio de Janeiro faça um plebiscito parecido, não podemos ser escravos de Brasília.",
+            "author_username": "MarcoSouthern",
+            "author_name": "MarcoSouthern",
+            "created_at": "2026-10-26T22:57:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MarcoSouthern/status/2114854005125910805#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114853704885235932",
+            "text": "Gostaria que o estado do Rio de Janeiro fosse autônomo também, longe das garras de Brasília!!",
+            "author_username": "MarcoSouthern",
+            "author_name": "MarcoSouthern",
+            "created_at": "2026-10-26T22:56:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MarcoSouthern/status/2114853704885235932#m",
+            "metrics": {
+              "like_count": 169,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114853053908037637",
+            "text": "Que o nosso Rio de Janeiro faça o mesmo!! Chega de ser capacho de Brasília!!",
+            "author_username": "MarcoSouthern",
+            "author_name": "MarcoSouthern",
+            "created_at": "2026-10-26T22:53:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MarcoSouthern/status/2114853053908037637#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114851993420468350",
+            "text": "as pessoas esquecem ou simplesmente não sabem q o ruo grande do sul é o estado do Brasil com a maior quantidade de terrenos no BRASIL, sim, mais q na bahia e rio de janeiro",
+            "author_username": "Dieguin21_",
+            "author_name": "Dieguin21_",
+            "created_at": "2026-10-26T22:49:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Dieguin21_/status/2114851993420468350#m",
+            "metrics": {
+              "like_count": 25,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114840484858548225",
+            "text": "Falando sério e friamente aqui:\nA prisão do Canella e o congelamento do dinheiro sujo que corria deu o aumento de votos pro Lula pois,  simplesmente,  NÃO TEVE BOCA DE URNA NO RIO DE JANEIRO.  Nem rj, nem meriti,  nem SG não teve dinheiro pra comprar votos, seções vazias, lindo!",
+            "author_username": "Samuca745",
+            "author_name": "Samuca745",
+            "created_at": "2026-10-26T22:03:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Samuca745/status/2114840484858548225#m",
+            "metrics": {
+              "like_count": 98,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114837388203642990",
+            "text": "Eu já estou lá desde de manhã. O Rio de Janeiro me fez acreditar que é possível.",
+            "author_username": "evandroinocenci",
+            "author_name": "evandroinocenci",
+            "created_at": "2026-10-26T21:51:00+00:00",
+            "permalink": "https://nitter.mie.foundation/evandroinocenci/status/2114837388203642990#m",
+            "metrics": {
+              "like_count": 59,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114837386311938485",
+            "text": "Você(s) votaram no cara que possui relações com os milicianos do Rio de Janeiro, incluindo os responsáveis pela morte de Marielle Franco.\n\nVocê(s) votaram em quem tinha como política a mesma que foi responsável pela metade das mortes que houve no Brasil na pandemia da COVID 19",
+            "author_username": "MateusC08996451",
+            "author_name": "MateusC08996451",
+            "created_at": "2026-10-26T21:51:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MateusC08996451/status/2114837386311938485#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114836964327182834",
+            "text": "Meu país, Niterói, minha cidade natal, Rio de Janeiro, minha zona eleitoral e minha seção elegeram ele: LUIS INÁCIO LULA DA SILVA",
+            "author_username": "ricardoferrarez",
+            "author_name": "ricardoferrarez",
+            "created_at": "2026-10-26T21:49:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ricardoferrarez/status/2114836964327182834#m",
+            "metrics": {
+              "like_count": 180,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 7
+            }
+          },
+          {
+            "id": "2114829075843870892",
+            "text": "Agora, vamos lutar pelo 2⁰ turno no Rio de Janeiro. #exercitododudu55",
+            "author_username": "marquitocar",
+            "author_name": "marquitocar",
+            "created_at": "2026-10-26T21:18:00+00:00",
+            "permalink": "https://nitter.mie.foundation/marquitocar/status/2114829075843870892#m",
+            "metrics": {
+              "like_count": 35,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114822740360196301",
+            "text": "Rio de Janeiro",
+            "author_username": "fairysherazade",
+            "author_name": "fairysherazade",
+            "created_at": "2026-10-26T20:53:00+00:00",
+            "permalink": "https://nitter.mie.foundation/fairysherazade/status/2114822740360196301#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114820616658317326",
+            "text": "Arrisco que pra além do centrismo, tem o fator de que o Bolsonarismo é A CARA do Rio de Janeiro\n\nO paulistano médio coxinha psdbista tem horror e",
+            "author_username": "bubblegui",
+            "author_name": "bubblegui",
+            "created_at": "2026-10-26T20:45:00+00:00",
+            "permalink": "https://nitter.mie.foundation/bubblegui/status/2114820616658317326#m",
+            "metrics": {
+              "like_count": 384,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 14
+            }
+          },
+          {
+            "id": "2114817998804386223",
+            "text": "Não aguento aquele vídeo que sai em toda eleição dos traficantes no RJ comemorando a vitória do Lula\n\n• Lula não ganhou no Rio de Janeiro \n• O estado do Rio não elege um governador de \"esquerda\" há uns 20 anos",
+            "author_username": "lmzct",
+            "author_name": "lmzct",
+            "created_at": "2026-10-26T20:34:00+00:00",
+            "permalink": "https://nitter.mie.foundation/lmzct/status/2114817998804386223#m",
+            "metrics": {
+              "like_count": 53,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114815398944424406",
+            "text": "Meu irmão\nCHOVE TODO DIA NESSE CARALHO DE  CIDADE CHAMASA RIO DE JANEIRO\nEU NÃO AGUENTO MAIS",
+            "author_username": "GustavoCafe",
+            "author_name": "GustavoCafe",
+            "created_at": "2026-10-26T20:24:00+00:00",
+            "permalink": "https://nitter.mie.foundation/GustavoCafe/status/2114815398944424406#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114803445362311353",
+            "text": "Rio de Janeiro\nA capital é Lula🥹",
+            "author_username": "Fran_Olive_",
+            "author_name": "Fran_Olive_",
+            "created_at": "2026-10-26T19:36:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Fran_Olive_/status/2114803445362311353#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114796255410892802",
+            "text": "STF cadê o segundo turno do Rio de Janeiro. Não aceitamos esse golpe diante dos nossos olhos. \n#exercitododudu55",
+            "author_username": "euchrisg",
+            "author_name": "euchrisg",
+            "created_at": "2026-10-26T19:08:00+00:00",
+            "permalink": "https://nitter.mie.foundation/euchrisg/status/2114796255410892802#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114795854351548607",
+            "text": "Queremos segundo turno no Rio de Janeiro \n#exercitododudu55",
+            "author_username": "euchrisg",
+            "author_name": "euchrisg",
+            "created_at": "2026-10-26T19:06:00+00:00",
+            "permalink": "https://nitter.mie.foundation/euchrisg/status/2114795854351548607#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114780472521654778",
+            "text": "Sou do Rio de janeiro e CONCORDO PLENAMENTE...",
+            "author_username": "BoschettiS21593",
+            "author_name": "BoschettiS21593",
+            "created_at": "2026-10-26T18:05:00+00:00",
+            "permalink": "https://nitter.mie.foundation/BoschettiS21593/status/2114780472521654778#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 27
+            }
+          },
+          {
+            "id": "2114778781193765270",
+            "text": "Rio de janeiro Brazil",
+            "author_username": "DudduMauri50132",
+            "author_name": "DudduMauri50132",
+            "created_at": "2026-10-26T17:58:00+00:00",
+            "permalink": "https://nitter.mie.foundation/DudduMauri50132/status/2114778781193765270#m",
+            "metrics": {
+              "like_count": 22,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114772278130979303",
+            "text": "Rio de Janeiro Capital 🥳🎉\nObrigada por terem acordado !! Olhem essa diferença entre o 1° e 2° turno 😱\nP.S só ficaria perfeito se o Governador fosse o Eduardo Paes em 2027 🥹",
+            "author_username": "ali_neesp",
+            "author_name": "ali_neesp",
+            "created_at": "2026-10-26T17:32:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ali_neesp/status/2114772278130979303#m",
+            "metrics": {
+              "like_count": 43,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114769678195216437",
+            "text": "te amo rio de janeiro",
+            "author_username": "4dosete",
+            "author_name": "4dosete",
+            "created_at": "2026-10-26T17:22:00+00:00",
+            "permalink": "https://nitter.mie.foundation/4dosete/status/2114769678195216437#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114760684387098740",
+            "text": "5/8. Foi isso que nós vimos e que eu vi desde que começou a rolar esse vídeo ontem. Isso foi aqui, a poucos quilômetros da minha casa, no Rio de Janeiro. Um absurdo, praticamente na frente do condomínio onde o Bolsonaro tinha ou tem casa, na Barra.",
+            "author_username": "Faustomore",
+            "author_name": "Faustomore",
+            "created_at": "2026-10-26T16:46:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Faustomore/status/2114760684387098740#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114759348765311100",
+            "text": "Ainda não acabou, ainda vou lutar pelo segundo turno no estado do rio de janeiro",
+            "author_username": "Crfjkaua",
+            "author_name": "Crfjkaua",
+            "created_at": "2026-10-26T16:41:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Crfjkaua/status/2114759348765311100#m",
+            "metrics": {
+              "like_count": 22,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114756777610739768",
+            "text": "Rio de Janeiro, o icônico",
+            "author_username": "Anna_hope94",
+            "author_name": "Anna_hope94",
+            "created_at": "2026-10-26T16:31:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2114756777610739768#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114738073510535536",
+            "text": "Rio de Janeiro. Votação nas Zonas Eleitores. Presidente @LulaOficial maiores percentuais na Zona Sul, Centro e nos bairros da Zona Norte; @FlavioBolsonaro com melhor desempenho na Zona Oeste.\ng1.globo.com/rj/rio-de-janei…",
+            "author_username": "marinho687",
+            "author_name": "marinho687",
+            "created_at": "2026-10-26T15:17:00+00:00",
+            "permalink": "https://nitter.mie.foundation/marinho687/status/2114738073510535536#m",
+            "metrics": {
+              "like_count": 55,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114715816750878757",
+            "text": "No Rio de Janeiro, milicianos e faccionados em festas.\n\nVocê, PTistas, comemorem. \n\nVocês e eles",
+            "author_username": "sinesio_vilaca",
+            "author_name": "sinesio_vilaca",
+            "created_at": "2026-10-26T13:48:00+00:00",
+            "permalink": "https://nitter.mie.foundation/sinesio_vilaca/status/2114715816750878757#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 3,
+              "retweet_count": 25,
+              "quote_count": 66
+            }
+          },
+          {
+            "id": "2114701060753215910",
+            "text": "A festa foi linda no país todo. De Feira de Santana a Balneário passando por Belo Horizonte, Rio de Janeiro, Curitiba, Porto Alegre, Olinda, Manaus. O país está em festa.",
+            "author_username": "cjuniorfox",
+            "author_name": "cjuniorfox",
+            "created_at": "2026-10-26T12:49:00+00:00",
+            "permalink": "https://nitter.mie.foundation/cjuniorfox/status/2114701060753215910#m",
+            "metrics": {
+              "like_count": 398,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 17
+            }
+          },
+          {
+            "id": "2114700856486457729",
+            "text": "➡️É uma vergonha atualmente a pirâmide de futebol do Rio de Janeiro conta com cinco divisões profissionais e promover somente um clube da segunda para primeira divisão✅",
+            "author_username": "PaixaoAoFutebol",
+            "author_name": "PaixaoAoFutebol",
+            "created_at": "2026-10-26T12:49:00+00:00",
+            "permalink": "https://nitter.mie.foundation/PaixaoAoFutebol/status/2114700856486457729#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114675710757363970",
+            "text": "Todo respeito ao seu país e ao seu presidente, mas n sei se entendi sua análise. \nVocê não falou nada com nada, é como eu dizer q o quanto choveu na Inglaterra hoje seria considerado uma inundação se fosse no rio de janeiro \n\nFalta terminar essa análise q aí q vc tentou fazer",
+            "author_username": "JtheAlencar",
+            "author_name": "JtheAlencar",
+            "created_at": "2026-10-26T11:09:00+00:00",
+            "permalink": "https://nitter.mie.foundation/JtheAlencar/status/2114675710757363970#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 79
+            }
+          },
+          {
+            "id": "2114652568697659573",
+            "text": "A milícia tentou impedir eleitor de votar e o Flávio conseguiu perder no Rio de Janeiro, né? Nem ele usando a máquina do negócio que ele comanda deu certo? Que chato...",
+            "author_username": "rodrigo_berton",
+            "author_name": "rodrigo_berton",
+            "created_at": "2026-10-26T09:37:00+00:00",
+            "permalink": "https://nitter.mie.foundation/rodrigo_berton/status/2114652568697659573#m",
+            "metrics": {
+              "like_count": 472,
+              "reply_count": 1,
+              "retweet_count": 2,
+              "quote_count": 43
+            }
+          },
+          {
+            "id": "2114643653377356248",
+            "text": "Milton Nascimento completa 84 anos. O cantor e compositor brasileiro nasceu em 1942, no Rio de Janeiro.\n\nBelchior faria 80 anos.\n\nKeith Strickland, guitarrista e baterista do The B-52’s, 73 anos. Ele nasceu em 1953.\n\nNatalie Merchant, ex-vocalista do 10,000 Maniacs,63 anos.",
+            "author_username": "brancocamargo",
+            "author_name": "brancocamargo",
+            "created_at": "2026-10-26T09:01:00+00:00",
+            "permalink": "https://nitter.mie.foundation/brancocamargo/status/2114643653377356248#m",
+            "metrics": {
+              "like_count": 37,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114593628446159198",
+            "text": "Minha Cidade, Norte do Estado do Rio de Janeiro. Maior colégio eleitoral do interior. Somos Conservadores de maioria. 😎🫡🇧🇷🗽🇺🇸🙏🏼🦅🦁",
+            "author_username": "GamaSaragama77",
+            "author_name": "GamaSaragama77",
+            "created_at": "2026-10-26T05:43:00+00:00",
+            "permalink": "https://nitter.mie.foundation/GamaSaragama77/status/2114593628446159198#m",
+            "metrics": {
+              "like_count": 22,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114564682040098910",
+            "text": "Rio de Janeiro brasileiro, meu irmão.",
+            "author_username": "selcrvg",
+            "author_name": "selcrvg",
+            "created_at": "2026-10-26T03:48:00+00:00",
+            "permalink": "https://nitter.mie.foundation/selcrvg/status/2114564682040098910#m",
+            "metrics": {
+              "like_count": 119,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114563606482137591",
+            "text": "No Rio de Janeiro o mérito foi seu, Siri!",
+            "author_username": "tessmonte",
+            "author_name": "tessmonte",
+            "created_at": "2026-10-26T03:43:00+00:00",
+            "permalink": "https://nitter.mie.foundation/tessmonte/status/2114563606482137591#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114562326766530635",
+            "text": "Provavelmente não vai fazer e da mesma turma que está aí a 19 anos fudendo o rio de janeiro",
+            "author_username": "lucianoats",
+            "author_name": "lucianoats",
+            "created_at": "2026-10-26T03:38:00+00:00",
+            "permalink": "https://nitter.mie.foundation/lucianoats/status/2114562326766530635#m",
+            "metrics": {
+              "like_count": 86,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114558032029872348",
+            "text": "Senador perdeu a disputa presidencial para Lula e encerrará o mandato no Senado no fim de janeiro de 2027.\n\nFlávio Bolsonaro (PL) ficará sem cargo público pela primeira vez desde 2003, após perder a disputa pela Presidência da República para Luiz Inácio Lula da Silva (PT), neste domingo (25).\n\nAos 45 anos, Flávio encerra uma trajetória de mais de duas décadas em cargos parlamentares. Ele começou a carreira política na Assembleia Legislativa do Rio de Janeiro (Alerj), onde exerceu quatro mandatos como deputado estadual.\n\nEm 2018, foi eleito senador pelo Rio de Janeiro, durante a campanha presidencial que levou seu pai, Jair Bolsonaro (PL), à Presidência. O mandato no Senado termina no início de 2027.\n\nA única derrota eleitoral anterior de Flávio ocorreu em 2016, quando disputou a Prefeitura do Rio de Janeiro e terminou em quarto lugar, com 14% dos votos válidos.\n\n📰 Leia a matéria completa em metropolitanapiracicaba.com.…\n\n📷 Senado Federal\n✍🏽 Danilo Telles/Jornalista\nPublicado por: Danilo Telles | Grupo Metropolitana\n\n#tvmetropolitanapiracicaba #tvmetropolitana #piracicaba #MTV #jornalmetropolitano #radiometropolitanapiracicaba #radiometropolitana #jornal #eleicões2026",
+            "author_username": "TVMetroPiracity",
+            "author_name": "TVMetroPiracity",
+            "created_at": "2026-10-26T03:21:00+00:00",
+            "permalink": "https://nitter.mie.foundation/TVMetroPiracity/status/2114558032029872348#m",
+            "metrics": {
+              "like_count": 103,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114556361828680173",
+            "text": "Eles estão em Santa Catarina trabalhando. São livres para votar em quem quiser. Vocês elegeram Renan e Carlos do Rio de Janeiro São uns bundões.",
+            "author_username": "mariapaulaand14",
+            "author_name": "mariapaulaand14",
+            "created_at": "2026-10-26T03:14:00+00:00",
+            "permalink": "https://nitter.mie.foundation/mariapaulaand14/status/2114556361828680173#m",
+            "metrics": {
+              "like_count": 197,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114551909491130508",
+            "text": "A cidade do Rio de Janeiro ajudou a Eleger o Presidente Lula. Diferente do Estado do Rio de Janeiro que tentou eleger o miliciano Flavio. Há essa diferença.",
+            "author_username": "hudsv",
+            "author_name": "hudsv",
+            "created_at": "2026-10-26T02:57:00+00:00",
+            "permalink": "https://nitter.mie.foundation/hudsv/status/2114551909491130508#m",
+            "metrics": {
+              "like_count": 90,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114545939184582741",
+            "text": "Rio de Janeiro, Niterói",
+            "author_username": "Paulazzaira",
+            "author_name": "Paulazzaira",
+            "created_at": "2026-10-26T02:33:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Paulazzaira/status/2114545939184582741#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114544616045216151",
+            "text": "Eu nao amaldiçoo esta cidade do Rio de Janeiro!!",
+            "author_username": "xistheodc",
+            "author_name": "xistheodc",
+            "created_at": "2026-10-26T02:28:00+00:00",
+            "permalink": "https://nitter.mie.foundation/xistheodc/status/2114544616045216151#m",
+            "metrics": {
+              "like_count": 26,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114542301938585931",
+            "text": "Ganhamos na cidade do Rio de Janeiro também",
+            "author_username": "biaonca",
+            "author_name": "biaonca",
+            "created_at": "2026-10-26T02:19:00+00:00",
+            "permalink": "https://nitter.mie.foundation/biaonca/status/2114542301938585931#m",
+            "metrics": {
+              "like_count": 26,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114542168870150421",
+            "text": "Acreditem Lula ganhou no berço do bolsonarismo que é a cidade do Rio de janeiro !",
+            "author_username": "biaonca",
+            "author_name": "biaonca",
+            "created_at": "2026-10-26T02:18:00+00:00",
+            "permalink": "https://nitter.mie.foundation/biaonca/status/2114542168870150421#m",
+            "metrics": {
+              "like_count": 219,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 12
+            }
+          },
+          {
+            "id": "2114541955174801519",
+            "text": "Acreditem Lula ganhou no berço do bolsonarismo que é a cidade do Rio de janeiro ! ISSO É O COMEÇO  DO FIM DO BOLSONARISMO.NA CIDADE !",
+            "author_username": "biaonca",
+            "author_name": "biaonca",
+            "created_at": "2026-10-26T02:17:00+00:00",
+            "permalink": "https://nitter.mie.foundation/biaonca/status/2114541955174801519#m",
+            "metrics": {
+              "like_count": 43,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114540104941183008",
+            "text": "O Rio de Janeiro pra ficar perfeito, só faltou temos elegido Eduardo Paes como Governador, mas essa mudança/virada para elegemos o Lula foi incrível demais. Vamos lutar para mudarmos de governador nas próximas eleições ou esse Bolsonarista do Ruas sofrer um impeachment 👏🏿🤩😻 PT",
+            "author_username": "hermetic_max",
+            "author_name": "hermetic_max",
+            "created_at": "2026-10-26T02:10:00+00:00",
+            "permalink": "https://nitter.mie.foundation/hermetic_max/status/2114540104941183008#m",
+            "metrics": {
+              "like_count": 26,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114537268782272790",
+            "text": "Olha o Rio de Janeiro aí.",
+            "author_username": "amaiatfaria",
+            "author_name": "amaiatfaria",
+            "created_at": "2026-10-26T01:59:00+00:00",
+            "permalink": "https://nitter.mie.foundation/amaiatfaria/status/2114537268782272790#m",
+            "metrics": {
+              "like_count": 39,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114528199228989763",
+            "text": "O Lula ganhou no Rio de Janeiro? Tô passada",
+            "author_username": "biaonca",
+            "author_name": "biaonca",
+            "created_at": "2026-10-26T01:23:00+00:00",
+            "permalink": "https://nitter.mie.foundation/biaonca/status/2114528199228989763#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114526290652868906",
+            "text": "Acho que o separatismo resolveria qualquer insatisfação popular.\n\nAqui no Rio de Janeiro por exemplo, onde só as vias expressas são seguras, com as facções tomando tudo, sabemos que o Lula não fará nada.\n\nTlvz a solução seria um estado autônomo resolvendo seus próprios problemas.",
+            "author_username": "MarcoSouthern",
+            "author_name": "MarcoSouthern",
+            "created_at": "2026-10-26T01:15:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MarcoSouthern/status/2114526290652868906#m",
+            "metrics": {
+              "like_count": 146,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114525426467144012",
+            "text": "No Estado do Rio de Janeiro, Lula venceu na Capital,.Niterói, e mais 15 municípios.",
+            "author_username": "ViniciusCord23",
+            "author_name": "ViniciusCord23",
+            "created_at": "2026-10-26T01:12:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ViniciusCord23/status/2114525426467144012#m",
+            "metrics": {
+              "like_count": 68,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114521091766882748",
+            "text": "gente tô cansada pra porra, trabalhei pra um cacete nessas eleições \n\nfui nas mobilizações, panfletei nos lugares mais insalubres do rio de janeiro e conversei com os indecisos \n\ntô sentindo um orgulho... uma sensação de dever feito",
+            "author_username": "lookbackanger1",
+            "author_name": "lookbackanger1",
+            "created_at": "2026-10-26T00:54:00+00:00",
+            "permalink": "https://nitter.mie.foundation/lookbackanger1/status/2114521091766882748#m",
+            "metrics": {
+              "like_count": 379,
+              "reply_count": 1,
+              "retweet_count": 1,
+              "quote_count": 34
+            }
+          },
+          {
+            "id": "2114516025458974901",
+            "text": "O que eu falei: ele derrotou o miliciano em casa \nLula vira e fica à frente de Flavio Bolsonaro na cidade do Rio de Janeiro no 2º turno | CNN Brasil share.google/ZX3DydTXCE3b1zH…",
+            "author_username": "amaiatfaria",
+            "author_name": "amaiatfaria",
+            "created_at": "2026-10-26T00:34:00+00:00",
+            "permalink": "https://nitter.mie.foundation/amaiatfaria/status/2114516025458974901#m",
+            "metrics": {
+              "like_count": 165,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114515714426196406",
+            "text": "DUDUUUUUUUU PAES 😭😭😭.\n\nERA PRA VOCÊ ESTAR COMEMORANDO UMA VIRADA HOJE.\n\nMALDITO SEJA O ESTADO DO RIO DE JANEIRO.\n\nVOCÊS MERECEM TUDO DE RUIM VERMES!!!!!!!!!!!!!!!!!",
+            "author_username": "_christianoc",
+            "author_name": "_christianoc",
+            "created_at": "2026-10-26T00:33:00+00:00",
+            "permalink": "https://nitter.mie.foundation/_christianoc/status/2114515714426196406#m",
+            "metrics": {
+              "like_count": 148,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114510636453413263",
+            "text": "A direita nunca mereceu essa família boçal dos Bolsonaro. \nO Brasil não merecia o modelo do Rio de Janeiro! \n#Brasil é dos brasileiros!",
+            "author_username": "emilcladson",
+            "author_name": "emilcladson",
+            "created_at": "2026-10-26T00:13:00+00:00",
+            "permalink": "https://nitter.mie.foundation/emilcladson/status/2114510636453413263#m",
+            "metrics": {
+              "like_count": 74,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114508006402506799",
+            "text": "📍Real Gabinete Português de Leitura - Rua Luís de Camões - Centro, Rio de Janeiro - RJ",
+            "author_username": "Machado__24",
+            "author_name": "Machado__24",
+            "created_at": "2026-10-26T00:02:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Machado__24/status/2114508006402506799#m",
+            "metrics": {
+              "like_count": 93,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114506130810716635",
+            "text": "Vamos Rio de Janeiro! Salve o Brasil 🙏🏻🇧🇷",
+            "author_username": "MaurcioMotta1",
+            "author_name": "MaurcioMotta1",
+            "created_at": "2026-10-25T23:55:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MaurcioMotta1/status/2114506130810716635#m",
+            "metrics": {
+              "like_count": 66,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114502887157936497",
+            "text": "Rio de Janeiro, Estado miliciano.",
+            "author_username": "deedeeftn",
+            "author_name": "deedeeftn",
+            "created_at": "2026-10-25T23:42:00+00:00",
+            "permalink": "https://nitter.mie.foundation/deedeeftn/status/2114502887157936497#m",
+            "metrics": {
+              "like_count": 56,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114502692672528662",
+            "text": "Rio de Janeiro é o estado com apuração mais atrasada de todos os estados. Coincidência???",
+            "author_username": "amandasalecosta",
+            "author_name": "amandasalecosta",
+            "created_at": "2026-10-25T23:41:00+00:00",
+            "permalink": "https://nitter.mie.foundation/amandasalecosta/status/2114502692672528662#m",
+            "metrics": {
+              "like_count": 153,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114502334512349566",
+            "text": "Cadê os Votos do Rio de Janeiro?",
+            "author_username": "HBerguerand",
+            "author_name": "HBerguerand",
+            "created_at": "2026-10-25T23:40:00+00:00",
+            "permalink": "https://nitter.mie.foundation/HBerguerand/status/2114502334512349566#m",
+            "metrics": {
+              "like_count": 56,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114501414626205798",
+            "text": "Rio de janeiro só 10% das urnas apuradas.\n\nQuem diria que o rio vai salvar o Brasil...",
+            "author_username": "juan_meeeis",
+            "author_name": "juan_meeeis",
+            "created_at": "2026-10-25T23:36:00+00:00",
+            "permalink": "https://nitter.mie.foundation/juan_meeeis/status/2114501414626205798#m",
+            "metrics": {
+              "like_count": 61,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114499780554395945",
+            "text": "Que atraso é esse em apurar Rio de Janeiro? Mds to com medo",
+            "author_username": "olharidela",
+            "author_name": "olharidela",
+            "created_at": "2026-10-25T23:30:00+00:00",
+            "permalink": "https://nitter.mie.foundation/olharidela/status/2114499780554395945#m",
+            "metrics": {
+              "like_count": 50,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114497269626286219",
+            "text": "Olha o Rio de janeiro, é um estado que ninguém sabe votar mesmo, isso explica porque todo governador não termina o mandato!",
+            "author_username": "flanewsdr3",
+            "author_name": "flanewsdr3",
+            "created_at": "2026-10-25T23:20:00+00:00",
+            "permalink": "https://nitter.mie.foundation/flanewsdr3/status/2114497269626286219#m",
+            "metrics": {
+              "like_count": 133,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114496997998858343",
+            "text": "Assim como no primeiro turno, os apresentadores da apuração da Globo enfatizam os 20 anos de PT no governo da Bahia, mas não dão um pio sobre os 17 anos da direita no Rio de Janeiro com seus 5 governadores presos!",
+            "author_username": "claudio_psciano",
+            "author_name": "claudio_psciano",
+            "created_at": "2026-10-25T23:19:00+00:00",
+            "permalink": "https://nitter.mie.foundation/claudio_psciano/status/2114496997998858343#m",
+            "metrics": {
+              "like_count": 152,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114495412828619123",
+            "text": "Os votos do Rio de Janeiro estão praticamente parados",
+            "author_username": "hepla_",
+            "author_name": "hepla_",
+            "created_at": "2026-10-25T23:12:00+00:00",
+            "permalink": "https://nitter.mie.foundation/hepla_/status/2114495412828619123#m",
+            "metrics": {
+              "like_count": 32,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114493523252650161",
+            "text": "Sao paulo e rio de janeiro n foram apurados nada ainda. Que desgraça",
+            "author_username": "JeanRufino95",
+            "author_name": "JeanRufino95",
+            "created_at": "2026-10-25T23:05:00+00:00",
+            "permalink": "https://nitter.mie.foundation/JeanRufino95/status/2114493523252650161#m",
+            "metrics": {
+              "like_count": 101,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114492235743994172",
+            "text": "como pode nao ter nem 1% das urnas apuradas no rio de janeiro e o flavio já está na frente, me mata logo\nestado miliciano",
+            "author_username": "hange_xyz",
+            "author_name": "hange_xyz",
+            "created_at": "2026-10-25T23:00:00+00:00",
+            "permalink": "https://nitter.mie.foundation/hange_xyz/status/2114492235743994172#m",
+            "metrics": {
+              "like_count": 76,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114492093703901358",
+            "text": "Da uma vergonha da apuração do Rio de Janeiro. Galera vocês são fascistas",
+            "author_username": "NessaMrtns",
+            "author_name": "NessaMrtns",
+            "created_at": "2026-10-25T22:59:00+00:00",
+            "permalink": "https://nitter.mie.foundation/NessaMrtns/status/2114492093703901358#m",
+            "metrics": {
+              "like_count": 110,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114489284648472652",
+            "text": "Rio de janeiro e São Paulo pra decidir essas eleições",
+            "author_username": "irissemacento",
+            "author_name": "irissemacento",
+            "created_at": "2026-10-25T22:48:00+00:00",
+            "permalink": "https://nitter.mie.foundation/irissemacento/status/2114489284648472652#m",
+            "metrics": {
+              "like_count": 171,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114483944527917474",
+            "text": "Rio de Janeiro tá dando LULA mesmo??\n\nEstão deixando a gente sonhar de VERDADE!!",
+            "author_username": "dddreytx92",
+            "author_name": "dddreytx92",
+            "created_at": "2026-10-25T22:27:00+00:00",
+            "permalink": "https://nitter.mie.foundation/dddreytx92/status/2114483944527917474#m",
+            "metrics": {
+              "like_count": 163,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114483932821340226",
+            "text": "O rio de janeiro vermelho no mapa da globo ❤️",
+            "author_username": "soueudnv23",
+            "author_name": "soueudnv23",
+            "created_at": "2026-10-25T22:27:00+00:00",
+            "permalink": "https://nitter.mie.foundation/soueudnv23/status/2114483932821340226#m",
+            "metrics": {
+              "like_count": 55,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114473375838154939",
+            "text": "Messi é homenageado! Princesa das Astúrias concede prêmio ao jogador! youtu.be/cb8ZRYGOLvw?is=7IZT… via #CMRJ 👑 @YouTube 🖥 #Messi ⚽️ #PrincesaLeonor 👸🏼 #Monarquia 👑 #Espanha #Espana 🇪🇸",
+            "author_username": "cmerjoficial",
+            "author_name": "cmerjoficial",
+            "created_at": "2026-10-25T21:45:00+00:00",
+            "permalink": "https://nitter.mie.foundation/cmerjoficial/status/2114473375838154939#m",
+            "metrics": {
+              "like_count": 58,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114460673438634077",
+            "text": "Coelho da Rocha, São João de Meriti, Rio de Janeiro. Zona 187. Portões fechados. Vale ou não vale a votação até às 19 horas? Quem está lá dentro? Estão votando? ISSO VIROU ZONA!",
+            "author_username": "sanrapra",
+            "author_name": "sanrapra",
+            "created_at": "2026-10-25T20:54:00+00:00",
+            "permalink": "https://nitter.mie.foundation/sanrapra/status/2114460673438634077#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 3,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114459467471601764",
+            "text": "Podem fechar:\nParaná \nSanta Catarina \nRondônia \nRio de Janeiro\nEspírito Santo \nGoiás\nMato Grosso \nMato Grosso do Sul\n\nRestante deixa aberto",
+            "author_username": "ManoloDoca",
+            "author_name": "ManoloDoca",
+            "created_at": "2026-10-25T20:49:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ManoloDoca/status/2114459467471601764#m",
+            "metrics": {
+              "like_count": 168,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114459114684199314",
+            "text": "Comece pelo Rio de Janeiro primeiro dali pra cima tudo depois",
+            "author_username": "FabioPorao99",
+            "author_name": "FabioPorao99",
+            "created_at": "2026-10-25T20:48:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FabioPorao99/status/2114459114684199314#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114456152981315621",
+            "text": "Há 20 anos, a direita é maioria na Assembleia Legislativa do Estado do Rio de Janeiro e tá esse merda.  E vocêz juram que o salnorabo, da direita que vai \"salvar\" o país.",
+            "author_username": "nathannygoes",
+            "author_name": "nathannygoes",
+            "created_at": "2026-10-25T20:36:00+00:00",
+            "permalink": "https://nitter.mie.foundation/nathannygoes/status/2114456152981315621#m",
+            "metrics": {
+              "like_count": 185,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114445859727221193",
+            "text": "A discrição da inteligência do Ciro não cansa de me impressionar.\nEntão o PT não deveria chamar de miliciano, o grupo político associado ao Comando Vermelho e à milícia, que já teve vários de seus expoentes presos no Rio de Janeiro?\nImpressionante.",
+            "author_username": "dadobarrozo",
+            "author_name": "dadobarrozo",
+            "created_at": "2026-10-25T19:55:00+00:00",
+            "permalink": "https://nitter.mie.foundation/dadobarrozo/status/2114445859727221193#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 16
+            }
+          },
+          {
+            "id": "2114441286383968705",
+            "text": "Os horário de votação na Bahia, em São Paulo, na Paraiba e áreas do Rio de Janeiro,  precisão ser prorrogados para que todos tenham o direito ao voto garantido. @TSEjusbr apure todas as denúncias e deem a oportunidade de todos, independente do lado político,  votem. #Democracia",
+            "author_username": "mavinhopbi",
+            "author_name": "mavinhopbi",
+            "created_at": "2026-10-25T19:37:00+00:00",
+            "permalink": "https://nitter.mie.foundation/mavinhopbi/status/2114441286383968705#m",
+            "metrics": {
+              "like_count": 96,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114434229203349910",
+            "text": "Candidatos votaram na manhã deste domingo (25), fizeram declarações sobre a campanha e reforçaram mensagens direcionadas ao eleitorado.\n\nO presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL), candidatos à Presidência da República, votaram na manhã deste domingo (25), no segundo turno das eleições de 2026.\n\nFlávio Bolsonaro votou por volta das 8h20, na Escola Municipal Barão Homem de Mello, em Vila Isabel, na Zona Norte do Rio de Janeiro. Após votar, afirmou que o país precisa de uma mudança de rumo e citou a segurança pública e as dificuldades financeiras enfrentadas pelos brasileiros.\n\n“Chegou a hora da mudança de verdade”, declarou o candidato, que também pediu aos eleitores que comparecessem às urnas.\n\nLula votou por volta das 9h30, em São Bernardo do Campo, na Grande São Paulo, acompanhado da primeira-dama Janja Lula da Silva e do vice-presidente Geraldo Alckmin (PSB).\n\nApós votar, o presidente agradeceu o apoio recebido durante a campanha e destacou a mobilização de apoiadores nas ruas. Lula também fez críticas ao adversário e defendeu o respeito ao resultado das urnas.\n\nO segundo turno define quem ocupará a Presidência da República pelos próximos quatro anos. A votação ocorre das 8h às 17h, pelo horário de Brasília, e a apuração começa após o encerramento da votação.\n\n📰 Leia a matéria completa em metropolitanapiracicaba.com.…\n\n📷 Divulgação\n✍🏽 Danilo Telles/Jornalista\nPublicado por: Danilo Telles | Grupo Metropolitana\n\n#tvmetropolitanapiracicaba #tvmetropolitana #piracicaba #MTV #jornalmetropolitano #radiometropolitanapiracicaba #radiometropolitana #jornal #eleições2026",
+            "author_username": "TVMetroPiracity",
+            "author_name": "TVMetroPiracity",
+            "created_at": "2026-10-25T19:09:00+00:00",
+            "permalink": "https://nitter.mie.foundation/TVMetroPiracity/status/2114434229203349910#m",
+            "metrics": {
+              "like_count": 170,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114432787998728668",
+            "text": "No Rio de Janeiro está sem.onibus para Santa Teresa! @BRTMobiRio @CavaliereRio  o que tá rolando ? Não tem.onibus para subir para santa rteresa vejam aí",
+            "author_username": "biaonca",
+            "author_name": "biaonca",
+            "created_at": "2026-10-25T19:03:00+00:00",
+            "permalink": "https://nitter.mie.foundation/biaonca/status/2114432787998728668#m",
+            "metrics": {
+              "like_count": 102,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114408586075857181",
+            "text": "Rio de Janeiro",
+            "author_username": "anabenvenutti51",
+            "author_name": "anabenvenutti51",
+            "created_at": "2026-10-25T17:27:00+00:00",
+            "permalink": "https://nitter.mie.foundation/anabenvenutti51/status/2114408586075857181#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114402261321257018",
+            "text": "O Rio de Janeiro só serve se ele for o prefeito.",
+            "author_username": "ElisamaMF",
+            "author_name": "ElisamaMF",
+            "created_at": "2026-10-25T17:02:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ElisamaMF/status/2114402261321257018#m",
+            "metrics": {
+              "like_count": 145,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114396103793955072",
+            "text": "Tijuca em sua maioria, usando adesivo do Lula e indo votar sem medo. Orgulho demais do meu país localizado na Zona Norte do Rio de Janeiro.",
+            "author_username": "soueucacau",
+            "author_name": "soueucacau",
+            "created_at": "2026-10-25T16:38:00+00:00",
+            "permalink": "https://nitter.mie.foundation/soueucacau/status/2114396103793955072#m",
+            "metrics": {
+              "like_count": 475,
+              "reply_count": 2,
+              "retweet_count": 1,
+              "quote_count": 15
+            }
+          },
+          {
+            "id": "2114392962020917297",
+            "text": "Alô @TRERJ \nLinha Amarela - Baixa do Sapateiro - Rio de Janeiro.",
+            "author_username": "renatoesteves",
+            "author_name": "renatoesteves",
+            "created_at": "2026-10-25T16:25:00+00:00",
+            "permalink": "https://nitter.mie.foundation/renatoesteves/status/2114392962020917297#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 3,
+              "quote_count": 24
+            }
+          },
+          {
+            "id": "2114384758884991062",
+            "text": "Esta música me evoca as boas memórias!\nk.kwai.com/p/IpHCqfCF\nVenha assistir a esse vídeo\nk.kwai.com/p/CTZtFtwq. Bairro Riachuelo Rio de Janeiro Brasil.",
+            "author_username": "JooFlix73462306",
+            "author_name": "JooFlix73462306",
+            "created_at": "2026-10-25T15:53:00+00:00",
+            "permalink": "https://nitter.mie.foundation/JooFlix73462306/status/2114384758884991062#m",
+            "metrics": {
+              "like_count": 45,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114366825349755227",
+            "text": "E quando o Rio deixou de ser direita? Todos apoiadores de Bolsonaro e milicianos. Nunca vão combater nada, acorda os comandantes dessas facções são poderosos. A família têm 30 anos na política e nada mudou no Rio de Janeiro.",
+            "author_username": "carollellen_",
+            "author_name": "carollellen_",
+            "created_at": "2026-10-25T14:41:00+00:00",
+            "permalink": "https://nitter.mie.foundation/carollellen_/status/2114366825349755227#m",
+            "metrics": {
+              "like_count": 37,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114365843827998898",
+            "text": "Quando vai ter voo para o Rio de Janeiro ! ( GiG )",
+            "author_username": "PaixaoAoFutebol",
+            "author_name": "PaixaoAoFutebol",
+            "created_at": "2026-10-25T14:37:00+00:00",
+            "permalink": "https://nitter.mie.foundation/PaixaoAoFutebol/status/2114365843827998898#m",
+            "metrics": {
+              "like_count": 391,
+              "reply_count": 4,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114350125581533270",
+            "text": "Fala completa de FLÁVIO pós votar no Rio de janeiro",
+            "author_username": "sinesio_vilaca",
+            "author_name": "sinesio_vilaca",
+            "created_at": "2026-10-25T13:35:00+00:00",
+            "permalink": "https://nitter.mie.foundation/sinesio_vilaca/status/2114350125581533270#m",
+            "metrics": {
+              "like_count": 605,
+              "reply_count": 0,
+              "retweet_count": 13,
+              "quote_count": 45
+            }
+          },
+          {
+            "id": "2114347048682000859",
+            "text": "Já votei e levei a família toda comigo! 🗳️❤️\n\nNa minha seção eleitoral, onde grande parte do eleitorado é bolsonarista, as filas costumam ser enormes, chegando a passar do banco Itaú e ir até a esquina. Mas, hoje, a situação estava completamente diferente: encontrei a seção praticamente vazia, com apenas uma pessoa na minha frente!\n\nPor isso, faço um apelo: NÃO DEIXEM DE VOTAR! Aqui no Rio de Janeiro, o tempo está chuvoso, e muitos bolsonaristas podem acabar desistindo de ir às urnas por causa da chuva.\n\nSe você ainda não votou, vá votar! E, se puder, incentive seus familiares e amigos a fazerem o mesmo. Cada voto importa, e cada pessoa pode fazer a diferença!\n\nVamos votar, mobilizar quem está ao nosso lado e lutar até o último minuto! Vai dar Lula no segundo turno! ❤️⭐️🇧🇷 VOTE 13!\n\n#FandomsComLula #Lula #LulaPresidente",
+            "author_username": "ladygagasbrasil",
+            "author_name": "ladygagasbrasil",
+            "created_at": "2026-10-25T13:23:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ladygagasbrasil/status/2114347048682000859#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 4,
+              "retweet_count": 17,
+              "quote_count": 63
+            }
+          },
+          {
+            "id": "2114346528529670362",
+            "text": "Flávio Bolsonaro is currently casting his vote in Rio de Janeiro. 2026 Elections in Brazil 🇧🇷🇧🇷",
+            "author_username": "conc97588",
+            "author_name": "conc97588",
+            "created_at": "2026-10-25T13:21:00+00:00",
+            "permalink": "https://nitter.mie.foundation/conc97588/status/2114346528529670362#m",
+            "metrics": {
+              "like_count": 75,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114346214514639241",
+            "text": "ele e a mulher torcendo por um rio de Janeiro e país melhor LÁ EM BELÉM INFERNO DOIS TONHOSSSSSS QUE INFERNO",
+            "author_username": "jzjzw",
+            "author_name": "jzjzw",
+            "created_at": "2026-10-25T13:19:00+00:00",
+            "permalink": "https://nitter.mie.foundation/jzjzw/status/2114346214514639241#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114322219358670891",
+            "text": "🇧🇷❗️ AGORA — Flávio Bolsonaro vota na seção eleitoral da Escola Municipal Barão Homem de Mello, em Vila Isabel, na Zona Norte do Rio de Janeiro",
+            "author_username": "ArturEMDutra",
+            "author_name": "ArturEMDutra",
+            "created_at": "2026-10-25T11:44:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ArturEMDutra/status/2114322219358670891#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 1,
+              "retweet_count": 9,
+              "quote_count": 55
+            }
+          },
+          {
+            "id": "2114311307818115209",
+            "text": "A av: marquês de Sapucaí, sambodromo, (Carnaval)até a Praça apoteose, cidade maravilhosa, Rio de Janeiro, Brasil, os deuses batem Palmas 👏 👏 👏,deuses do mundo 🌎 inteiro, às rainhas 👑 são reverênciadas, tu-es-tais nessa reverência morena belle musa diamante 💎 azuis ☝️lapidad",
+            "author_username": "PauloRenei53608",
+            "author_name": "PauloRenei53608",
+            "created_at": "2026-10-25T11:01:00+00:00",
+            "permalink": "https://nitter.mie.foundation/PauloRenei53608/status/2114311307818115209#m",
+            "metrics": {
+              "like_count": 35,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114309254207213834",
+            "text": "E o tempo virou de vez no Rio de Janeiro",
+            "author_username": "fabinhofamq",
+            "author_name": "fabinhofamq",
+            "created_at": "2026-10-25T10:53:00+00:00",
+            "permalink": "https://nitter.mie.foundation/fabinhofamq/status/2114309254207213834#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114274387306115180",
+            "text": "É ela q tava pintando ônibus no rio de janeiro?",
+            "author_username": "MauricioViana26",
+            "author_name": "MauricioViana26",
+            "created_at": "2026-10-25T08:34:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MauricioViana26/status/2114274387306115180#m",
+            "metrics": {
+              "like_count": 144,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114236561914990771",
+            "text": "Muita chuva no rio de janeiro",
+            "author_username": "LuccasLdn18",
+            "author_name": "LuccasLdn18",
+            "created_at": "2026-10-25T06:04:00+00:00",
+            "permalink": "https://nitter.mie.foundation/LuccasLdn18/status/2114236561914990771#m",
+            "metrics": {
+              "like_count": 117,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114224329281982943",
+            "text": "Ilha do Governador é o pior lugar do Rio de Janeiro, justamente pq o ciclo social aqui é uma merda, você vê as mesmas pessoas todos os dias.",
+            "author_username": "almeidapl_",
+            "author_name": "almeidapl_",
+            "created_at": "2026-10-25T05:15:00+00:00",
+            "permalink": "https://nitter.mie.foundation/almeidapl_/status/2114224329281982943#m",
+            "metrics": {
+              "like_count": 126,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114192528542957988",
+            "text": "Rio de janeiro",
+            "author_username": "onallisonn",
+            "author_name": "onallisonn",
+            "created_at": "2026-10-25T03:09:00+00:00",
+            "permalink": "https://nitter.mie.foundation/onallisonn/status/2114192528542957988#m",
+            "metrics": {
+              "like_count": 68,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114180963886317980",
+            "text": "Fumou maconha? São Paulo, Rio de Janeiro e Minas Gerais, as porcentagem vai aumentar para Flávio, e no nordeste não tem voto pro Lula pegar mais. Então, fica só no teu mundo fisiológico. 🤣🤣🇧🇷🇧🇷2️⃣2️⃣",
+            "author_username": "JaimeStarlen",
+            "author_name": "JaimeStarlen",
+            "created_at": "2026-10-25T02:23:00+00:00",
+            "permalink": "https://nitter.mie.foundation/JaimeStarlen/status/2114180963886317980#m",
+            "metrics": {
+              "like_count": 316,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 6
+            }
+          },
+          {
+            "id": "2114178440505209173",
+            "text": "A ZONA OESTE DO RIO DE JANEIRO NÃO PERTENCE AO BOLSONARISMO! ⭐️#LulaVaiVirar #Lula13",
+            "author_username": "docindocowboys",
+            "author_name": "docindocowboys",
+            "created_at": "2026-10-25T02:13:00+00:00",
+            "permalink": "https://nitter.mie.foundation/docindocowboys/status/2114178440505209173#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114172142182863352",
+            "text": "Ver nossa gente unida com tanta esperança no olhar fortalece a certeza de que a mudança começou. Hoje foi lindo no Rio de Janeiro, um verdadeiro espetáculo de paz, civilidade e amor à nossa pátria! Amanhã é 22 pelo Brasil! 🇧🇷 💚💛",
+            "author_username": "GiulianaZiemki1",
+            "author_name": "GiulianaZiemki1",
+            "created_at": "2026-10-25T01:48:00+00:00",
+            "permalink": "https://nitter.mie.foundation/GiulianaZiemki1/status/2114172142182863352#m",
+            "metrics": {
+              "like_count": 554,
+              "reply_count": 11,
+              "retweet_count": 8,
+              "quote_count": 66
+            }
+          },
+          {
+            "id": "2114171317377274201",
+            "text": "Rio de Janeiro 🇧🇷\n2️⃣4️⃣1️⃣0️⃣2️⃣6️⃣\nAmanhã é Flávio Bolsonaro Presidente ! 2⃣2️⃣\nSe Deus quiser 🙏🏻 \n #FlavioPresidentedoBrasil #FlavioPresidente2026 #FLAVIOPRESIDENTE22",
+            "author_username": "LeninhaLopes77",
+            "author_name": "LeninhaLopes77",
+            "created_at": "2026-10-25T01:44:00+00:00",
+            "permalink": "https://nitter.mie.foundation/LeninhaLopes77/status/2114171317377274201#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 9,
+              "retweet_count": 42,
+              "quote_count": 104
+            }
+          },
+          {
+            "id": "2114167744832688383",
+            "text": "A Lídia, fez muito bem, outro é o mau é jogar o Brasil nas mãos d crime organizado, das milícias d Rio de Janeiro, quem votar n flaviorachadinha, vai se arrepender amargamente.🔥",
+            "author_username": "Limafogo278193",
+            "author_name": "Limafogo278193",
+            "created_at": "2026-10-25T01:30:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Limafogo278193/status/2114167744832688383#m",
+            "metrics": {
+              "like_count": 59,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114160008636035567",
+            "text": "youtube.com/shorts/qwBcqwh0K…\n\nAto pro Flávio Bolsonaro no Rio de Janeiro.",
+            "author_username": "sgt_net",
+            "author_name": "sgt_net",
+            "created_at": "2026-10-25T00:59:00+00:00",
+            "permalink": "https://nitter.mie.foundation/sgt_net/status/2114160008636035567#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114150121751355756",
+            "text": "Rio de Janeiro é 2⃣ 2⃣ ✅️",
+            "author_username": "mariada92968769",
+            "author_name": "mariada92968769",
+            "created_at": "2026-10-25T00:20:00+00:00",
+            "permalink": "https://nitter.mie.foundation/mariada92968769/status/2114150121751355756#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114141701757362398",
+            "text": "Urgente! Explodam esse video! Nāo deixe esse país ser dividido, vote por nossos direitos, votem em Lula 13! Faço um ultimo apelo! Nāo deixe o crime organizado do Rio de Janeiro assumir a presidencia da república! Nāo vote num Bandido Miliciano!",
+            "author_username": "GlaucoS13113",
+            "author_name": "GlaucoS13113",
+            "created_at": "2026-10-24T23:47:00+00:00",
+            "permalink": "https://nitter.mie.foundation/GlaucoS13113/status/2114141701757362398#m",
+            "metrics": {
+              "like_count": 899,
+              "reply_count": 9,
+              "retweet_count": 51,
+              "quote_count": 104
+            }
+          },
+          {
+            "id": "2114140129061220431",
+            "text": "🚨🔴⚫ VASCO X FLAMENGO NO NILTON SANTOS COM 90/10? CADÊ A RECIPROCIDADE?\n\nO Vasco anunciou que o clássico contra o Flamengo será disputado no Estádio Nilton Santos, com divisão de ingressos de 90% para os mandantes e apenas 10% para os visitantes.\n\nMas existem algumas perguntas que precisam ser respondidas!\n\nO BEPE recomendou a realização do clássico no Maracanã. O Ministério Público do Rio de Janeiro, que anteriormente recomendou a realização de Vasco x Boca Juniors no Maracanã, agora não se pronunciou publicamente sobre essa situação, até onde temos conhecimento.\n\nPor que dois pesos e duas medidas?\n\nE tem mais: no primeiro turno, a divisão de ingressos foi de 50% para cada torcida.\n\nCADÊ A RECIPROCIDADE?\n\nSe o Flamengo disponibilizou metade da carga de ingressos para os vascaínos no primeiro confronto, por que agora a torcida rubro-negra deve se contentar com apenas 10%?\n\nNão se trata de questionar o direito do mandante de escolher o estádio, dentro das regras aplicáveis. Trata-se de cobrar coerência, isonomia e respeito aos acordos e critérios adotados anteriormente.\n\nO que mudou de um clássico para o outro?\n\nA segurança pública não pode ser utilizada como argumento de conveniência. Se havia condições para uma divisão igualitária no primeiro turno, é preciso explicar objetivamente por que isso não seria possível agora.\n\nO FLAMENGO PRECISA COBRAR EXPLICAÇÕES!\n\nReciprocidade não pode existir apenas quando interessa a um dos lados!\n\n#Flamengo #Vasco #Brasileirão #Maracanã\n\n🚨 Estamos rumo aos 3 mil inscritos!\nSe ainda não é inscrito, inscreva-se no Canal Bruno Baesso, deixe o like e compartilhe com mais um rubro-negro.\n\nOs inscritos fazem o canal crescer. Bora aos 3K!\n\nyoutube.com/@BrunoBaesso\n\nPorque nós somos o Flamengo!\nSRN 👊🏻❤️🖤",
+            "author_username": "brunobaesso55",
+            "author_name": "brunobaesso55",
+            "created_at": "2026-10-24T23:41:00+00:00",
+            "permalink": "https://nitter.mie.foundation/brunobaesso55/status/2114140129061220431#m",
+            "metrics": {
+              "like_count": 624,
+              "reply_count": 15,
+              "retweet_count": 8,
+              "quote_count": 15
+            }
+          },
+          {
+            "id": "2114138305499459983",
+            "text": "Os 4 do Rio de Janeiro sempre foram considerados grandes por serem os maiores da capital - Rio só deixa de ser capital nos anos 60, os 4 de São Paulo por ser o lugar mais rico, os 2 de Minas Gerais e os 2 do Rio Grande do Sul por serem grandes centros políticos e populosos",
+            "author_username": "batsuteko",
+            "author_name": "batsuteko",
+            "created_at": "2026-10-24T23:33:00+00:00",
+            "permalink": "https://nitter.mie.foundation/batsuteko/status/2114138305499459983#m",
+            "metrics": {
+              "like_count": 230,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114135730192810031",
+            "text": "Rio de Janeiro",
+            "author_username": "ANAMOLIVER",
+            "author_name": "ANAMOLIVER",
+            "created_at": "2026-10-24T23:23:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ANAMOLIVER/status/2114135730192810031#m",
+            "metrics": {
+              "like_count": 36,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114135171033141523",
+            "text": "É pulo no Ceará, e escalada no Rio. Muito obrigado, Rio de Janeiro!",
+            "author_username": "Vando68954998",
+            "author_name": "Vando68954998",
+            "created_at": "2026-10-24T23:21:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Vando68954998/status/2114135171033141523#m",
+            "metrics": {
+              "like_count": 215,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 8
+            }
+          },
+          {
+            "id": "2114133512395653296",
+            "text": "Bora São Paulo, Bora Rio de Janeiro, Bora Brasil!\nBora Gente, não pare de postar\nVamos Virar!\nPoste, curta, comente, compartilhe\nChuva de Lula \n#ComLulaNaRua \n#LulaEmCopacabana \n#LulaNaPaulista \n#ExercitoDoLula\n#SabadouComLula",
+            "author_username": "DistopiaBrazil",
+            "author_name": "DistopiaBrazil",
+            "created_at": "2026-10-24T23:14:00+00:00",
+            "permalink": "https://nitter.mie.foundation/DistopiaBrazil/status/2114133512395653296#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 75,
+              "retweet_count": 115,
+              "quote_count": 236
+            }
+          },
+          {
+            "id": "2114131417265541403",
+            "text": "Sou do Rio  de Janeiro e voto 1️⃣3️⃣🌟✅",
+            "author_username": "fairysherazade",
+            "author_name": "fairysherazade",
+            "created_at": "2026-10-24T23:06:00+00:00",
+            "permalink": "https://nitter.mie.foundation/fairysherazade/status/2114131417265541403#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114130491485966490",
+            "text": "A família Bolsonaro comanda as milícias do Rio de Janeiro",
+            "author_username": "jemilioalmeida",
+            "author_name": "jemilioalmeida",
+            "created_at": "2026-10-24T23:02:00+00:00",
+            "permalink": "https://nitter.mie.foundation/jemilioalmeida/status/2114130491485966490#m",
+            "metrics": {
+              "like_count": 48,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114129863024005610",
+            "text": "O Rio de Janeiro continua lindooooo!",
+            "author_username": "LelanyNunes",
+            "author_name": "LelanyNunes",
+            "created_at": "2026-10-24T23:00:00+00:00",
+            "permalink": "https://nitter.mie.foundation/LelanyNunes/status/2114129863024005610#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114116524482949134",
+            "text": "O Rio de Janeiro em Verde e amarelo nunca vi algo assim era uma multidão de gente , eu confesso que me emocionei, é muito bom viver algo assim de perto . \n\nDito isso Amanhã é 22 Flávio Bolsonaro 🇧🇷💛💚🥹🥹",
+            "author_username": "Leandro04223331",
+            "author_name": "Leandro04223331",
+            "created_at": "2026-10-24T22:07:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Leandro04223331/status/2114116524482949134#m",
+            "metrics": {
+              "like_count": 51,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114115343899611153",
+            "text": "O Jair Bolsonaro homenageado aqui no Rio de Janeiro…",
+            "author_username": "Leandro04223331",
+            "author_name": "Leandro04223331",
+            "created_at": "2026-10-24T22:02:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Leandro04223331/status/2114115343899611153#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114111072030597601",
+            "text": "Aqui no Rio de janeiro ele ia ficar bem arrebentado, fazendo Isso com crianças, ia apanhar muito .",
+            "author_username": "Rads286611",
+            "author_name": "Rads286611",
+            "created_at": "2026-10-24T21:45:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Rads286611/status/2114111072030597601#m",
+            "metrics": {
+              "like_count": 191,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 8
+            }
+          },
+          {
+            "id": "2114109815005852069",
+            "text": "Meu Rio de janeiro nunca decepciona, berço bolsonarista não somos malandros, somos conservadores.",
+            "author_username": "Rads286611",
+            "author_name": "Rads286611",
+            "created_at": "2026-10-24T21:40:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Rads286611/status/2114109815005852069#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114108161133064601",
+            "text": "Aqui no Rio de janeiro estaria todo arrebentado no chão. Covarde!",
+            "author_username": "Rads286611",
+            "author_name": "Rads286611",
+            "created_at": "2026-10-24T21:33:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Rads286611/status/2114108161133064601#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114106758423798141",
+            "text": "Flavio arrasta multidão no Rio de Janeiro e acaba de enterrar o caixão ⚰️ de lula",
+            "author_username": "CarlosA81661555",
+            "author_name": "CarlosA81661555",
+            "created_at": "2026-10-24T21:28:00+00:00",
+            "permalink": "https://nitter.mie.foundation/CarlosA81661555/status/2114106758423798141#m",
+            "metrics": {
+              "like_count": 620,
+              "reply_count": 0,
+              "retweet_count": 6,
+              "quote_count": 35
+            }
+          },
+          {
+            "id": "2114103778286657944",
+            "text": "Número 22 aqui no rio de janeiro é referencias ao Elias maluco do cv que matou repórter Tim Lopes da globo",
+            "author_username": "alepublicidades",
+            "author_name": "alepublicidades",
+            "created_at": "2026-10-24T21:16:00+00:00",
+            "permalink": "https://nitter.mie.foundation/alepublicidades/status/2114103778286657944#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114103765116846179",
+            "text": "Flavio bolsonaro finalizou a campanha nesse sábado no Rio de Janeiro arrastando mais de 10 milhões de pessoas O Rio de Janeiro é Flavio 22.",
+            "author_username": "CarlosA81661555",
+            "author_name": "CarlosA81661555",
+            "created_at": "2026-10-24T21:16:00+00:00",
+            "permalink": "https://nitter.mie.foundation/CarlosA81661555/status/2114103765116846179#m",
+            "metrics": {
+              "like_count": 642,
+              "reply_count": 0,
+              "retweet_count": 4,
+              "quote_count": 16
+            }
+          },
+          {
+            "id": "2114100443060011516",
+            "text": "22 é Elias maluco do cv que matou Tim Lopes repórter da globo,eu sou do rio de janeiro.",
+            "author_username": "alepublicidades",
+            "author_name": "alepublicidades",
+            "created_at": "2026-10-24T21:03:00+00:00",
+            "permalink": "https://nitter.mie.foundation/alepublicidades/status/2114100443060011516#m",
+            "metrics": {
+              "like_count": 268,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114100200914719169",
+            "text": "22 é Elias maluco do cv que matou Tim Lopes repórter da globo,eu sou do rio de janeiro.",
+            "author_username": "alepublicidades",
+            "author_name": "alepublicidades",
+            "created_at": "2026-10-24T21:02:00+00:00",
+            "permalink": "https://nitter.mie.foundation/alepublicidades/status/2114100200914719169#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114099984811385038",
+            "text": "22 é Elias maluco do cv que matou Tim Lopes repórter da globo,eu sou do rio de janeiro.",
+            "author_username": "alepublicidades",
+            "author_name": "alepublicidades",
+            "created_at": "2026-10-24T21:01:00+00:00",
+            "permalink": "https://nitter.mie.foundation/alepublicidades/status/2114099984811385038#m",
+            "metrics": {
+              "like_count": 104,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114097935596052740",
+            "text": "24/10/2026\nRio de Janeiro, RJ.\nFlávio Bolsonaro 22 🇧🇷 🇧🇷",
+            "author_username": "MariaAmelia2056",
+            "author_name": "MariaAmelia2056",
+            "created_at": "2026-10-24T20:53:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MariaAmelia2056/status/2114097935596052740#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114096438951206962",
+            "text": "Essa mãe tem razão no sofrimento e indignação, não tem o direito de julgar pois não é juíza. Río de Janeiro com a ajuda da esquerda se transformou em um campo de guerra. Essa bala pode ter saído da arma do polícia ou terrorista.",
+            "author_username": "LourivalAnton",
+            "author_name": "LourivalAnton",
+            "created_at": "2026-10-24T20:47:00+00:00",
+            "permalink": "https://nitter.mie.foundation/LourivalAnton/status/2114096438951206962#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114095609095340145",
+            "text": "Rio de janeiro",
+            "author_username": "DudduMauri50132",
+            "author_name": "DudduMauri50132",
+            "created_at": "2026-10-24T20:44:00+00:00",
+            "permalink": "https://nitter.mie.foundation/DudduMauri50132/status/2114095609095340145#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114095566556979685",
+            "text": "threads.com/share/BAi9quRqq4…\nEsse é o diálogo de dois administradores, do Rio de Janeiro e do Brasil. Observem o nível dos marginais.",
+            "author_username": "edumsb777",
+            "author_name": "edumsb777",
+            "created_at": "2026-10-24T20:43:00+00:00",
+            "permalink": "https://nitter.mie.foundation/edumsb777/status/2114095566556979685#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114091570760957982",
+            "text": "Rio de janeiro",
+            "author_username": "LuccasLdn18",
+            "author_name": "LuccasLdn18",
+            "created_at": "2026-10-24T20:28:00+00:00",
+            "permalink": "https://nitter.mie.foundation/LuccasLdn18/status/2114091570760957982#m",
+            "metrics": {
+              "like_count": 97,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114073471474917589",
+            "text": "Bloquinho 22 no Río de Janeiro.\n\nConcentração  nitter.mie.foundation/crisdemarchii/status/2…",
+            "author_username": "sinesio_vilaca",
+            "author_name": "sinesio_vilaca",
+            "created_at": "2026-10-24T19:16:00+00:00",
+            "permalink": "https://nitter.mie.foundation/sinesio_vilaca/status/2114073471474917589#m",
+            "metrics": {
+              "like_count": 902,
+              "reply_count": 1,
+              "retweet_count": 23,
+              "quote_count": 72
+            }
+          },
+          {
+            "id": "2114072806153416939",
+            "text": "#SabadouComLula no Rio de Janeiro \n#LulaEmCopacabana abafou!\nSão as últimas horas de uma campanha empolgante no segundo turno! Superação só #NaRuaComLula e nas redes virando voto! Agora, #SoMaisUmVotoPorLula é a tarefa até amanhã! OU VOCÊ CORTA FLAVIO OU ELE CORTA VOCÊ! #lula13",
+            "author_username": "renatosimoespt",
+            "author_name": "renatosimoespt",
+            "created_at": "2026-10-24T19:13:00+00:00",
+            "permalink": "https://nitter.mie.foundation/renatosimoespt/status/2114072806153416939#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 197,
+              "retweet_count": 218,
+              "quote_count": 349
+            }
+          },
+          {
+            "id": "2114072146888569132",
+            "text": "Add lá 21998252834 perdi seu número",
+            "author_username": "anismarcos98381",
+            "author_name": "anismarcos98381",
+            "created_at": "2026-10-24T19:10:00+00:00",
+            "permalink": "https://nitter.mie.foundation/anismarcos98381/status/2114072146888569132#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114055036913189096",
+            "text": "Eu estava lá: Copacabana  - Rio de Janeiro - Brasil \n#BoraLula",
+            "author_username": "mestreresende",
+            "author_name": "mestreresende",
+            "created_at": "2026-10-24T18:02:00+00:00",
+            "permalink": "https://nitter.mie.foundation/mestreresende/status/2114055036913189096#m",
+            "metrics": {
+              "like_count": 43,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114053920095936833",
+            "text": "#ComLulaNaRua\nEu meu caçula! Lutamos pela democracia, lutamos por Lula!!\nRio de Janeiro - Copacabana!! \nSó para registrar, as redes estão coincidentemente travando quando falamos de Lula.",
+            "author_username": "mjslima77",
+            "author_name": "mjslima77",
+            "created_at": "2026-10-24T17:58:00+00:00",
+            "permalink": "https://nitter.mie.foundation/mjslima77/status/2114053920095936833#m",
+            "metrics": {
+              "like_count": 42,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114050874163245357",
+            "text": "Então vamos para o Bloquinho do Flavio e do Nikolas aqui no Rio de Janeiro na Barra da Tijuca …\n\nDito isso é Flávio Bolsonaro 22🇧🇷💛💚",
+            "author_username": "Leandro04223331",
+            "author_name": "Leandro04223331",
+            "created_at": "2026-10-24T17:46:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Leandro04223331/status/2114050874163245357#m",
+            "metrics": {
+              "like_count": 531,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 13
+            }
+          },
+          {
+            "id": "2114049650969751656",
+            "text": "Flávio Bolsonaro arrasta multidão em motociata em BH com mobilização de Nikolas Ferreira.\nCandidato do PL realizou um dos últimos atos de campanha na capital mineira neste sábado, 24, e seguirá para o Rio de Janeiro.\nLeia mais share.google/6vFSkeR7RfJ65xN…",
+            "author_username": "aninhamofatto",
+            "author_name": "aninhamofatto",
+            "created_at": "2026-10-24T17:41:00+00:00",
+            "permalink": "https://nitter.mie.foundation/aninhamofatto/status/2114049650969751656#m",
+            "metrics": {
+              "like_count": 47,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114045291854794990",
+            "text": "To embarcando pro Rio de Janeiro agora porque #DeViradaÉMaisGostoso vambora gente",
+            "author_username": "BauenyBarroco",
+            "author_name": "BauenyBarroco",
+            "created_at": "2026-10-24T17:24:00+00:00",
+            "permalink": "https://nitter.mie.foundation/BauenyBarroco/status/2114045291854794990#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 13,
+              "retweet_count": 93,
+              "quote_count": 932
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 12,
+          "instance_used": "https://nitter.mie.foundation"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "assuntos_x_momento_ate_27out21h_20261026"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2115186885521989702",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115186885521989702",
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115186885521989702",
+        "text": "Vocês esqueceu que Tarcísio  é daqui do rio de janeiro e pertence o escritório do crime a melícia mais famosa do rj,e são Paulo abraçou ele,e agora o derrite ia ser o chefe da milícia em são paulo",
+        "author_username": "alepublicidades",
+        "author_name": "alepublicidades",
+        "created_at": "2026-10-27T21:00:00+00:00",
+        "permalink": "https://nitter.mie.foundation/alepublicidades/status/2115186885521989702#m",
+        "metrics": {
+          "like_count": 209,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115184974748160277",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115184974748160277",
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115184974748160277",
+        "text": "ESSE SR. SOLTOU LULA ESSE SR. PROIBIU POLICIA SUBIR NOS MORROS DO RIO JANEIRO ESTE SR. TIROU DAS MÃOS DE MENDONÇA RELATORIA CASOS MASTER E LULINHA ESSE SR. DEIXOU ZANIN INTERFERIR NAS ELEIÇÕES NÃO FALOU NADA O POVO PERCEBEU ISSO?",
+        "author_username": "AliciaFofuras",
+        "author_name": "AliciaFofuras",
+        "created_at": "2026-10-27T20:52:00+00:00",
+        "permalink": "https://nitter.mie.foundation/AliciaFofuras/status/2115184974748160277#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115182829071970491",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115182829071970491",
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "direita"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115182829071970491",
+        "text": "Rio de janeiro e espírito santo é muito mais direita que o rio grande do sul e vcs ficam nessa",
+        "author_username": "juan_meeeis",
+        "author_name": "juan_meeeis",
+        "created_at": "2026-10-27T20:44:00+00:00",
+        "permalink": "https://nitter.mie.foundation/juan_meeeis/status/2115182829071970491#m",
+        "metrics": {
+          "like_count": 41,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115181184397500660",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115181184397500660",
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115181184397500660",
+        "text": "PESSOAL,URGENTE! SEGUNDO TURNO NO RIO DE JANEIRO JÁ!",
+        "author_username": "barrosorg",
+        "author_name": "barrosorg",
+        "created_at": "2026-10-27T20:37:00+00:00",
+        "permalink": "https://nitter.mie.foundation/barrosorg/status/2115181184397500660#m",
+        "metrics": {
+          "like_count": 30,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115176322116837879",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115176322116837879",
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115176322116837879",
+        "text": "Em muitos filmes dos anos 70/80 o ladrão ou ditador vinha se esconder aqui no Brasil rsrs\nTeve um caso famoso de um ladrão inglês Ronald Biggs, virou \"celebridade\" no Rio de Janeiro \nO filho virou cantor mirim de sucesso na época \n\nbbc.com/portuguese/noticias/…",
+        "author_username": "EloNairo",
+        "author_name": "EloNairo",
+        "created_at": "2026-10-27T20:18:00+00:00",
+        "permalink": "https://nitter.mie.foundation/EloNairo/status/2115176322116837879#m",
+        "metrics": {
+          "like_count": 377,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115162051312341048",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115162051312341048",
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115162051312341048",
+        "text": "Não perdemos não. Temos Jurerê, Ubatuba, Rio de Janeiro e seu carnaval, Bonito, etc... NÃO PRECISAMOS DE VOCÊS.",
+        "author_username": "mahtukirenedra",
+        "author_name": "mahtukirenedra",
+        "created_at": "2026-10-27T19:21:00+00:00",
+        "permalink": "https://nitter.mie.foundation/mahtukirenedra/status/2115162051312341048#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115158898487570910",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115158898487570910",
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115158898487570910",
+        "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO! #SegundoTurnoNoRJ",
+        "author_username": "Anna_hope94",
+        "author_name": "Anna_hope94",
+        "created_at": "2026-10-27T19:09:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115158898487570910#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115158859174027664",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115158859174027664",
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115158859174027664",
+        "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO! #SegundoTurnoNoRJ",
+        "author_username": "Anna_hope94",
+        "author_name": "Anna_hope94",
+        "created_at": "2026-10-27T19:09:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115158859174027664#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115158431292432454",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115158431292432454",
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115158431292432454",
+        "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO! #SegundoTurnoNoRJ",
+        "author_username": "Anna_hope94",
+        "author_name": "Anna_hope94",
+        "created_at": "2026-10-27T19:07:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115158431292432454#m",
+        "metrics": {
+          "like_count": 17,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 2
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115158343451058309",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115158343451058309",
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115158343451058309",
+        "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO! #SegundoTurnoNoRJ",
+        "author_username": "Anna_hope94",
+        "author_name": "Anna_hope94",
+        "created_at": "2026-10-27T19:07:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115158343451058309#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115156457801019514",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115156457801019514",
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115156457801019514",
+        "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO!",
+        "author_username": "Anna_hope94",
+        "author_name": "Anna_hope94",
+        "created_at": "2026-10-27T18:59:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115156457801019514#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115156381200462237",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115156381200462237",
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115156381200462237",
+        "text": "@STF_oficial QUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO!",
+        "author_username": "Anna_hope94",
+        "author_name": "Anna_hope94",
+        "created_at": "2026-10-27T18:59:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2115156381200462237#m",
+        "metrics": {
+          "like_count": 20,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115136756668600799",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115136756668600799",
+      "collected_at": "2026-10-27T18:59:38-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115136756668600799",
+        "text": "O Rio de Janeiro quer segundo turno!\n\n#SegundoTurnoNoRJ",
+        "author_username": "levi_mario84",
+        "author_name": "levi_mario84",
+        "created_at": "2026-10-27T17:41:00+00:00",
+        "permalink": "https://nitter.mie.foundation/levi_mario84/status/2115136756668600799#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}
