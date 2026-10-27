@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Minas Gerais",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+    "collected_at": "2026-10-27T09:50:45-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 145
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115050329054019659",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115050329054019659",
+      "parent_post_id": null,
+      "thread_root_id": "2115050329054019659",
+      "author": {
+        "platform_id": null,
+        "display_name": "real_033",
+        "username": "real_033",
+        "profile_url": "https://x.com/real_033"
+      },
+      "text": "Tarcísio, Flôr Cadangueira 🌹.\nCom uma marca destas na testa? \nEsqueça.\nTarcísio é Bolsonaro. Assim como o maluco de Minas Gerais Nicolas, entre outros.\nA \"direita\" precisará fazer um expurgo. Sob pena de ser expurgada da realidade política brasileira. Olha cara do governador 👇",
+      "created_at": "2026-10-27T11:57:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T09:50:45-03:00",
+      "permalink": "https://nitter.meowing.monster/real_033/status/2115050329054019659#m",
+      "metrics": {
+        "like_count": 9,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "direita"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 12,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115050329054019659",
+        "text": "Tarcísio, Flôr Cadangueira 🌹.\nCom uma marca destas na testa? \nEsqueça.\nTarcísio é Bolsonaro. Assim como o maluco de Minas Gerais Nicolas, entre outros.\nA \"direita\" precisará fazer um expurgo. Sob pena de ser expurgada da realidade política brasileira. Olha cara do governador 👇",
+        "author_username": "real_033",
+        "author_name": "real_033",
+        "created_at": "2026-10-27T11:57:00+00:00",
+        "permalink": "https://nitter.meowing.monster/real_033/status/2115050329054019659#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 277,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115044624632877139",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115044624632877139",
+      "parent_post_id": null,
+      "thread_root_id": "2115044624632877139",
+      "author": {
+        "platform_id": null,
+        "display_name": "CaLeBeS23",
+        "username": "CaLeBeS23",
+        "profile_url": "https://x.com/CaLeBeS23"
+      },
+      "text": "Paulista é elitista mesmo, eu sou um deles, tanto que fico no site do IBGE comparando cidades de São Paulo com as de Minas Gerais, Paraná e Rio de Janeiro, mas tenho a humildade de abraçar o Brasil inteiro por que somos uma só nação, mas você entende ser humano 😂😂😂😂😂",
+      "created_at": "2026-10-27T11:35:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T09:50:45-03:00",
+      "permalink": "https://nitter.meowing.monster/CaLeBeS23/status/2115044624632877139#m",
+      "metrics": {
+        "like_count": 22,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Minas Gerais",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 12,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115044624632877139",
+        "text": "Paulista é elitista mesmo, eu sou um deles, tanto que fico no site do IBGE comparando cidades de São Paulo com as de Minas Gerais, Paraná e Rio de Janeiro, mas tenho a humildade de abraçar o Brasil inteiro por que somos uma só nação, mas você entende ser humano 😂😂😂😂😂",
+        "author_username": "CaLeBeS23",
+        "author_name": "CaLeBeS23",
+        "created_at": "2026-10-27T11:35:00+00:00",
+        "permalink": "https://nitter.meowing.monster/CaLeBeS23/status/2115044624632877139#m",
+        "metrics": {
+          "like_count": 22,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 267,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
