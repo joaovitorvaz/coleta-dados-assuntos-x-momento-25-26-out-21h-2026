@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "#EleccionesBrasil2026",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+    "collected_at": "2026-10-27T00:01:45-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 16
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114866188568130003",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114866188568130003",
+      "parent_post_id": null,
+      "thread_root_id": "2114866188568130003",
+      "author": {
+        "platform_id": null,
+        "display_name": "mr_vpsantos",
+        "username": "mr_vpsantos",
+        "profile_url": "https://x.com/mr_vpsantos"
+      },
+      "text": "O valor para quem não votar sem justificativa nas leis eleitorais do Brasil é de nada mais ou nada menos do que no valor de R$3,51 @TSEjusbr #Eleicoes2026 #EleccionesBrasil2026 #EleicoesBRASIL2026 #BrazilElection2026 #democrata",
+      "created_at": "2026-10-26T23:46:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:01:45-03:00",
+      "permalink": "https://nitter.netbub.com/mr_vpsantos/status/2114866188568130003#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#EleccionesBrasil2026",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114866188568130003",
+        "text": "O valor para quem não votar sem justificativa nas leis eleitorais do Brasil é de nada mais ou nada menos do que no valor de R$3,51 @TSEjusbr #Eleicoes2026 #EleccionesBrasil2026 #EleicoesBRASIL2026 #BrazilElection2026 #democrata",
+        "author_username": "mr_vpsantos",
+        "author_name": "mr_vpsantos",
+        "created_at": "2026-10-26T23:46:00+00:00",
+        "permalink": "https://nitter.netbub.com/mr_vpsantos/status/2114866188568130003#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 227,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114756040688329158",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114756040688329158",
+      "parent_post_id": null,
+      "thread_root_id": "2114756040688329158",
+      "author": {
+        "platform_id": null,
+        "display_name": "novinhospzode19",
+        "username": "novinhospzode19",
+        "profile_url": "https://x.com/novinhospzode19"
+      },
+      "text": "Do nada só da petista gostosa no meu fy lkkkk\nlkkkk \n#EleccionesBrasil2026 #LulaPresidente #petista \n#GOSTOSOSCOMLULA",
+      "created_at": "2026-10-26T16:28:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:01:45-03:00",
+      "permalink": "https://nitter.netbub.com/novinhospzode19/status/2114756040688329158#m",
+      "metrics": {
+        "like_count": 203,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#EleccionesBrasil2026",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114756040688329158",
+        "text": "Do nada só da petista gostosa no meu fy lkkkk\nlkkkk \n#EleccionesBrasil2026 #LulaPresidente #petista \n#GOSTOSOSCOMLULA",
+        "author_username": "novinhospzode19",
+        "author_name": "novinhospzode19",
+        "created_at": "2026-10-26T16:28:00+00:00",
+        "permalink": "https://nitter.netbub.com/novinhospzode19/status/2114756040688329158#m",
+        "metrics": {
+          "like_count": 203,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 117,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

@@ -1,0 +1,288 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "VIVA A DEMOCRACIA",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+    "collected_at": "2026-10-27T00:01:02-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 4,
+      "comments": 0,
+      "records_total": 4,
+      "skipped_duplicate": 96
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114816394709655594",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114816394709655594",
+      "parent_post_id": null,
+      "thread_root_id": "2114816394709655594",
+      "author": {
+        "platform_id": null,
+        "display_name": "GambaroSantos",
+        "username": "GambaroSantos",
+        "profile_url": "https://x.com/GambaroSantos"
+      },
+      "text": "Urgente: viva a democracia. \n\nApós proclamação do resultado nesse domingo 25/10 Moraes da ordem a pf para apreender passporte de Flávio Bolsonaro. \n\nApós vista hoje pela manhã ao pai que está em prisão domiciliar, Flávio é intimado ainda na rua da casa do seu pai \n#newsbrasil #🇧🇷",
+      "created_at": "2026-10-26T20:28:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:01:02-03:00",
+      "permalink": "https://nitter.meowing.monster/GambaroSantos/status/2114816394709655594#m",
+      "metrics": {
+        "like_count": 33,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 9,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114816394709655594",
+        "text": "Urgente: viva a democracia. \n\nApós proclamação do resultado nesse domingo 25/10 Moraes da ordem a pf para apreender passporte de Flávio Bolsonaro. \n\nApós vista hoje pela manhã ao pai que está em prisão domiciliar, Flávio é intimado ainda na rua da casa do seu pai \n#newsbrasil #🇧🇷",
+        "author_username": "GambaroSantos",
+        "author_name": "GambaroSantos",
+        "created_at": "2026-10-26T20:28:00+00:00",
+        "permalink": "https://nitter.meowing.monster/GambaroSantos/status/2114816394709655594#m",
+        "metrics": {
+          "like_count": 33,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 280,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114767237185753239",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114767237185753239",
+      "parent_post_id": null,
+      "thread_root_id": "2114767237185753239",
+      "author": {
+        "platform_id": null,
+        "display_name": "msmabdalla",
+        "username": "msmabdalla",
+        "profile_url": "https://x.com/msmabdalla"
+      },
+      "text": "Robou o coração  de 64 milhões de brasileiros! \nAceita! Viva a democracia!",
+      "created_at": "2026-10-26T17:12:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:01:02-03:00",
+      "permalink": "https://nitter.meowing.monster/msmabdalla/status/2114767237185753239#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 9,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114767237185753239",
+        "text": "Robou o coração  de 64 milhões de brasileiros! \nAceita! Viva a democracia!",
+        "author_username": "msmabdalla",
+        "author_name": "msmabdalla",
+        "created_at": "2026-10-26T17:12:00+00:00",
+        "permalink": "https://nitter.meowing.monster/msmabdalla/status/2114767237185753239#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 74,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114743148786205149",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114743148786205149",
+      "parent_post_id": null,
+      "thread_root_id": "2114743148786205149",
+      "author": {
+        "platform_id": null,
+        "display_name": "aleklean",
+        "username": "aleklean",
+        "profile_url": "https://x.com/aleklean"
+      },
+      "text": "Que a direita se reconstrua longe dos filhotes da ditadura. Viva a esquerda e a direita democrática.\n Viva a Democracia!\n\nAssista o vídeo abaixo pra refletirem.\ninstagram.com/reel/Dem8opST3…",
+      "created_at": "2026-10-26T15:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:01:02-03:00",
+      "permalink": "https://nitter.meowing.monster/aleklean/status/2114743148786205149#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "direita",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 9,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114743148786205149",
+        "text": "Que a direita se reconstrua longe dos filhotes da ditadura. Viva a esquerda e a direita democrática.\n Viva a Democracia!\n\nAssista o vídeo abaixo pra refletirem.\ninstagram.com/reel/Dem8opST3…",
+        "author_username": "aleklean",
+        "author_name": "aleklean",
+        "created_at": "2026-10-26T15:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/aleklean/status/2114743148786205149#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 190,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114741439439532529",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114741439439532529",
+      "parent_post_id": null,
+      "thread_root_id": "2114741439439532529",
+      "author": {
+        "platform_id": null,
+        "display_name": "lumoonbunny",
+        "username": "lumoonbunny",
+        "profile_url": "https://x.com/lumoonbunny"
+      },
+      "text": "Realmente a Taylor Swift é o nosso sacrifício para termos democracia, dito isso viva a loirinha",
+      "created_at": "2026-10-26T15:30:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:01:02-03:00",
+      "permalink": "https://nitter.meowing.monster/lumoonbunny/status/2114741439439532529#m",
+      "metrics": {
+        "like_count": 102,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 9,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114741439439532529",
+        "text": "Realmente a Taylor Swift é o nosso sacrifício para termos democracia, dito isso viva a loirinha",
+        "author_username": "lumoonbunny",
+        "author_name": "lumoonbunny",
+        "created_at": "2026-10-26T15:30:00+00:00",
+        "permalink": "https://nitter.meowing.monster/lumoonbunny/status/2114741439439532529#m",
+        "metrics": {
+          "like_count": 102,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 95,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

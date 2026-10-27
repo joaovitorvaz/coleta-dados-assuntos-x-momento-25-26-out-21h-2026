@@ -1,0 +1,389 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "#EleccionesBrasil2026",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+    "collected_at": "2026-10-27T00:01:45-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 16
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114866188568130003",
+            "text": "O valor para quem não votar sem justificativa nas leis eleitorais do Brasil é de nada mais ou nada menos do que no valor de R$3,51 @TSEjusbr #Eleicoes2026 #EleccionesBrasil2026 #EleicoesBRASIL2026 #BrazilElection2026 #democrata",
+            "author_username": "mr_vpsantos",
+            "author_name": "mr_vpsantos",
+            "created_at": "2026-10-26T23:46:00+00:00",
+            "permalink": "https://nitter.netbub.com/mr_vpsantos/status/2114866188568130003#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114756040688329158",
+            "text": "Do nada só da petista gostosa no meu fy lkkkk\nlkkkk \n#EleccionesBrasil2026 #LulaPresidente #petista \n#GOSTOSOSCOMLULA",
+            "author_username": "novinhospzode19",
+            "author_name": "novinhospzode19",
+            "created_at": "2026-10-26T16:28:00+00:00",
+            "permalink": "https://nitter.netbub.com/novinhospzode19/status/2114756040688329158#m",
+            "metrics": {
+              "like_count": 203,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114710197520216503",
+            "text": "Hahaha Melhor Twitter ate agora \n#EleccionesBrasil2026 #Eleicoes2026 #LulaVaiVencer #LulaPelaDemocracia #LulaPresidente",
+            "author_username": "Lycca",
+            "author_name": "Lycca",
+            "created_at": "2026-10-26T13:26:00+00:00",
+            "permalink": "https://nitter.netbub.com/Lycca/status/2114710197520216503#m",
+            "metrics": {
+              "like_count": 139,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114708280761070016",
+            "text": "#LulaPelaDemocracia #EleccionesBrasil2026 \n\nEUMATHEUS Musica Experimental\ndiscoseumatheus.bandcamp.com…",
+            "author_username": "EUMATHEUSmusic",
+            "author_name": "EUMATHEUSmusic",
+            "created_at": "2026-10-26T13:18:00+00:00",
+            "permalink": "https://nitter.netbub.com/EUMATHEUSmusic/status/2114708280761070016#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114707138765332862",
+            "text": "Já estou pronta!!!\n#EleccionesBrasil2026 \n#LulaReeleito \n#LulaPelaDemocracia",
+            "author_username": "Dulangalpha",
+            "author_name": "Dulangalpha",
+            "created_at": "2026-10-26T13:14:00+00:00",
+            "permalink": "https://nitter.netbub.com/Dulangalpha/status/2114707138765332862#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114701567794520179",
+            "text": "Não sei vcs, mas eu ri com a apuração Argentina\n#Eleições2026 #EleccionesBrasil2026 #Eleicoes2026",
+            "author_username": "xpandaren",
+            "author_name": "xpandaren",
+            "created_at": "2026-10-26T12:51:00+00:00",
+            "permalink": "https://nitter.netbub.com/xpandaren/status/2114701567794520179#m",
+            "metrics": {
+              "like_count": 240,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 9
+            }
+          },
+          {
+            "id": "2114674533164539999",
+            "text": "Frase do dia: \"não se pode pedir a nulidade de um ato processual se a própria parte que a alega deu causa\"\n#EleccionesBrasil2026 #LulaPelaDemocracia #Lula13 #LulaPresidente #LulaReeleito",
+            "author_username": "RobsonSLinhares",
+            "author_name": "RobsonSLinhares",
+            "created_at": "2026-10-26T11:04:00+00:00",
+            "permalink": "https://nitter.netbub.com/RobsonSLinhares/status/2114674533164539999#m",
+            "metrics": {
+              "like_count": 22,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114662040983703555",
+            "text": "BOOOM DIAAAAAA!! \n#LulaPelaDemocracia #EleccionesBrasil2026 #fyp",
+            "author_username": "serra4ndre",
+            "author_name": "serra4ndre",
+            "created_at": "2026-10-26T10:14:00+00:00",
+            "permalink": "https://nitter.netbub.com/serra4ndre/status/2114662040983703555#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114576726650937641",
+            "text": "VAMOS ORGANIZAR UMA CARAVANA SAINDO DE PETROLINA/JUAZEIRO PARA ASSISTIR A POSSE EM BRASÍLIA POR FAVORRRRRR 🇧🇷😭✨🌟\n#EleccionesBrasil2026 #LulaPelaDemocracia #LulaPresidente",
+            "author_username": "weed__blue",
+            "author_name": "weed__blue",
+            "created_at": "2026-10-26T04:35:00+00:00",
+            "permalink": "https://nitter.netbub.com/weed__blue/status/2114576726650937641#m",
+            "metrics": {
+              "like_count": 76,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114552190182264993",
+            "text": "O Povo Mineiro São Fodas ⭐️❤️\n#EleccionesBrasil2026 \n#LulaPelaDemocracia",
+            "author_username": "Luanamaciel453",
+            "author_name": "Luanamaciel453",
+            "created_at": "2026-10-26T02:58:00+00:00",
+            "permalink": "https://nitter.netbub.com/Luanamaciel453/status/2114552190182264993#m",
+            "metrics": {
+              "like_count": 40,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114542190315679943",
+            "text": "Nunca vi tanta gente com a camiseta da Seleção Brasileira na minha vida! Deu impressão que o Brasil estava na final da Copa do Mundo!\n#EleccionesBrasil2026 #EleicoesBRASIL2026 #brazilelections2026 #Politica",
+            "author_username": "mr_vpsantos",
+            "author_name": "mr_vpsantos",
+            "created_at": "2026-10-26T02:18:00+00:00",
+            "permalink": "https://nitter.netbub.com/mr_vpsantos/status/2114542190315679943#m",
+            "metrics": {
+              "like_count": 68,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114539471542616373",
+            "text": "REGISTROS HISTÓRICOS DE 2° TURNO DA ELEIÇÃO BRASILEIRA 2026!\n\n#EleccionesBrasil2026 #Eleições2026 #Lula13 #ExércitodoLula #LulaPresidente",
+            "author_username": "ovulgooficial",
+            "author_name": "ovulgooficial",
+            "created_at": "2026-10-26T02:07:00+00:00",
+            "permalink": "https://nitter.netbub.com/ovulgooficial/status/2114539471542616373#m",
+            "metrics": {
+              "like_count": 219,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114530310138323214",
+            "text": "nem o pai, muito menos o filho\n\n#LulaPelaDemocracia \n#EleccionesBrasil2026",
+            "author_username": "moneyismylovee",
+            "author_name": "moneyismylovee",
+            "created_at": "2026-10-26T01:31:00+00:00",
+            "permalink": "https://nitter.netbub.com/moneyismylovee/status/2114530310138323214#m",
+            "metrics": {
+              "like_count": 99,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114525694239948833",
+            "text": "Agora é garantir a posse!  A luta não acabou!\nAvante camaradas!\n\n#EleccionesBrasil2026 #Eleições2026",
+            "author_username": "xpandaren",
+            "author_name": "xpandaren",
+            "created_at": "2026-10-26T01:13:00+00:00",
+            "permalink": "https://nitter.netbub.com/xpandaren/status/2114525694239948833#m",
+            "metrics": {
+              "like_count": 434,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 7
+            }
+          },
+          {
+            "id": "2114521274173047181",
+            "text": "Lula reeleito ❤️ \n#EleccionesBrasil2026",
+            "author_username": "r_de_beto",
+            "author_name": "r_de_beto",
+            "created_at": "2026-10-26T00:55:00+00:00",
+            "permalink": "https://nitter.netbub.com/r_de_beto/status/2114521274173047181#m",
+            "metrics": {
+              "like_count": 88,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114520162414071822",
+            "text": "Lula reeleito ❤️ \n#EleccionesBrasil2026",
+            "author_username": "r_de_beto",
+            "author_name": "r_de_beto",
+            "created_at": "2026-10-26T00:51:00+00:00",
+            "permalink": "https://nitter.netbub.com/r_de_beto/status/2114520162414071822#m",
+            "metrics": {
+              "like_count": 68,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114519026730734000",
+            "text": "Lula reeleito ❤️ \n#EleccionesBrasil2026",
+            "author_username": "r_de_beto",
+            "author_name": "r_de_beto",
+            "created_at": "2026-10-26T00:46:00+00:00",
+            "permalink": "https://nitter.netbub.com/r_de_beto/status/2114519026730734000#m",
+            "metrics": {
+              "like_count": 236,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114510957766676814",
+            "text": "Viva Minas Gerais ,O Nordeste e o Janones\n#EleccionesBrasil2026",
+            "author_username": "eloisasiqueira7",
+            "author_name": "eloisasiqueira7",
+            "created_at": "2026-10-26T00:14:00+00:00",
+            "permalink": "https://nitter.netbub.com/eloisasiqueira7/status/2114510957766676814#m",
+            "metrics": {
+              "like_count": 500,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114502246268371338",
+            "text": "Que orgulho do Nordeste ⭐️❤️\n#EleccionesBrasil2026 #NordestinosComLula",
+            "author_username": "Luanamaciel453",
+            "author_name": "Luanamaciel453",
+            "created_at": "2026-10-25T23:39:00+00:00",
+            "permalink": "https://nitter.netbub.com/Luanamaciel453/status/2114502246268371338#m",
+            "metrics": {
+              "like_count": 461,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114501660978360795",
+            "text": "Temos q agradecer muito a eles #Eleicoes2026 #EleccionesBrasil2026",
+            "author_username": "Fabiportodas",
+            "author_name": "Fabiportodas",
+            "created_at": "2026-10-25T23:37:00+00:00",
+            "permalink": "https://nitter.netbub.com/Fabiportodas/status/2114501660978360795#m",
+            "metrics": {
+              "like_count": 657,
+              "reply_count": 1,
+              "retweet_count": 6,
+              "quote_count": 20
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 6,
+          "instance_used": "https://nitter.netbub.com"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "assuntos_x_momento_ate_27out21h_20261026"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114866188568130003",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114866188568130003",
+      "collected_at": "2026-10-27T00:01:45-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#EleccionesBrasil2026",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114866188568130003",
+        "text": "O valor para quem não votar sem justificativa nas leis eleitorais do Brasil é de nada mais ou nada menos do que no valor de R$3,51 @TSEjusbr #Eleicoes2026 #EleccionesBrasil2026 #EleicoesBRASIL2026 #BrazilElection2026 #democrata",
+        "author_username": "mr_vpsantos",
+        "author_name": "mr_vpsantos",
+        "created_at": "2026-10-26T23:46:00+00:00",
+        "permalink": "https://nitter.netbub.com/mr_vpsantos/status/2114866188568130003#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114756040688329158",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114756040688329158",
+      "collected_at": "2026-10-27T00:01:45-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#EleccionesBrasil2026",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114756040688329158",
+        "text": "Do nada só da petista gostosa no meu fy lkkkk\nlkkkk \n#EleccionesBrasil2026 #LulaPresidente #petista \n#GOSTOSOSCOMLULA",
+        "author_username": "novinhospzode19",
+        "author_name": "novinhospzode19",
+        "created_at": "2026-10-26T16:28:00+00:00",
+        "permalink": "https://nitter.netbub.com/novinhospzode19/status/2114756040688329158#m",
+        "metrics": {
+          "like_count": 203,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}

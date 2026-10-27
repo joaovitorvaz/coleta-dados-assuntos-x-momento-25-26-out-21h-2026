@@ -1,0 +1,3605 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Golpe",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+    "collected_at": "2026-10-27T00:04:46-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 54,
+      "comments": 0,
+      "records_total": 54,
+      "skipped_duplicate": 146
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114911034485903499",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114911034485903499",
+      "parent_post_id": null,
+      "thread_root_id": "2114911034485903499",
+      "author": {
+        "platform_id": null,
+        "display_name": "Samuel_Bastille",
+        "username": "Samuel_Bastille",
+        "profile_url": "https://x.com/Samuel_Bastille"
+      },
+      "text": "Teria que ser uma traição coordenada, Hugo Motta, Davi Alcolumbre e Geraldo Alckmin, sem contar o aval do STF para não barrar o \"golpe\".",
+      "created_at": "2026-10-27T02:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/Samuel_Bastille/status/2114911034485903499#m",
+      "metrics": {
+        "like_count": 33,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114911034485903499",
+        "text": "Teria que ser uma traição coordenada, Hugo Motta, Davi Alcolumbre e Geraldo Alckmin, sem contar o aval do STF para não barrar o \"golpe\".",
+        "author_username": "Samuel_Bastille",
+        "author_name": "Samuel_Bastille",
+        "created_at": "2026-10-27T02:44:00+00:00",
+        "permalink": "https://nitter.netbub.com/Samuel_Bastille/status/2114911034485903499#m",
+        "metrics": {
+          "like_count": 33,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 136,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114908527453962659",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114908527453962659",
+      "parent_post_id": null,
+      "thread_root_id": "2114908527453962659",
+      "author": {
+        "platform_id": null,
+        "display_name": "mbernadete429",
+        "username": "mbernadete429",
+        "profile_url": "https://x.com/mbernadete429"
+      },
+      "text": "Posso falar uma coisa VC viu mídia preparando tudo pra golpe eles não tem 30porceto eles tiraram voto nulos jogaram no nordeste mesmo coisa 2018",
+      "created_at": "2026-10-27T02:34:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/mbernadete429/status/2114908527453962659#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114908527453962659",
+        "text": "Posso falar uma coisa VC viu mídia preparando tudo pra golpe eles não tem 30porceto eles tiraram voto nulos jogaram no nordeste mesmo coisa 2018",
+        "author_username": "mbernadete429",
+        "author_name": "mbernadete429",
+        "created_at": "2026-10-27T02:34:00+00:00",
+        "permalink": "https://nitter.netbub.com/mbernadete429/status/2114908527453962659#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 144,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114904058532077920",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114904058532077920",
+      "parent_post_id": null,
+      "thread_root_id": "2114904058532077920",
+      "author": {
+        "platform_id": null,
+        "display_name": "munho30496",
+        "username": "munho30496",
+        "profile_url": "https://x.com/munho30496"
+      },
+      "text": "Não engoliram Flávio ganhar no primeiro turno. Tiveram 2 semanas para armar o Golpe.",
+      "created_at": "2026-10-27T02:16:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/munho30496/status/2114904058532077920#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114904058532077920",
+        "text": "Não engoliram Flávio ganhar no primeiro turno. Tiveram 2 semanas para armar o Golpe.",
+        "author_username": "munho30496",
+        "author_name": "munho30496",
+        "created_at": "2026-10-27T02:16:00+00:00",
+        "permalink": "https://nitter.netbub.com/munho30496/status/2114904058532077920#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 84,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114902697732194360",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114902697732194360",
+      "parent_post_id": null,
+      "thread_root_id": "2114902697732194360",
+      "author": {
+        "platform_id": null,
+        "display_name": "mar13_sand",
+        "username": "mar13_sand",
+        "profile_url": "https://x.com/mar13_sand"
+      },
+      "text": "Tem muito prefeito do Brasil que retirou ônibus, praticamente todos da extrema direita. Inclusive o Neto Donato prefeito de São Carlos interior de SP. Punição para todos esses golpistas, essa tentativa de golpe não pode ficar impune.",
+      "created_at": "2026-10-27T02:11:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/mar13_sand/status/2114902697732194360#m",
+      "metrics": {
+        "like_count": 341,
+        "reply_count": 1,
+        "retweet_count": 10,
+        "quote_count": 31
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "direita"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114902697732194360",
+        "text": "Tem muito prefeito do Brasil que retirou ônibus, praticamente todos da extrema direita. Inclusive o Neto Donato prefeito de São Carlos interior de SP. Punição para todos esses golpistas, essa tentativa de golpe não pode ficar impune.",
+        "author_username": "mar13_sand",
+        "author_name": "mar13_sand",
+        "created_at": "2026-10-27T02:11:00+00:00",
+        "permalink": "https://nitter.netbub.com/mar13_sand/status/2114902697732194360#m",
+        "metrics": {
+          "like_count": 341,
+          "reply_count": 1,
+          "retweet_count": 10,
+          "quote_count": 31
+        }
+      },
+      "normalized": {
+        "text_length": 233,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114890435613040992",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114890435613040992",
+      "parent_post_id": null,
+      "thread_root_id": "2114890435613040992",
+      "author": {
+        "platform_id": null,
+        "display_name": "igor28905091695",
+        "username": "igor28905091695",
+        "profile_url": "https://x.com/igor28905091695"
+      },
+      "text": "Golpe a luz do Dia. Pqp.",
+      "created_at": "2026-10-27T01:22:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/igor28905091695/status/2114890435613040992#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114890435613040992",
+        "text": "Golpe a luz do Dia. Pqp.",
+        "author_username": "igor28905091695",
+        "author_name": "igor28905091695",
+        "created_at": "2026-10-27T01:22:00+00:00",
+        "permalink": "https://nitter.netbub.com/igor28905091695/status/2114890435613040992#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 24,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114886717761085799",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114886717761085799",
+      "parent_post_id": null,
+      "thread_root_id": "2114886717761085799",
+      "author": {
+        "platform_id": null,
+        "display_name": "Marcio_Roberson",
+        "username": "Marcio_Roberson",
+        "profile_url": "https://x.com/Marcio_Roberson"
+      },
+      "text": "FHC, 1985. Capital SP. Primeira eleição direta nas capitais depos do golpe de 64.",
+      "created_at": "2026-10-27T01:07:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/Marcio_Roberson/status/2114886717761085799#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114886717761085799",
+        "text": "FHC, 1985. Capital SP. Primeira eleição direta nas capitais depos do golpe de 64.",
+        "author_username": "Marcio_Roberson",
+        "author_name": "Marcio_Roberson",
+        "created_at": "2026-10-27T01:07:00+00:00",
+        "permalink": "https://nitter.netbub.com/Marcio_Roberson/status/2114886717761085799#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 81,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114882745730322529",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114882745730322529",
+      "parent_post_id": null,
+      "thread_root_id": "2114882745730322529",
+      "author": {
+        "platform_id": null,
+        "display_name": "mbernadete429",
+        "username": "mbernadete429",
+        "profile_url": "https://x.com/mbernadete429"
+      },
+      "text": "Posso perguntar uma coisa vcs já deram golpe está no poder ok vcs tanto incomoda com a direita eram pra vcs está festa não é não estranho",
+      "created_at": "2026-10-27T00:51:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/mbernadete429/status/2114882745730322529#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "direita"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114882745730322529",
+        "text": "Posso perguntar uma coisa vcs já deram golpe está no poder ok vcs tanto incomoda com a direita eram pra vcs está festa não é não estranho",
+        "author_username": "mbernadete429",
+        "author_name": "mbernadete429",
+        "created_at": "2026-10-27T00:51:00+00:00",
+        "permalink": "https://nitter.netbub.com/mbernadete429/status/2114882745730322529#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 137,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114880937980723505",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114880937980723505",
+      "parent_post_id": null,
+      "thread_root_id": "2114880937980723505",
+      "author": {
+        "platform_id": null,
+        "display_name": "AustranSantos",
+        "username": "AustranSantos",
+        "profile_url": "https://x.com/AustranSantos"
+      },
+      "text": "Golpe ?? kkkkk\nMinhas satisfações só está comecando.\nNada como um dia depois de uma eleição roubada 😇",
+      "created_at": "2026-10-27T00:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/AustranSantos/status/2114880937980723505#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114880937980723505",
+        "text": "Golpe ?? kkkkk\nMinhas satisfações só está comecando.\nNada como um dia depois de uma eleição roubada 😇",
+        "author_username": "AustranSantos",
+        "author_name": "AustranSantos",
+        "created_at": "2026-10-27T00:44:00+00:00",
+        "permalink": "https://nitter.netbub.com/AustranSantos/status/2114880937980723505#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 101,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114876769769586790",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114876769769586790",
+      "parent_post_id": null,
+      "thread_root_id": "2114876769769586790",
+      "author": {
+        "platform_id": null,
+        "display_name": "LLazzar59",
+        "username": "LLazzar59",
+        "profile_url": "https://x.com/LLazzar59"
+      },
+      "text": "Até parece que eles vão anular e correrem o risco de serem presos por fraude. Anular seria admitir o golpe.",
+      "created_at": "2026-10-27T00:28:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/LLazzar59/status/2114876769769586790#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114876769769586790",
+        "text": "Até parece que eles vão anular e correrem o risco de serem presos por fraude. Anular seria admitir o golpe.",
+        "author_username": "LLazzar59",
+        "author_name": "LLazzar59",
+        "created_at": "2026-10-27T00:28:00+00:00",
+        "permalink": "https://nitter.netbub.com/LLazzar59/status/2114876769769586790#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 107,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114868272369635410",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114868272369635410",
+      "parent_post_id": null,
+      "thread_root_id": "2114868272369635410",
+      "author": {
+        "platform_id": null,
+        "display_name": "dandoshowaqui",
+        "username": "dandoshowaqui",
+        "profile_url": "https://x.com/dandoshowaqui"
+      },
+      "text": "Um irmão foragido, o pai além de tentar dar um golpe de Estado, tentou remover a tornozeleira eletrônica pra fugir também, e vocês acham exagero tirar o passaporte de um cara envolvido numa máfia tão grande como ele está? Pelo amor de Deus!",
+      "created_at": "2026-10-26T23:54:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/dandoshowaqui/status/2114868272369635410#m",
+      "metrics": {
+        "like_count": 40,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114868272369635410",
+        "text": "Um irmão foragido, o pai além de tentar dar um golpe de Estado, tentou remover a tornozeleira eletrônica pra fugir também, e vocês acham exagero tirar o passaporte de um cara envolvido numa máfia tão grande como ele está? Pelo amor de Deus!",
+        "author_username": "dandoshowaqui",
+        "author_name": "dandoshowaqui",
+        "created_at": "2026-10-26T23:54:00+00:00",
+        "permalink": "https://nitter.netbub.com/dandoshowaqui/status/2114868272369635410#m",
+        "metrics": {
+          "like_count": 40,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 240,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114861581192266189",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114861581192266189",
+      "parent_post_id": null,
+      "thread_root_id": "2114861581192266189",
+      "author": {
+        "platform_id": null,
+        "display_name": "rodrigombl",
+        "username": "rodrigombl",
+        "profile_url": "https://x.com/rodrigombl"
+      },
+      "text": "Quanto a essa história do candidato vencer no 1º turno e perder no 2º, isso ocorreu em 2024 nas eleições para prefeito de Fortaleza. Se no Brasil foi um golpe, aqui foi antes\n@andrefernm",
+      "created_at": "2026-10-26T23:27:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/rodrigombl/status/2114861581192266189#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114861581192266189",
+        "text": "Quanto a essa história do candidato vencer no 1º turno e perder no 2º, isso ocorreu em 2024 nas eleições para prefeito de Fortaleza. Se no Brasil foi um golpe, aqui foi antes\n@andrefernm",
+        "author_username": "rodrigombl",
+        "author_name": "rodrigombl",
+        "created_at": "2026-10-26T23:27:00+00:00",
+        "permalink": "https://nitter.netbub.com/rodrigombl/status/2114861581192266189#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 186,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114851863535259950",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114851863535259950",
+      "parent_post_id": null,
+      "thread_root_id": "2114851863535259950",
+      "author": {
+        "platform_id": null,
+        "display_name": "RueliPaulo70721",
+        "username": "RueliPaulo70721",
+        "profile_url": "https://x.com/RueliPaulo70721"
+      },
+      "text": "Ele não reeleito! Dick vigarista trapaceiro deu golpe denovo!",
+      "created_at": "2026-10-26T22:49:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/RueliPaulo70721/status/2114851863535259950#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114851863535259950",
+        "text": "Ele não reeleito! Dick vigarista trapaceiro deu golpe denovo!",
+        "author_username": "RueliPaulo70721",
+        "author_name": "RueliPaulo70721",
+        "created_at": "2026-10-26T22:49:00+00:00",
+        "permalink": "https://nitter.netbub.com/RueliPaulo70721/status/2114851863535259950#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 61,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114851141892616586",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114851141892616586",
+      "parent_post_id": null,
+      "thread_root_id": "2114851141892616586",
+      "author": {
+        "platform_id": null,
+        "display_name": "paulo47araujo",
+        "username": "paulo47araujo",
+        "profile_url": "https://x.com/paulo47araujo"
+      },
+      "text": "instagram.com/reel/DdkE7bhAC…\nA nossa luta não é de agora. E falamos de artistas de verdade, eternos que jamais serão esquecidos.\nSão esses heróis e suas músicas que nos mantém alertas contra GOLPE.🚩",
+      "created_at": "2026-10-26T22:46:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/paulo47araujo/status/2114851141892616586#m",
+      "metrics": {
+        "like_count": 42,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114851141892616586",
+        "text": "instagram.com/reel/DdkE7bhAC…\nA nossa luta não é de agora. E falamos de artistas de verdade, eternos que jamais serão esquecidos.\nSão esses heróis e suas músicas que nos mantém alertas contra GOLPE.🚩",
+        "author_username": "paulo47araujo",
+        "author_name": "paulo47araujo",
+        "created_at": "2026-10-26T22:46:00+00:00",
+        "permalink": "https://nitter.netbub.com/paulo47araujo/status/2114851141892616586#m",
+        "metrics": {
+          "like_count": 42,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 199,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114846841640476896",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114846841640476896",
+      "parent_post_id": null,
+      "thread_root_id": "2114846841640476896",
+      "author": {
+        "platform_id": null,
+        "display_name": "missmariabeatz",
+        "username": "missmariabeatz",
+        "profile_url": "https://x.com/missmariabeatz"
+      },
+      "text": "Por favor, engajem. Nós merecemos segundo turno. Levamos um golpe da corja que explora o Estado há anos!\n#exercitododudu55 \n#queremossegundoturnonorj",
+      "created_at": "2026-10-26T22:29:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/missmariabeatz/status/2114846841640476896#m",
+      "metrics": {
+        "like_count": 220,
+        "reply_count": 0,
+        "retweet_count": 3,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114846841640476896",
+        "text": "Por favor, engajem. Nós merecemos segundo turno. Levamos um golpe da corja que explora o Estado há anos!\n#exercitododudu55 \n#queremossegundoturnonorj",
+        "author_username": "missmariabeatz",
+        "author_name": "missmariabeatz",
+        "created_at": "2026-10-26T22:29:00+00:00",
+        "permalink": "https://nitter.netbub.com/missmariabeatz/status/2114846841640476896#m",
+        "metrics": {
+          "like_count": 220,
+          "reply_count": 0,
+          "retweet_count": 3,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 149,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114844921878159492",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114844921878159492",
+      "parent_post_id": null,
+      "thread_root_id": "2114844921878159492",
+      "author": {
+        "platform_id": null,
+        "display_name": "helmerconecta",
+        "username": "helmerconecta",
+        "profile_url": "https://x.com/helmerconecta"
+      },
+      "text": "🚨 MALA COM DROGAS EM #GUARULHOS: BRASILEIRA DESCOBRE GOLPE EM SEU NOME!\nyoutu.be/TA-s9LjAY0Y #aeroporto #saopaulo",
+      "created_at": "2026-10-26T22:21:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/helmerconecta/status/2114844921878159492#m",
+      "metrics": {
+        "like_count": 59,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114844921878159492",
+        "text": "🚨 MALA COM DROGAS EM #GUARULHOS: BRASILEIRA DESCOBRE GOLPE EM SEU NOME!\nyoutu.be/TA-s9LjAY0Y #aeroporto #saopaulo",
+        "author_username": "helmerconecta",
+        "author_name": "helmerconecta",
+        "created_at": "2026-10-26T22:21:00+00:00",
+        "permalink": "https://nitter.netbub.com/helmerconecta/status/2114844921878159492#m",
+        "metrics": {
+          "like_count": 59,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 113,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114844510035272093",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114844510035272093",
+      "parent_post_id": null,
+      "thread_root_id": "2114844510035272093",
+      "author": {
+        "platform_id": null,
+        "display_name": "crypt_archangel",
+        "username": "crypt_archangel",
+        "profile_url": "https://x.com/crypt_archangel"
+      },
+      "text": "Kkkkkkkkkkkkkkkkk\n\nSabemos muito bem quem aplica Golpe",
+      "created_at": "2026-10-26T22:19:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/crypt_archangel/status/2114844510035272093#m",
+      "metrics": {
+        "like_count": 19,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114844510035272093",
+        "text": "Kkkkkkkkkkkkkkkkk\n\nSabemos muito bem quem aplica Golpe",
+        "author_username": "crypt_archangel",
+        "author_name": "crypt_archangel",
+        "created_at": "2026-10-26T22:19:00+00:00",
+        "permalink": "https://nitter.netbub.com/crypt_archangel/status/2114844510035272093#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 54,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114843831094935645",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114843831094935645",
+      "parent_post_id": null,
+      "thread_root_id": "2114843831094935645",
+      "author": {
+        "platform_id": null,
+        "display_name": "Erlishenrique",
+        "username": "Erlishenrique",
+        "profile_url": "https://x.com/Erlishenrique"
+      },
+      "text": "Você tem parecente histórico de um sujeito que não aceitou a derrota. Foi para outro país e tentou dar um Golpe de estado. Deixando a manada dele quebrar todo o congresso?",
+      "created_at": "2026-10-26T22:17:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/Erlishenrique/status/2114843831094935645#m",
+      "metrics": {
+        "like_count": 335,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114843831094935645",
+        "text": "Você tem parecente histórico de um sujeito que não aceitou a derrota. Foi para outro país e tentou dar um Golpe de estado. Deixando a manada dele quebrar todo o congresso?",
+        "author_username": "Erlishenrique",
+        "author_name": "Erlishenrique",
+        "created_at": "2026-10-26T22:17:00+00:00",
+        "permalink": "https://nitter.netbub.com/Erlishenrique/status/2114843831094935645#m",
+        "metrics": {
+          "like_count": 335,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 171,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114838304646398093",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114838304646398093",
+      "parent_post_id": null,
+      "thread_root_id": "2114838304646398093",
+      "author": {
+        "platform_id": null,
+        "display_name": "ArnildoKamien",
+        "username": "ArnildoKamien",
+        "profile_url": "https://x.com/ArnildoKamien"
+      },
+      "text": "É GOLPE 😡",
+      "created_at": "2026-10-26T21:55:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/ArnildoKamien/status/2114838304646398093#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114838304646398093",
+        "text": "É GOLPE 😡",
+        "author_username": "ArnildoKamien",
+        "author_name": "ArnildoKamien",
+        "created_at": "2026-10-26T21:55:00+00:00",
+        "permalink": "https://nitter.netbub.com/ArnildoKamien/status/2114838304646398093#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 9,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114837390275797360",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114837390275797360",
+      "parent_post_id": null,
+      "thread_root_id": "2114837390275797360",
+      "author": {
+        "platform_id": null,
+        "display_name": "MateusC08996451",
+        "username": "MateusC08996451",
+        "profile_url": "https://x.com/MateusC08996451"
+      },
+      "text": "Você(s) votaram em um cara que como membro da família Bolsonaro foi até os EUA negociar com a extrema direita americana para que o Brasil fosse taxado, e o Eduardo irmão de Flávio, ainda comemorou essas tarifas.\n\nVocê(s) votaram em um grupo que tinha como plano dá um golpe!",
+      "created_at": "2026-10-26T21:51:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/MateusC08996451/status/2114837390275797360#m",
+      "metrics": {
+        "like_count": 20,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "direita",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114837390275797360",
+        "text": "Você(s) votaram em um cara que como membro da família Bolsonaro foi até os EUA negociar com a extrema direita americana para que o Brasil fosse taxado, e o Eduardo irmão de Flávio, ainda comemorou essas tarifas.\n\nVocê(s) votaram em um grupo que tinha como plano dá um golpe!",
+        "author_username": "MateusC08996451",
+        "author_name": "MateusC08996451",
+        "created_at": "2026-10-26T21:51:00+00:00",
+        "permalink": "https://nitter.netbub.com/MateusC08996451/status/2114837390275797360#m",
+        "metrics": {
+          "like_count": 20,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 274,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114834368816726247",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114834368816726247",
+      "parent_post_id": null,
+      "thread_root_id": "2114834368816726247",
+      "author": {
+        "platform_id": null,
+        "display_name": "RobeiltonL",
+        "username": "RobeiltonL",
+        "profile_url": "https://x.com/RobeiltonL"
+      },
+      "text": "Olavo disse não tem mais eleições no Brasil o Ai5TF e TSE cada eleição é um golpe",
+      "created_at": "2026-10-26T21:39:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/RobeiltonL/status/2114834368816726247#m",
+      "metrics": {
+        "like_count": 48,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114834368816726247",
+        "text": "Olavo disse não tem mais eleições no Brasil o Ai5TF e TSE cada eleição é um golpe",
+        "author_username": "RobeiltonL",
+        "author_name": "RobeiltonL",
+        "created_at": "2026-10-26T21:39:00+00:00",
+        "permalink": "https://nitter.netbub.com/RobeiltonL/status/2114834368816726247#m",
+        "metrics": {
+          "like_count": 48,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 81,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114829758001471831",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114829758001471831",
+      "parent_post_id": null,
+      "thread_root_id": "2114829758001471831",
+      "author": {
+        "platform_id": null,
+        "display_name": "matheuscarfc",
+        "username": "matheuscarfc",
+        "profile_url": "https://x.com/matheuscarfc"
+      },
+      "text": "Tentativa de golpe a caminho",
+      "created_at": "2026-10-26T21:21:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/matheuscarfc/status/2114829758001471831#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114829758001471831",
+        "text": "Tentativa de golpe a caminho",
+        "author_username": "matheuscarfc",
+        "author_name": "matheuscarfc",
+        "created_at": "2026-10-26T21:21:00+00:00",
+        "permalink": "https://nitter.netbub.com/matheuscarfc/status/2114829758001471831#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 28,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114825971706597539",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114825971706597539",
+      "parent_post_id": null,
+      "thread_root_id": "2114825971706597539",
+      "author": {
+        "platform_id": null,
+        "display_name": "brilhante1957",
+        "username": "brilhante1957",
+        "profile_url": "https://x.com/brilhante1957"
+      },
+      "text": "g1.globo.com/mundo/noticia/2…! E não é que foi😜 o golpe estava desenhado! Vergonha e o passaporte do Maraes, ja goi apreendido???Sera q a grana do vorcaro esta na conta dele e da mulher???",
+      "created_at": "2026-10-26T21:06:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/brilhante1957/status/2114825971706597539#m",
+      "metrics": {
+        "like_count": 19,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114825971706597539",
+        "text": "g1.globo.com/mundo/noticia/2…! E não é que foi😜 o golpe estava desenhado! Vergonha e o passaporte do Maraes, ja goi apreendido???Sera q a grana do vorcaro esta na conta dele e da mulher???",
+        "author_username": "brilhante1957",
+        "author_name": "brilhante1957",
+        "created_at": "2026-10-26T21:06:00+00:00",
+        "permalink": "https://nitter.netbub.com/brilhante1957/status/2114825971706597539#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 188,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114824424012800442",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114824424012800442",
+      "parent_post_id": null,
+      "thread_root_id": "2114824424012800442",
+      "author": {
+        "platform_id": null,
+        "display_name": "CintiaDS2",
+        "username": "CintiaDS2",
+        "profile_url": "https://x.com/CintiaDS2"
+      },
+      "text": "Pra quê? Pra vazar informações e depois a galera do grupo ser presa por tentativa de golpe via whatsapp? Olha o que aconteceu com o pessoal do 08/01. Aí será o motivo que eles querem pra regulamentar as redes sociais. \nEu não entro nessa furada.. 👍🏻",
+      "created_at": "2026-10-26T21:00:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/CintiaDS2/status/2114824424012800442#m",
+      "metrics": {
+        "like_count": 21,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114824424012800442",
+        "text": "Pra quê? Pra vazar informações e depois a galera do grupo ser presa por tentativa de golpe via whatsapp? Olha o que aconteceu com o pessoal do 08/01. Aí será o motivo que eles querem pra regulamentar as redes sociais. \nEu não entro nessa furada.. 👍🏻",
+        "author_username": "CintiaDS2",
+        "author_name": "CintiaDS2",
+        "created_at": "2026-10-26T21:00:00+00:00",
+        "permalink": "https://nitter.netbub.com/CintiaDS2/status/2114824424012800442#m",
+        "metrics": {
+          "like_count": 21,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 249,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114823667414896825",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114823667414896825",
+      "parent_post_id": null,
+      "thread_root_id": "2114823667414896825",
+      "author": {
+        "platform_id": null,
+        "display_name": "mauronardi",
+        "username": "mauronardi",
+        "profile_url": "https://x.com/mauronardi"
+      },
+      "text": "Golpe descaradamente. Essas urnas não tem nem comprovante impresso. Vamos às ruas. O Brasil foi roubado #OBrasilFoiRoubado Brazil was robbed twice #Brazilwasrobbedtwice #SOS #Help @realdonaldtrump 🇧🇷🇺🇲",
+      "created_at": "2026-10-26T20:57:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/mauronardi/status/2114823667414896825#m",
+      "metrics": {
+        "like_count": 19,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114823667414896825",
+        "text": "Golpe descaradamente. Essas urnas não tem nem comprovante impresso. Vamos às ruas. O Brasil foi roubado #OBrasilFoiRoubado Brazil was robbed twice #Brazilwasrobbedtwice #SOS #Help @realdonaldtrump 🇧🇷🇺🇲",
+        "author_username": "mauronardi",
+        "author_name": "mauronardi",
+        "created_at": "2026-10-26T20:57:00+00:00",
+        "permalink": "https://nitter.netbub.com/mauronardi/status/2114823667414896825#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 201,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114823500112290293",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114823500112290293",
+      "parent_post_id": null,
+      "thread_root_id": "2114823500112290293",
+      "author": {
+        "platform_id": null,
+        "display_name": "faebriela",
+        "username": "faebriela",
+        "profile_url": "https://x.com/faebriela"
+      },
+      "text": "Ser de extrema direita é muito fácil deve ser muito bom pros caras poder literalmente arquitetar um golpe de estado e 10 anos depois ser chamado de \"direita democrática\" por gente que se diz de esquerda",
+      "created_at": "2026-10-26T20:56:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/faebriela/status/2114823500112290293#m",
+      "metrics": {
+        "like_count": 406,
+        "reply_count": 2,
+        "retweet_count": 3,
+        "quote_count": 23
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "direita",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114823500112290293",
+        "text": "Ser de extrema direita é muito fácil deve ser muito bom pros caras poder literalmente arquitetar um golpe de estado e 10 anos depois ser chamado de \"direita democrática\" por gente que se diz de esquerda",
+        "author_username": "faebriela",
+        "author_name": "faebriela",
+        "created_at": "2026-10-26T20:56:00+00:00",
+        "permalink": "https://nitter.netbub.com/faebriela/status/2114823500112290293#m",
+        "metrics": {
+          "like_count": 406,
+          "reply_count": 2,
+          "retweet_count": 3,
+          "quote_count": 23
+        }
+      },
+      "normalized": {
+        "text_length": 202,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114822868198715448",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114822868198715448",
+      "parent_post_id": null,
+      "thread_root_id": "2114822868198715448",
+      "author": {
+        "platform_id": null,
+        "display_name": "mauronardi",
+        "username": "mauronardi",
+        "profile_url": "https://x.com/mauronardi"
+      },
+      "text": "Golpe descaradamente. Essas urnas não tem nem comprovante impresso. Vamos às ruas. O Brasil foi roubado #OBrasilFoiRoubado Brazil was robbed twice #Brazilwasrobbedtwice #SOS #Help @realdonaldtrump 🇧🇷🇺🇲",
+      "created_at": "2026-10-26T20:53:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/mauronardi/status/2114822868198715448#m",
+      "metrics": {
+        "like_count": 16,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114822868198715448",
+        "text": "Golpe descaradamente. Essas urnas não tem nem comprovante impresso. Vamos às ruas. O Brasil foi roubado #OBrasilFoiRoubado Brazil was robbed twice #Brazilwasrobbedtwice #SOS #Help @realdonaldtrump 🇧🇷🇺🇲",
+        "author_username": "mauronardi",
+        "author_name": "mauronardi",
+        "created_at": "2026-10-26T20:53:00+00:00",
+        "permalink": "https://nitter.netbub.com/mauronardi/status/2114822868198715448#m",
+        "metrics": {
+          "like_count": 16,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 201,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114822624433807858",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114822624433807858",
+      "parent_post_id": null,
+      "thread_root_id": "2114822624433807858",
+      "author": {
+        "platform_id": null,
+        "display_name": "mauronardi",
+        "username": "mauronardi",
+        "profile_url": "https://x.com/mauronardi"
+      },
+      "text": "Golpe descaradamente. Essas urnas não tem nem comprovante impresso. Vamos às ruas. O Brasil foi roubado #OBrasilFoiRoubado Brazil was robbed twice #Brazilwasrobbedtwice #SOS #Help @realdonaldtrump @elonmusk 🇧🇷🇺🇲",
+      "created_at": "2026-10-26T20:52:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/mauronardi/status/2114822624433807858#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114822624433807858",
+        "text": "Golpe descaradamente. Essas urnas não tem nem comprovante impresso. Vamos às ruas. O Brasil foi roubado #OBrasilFoiRoubado Brazil was robbed twice #Brazilwasrobbedtwice #SOS #Help @realdonaldtrump @elonmusk 🇧🇷🇺🇲",
+        "author_username": "mauronardi",
+        "author_name": "mauronardi",
+        "created_at": "2026-10-26T20:52:00+00:00",
+        "permalink": "https://nitter.netbub.com/mauronardi/status/2114822624433807858#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 211,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114822394955378813",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114822394955378813",
+      "parent_post_id": null,
+      "thread_root_id": "2114822394955378813",
+      "author": {
+        "platform_id": null,
+        "display_name": "mauronardi",
+        "username": "mauronardi",
+        "profile_url": "https://x.com/mauronardi"
+      },
+      "text": "Golpe descaradamente. Essas urnas não tem nem comprovante impresso. Vamos às ruas. O Brasil foi roubado #OBrasilFoiRoubado Brazil was robbed twice #Brazilwasrobbedtwice #SOS #Help @realdonaldtrump 🇧🇷🇺🇲",
+      "created_at": "2026-10-26T20:52:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/mauronardi/status/2114822394955378813#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114822394955378813",
+        "text": "Golpe descaradamente. Essas urnas não tem nem comprovante impresso. Vamos às ruas. O Brasil foi roubado #OBrasilFoiRoubado Brazil was robbed twice #Brazilwasrobbedtwice #SOS #Help @realdonaldtrump 🇧🇷🇺🇲",
+        "author_username": "mauronardi",
+        "author_name": "mauronardi",
+        "created_at": "2026-10-26T20:52:00+00:00",
+        "permalink": "https://nitter.netbub.com/mauronardi/status/2114822394955378813#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 201,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114822199660171316",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114822199660171316",
+      "parent_post_id": null,
+      "thread_root_id": "2114822199660171316",
+      "author": {
+        "platform_id": null,
+        "display_name": "mauronardi",
+        "username": "mauronardi",
+        "profile_url": "https://x.com/mauronardi"
+      },
+      "text": "Golpe descaradamente. Essas urnas não tem nem comprovante impresso. Vamos às ruas. O Brasil foi roubado #OBrasilFoiRoubado Brazil was robbed twice #Brazilwasrobbedtwice #SOS #Help @realdonaldtrump @elonmusk @marcorubio 🇧🇷🇺🇲",
+      "created_at": "2026-10-26T20:51:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/mauronardi/status/2114822199660171316#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114822199660171316",
+        "text": "Golpe descaradamente. Essas urnas não tem nem comprovante impresso. Vamos às ruas. O Brasil foi roubado #OBrasilFoiRoubado Brazil was robbed twice #Brazilwasrobbedtwice #SOS #Help @realdonaldtrump @elonmusk @marcorubio 🇧🇷🇺🇲",
+        "author_username": "mauronardi",
+        "author_name": "mauronardi",
+        "created_at": "2026-10-26T20:51:00+00:00",
+        "permalink": "https://nitter.netbub.com/mauronardi/status/2114822199660171316#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 223,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114821848521146792",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114821848521146792",
+      "parent_post_id": null,
+      "thread_root_id": "2114821848521146792",
+      "author": {
+        "platform_id": null,
+        "display_name": "munho30496",
+        "username": "munho30496",
+        "profile_url": "https://x.com/munho30496"
+      },
+      "text": "O golpe foi após Flávio ganhar no primeiro turno. Está provado.pela Meta que há videos gravados antes do dia 25 de artistas da Globo. Não sejam ingênuos, Está foi a forma que Chaves e Maduro ficaram no poder por anos.",
+      "created_at": "2026-10-26T20:49:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/munho30496/status/2114821848521146792#m",
+      "metrics": {
+        "like_count": 22,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114821848521146792",
+        "text": "O golpe foi após Flávio ganhar no primeiro turno. Está provado.pela Meta que há videos gravados antes do dia 25 de artistas da Globo. Não sejam ingênuos, Está foi a forma que Chaves e Maduro ficaram no poder por anos.",
+        "author_username": "munho30496",
+        "author_name": "munho30496",
+        "created_at": "2026-10-26T20:49:00+00:00",
+        "permalink": "https://nitter.netbub.com/munho30496/status/2114821848521146792#m",
+        "metrics": {
+          "like_count": 22,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 217,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114812929618989449",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114812929618989449",
+      "parent_post_id": null,
+      "thread_root_id": "2114812929618989449",
+      "author": {
+        "platform_id": null,
+        "display_name": "munho30496",
+        "username": "munho30496",
+        "profile_url": "https://x.com/munho30496"
+      },
+      "text": "O golpe estava armado desde o primeiro turno. Não sejam ingênuos de haver nova eleição.  Ainda correm o risco de fechar o congresso..",
+      "created_at": "2026-10-26T20:14:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/munho30496/status/2114812929618989449#m",
+      "metrics": {
+        "like_count": 9,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114812929618989449",
+        "text": "O golpe estava armado desde o primeiro turno. Não sejam ingênuos de haver nova eleição.  Ainda correm o risco de fechar o congresso..",
+        "author_username": "munho30496",
+        "author_name": "munho30496",
+        "created_at": "2026-10-26T20:14:00+00:00",
+        "permalink": "https://nitter.netbub.com/munho30496/status/2114812929618989449#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 133,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114812745593884989",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114812745593884989",
+      "parent_post_id": null,
+      "thread_root_id": "2114812745593884989",
+      "author": {
+        "platform_id": null,
+        "display_name": "batistaprimo",
+        "username": "batistaprimo",
+        "profile_url": "https://x.com/batistaprimo"
+      },
+      "text": "Natuza Nery, por não está indo muito longe sobre a família Bolsonaro a respeito d Flávio Bolsonaro, o mesmo foi derrotado, esse que perdeu a eleição, ao invés d aceitar o resultado não tentar golpe, isso só alimenta o Bolsonarismo colocando pólvora n berrante para explodir o gado",
+      "created_at": "2026-10-26T20:13:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/batistaprimo/status/2114812745593884989#m",
+      "metrics": {
+        "like_count": 59,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114812745593884989",
+        "text": "Natuza Nery, por não está indo muito longe sobre a família Bolsonaro a respeito d Flávio Bolsonaro, o mesmo foi derrotado, esse que perdeu a eleição, ao invés d aceitar o resultado não tentar golpe, isso só alimenta o Bolsonarismo colocando pólvora n berrante para explodir o gado",
+        "author_username": "batistaprimo",
+        "author_name": "batistaprimo",
+        "created_at": "2026-10-26T20:13:00+00:00",
+        "permalink": "https://nitter.netbub.com/batistaprimo/status/2114812745593884989#m",
+        "metrics": {
+          "like_count": 59,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 280,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114805631701930455",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114805631701930455",
+      "parent_post_id": null,
+      "thread_root_id": "2114805631701930455",
+      "author": {
+        "platform_id": null,
+        "display_name": "munho30496",
+        "username": "munho30496",
+        "profile_url": "https://x.com/munho30496"
+      },
+      "text": "Eu esperava um golpe , depois que Flávio ganhou no primeiro turno..Agora é esperar fecharem o congresso. Escreve amiga.",
+      "created_at": "2026-10-26T19:45:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/munho30496/status/2114805631701930455#m",
+      "metrics": {
+        "like_count": 20,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114805631701930455",
+        "text": "Eu esperava um golpe , depois que Flávio ganhou no primeiro turno..Agora é esperar fecharem o congresso. Escreve amiga.",
+        "author_username": "munho30496",
+        "author_name": "munho30496",
+        "created_at": "2026-10-26T19:45:00+00:00",
+        "permalink": "https://nitter.netbub.com/munho30496/status/2114805631701930455#m",
+        "metrics": {
+          "like_count": 20,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 119,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114805336377106771",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114805336377106771",
+      "parent_post_id": null,
+      "thread_root_id": "2114805336377106771",
+      "author": {
+        "platform_id": null,
+        "display_name": "panetoneguy",
+        "username": "panetoneguy",
+        "profile_url": "https://x.com/panetoneguy"
+      },
+      "text": "Não acho que 100% do eleitorado do Flávio vá cair nesse papo de golpe, grande parte de quem votou nele votou mais por anti petismo do que alinhamento ideológico ao bolsonarismo. No geral essa narrativa pega mais no núcleo duro (que fica cada vez menor) o povo brasileiro quer paz",
+      "created_at": "2026-10-26T19:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/panetoneguy/status/2114805336377106771#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114805336377106771",
+        "text": "Não acho que 100% do eleitorado do Flávio vá cair nesse papo de golpe, grande parte de quem votou nele votou mais por anti petismo do que alinhamento ideológico ao bolsonarismo. No geral essa narrativa pega mais no núcleo duro (que fica cada vez menor) o povo brasileiro quer paz",
+        "author_username": "panetoneguy",
+        "author_name": "panetoneguy",
+        "created_at": "2026-10-26T19:44:00+00:00",
+        "permalink": "https://nitter.netbub.com/panetoneguy/status/2114805336377106771#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 279,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114799445812387987",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114799445812387987",
+      "parent_post_id": null,
+      "thread_root_id": "2114799445812387987",
+      "author": {
+        "platform_id": null,
+        "display_name": "jjcarlossouza",
+        "username": "jjcarlossouza",
+        "profile_url": "https://x.com/jjcarlossouza"
+      },
+      "text": "Caiu no golpe do MST",
+      "created_at": "2026-10-26T19:20:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/jjcarlossouza/status/2114799445812387987#m",
+      "metrics": {
+        "like_count": 56,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114799445812387987",
+        "text": "Caiu no golpe do MST",
+        "author_username": "jjcarlossouza",
+        "author_name": "jjcarlossouza",
+        "created_at": "2026-10-26T19:20:00+00:00",
+        "permalink": "https://nitter.netbub.com/jjcarlossouza/status/2114799445812387987#m",
+        "metrics": {
+          "like_count": 56,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 20,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114797832813371820",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114797832813371820",
+      "parent_post_id": null,
+      "thread_root_id": "2114797832813371820",
+      "author": {
+        "platform_id": null,
+        "display_name": "Gbarrocass",
+        "username": "Gbarrocass",
+        "profile_url": "https://x.com/Gbarrocass"
+      },
+      "text": "Não vai ter golpe! #exercitododudu55",
+      "created_at": "2026-10-26T19:14:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/Gbarrocass/status/2114797832813371820#m",
+      "metrics": {
+        "like_count": 628,
+        "reply_count": 8,
+        "retweet_count": 26,
+        "quote_count": 68
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114797832813371820",
+        "text": "Não vai ter golpe! #exercitododudu55",
+        "author_username": "Gbarrocass",
+        "author_name": "Gbarrocass",
+        "created_at": "2026-10-26T19:14:00+00:00",
+        "permalink": "https://nitter.netbub.com/Gbarrocass/status/2114797832813371820#m",
+        "metrics": {
+          "like_count": 628,
+          "reply_count": 8,
+          "retweet_count": 26,
+          "quote_count": 68
+        }
+      },
+      "normalized": {
+        "text_length": 36,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114796255410892802",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114796255410892802",
+      "parent_post_id": null,
+      "thread_root_id": "2114796255410892802",
+      "author": {
+        "platform_id": null,
+        "display_name": "euchrisg",
+        "username": "euchrisg",
+        "profile_url": "https://x.com/euchrisg"
+      },
+      "text": "STF cadê o segundo turno do Rio de Janeiro. Não aceitamos esse golpe diante dos nossos olhos. \n#exercitododudu55",
+      "created_at": "2026-10-26T19:08:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/euchrisg/status/2114796255410892802#m",
+      "metrics": {
+        "like_count": 16,
+        "reply_count": 0,
+        "retweet_count": 2,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114796255410892802",
+        "text": "STF cadê o segundo turno do Rio de Janeiro. Não aceitamos esse golpe diante dos nossos olhos. \n#exercitododudu55",
+        "author_username": "euchrisg",
+        "author_name": "euchrisg",
+        "created_at": "2026-10-26T19:08:00+00:00",
+        "permalink": "https://nitter.netbub.com/euchrisg/status/2114796255410892802#m",
+        "metrics": {
+          "like_count": 16,
+          "reply_count": 0,
+          "retweet_count": 2,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 112,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114795966729515143",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114795966729515143",
+      "parent_post_id": null,
+      "thread_root_id": "2114795966729515143",
+      "author": {
+        "platform_id": null,
+        "display_name": "euchrisg",
+        "username": "euchrisg",
+        "profile_url": "https://x.com/euchrisg"
+      },
+      "text": "Esse golpe não irá vencer, a gente tem que ter direito ao voto. \n#exercitododudu55",
+      "created_at": "2026-10-26T19:07:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/euchrisg/status/2114795966729515143#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114795966729515143",
+        "text": "Esse golpe não irá vencer, a gente tem que ter direito ao voto. \n#exercitododudu55",
+        "author_username": "euchrisg",
+        "author_name": "euchrisg",
+        "created_at": "2026-10-26T19:07:00+00:00",
+        "permalink": "https://nitter.netbub.com/euchrisg/status/2114795966729515143#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 82,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114790428385988927",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114790428385988927",
+      "parent_post_id": null,
+      "thread_root_id": "2114790428385988927",
+      "author": {
+        "platform_id": null,
+        "display_name": "profangelapsol",
+        "username": "profangelapsol",
+        "profile_url": "https://x.com/profangelapsol"
+      },
+      "text": "🔥 NÃO VAI TER GOLPE",
+      "created_at": "2026-10-26T18:45:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/profangelapsol/status/2114790428385988927#m",
+      "metrics": {
+        "like_count": 567,
+        "reply_count": 0,
+        "retweet_count": 11,
+        "quote_count": 74
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114790428385988927",
+        "text": "🔥 NÃO VAI TER GOLPE",
+        "author_username": "profangelapsol",
+        "author_name": "profangelapsol",
+        "created_at": "2026-10-26T18:45:00+00:00",
+        "permalink": "https://nitter.netbub.com/profangelapsol/status/2114790428385988927#m",
+        "metrics": {
+          "like_count": 567,
+          "reply_count": 0,
+          "retweet_count": 11,
+          "quote_count": 74
+        }
+      },
+      "normalized": {
+        "text_length": 19,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114789379004936356",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114789379004936356",
+      "parent_post_id": null,
+      "thread_root_id": "2114789379004936356",
+      "author": {
+        "platform_id": null,
+        "display_name": "pedrofm197214",
+        "username": "pedrofm197214",
+        "profile_url": "https://x.com/pedrofm197214"
+      },
+      "text": "QUE GOLPE DE MESTRE. QUE DEUS PROTEJA ESSA ABENÇOADA JOVEM DO VERDADEIRO FASIAMO PETISTA. @pfigueiredo08 , @ludmilagrilo11. . . @allanconta5",
+      "created_at": "2026-10-26T18:40:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/pedrofm197214/status/2114789379004936356#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114789379004936356",
+        "text": "QUE GOLPE DE MESTRE. QUE DEUS PROTEJA ESSA ABENÇOADA JOVEM DO VERDADEIRO FASIAMO PETISTA. @pfigueiredo08 , @ludmilagrilo11. . . @allanconta5",
+        "author_username": "pedrofm197214",
+        "author_name": "pedrofm197214",
+        "created_at": "2026-10-26T18:40:00+00:00",
+        "permalink": "https://nitter.netbub.com/pedrofm197214/status/2114789379004936356#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 140,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114788981858595097",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114788981858595097",
+      "parent_post_id": null,
+      "thread_root_id": "2114788981858595097",
+      "author": {
+        "platform_id": null,
+        "display_name": "CrisBernart",
+        "username": "CrisBernart",
+        "profile_url": "https://x.com/CrisBernart"
+      },
+      "text": "Golpe de quem?",
+      "created_at": "2026-10-26T18:39:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/CrisBernart/status/2114788981858595097#m",
+      "metrics": {
+        "like_count": 70,
+        "reply_count": 2,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114788981858595097",
+        "text": "Golpe de quem?",
+        "author_username": "CrisBernart",
+        "author_name": "CrisBernart",
+        "created_at": "2026-10-26T18:39:00+00:00",
+        "permalink": "https://nitter.netbub.com/CrisBernart/status/2114788981858595097#m",
+        "metrics": {
+          "like_count": 70,
+          "reply_count": 2,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 14,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114786798391927232",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114786798391927232",
+      "parent_post_id": null,
+      "thread_root_id": "2114786798391927232",
+      "author": {
+        "platform_id": null,
+        "display_name": "MarinoBoni27242",
+        "username": "MarinoBoni27242",
+        "profile_url": "https://x.com/MarinoBoni27242"
+      },
+      "text": "Ou seja, as urnas é uma ilusão só existe pra ilicitude ao o golpe, nunca existiu contagem de votos.\nSempre foi ao gosto de uma máfia.🇧🇷",
+      "created_at": "2026-10-26T18:30:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/MarinoBoni27242/status/2114786798391927232#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114786798391927232",
+        "text": "Ou seja, as urnas é uma ilusão só existe pra ilicitude ao o golpe, nunca existiu contagem de votos.\nSempre foi ao gosto de uma máfia.🇧🇷",
+        "author_username": "MarinoBoni27242",
+        "author_name": "MarinoBoni27242",
+        "created_at": "2026-10-26T18:30:00+00:00",
+        "permalink": "https://nitter.netbub.com/MarinoBoni27242/status/2114786798391927232#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 135,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114780322306863523",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114780322306863523",
+      "parent_post_id": null,
+      "thread_root_id": "2114780322306863523",
+      "author": {
+        "platform_id": null,
+        "display_name": "Cinthiacasagra5",
+        "username": "Cinthiacasagra5",
+        "profile_url": "https://x.com/Cinthiacasagra5"
+      },
+      "text": "É o golpe tá aí.",
+      "created_at": "2026-10-26T18:04:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/Cinthiacasagra5/status/2114780322306863523#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114780322306863523",
+        "text": "É o golpe tá aí.",
+        "author_username": "Cinthiacasagra5",
+        "author_name": "Cinthiacasagra5",
+        "created_at": "2026-10-26T18:04:00+00:00",
+        "permalink": "https://nitter.netbub.com/Cinthiacasagra5/status/2114780322306863523#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 16,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114776460175233318",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114776460175233318",
+      "parent_post_id": null,
+      "thread_root_id": "2114776460175233318",
+      "author": {
+        "platform_id": null,
+        "display_name": "EstrelaMas19639",
+        "username": "EstrelaMas19639",
+        "profile_url": "https://x.com/EstrelaMas19639"
+      },
+      "text": "Foi golpe",
+      "created_at": "2026-10-26T17:49:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/EstrelaMas19639/status/2114776460175233318#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114776460175233318",
+        "text": "Foi golpe",
+        "author_username": "EstrelaMas19639",
+        "author_name": "EstrelaMas19639",
+        "created_at": "2026-10-26T17:49:00+00:00",
+        "permalink": "https://nitter.netbub.com/EstrelaMas19639/status/2114776460175233318#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 9,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114773806179041603",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114773806179041603",
+      "parent_post_id": null,
+      "thread_root_id": "2114773806179041603",
+      "author": {
+        "platform_id": null,
+        "display_name": "IzabelAdemir",
+        "username": "IzabelAdemir",
+        "profile_url": "https://x.com/IzabelAdemir"
+      },
+      "text": "instagram.com/reel/De9dZJ7BT…\n\nÉ Provável que ele se junte com o Bananinha para tentar um golpe contra o Brasil mais uma vez ❗❗❗",
+      "created_at": "2026-10-26T17:39:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/IzabelAdemir/status/2114773806179041603#m",
+      "metrics": {
+        "like_count": 12,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114773806179041603",
+        "text": "instagram.com/reel/De9dZJ7BT…\n\nÉ Provável que ele se junte com o Bananinha para tentar um golpe contra o Brasil mais uma vez ❗❗❗",
+        "author_username": "IzabelAdemir",
+        "author_name": "IzabelAdemir",
+        "created_at": "2026-10-26T17:39:00+00:00",
+        "permalink": "https://nitter.netbub.com/IzabelAdemir/status/2114773806179041603#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 128,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114769323407581409",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114769323407581409",
+      "parent_post_id": null,
+      "thread_root_id": "2114769323407581409",
+      "author": {
+        "platform_id": null,
+        "display_name": "noronha_lina",
+        "username": "noronha_lina",
+        "profile_url": "https://x.com/noronha_lina"
+      },
+      "text": "Claro, ele faz a parte dele no golpe, oras. Um fdp",
+      "created_at": "2026-10-26T17:21:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/noronha_lina/status/2114769323407581409#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114769323407581409",
+        "text": "Claro, ele faz a parte dele no golpe, oras. Um fdp",
+        "author_username": "noronha_lina",
+        "author_name": "noronha_lina",
+        "created_at": "2026-10-26T17:21:00+00:00",
+        "permalink": "https://nitter.netbub.com/noronha_lina/status/2114769323407581409#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 50,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114767623476875728",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114767623476875728",
+      "parent_post_id": null,
+      "thread_root_id": "2114767623476875728",
+      "author": {
+        "platform_id": null,
+        "display_name": "litierysantos",
+        "username": "litierysantos",
+        "profile_url": "https://x.com/litierysantos"
+      },
+      "text": "Onde estão os moralistas agora quando falam da morte da criança morta supostamente pela arma do policial. Agora morreu na mão de um bandido comemorando o \"GOLPE\" de @LulaOficial\n\nE aí? Vão relativizar agora?\n\ninstagram.com/reel/De9mcQlRz…",
+      "created_at": "2026-10-26T17:14:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/litierysantos/status/2114767623476875728#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114767623476875728",
+        "text": "Onde estão os moralistas agora quando falam da morte da criança morta supostamente pela arma do policial. Agora morreu na mão de um bandido comemorando o \"GOLPE\" de @LulaOficial\n\nE aí? Vão relativizar agora?\n\ninstagram.com/reel/De9mcQlRz…",
+        "author_username": "litierysantos",
+        "author_name": "litierysantos",
+        "created_at": "2026-10-26T17:14:00+00:00",
+        "permalink": "https://nitter.netbub.com/litierysantos/status/2114767623476875728#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 238,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114766210923675990",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114766210923675990",
+      "parent_post_id": null,
+      "thread_root_id": "2114766210923675990",
+      "author": {
+        "platform_id": null,
+        "display_name": "NyTorres_",
+        "username": "NyTorres_",
+        "profile_url": "https://x.com/NyTorres_"
+      },
+      "text": "Ai dps vai fingir q n teve golpe\n\nVAI TRABALHAR LEK, SEI Q N É MT O Q VC GOSTA, MAS DESTRAI, PAPO",
+      "created_at": "2026-10-26T17:08:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/NyTorres_/status/2114766210923675990#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114766210923675990",
+        "text": "Ai dps vai fingir q n teve golpe\n\nVAI TRABALHAR LEK, SEI Q N É MT O Q VC GOSTA, MAS DESTRAI, PAPO",
+        "author_username": "NyTorres_",
+        "author_name": "NyTorres_",
+        "created_at": "2026-10-26T17:08:00+00:00",
+        "permalink": "https://nitter.netbub.com/NyTorres_/status/2114766210923675990#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 97,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114764748176740476",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114764748176740476",
+      "parent_post_id": null,
+      "thread_root_id": "2114764748176740476",
+      "author": {
+        "platform_id": null,
+        "display_name": "amafort2000",
+        "username": "amafort2000",
+        "profile_url": "https://x.com/amafort2000"
+      },
+      "text": "Mesmo após toda decepção, ocasionada pelo golpe dado ontem, depois de ver o vídeo do Kim Paim, continuarei firme na minha posição, que ficou marcada em mim pelo presidente Jair Bolsonaro.\nNão parar, nao desistir, não retroceder!\nNão vou desistir da luta!",
+      "created_at": "2026-10-26T17:03:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/amafort2000/status/2114764748176740476#m",
+      "metrics": {
+        "like_count": 605,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 20
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114764748176740476",
+        "text": "Mesmo após toda decepção, ocasionada pelo golpe dado ontem, depois de ver o vídeo do Kim Paim, continuarei firme na minha posição, que ficou marcada em mim pelo presidente Jair Bolsonaro.\nNão parar, nao desistir, não retroceder!\nNão vou desistir da luta!",
+        "author_username": "amafort2000",
+        "author_name": "amafort2000",
+        "created_at": "2026-10-26T17:03:00+00:00",
+        "permalink": "https://nitter.netbub.com/amafort2000/status/2114764748176740476#m",
+        "metrics": {
+          "like_count": 605,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 20
+        }
+      },
+      "normalized": {
+        "text_length": 254,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114763809936076995",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114763809936076995",
+      "parent_post_id": null,
+      "thread_root_id": "2114763809936076995",
+      "author": {
+        "platform_id": null,
+        "display_name": "MBorischan66496",
+        "username": "MBorischan66496",
+        "profile_url": "https://x.com/MBorischan66496"
+      },
+      "text": "Boa tarde Ivone,  sim outro golpe de luluzinha",
+      "created_at": "2026-10-26T16:59:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/MBorischan66496/status/2114763809936076995#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114763809936076995",
+        "text": "Boa tarde Ivone,  sim outro golpe de luluzinha",
+        "author_username": "MBorischan66496",
+        "author_name": "MBorischan66496",
+        "created_at": "2026-10-26T16:59:00+00:00",
+        "permalink": "https://nitter.netbub.com/MBorischan66496/status/2114763809936076995#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 46,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114761149107618019",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114761149107618019",
+      "parent_post_id": null,
+      "thread_root_id": "2114761149107618019",
+      "author": {
+        "platform_id": null,
+        "display_name": "DenyFreitass",
+        "username": "DenyFreitass",
+        "profile_url": "https://x.com/DenyFreitass"
+      },
+      "text": "Por que para o PL os resultados das eleições só são legítimos se eles ganham? \nSe não ganham é golpe, roubo...\n\nDetalhe: as mesmas eleições que, inclusive, elegeram maioria de políticos do PL no Senado, por exemplo.\n\nQue síndrome de criança mimada... Isso é DEMOCRACIA! Aceitem!",
+      "created_at": "2026-10-26T16:48:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/DenyFreitass/status/2114761149107618019#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114761149107618019",
+        "text": "Por que para o PL os resultados das eleições só são legítimos se eles ganham? \nSe não ganham é golpe, roubo...\n\nDetalhe: as mesmas eleições que, inclusive, elegeram maioria de políticos do PL no Senado, por exemplo.\n\nQue síndrome de criança mimada... Isso é DEMOCRACIA! Aceitem!",
+        "author_username": "DenyFreitass",
+        "author_name": "DenyFreitass",
+        "created_at": "2026-10-26T16:48:00+00:00",
+        "permalink": "https://nitter.netbub.com/DenyFreitass/status/2114761149107618019#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 278,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114759097761354024",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114759097761354024",
+      "parent_post_id": null,
+      "thread_root_id": "2114759097761354024",
+      "author": {
+        "platform_id": null,
+        "display_name": "Italomateusr",
+        "username": "Italomateusr",
+        "profile_url": "https://x.com/Italomateusr"
+      },
+      "text": "Golpe foi o que o espermas fizeram no útero da sua mãe, pra forma você, golpe foi o erro que o médico fez na hora de tirar vc da barriga da sua mãe eu processava esse médico juro",
+      "created_at": "2026-10-26T16:40:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/Italomateusr/status/2114759097761354024#m",
+      "metrics": {
+        "like_count": 49,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114759097761354024",
+        "text": "Golpe foi o que o espermas fizeram no útero da sua mãe, pra forma você, golpe foi o erro que o médico fez na hora de tirar vc da barriga da sua mãe eu processava esse médico juro",
+        "author_username": "Italomateusr",
+        "author_name": "Italomateusr",
+        "created_at": "2026-10-26T16:40:00+00:00",
+        "permalink": "https://nitter.netbub.com/Italomateusr/status/2114759097761354024#m",
+        "metrics": {
+          "like_count": 49,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 178,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114757032251417027",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114757032251417027",
+      "parent_post_id": null,
+      "thread_root_id": "2114757032251417027",
+      "author": {
+        "platform_id": null,
+        "display_name": "Suziioliver",
+        "username": "Suziioliver",
+        "profile_url": "https://x.com/Suziioliver"
+      },
+      "text": "Seu presidente ladrão roubou essa eleição através do stf, na pessoa de seu advogado.  Uma vergonha, isso sim é que é golpe",
+      "created_at": "2026-10-26T16:32:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/Suziioliver/status/2114757032251417027#m",
+      "metrics": {
+        "like_count": 81,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114757032251417027",
+        "text": "Seu presidente ladrão roubou essa eleição através do stf, na pessoa de seu advogado.  Uma vergonha, isso sim é que é golpe",
+        "author_username": "Suziioliver",
+        "author_name": "Suziioliver",
+        "created_at": "2026-10-26T16:32:00+00:00",
+        "permalink": "https://nitter.netbub.com/Suziioliver/status/2114757032251417027#m",
+        "metrics": {
+          "like_count": 81,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 122,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114587420037394444",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114587420037394444",
+      "parent_post_id": null,
+      "thread_root_id": "2114587420037394444",
+      "author": {
+        "platform_id": null,
+        "display_name": "gxth_brx",
+        "username": "gxth_brx",
+        "profile_url": "https://x.com/gxth_brx"
+      },
+      "text": "vamo condenar internacionalmente as bombas que jogaram no Japão ? os 60 anos de bloqueio econômico de cuba ? a guerra do vietnã ? apoio a golpe de estado ? invasão ao iraque ? vai toma no seu cu seu merda, seu país se sustenta subindo encima dos outros e quer palpitar aqui",
+      "created_at": "2026-10-26T05:18:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:04:46-03:00",
+      "permalink": "https://nitter.netbub.com/gxth_brx/status/2114587420037394444#m",
+      "metrics": {
+        "like_count": 38,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114587420037394444",
+        "text": "vamo condenar internacionalmente as bombas que jogaram no Japão ? os 60 anos de bloqueio econômico de cuba ? a guerra do vietnã ? apoio a golpe de estado ? invasão ao iraque ? vai toma no seu cu seu merda, seu país se sustenta subindo encima dos outros e quer palpitar aqui",
+        "author_username": "gxth_brx",
+        "author_name": "gxth_brx",
+        "created_at": "2026-10-26T05:18:00+00:00",
+        "permalink": "https://nitter.netbub.com/gxth_brx/status/2114587420037394444#m",
+        "metrics": {
+          "like_count": 38,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 273,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
