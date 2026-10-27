@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Rio de Janeiro",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "3f313541-c89c-4314-9ab3-e59b766bc37b",
+    "collected_at": "2026-10-27T07:33:56-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 64
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115012816318951615",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115012816318951615",
+      "parent_post_id": null,
+      "thread_root_id": "2115012816318951615",
+      "author": {
+        "platform_id": null,
+        "display_name": "SanPinheiiro",
+        "username": "SanPinheiiro",
+        "profile_url": "https://x.com/SanPinheiiro"
+      },
+      "text": "Que delicia ai sim vale a pena sentir essa pressão  gostosa",
+      "created_at": "2026-10-27T09:28:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T07:33:55-03:00",
+      "permalink": "https://nitter.netbub.com/SanPinheiiro/status/2115012816318951615#m",
+      "metrics": {
+        "like_count": 30,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "3f313541-c89c-4314-9ab3-e59b766bc37b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115012816318951615",
+        "text": "Que delicia ai sim vale a pena sentir essa pressão  gostosa",
+        "author_username": "SanPinheiiro",
+        "author_name": "SanPinheiiro",
+        "created_at": "2026-10-27T09:28:00+00:00",
+        "permalink": "https://nitter.netbub.com/SanPinheiiro/status/2115012816318951615#m",
+        "metrics": {
+          "like_count": 30,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 59,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114991214931918851",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114991214931918851",
+      "parent_post_id": null,
+      "thread_root_id": "2114991214931918851",
+      "author": {
+        "platform_id": null,
+        "display_name": "PaixaoAoFutebol",
+        "username": "PaixaoAoFutebol",
+        "profile_url": "https://x.com/PaixaoAoFutebol"
+      },
+      "text": "Rio de Janeiro 🇧🇷",
+      "created_at": "2026-10-27T08:02:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T07:33:55-03:00",
+      "permalink": "https://nitter.netbub.com/PaixaoAoFutebol/status/2114991214931918851#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "3f313541-c89c-4314-9ab3-e59b766bc37b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114991214931918851",
+        "text": "Rio de Janeiro 🇧🇷",
+        "author_username": "PaixaoAoFutebol",
+        "author_name": "PaixaoAoFutebol",
+        "created_at": "2026-10-27T08:02:00+00:00",
+        "permalink": "https://nitter.netbub.com/PaixaoAoFutebol/status/2114991214931918851#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 17,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
