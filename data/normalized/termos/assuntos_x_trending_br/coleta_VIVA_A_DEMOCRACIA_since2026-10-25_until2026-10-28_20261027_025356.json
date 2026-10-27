@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "VIVA A DEMOCRACIA",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "6e96bd30-0b53-4cf9-9553-86144b769677",
+    "collected_at": "2026-10-27T02:53:56-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 99
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114923909975818263",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114923909975818263",
+      "parent_post_id": null,
+      "thread_root_id": "2114923909975818263",
+      "author": {
+        "platform_id": null,
+        "display_name": "ladygagasbrasil",
+        "username": "ladygagasbrasil",
+        "profile_url": "https://x.com/ladygagasbrasil"
+      },
+      "text": "O Lady Gaga Brasil tem imenso orgulho de ter feito parte dessa união tão especial entre os fandoms brasileiros em defesa da democracia!\n\nQuando tantas vozes se unem por um ideal, mostramos que a nossa força vai muito além da música, dos artistas que amamos e das diferenças que nos tornam únicos. Mostramos que, juntos, podemos fazer a diferença e lutar por um Brasil mais justo, democrático e cheio de esperança!\n\nSeguimos à disposição para continuar usando nossa voz, nosso alcance e nossa plataforma em defesa da democracia e do futuro do nosso país. Porque acreditar em um Brasil melhor também é um ato de amor e coragem.\n\nFoi uma honra imensa caminhar e lutar ao lado de vocês! Que essa união continue viva, que nossas vozes jamais se calem diante das injustiças e que nunca nos falte coragem para defender aquilo em que acreditamos. Juntos, somos mais fortes! ❤️⭐️🇧🇷\n\n@LulaOficial \n@fandomscomlula\n#FandomsCertificados",
+      "created_at": "2026-10-27T03:35:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T02:53:56-03:00",
+      "permalink": "https://nitter.meowing.monster/ladygagasbrasil/status/2114923909975818263#m",
+      "metrics": {
+        "like_count": 801,
+        "reply_count": 2,
+        "retweet_count": 14,
+        "quote_count": 83
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "6e96bd30-0b53-4cf9-9553-86144b769677",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114923909975818263",
+        "text": "O Lady Gaga Brasil tem imenso orgulho de ter feito parte dessa união tão especial entre os fandoms brasileiros em defesa da democracia!\n\nQuando tantas vozes se unem por um ideal, mostramos que a nossa força vai muito além da música, dos artistas que amamos e das diferenças que nos tornam únicos. Mostramos que, juntos, podemos fazer a diferença e lutar por um Brasil mais justo, democrático e cheio de esperança!\n\nSeguimos à disposição para continuar usando nossa voz, nosso alcance e nossa plataforma em defesa da democracia e do futuro do nosso país. Porque acreditar em um Brasil melhor também é um ato de amor e coragem.\n\nFoi uma honra imensa caminhar e lutar ao lado de vocês! Que essa união continue viva, que nossas vozes jamais se calem diante das injustiças e que nunca nos falte coragem para defender aquilo em que acreditamos. Juntos, somos mais fortes! ❤️⭐️🇧🇷\n\n@LulaOficial \n@fandomscomlula\n#FandomsCertificados",
+        "author_username": "ladygagasbrasil",
+        "author_name": "ladygagasbrasil",
+        "created_at": "2026-10-27T03:35:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ladygagasbrasil/status/2114923909975818263#m",
+        "metrics": {
+          "like_count": 801,
+          "reply_count": 2,
+          "retweet_count": 14,
+          "quote_count": 83
+        }
+      },
+      "normalized": {
+        "text_length": 924,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
