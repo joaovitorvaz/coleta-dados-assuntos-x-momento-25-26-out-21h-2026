@@ -1,0 +1,551 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Ganhamos",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+    "collected_at": "2026-10-27T01:01:03-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 8,
+      "comments": 0,
+      "records_total": 8,
+      "skipped_duplicate": 93
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114926239249055859",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114926239249055859",
+      "parent_post_id": null,
+      "thread_root_id": "2114926239249055859",
+      "author": {
+        "platform_id": null,
+        "display_name": "LuccasLdn18",
+        "username": "LuccasLdn18",
+        "profile_url": "https://x.com/LuccasLdn18"
+      },
+      "text": "Hoje ganhamos no apagar das luzes",
+      "created_at": "2026-10-27T03:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T01:01:03-03:00",
+      "permalink": "https://nitter.meowing.monster/LuccasLdn18/status/2114926239249055859#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 9,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114926239249055859",
+        "text": "Hoje ganhamos no apagar das luzes",
+        "author_username": "LuccasLdn18",
+        "author_name": "LuccasLdn18",
+        "created_at": "2026-10-27T03:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/LuccasLdn18/status/2114926239249055859#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 33,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114906444025733166",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114906444025733166",
+      "parent_post_id": null,
+      "thread_root_id": "2114906444025733166",
+      "author": {
+        "platform_id": null,
+        "display_name": "LuizGomesPE",
+        "username": "LuizGomesPE",
+        "profile_url": "https://x.com/LuizGomesPE"
+      },
+      "text": "É fato!\nGanhamos uma batalha meu povo, precisamos estar atentos e alertas nos próximos meses. A seita bolsonarista vai buscar muitas maneiras de interferir no governo lula. O exército deve continuar.",
+      "created_at": "2026-10-27T02:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T01:01:03-03:00",
+      "permalink": "https://nitter.meowing.monster/LuizGomesPE/status/2114906444025733166#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 9,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114906444025733166",
+        "text": "É fato!\nGanhamos uma batalha meu povo, precisamos estar atentos e alertas nos próximos meses. A seita bolsonarista vai buscar muitas maneiras de interferir no governo lula. O exército deve continuar.",
+        "author_username": "LuizGomesPE",
+        "author_name": "LuizGomesPE",
+        "created_at": "2026-10-27T02:26:00+00:00",
+        "permalink": "https://nitter.meowing.monster/LuizGomesPE/status/2114906444025733166#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 199,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114886017807270161",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114886017807270161",
+      "parent_post_id": null,
+      "thread_root_id": "2114886017807270161",
+      "author": {
+        "platform_id": null,
+        "display_name": "AdilsonAlves267",
+        "username": "AdilsonAlves267",
+        "profile_url": "https://x.com/AdilsonAlves267"
+      },
+      "text": "Ok,0 ganhamos, mas não dá para um técnico fazer tanta merda como fez o Leonardo Jardim e destruir tudo com substituições erradas,tirar o Plata, não colocar o Carrascal no meio onde ele rendeu melhor, matou todo o time que sofreu muito e por sorte não tomamos o terceiro",
+      "created_at": "2026-10-27T01:04:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T01:01:03-03:00",
+      "permalink": "https://nitter.meowing.monster/AdilsonAlves267/status/2114886017807270161#m",
+      "metrics": {
+        "like_count": 19,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 9,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114886017807270161",
+        "text": "Ok,0 ganhamos, mas não dá para um técnico fazer tanta merda como fez o Leonardo Jardim e destruir tudo com substituições erradas,tirar o Plata, não colocar o Carrascal no meio onde ele rendeu melhor, matou todo o time que sofreu muito e por sorte não tomamos o terceiro",
+        "author_username": "AdilsonAlves267",
+        "author_name": "AdilsonAlves267",
+        "created_at": "2026-10-27T01:04:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AdilsonAlves267/status/2114886017807270161#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 269,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114879650442748265",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114879650442748265",
+      "parent_post_id": null,
+      "thread_root_id": "2114879650442748265",
+      "author": {
+        "platform_id": null,
+        "display_name": "gutrevisi",
+        "username": "gutrevisi",
+        "profile_url": "https://x.com/gutrevisi"
+      },
+      "text": "Terminou o jogo: ganhamos! 1 a 0! Alívio!",
+      "created_at": "2026-10-27T00:39:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T01:01:03-03:00",
+      "permalink": "https://nitter.meowing.monster/gutrevisi/status/2114879650442748265#m",
+      "metrics": {
+        "like_count": 41,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 9,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114879650442748265",
+        "text": "Terminou o jogo: ganhamos! 1 a 0! Alívio!",
+        "author_username": "gutrevisi",
+        "author_name": "gutrevisi",
+        "created_at": "2026-10-27T00:39:00+00:00",
+        "permalink": "https://nitter.meowing.monster/gutrevisi/status/2114879650442748265#m",
+        "metrics": {
+          "like_count": 41,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 41,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114877213749178724",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114877213749178724",
+      "parent_post_id": null,
+      "thread_root_id": "2114877213749178724",
+      "author": {
+        "platform_id": null,
+        "display_name": "EvelineZurobski",
+        "username": "EvelineZurobski",
+        "profile_url": "https://x.com/EvelineZurobski"
+      },
+      "text": "GANHAMOS! Não tenho mais saúde para acompanhar o Grêmio. Sério! 😭🤧",
+      "created_at": "2026-10-27T00:29:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T01:01:03-03:00",
+      "permalink": "https://nitter.meowing.monster/EvelineZurobski/status/2114877213749178724#m",
+      "metrics": {
+        "like_count": 45,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 9,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114877213749178724",
+        "text": "GANHAMOS! Não tenho mais saúde para acompanhar o Grêmio. Sério! 😭🤧",
+        "author_username": "EvelineZurobski",
+        "author_name": "EvelineZurobski",
+        "created_at": "2026-10-27T00:29:00+00:00",
+        "permalink": "https://nitter.meowing.monster/EvelineZurobski/status/2114877213749178724#m",
+        "metrics": {
+          "like_count": 45,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 66,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114870347967127723",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114870347967127723",
+      "parent_post_id": null,
+      "thread_root_id": "2114870347967127723",
+      "author": {
+        "platform_id": null,
+        "display_name": "RodrigoCabralBR",
+        "username": "RodrigoCabralBR",
+        "profile_url": "https://x.com/RodrigoCabralBR"
+      },
+      "text": "Alckmin, já ganhamos, pode parar de pedir voto.",
+      "created_at": "2026-10-27T00:02:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T01:01:03-03:00",
+      "permalink": "https://nitter.meowing.monster/RodrigoCabralBR/status/2114870347967127723#m",
+      "metrics": {
+        "like_count": 19,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 9,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114870347967127723",
+        "text": "Alckmin, já ganhamos, pode parar de pedir voto.",
+        "author_username": "RodrigoCabralBR",
+        "author_name": "RodrigoCabralBR",
+        "created_at": "2026-10-27T00:02:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RodrigoCabralBR/status/2114870347967127723#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 47,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114841158404731016",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114841158404731016",
+      "parent_post_id": null,
+      "thread_root_id": "2114841158404731016",
+      "author": {
+        "platform_id": null,
+        "display_name": "Daubi",
+        "username": "Daubi",
+        "profile_url": "https://x.com/Daubi"
+      },
+      "text": "Naaaaaaão!\n\nGanhamos em Porto Alegre e vamos lutar até o fim.\n\nNão nos abandonem, por favor.\n\nPrecisamos do resto do país.",
+      "created_at": "2026-10-26T22:06:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T01:01:03-03:00",
+      "permalink": "https://nitter.meowing.monster/Daubi/status/2114841158404731016#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 9,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114841158404731016",
+        "text": "Naaaaaaão!\n\nGanhamos em Porto Alegre e vamos lutar até o fim.\n\nNão nos abandonem, por favor.\n\nPrecisamos do resto do país.",
+        "author_username": "Daubi",
+        "author_name": "Daubi",
+        "created_at": "2026-10-26T22:06:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Daubi/status/2114841158404731016#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 122,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114821791512240532",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114821791512240532",
+      "parent_post_id": null,
+      "thread_root_id": "2114821791512240532",
+      "author": {
+        "platform_id": null,
+        "display_name": "JulgoLEVE",
+        "username": "JulgoLEVE",
+        "profile_url": "https://x.com/JulgoLEVE"
+      },
+      "text": "Agora que ganhamos a eleição precisamos tomar o controle sobre as polícias e as forças armadas!!! Espalhem essa ideia!!! Precisamos fazer concurso para essas forças. Tanto para soldado como para oficial!!! Dêem retuite, divulguem no Insta, no Face, precisamos ter esse país unido!",
+      "created_at": "2026-10-26T20:49:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T01:01:03-03:00",
+      "permalink": "https://nitter.meowing.monster/JulgoLEVE/status/2114821791512240532#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 9,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114821791512240532",
+        "text": "Agora que ganhamos a eleição precisamos tomar o controle sobre as polícias e as forças armadas!!! Espalhem essa ideia!!! Precisamos fazer concurso para essas forças. Tanto para soldado como para oficial!!! Dêem retuite, divulguem no Insta, no Face, precisamos ter esse país unido!",
+        "author_username": "JulgoLEVE",
+        "author_name": "JulgoLEVE",
+        "created_at": "2026-10-26T20:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/JulgoLEVE/status/2114821791512240532#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 280,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
