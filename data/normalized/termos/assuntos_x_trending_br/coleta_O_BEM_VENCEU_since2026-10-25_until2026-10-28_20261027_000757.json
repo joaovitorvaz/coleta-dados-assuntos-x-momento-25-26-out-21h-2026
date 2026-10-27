@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "O BEM VENCEU",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+    "collected_at": "2026-10-27T00:07:57-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 3,
+      "comments": 0,
+      "records_total": 3,
+      "skipped_duplicate": 63
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114901526632083646",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114901526632083646",
+      "parent_post_id": null,
+      "thread_root_id": "2114901526632083646",
+      "author": {
+        "platform_id": null,
+        "display_name": "ZickyLima2",
+        "username": "ZickyLima2",
+        "profile_url": "https://x.com/ZickyLima2"
+      },
+      "text": "Infelizmente desimpain não ganhou mas não era um jogo q valia pontos\n\nO jogo importante mesmo meu grêmio venceu e esta tudo bem graças a Deus 🙏🏾🇪🇪",
+      "created_at": "2026-10-27T02:06:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:07:57-03:00",
+      "permalink": "https://nitter.meowing.monster/ZickyLima2/status/2114901526632083646#m",
+      "metrics": {
+        "like_count": 47,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114901526632083646",
+        "text": "Infelizmente desimpain não ganhou mas não era um jogo q valia pontos\n\nO jogo importante mesmo meu grêmio venceu e esta tudo bem graças a Deus 🙏🏾🇪🇪",
+        "author_username": "ZickyLima2",
+        "author_name": "ZickyLima2",
+        "created_at": "2026-10-27T02:06:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ZickyLima2/status/2114901526632083646#m",
+        "metrics": {
+          "like_count": 47,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 146,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114896729308803314",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114896729308803314",
+      "parent_post_id": null,
+      "thread_root_id": "2114896729308803314",
+      "author": {
+        "platform_id": null,
+        "display_name": "SusyGuerreiro1",
+        "username": "SusyGuerreiro1",
+        "profile_url": "https://x.com/SusyGuerreiro1"
+      },
+      "text": "Eu acho e bem feito. E não quero.mimgu.batemdo aqui na minha porta pedindo ajuda. O amor venceu. Até hoje ainda meus bisonho que moram no bloco C que a parte pobre da rua ainda comemorando.",
+      "created_at": "2026-10-27T01:47:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:07:57-03:00",
+      "permalink": "https://nitter.meowing.monster/SusyGuerreiro1/status/2114896729308803314#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114896729308803314",
+        "text": "Eu acho e bem feito. E não quero.mimgu.batemdo aqui na minha porta pedindo ajuda. O amor venceu. Até hoje ainda meus bisonho que moram no bloco C que a parte pobre da rua ainda comemorando.",
+        "author_username": "SusyGuerreiro1",
+        "author_name": "SusyGuerreiro1",
+        "created_at": "2026-10-27T01:47:00+00:00",
+        "permalink": "https://nitter.meowing.monster/SusyGuerreiro1/status/2114896729308803314#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 189,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114857262120313224",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114857262120313224",
+      "parent_post_id": null,
+      "thread_root_id": "2114857262120313224",
+      "author": {
+        "platform_id": null,
+        "display_name": "mumuzao500",
+        "username": "mumuzao500",
+        "profile_url": "https://x.com/mumuzao500"
+      },
+      "text": "O bem venceu!\n\n#LulaPresidente \n#LulaReeleito \n#LulaPelaDemocracia \n#Lula",
+      "created_at": "2026-10-26T23:10:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:07:57-03:00",
+      "permalink": "https://nitter.meowing.monster/mumuzao500/status/2114857262120313224#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114857262120313224",
+        "text": "O bem venceu!\n\n#LulaPresidente \n#LulaReeleito \n#LulaPelaDemocracia \n#Lula",
+        "author_username": "mumuzao500",
+        "author_name": "mumuzao500",
+        "created_at": "2026-10-26T23:10:00+00:00",
+        "permalink": "https://nitter.meowing.monster/mumuzao500/status/2114857262120313224#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 73,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
