@@ -1,0 +1,550 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Golpe",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "6e96bd30-0b53-4cf9-9553-86144b769677",
+    "collected_at": "2026-10-27T03:17:59-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 8,
+      "comments": 0,
+      "records_total": 8,
+      "skipped_duplicate": 288
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114949877381685730",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114949877381685730",
+      "parent_post_id": null,
+      "thread_root_id": "2114949877381685730",
+      "author": {
+        "platform_id": null,
+        "display_name": "ElenaraLelex",
+        "username": "ElenaraLelex",
+        "profile_url": "https://x.com/ElenaraLelex"
+      },
+      "text": "Não foi golpe. \nFoi contra-golpe!",
+      "created_at": "2026-10-27T05:18:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T03:17:59-03:00",
+      "permalink": "https://nitter.meowing.monster/ElenaraLelex/status/2114949877381685730#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "6e96bd30-0b53-4cf9-9553-86144b769677",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114949877381685730",
+        "text": "Não foi golpe. \nFoi contra-golpe!",
+        "author_username": "ElenaraLelex",
+        "author_name": "ElenaraLelex",
+        "created_at": "2026-10-27T05:18:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ElenaraLelex/status/2114949877381685730#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 33,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114940577196175841",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114940577196175841",
+      "parent_post_id": null,
+      "thread_root_id": "2114940577196175841",
+      "author": {
+        "platform_id": null,
+        "display_name": "Eu_peTFFC",
+        "username": "Eu_peTFFC",
+        "profile_url": "https://x.com/Eu_peTFFC"
+      },
+      "text": "Eu pegando o BRT aqui no rio e parando lá em Picos Piauí pra visitar meus parentes, dê o golpe Dudu eu apoio",
+      "created_at": "2026-10-27T04:41:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T03:17:59-03:00",
+      "permalink": "https://nitter.meowing.monster/Eu_peTFFC/status/2114940577196175841#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "6e96bd30-0b53-4cf9-9553-86144b769677",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114940577196175841",
+        "text": "Eu pegando o BRT aqui no rio e parando lá em Picos Piauí pra visitar meus parentes, dê o golpe Dudu eu apoio",
+        "author_username": "Eu_peTFFC",
+        "author_name": "Eu_peTFFC",
+        "created_at": "2026-10-27T04:41:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Eu_peTFFC/status/2114940577196175841#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 108,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114932096070307932",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114932096070307932",
+      "parent_post_id": null,
+      "thread_root_id": "2114932096070307932",
+      "author": {
+        "platform_id": null,
+        "display_name": "mbernadete429",
+        "username": "mbernadete429",
+        "profile_url": "https://x.com/mbernadete429"
+      },
+      "text": "Vdd ok mais aconteceu foi lindo demais tamos em paz pôr sabemos golpe",
+      "created_at": "2026-10-27T04:07:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T03:17:59-03:00",
+      "permalink": "https://nitter.meowing.monster/mbernadete429/status/2114932096070307932#m",
+      "metrics": {
+        "like_count": 9,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "6e96bd30-0b53-4cf9-9553-86144b769677",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114932096070307932",
+        "text": "Vdd ok mais aconteceu foi lindo demais tamos em paz pôr sabemos golpe",
+        "author_username": "mbernadete429",
+        "author_name": "mbernadete429",
+        "created_at": "2026-10-27T04:07:00+00:00",
+        "permalink": "https://nitter.meowing.monster/mbernadete429/status/2114932096070307932#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 69,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114927993847972302",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114927993847972302",
+      "parent_post_id": null,
+      "thread_root_id": "2114927993847972302",
+      "author": {
+        "platform_id": null,
+        "display_name": "jdomingosjunior",
+        "username": "jdomingosjunior",
+        "profile_url": "https://x.com/jdomingosjunior"
+      },
+      "text": "Sabe o que não pode duvidar? É  alcolumbre com o stf querer antecipar a eleição de presidente das casas, pois se esperar próxima legislatura,o indivíduo não será eleito. \n\nGolpe aqui, Golpe ali, \"não faz diferença \"mais um.",
+      "created_at": "2026-10-27T03:51:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T03:17:59-03:00",
+      "permalink": "https://nitter.meowing.monster/jdomingosjunior/status/2114927993847972302#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "6e96bd30-0b53-4cf9-9553-86144b769677",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114927993847972302",
+        "text": "Sabe o que não pode duvidar? É  alcolumbre com o stf querer antecipar a eleição de presidente das casas, pois se esperar próxima legislatura,o indivíduo não será eleito. \n\nGolpe aqui, Golpe ali, \"não faz diferença \"mais um.",
+        "author_username": "jdomingosjunior",
+        "author_name": "jdomingosjunior",
+        "created_at": "2026-10-27T03:51:00+00:00",
+        "permalink": "https://nitter.meowing.monster/jdomingosjunior/status/2114927993847972302#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 223,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114921107627139169",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114921107627139169",
+      "parent_post_id": null,
+      "thread_root_id": "2114921107627139169",
+      "author": {
+        "platform_id": null,
+        "display_name": "mbernadete429",
+        "username": "mbernadete429",
+        "profile_url": "https://x.com/mbernadete429"
+      },
+      "text": "Golpe kkkk",
+      "created_at": "2026-10-27T03:24:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T03:17:59-03:00",
+      "permalink": "https://nitter.meowing.monster/mbernadete429/status/2114921107627139169#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "6e96bd30-0b53-4cf9-9553-86144b769677",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114921107627139169",
+        "text": "Golpe kkkk",
+        "author_username": "mbernadete429",
+        "author_name": "mbernadete429",
+        "created_at": "2026-10-27T03:24:00+00:00",
+        "permalink": "https://nitter.meowing.monster/mbernadete429/status/2114921107627139169#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 10,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114920125908287654",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114920125908287654",
+      "parent_post_id": null,
+      "thread_root_id": "2114920125908287654",
+      "author": {
+        "platform_id": null,
+        "display_name": "mbernadete429",
+        "username": "mbernadete429",
+        "profile_url": "https://x.com/mbernadete429"
+      },
+      "text": "Todos sabemos mundo viu golpe",
+      "created_at": "2026-10-27T03:20:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T03:17:59-03:00",
+      "permalink": "https://nitter.meowing.monster/mbernadete429/status/2114920125908287654#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "6e96bd30-0b53-4cf9-9553-86144b769677",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114920125908287654",
+        "text": "Todos sabemos mundo viu golpe",
+        "author_username": "mbernadete429",
+        "author_name": "mbernadete429",
+        "created_at": "2026-10-27T03:20:00+00:00",
+        "permalink": "https://nitter.meowing.monster/mbernadete429/status/2114920125908287654#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 29,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114918642676572402",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114918642676572402",
+      "parent_post_id": null,
+      "thread_root_id": "2114918642676572402",
+      "author": {
+        "platform_id": null,
+        "display_name": "AnaLuciaPadilh5",
+        "username": "AnaLuciaPadilh5",
+        "profile_url": "https://x.com/AnaLuciaPadilh5"
+      },
+      "text": "ELE AMEAÇOU NA CARA DURA... ISSO PORQUE JÁ SABIA DO GOLPE QUE IA DAR.",
+      "created_at": "2026-10-27T03:14:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T03:17:59-03:00",
+      "permalink": "https://nitter.meowing.monster/AnaLuciaPadilh5/status/2114918642676572402#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "6e96bd30-0b53-4cf9-9553-86144b769677",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114918642676572402",
+        "text": "ELE AMEAÇOU NA CARA DURA... ISSO PORQUE JÁ SABIA DO GOLPE QUE IA DAR.",
+        "author_username": "AnaLuciaPadilh5",
+        "author_name": "AnaLuciaPadilh5",
+        "created_at": "2026-10-27T03:14:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AnaLuciaPadilh5/status/2114918642676572402#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 69,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114917239539278232",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114917239539278232",
+      "parent_post_id": null,
+      "thread_root_id": "2114917239539278232",
+      "author": {
+        "platform_id": null,
+        "display_name": "kanelanovo",
+        "username": "kanelanovo",
+        "profile_url": "https://x.com/kanelanovo"
+      },
+      "text": "Isso é terrível, golpe baixo mesmo. Tinha um cara que combinava com um juiz para prender o adversário, pensa num golpe baixo.",
+      "created_at": "2026-10-27T03:08:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T03:17:59-03:00",
+      "permalink": "https://nitter.meowing.monster/kanelanovo/status/2114917239539278232#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "6e96bd30-0b53-4cf9-9553-86144b769677",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114917239539278232",
+        "text": "Isso é terrível, golpe baixo mesmo. Tinha um cara que combinava com um juiz para prender o adversário, pensa num golpe baixo.",
+        "author_username": "kanelanovo",
+        "author_name": "kanelanovo",
+        "created_at": "2026-10-27T03:08:00+00:00",
+        "permalink": "https://nitter.meowing.monster/kanelanovo/status/2114917239539278232#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 125,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
