@@ -1,0 +1,5317 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Lula",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+    "collected_at": "2026-10-27T12:00:27-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 80,
+      "comments": 0,
+      "records_total": 80,
+      "skipped_duplicate": 0
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115095297722364047",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115095297722364047",
+      "parent_post_id": null,
+      "thread_root_id": "2115095297722364047",
+      "author": {
+        "platform_id": null,
+        "display_name": "pcampos_f1",
+        "username": "pcampos_f1",
+        "profile_url": "https://x.com/pcampos_f1"
+      },
+      "text": "Nao entendi, o Ciro ou Lula?",
+      "created_at": "2026-10-27T14:56:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/pcampos_f1/status/2115095297722364047#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115095297722364047",
+        "text": "Nao entendi, o Ciro ou Lula?",
+        "author_username": "pcampos_f1",
+        "author_name": "pcampos_f1",
+        "created_at": "2026-10-27T14:56:00+00:00",
+        "permalink": "https://nitter.meowing.monster/pcampos_f1/status/2115095297722364047#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 28,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115095231104270408",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115095231104270408",
+      "parent_post_id": null,
+      "thread_root_id": "2115095231104270408",
+      "author": {
+        "platform_id": null,
+        "display_name": "terciobruno",
+        "username": "terciobruno",
+        "profile_url": "https://x.com/terciobruno"
+      },
+      "text": "ainda bem que esse roleween vai ser pós vitória do Lula\n\nnão teria o mesmo gosto se o 22 tivesse levado essa presidência",
+      "created_at": "2026-10-27T14:56:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/terciobruno/status/2115095231104270408#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115095231104270408",
+        "text": "ainda bem que esse roleween vai ser pós vitória do Lula\n\nnão teria o mesmo gosto se o 22 tivesse levado essa presidência",
+        "author_username": "terciobruno",
+        "author_name": "terciobruno",
+        "created_at": "2026-10-27T14:56:00+00:00",
+        "permalink": "https://nitter.meowing.monster/terciobruno/status/2115095231104270408#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 120,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115095212049518882",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115095212049518882",
+      "parent_post_id": null,
+      "thread_root_id": "2115095212049518882",
+      "author": {
+        "platform_id": null,
+        "display_name": "felipe_1910",
+        "username": "felipe_1910",
+        "profile_url": "https://x.com/felipe_1910"
+      },
+      "text": "Curiosidade \n\nExistem duas cidades chamadas Inajá Uma no Pernambuco e outra no Paraná \n\nEm ambas Lula ganhou.",
+      "created_at": "2026-10-27T14:56:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/felipe_1910/status/2115095212049518882#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115095212049518882",
+        "text": "Curiosidade \n\nExistem duas cidades chamadas Inajá Uma no Pernambuco e outra no Paraná \n\nEm ambas Lula ganhou.",
+        "author_username": "felipe_1910",
+        "author_name": "felipe_1910",
+        "created_at": "2026-10-27T14:56:00+00:00",
+        "permalink": "https://nitter.meowing.monster/felipe_1910/status/2115095212049518882#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 109,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115095176527900783",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115095176527900783",
+      "parent_post_id": null,
+      "thread_root_id": "2115095176527900783",
+      "author": {
+        "platform_id": null,
+        "display_name": "AliciaFofuras",
+        "username": "AliciaFofuras",
+        "profile_url": "https://x.com/AliciaFofuras"
+      },
+      "text": "Exatamente o cara que livrou LULA de ser preso no mensalão lembra qdo estava empatado 5 X 5 e voto de minerva dele pediu embargos infringente lula tava pronto a ser preso este sr. O salvou e agora aposentado continua sendo esquerdista com essa opinião.",
+      "created_at": "2026-10-27T14:56:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/AliciaFofuras/status/2115095176527900783#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115095176527900783",
+        "text": "Exatamente o cara que livrou LULA de ser preso no mensalão lembra qdo estava empatado 5 X 5 e voto de minerva dele pediu embargos infringente lula tava pronto a ser preso este sr. O salvou e agora aposentado continua sendo esquerdista com essa opinião.",
+        "author_username": "AliciaFofuras",
+        "author_name": "AliciaFofuras",
+        "created_at": "2026-10-27T14:56:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AliciaFofuras/status/2115095176527900783#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 252,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115095160291746223",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115095160291746223",
+      "parent_post_id": null,
+      "thread_root_id": "2115095160291746223",
+      "author": {
+        "platform_id": null,
+        "display_name": "Marcos65360469",
+        "username": "Marcos65360469",
+        "profile_url": "https://x.com/Marcos65360469"
+      },
+      "text": "E a menina que foi baleada pelos traficantes na comemoração da vitória do Lula na comunidade Fazendinha no CPX do Alemão, vcs não vão pedir justiça tb não @val90410606?",
+      "created_at": "2026-10-27T14:55:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/Marcos65360469/status/2115095160291746223#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115095160291746223",
+        "text": "E a menina que foi baleada pelos traficantes na comemoração da vitória do Lula na comunidade Fazendinha no CPX do Alemão, vcs não vão pedir justiça tb não @val90410606?",
+        "author_username": "Marcos65360469",
+        "author_name": "Marcos65360469",
+        "created_at": "2026-10-27T14:55:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Marcos65360469/status/2115095160291746223#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 168,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115094816132395156",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115094816132395156",
+      "parent_post_id": null,
+      "thread_root_id": "2115094816132395156",
+      "author": {
+        "platform_id": null,
+        "display_name": "viadocatkkj",
+        "username": "viadocatkkj",
+        "profile_url": "https://x.com/viadocatkkj"
+      },
+      "text": "E em minas gerais o lula virou KKKKKKKKKKKKK Flávio Bolsonaro o otário do ano",
+      "created_at": "2026-10-27T14:54:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/viadocatkkj/status/2115094816132395156#m",
+      "metrics": {
+        "like_count": 26,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115094816132395156",
+        "text": "E em minas gerais o lula virou KKKKKKKKKKKKK Flávio Bolsonaro o otário do ano",
+        "author_username": "viadocatkkj",
+        "author_name": "viadocatkkj",
+        "created_at": "2026-10-27T14:54:00+00:00",
+        "permalink": "https://nitter.meowing.monster/viadocatkkj/status/2115094816132395156#m",
+        "metrics": {
+          "like_count": 26,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 77,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115094801716576471",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115094801716576471",
+      "parent_post_id": null,
+      "thread_root_id": "2115094801716576471",
+      "author": {
+        "platform_id": null,
+        "display_name": "mind_e_papai",
+        "username": "mind_e_papai",
+        "profile_url": "https://x.com/mind_e_papai"
+      },
+      "text": "LUIZ INÁCIO LULA DA SILVA",
+      "created_at": "2026-10-27T14:54:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/mind_e_papai/status/2115094801716576471#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115094801716576471",
+        "text": "LUIZ INÁCIO LULA DA SILVA",
+        "author_username": "mind_e_papai",
+        "author_name": "mind_e_papai",
+        "created_at": "2026-10-27T14:54:00+00:00",
+        "permalink": "https://nitter.meowing.monster/mind_e_papai/status/2115094801716576471#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 25,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115094499504386517",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115094499504386517",
+      "parent_post_id": null,
+      "thread_root_id": "2115094499504386517",
+      "author": {
+        "platform_id": null,
+        "display_name": "viadocatkkj",
+        "username": "viadocatkkj",
+        "profile_url": "https://x.com/viadocatkkj"
+      },
+      "text": "mas eu tô defendendo o lula, o twt não pareceu assim? \"atrasar os eleitores (do lula) não é golpe de estado, mas ganhar na urna sim\" tipo, ironia pôKKKKKKKKKKK me chama de quenga mas n me associa a boslonarista",
+      "created_at": "2026-10-27T14:53:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/viadocatkkj/status/2115094499504386517#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115094499504386517",
+        "text": "mas eu tô defendendo o lula, o twt não pareceu assim? \"atrasar os eleitores (do lula) não é golpe de estado, mas ganhar na urna sim\" tipo, ironia pôKKKKKKKKKKK me chama de quenga mas n me associa a boslonarista",
+        "author_username": "viadocatkkj",
+        "author_name": "viadocatkkj",
+        "created_at": "2026-10-27T14:53:00+00:00",
+        "permalink": "https://nitter.meowing.monster/viadocatkkj/status/2115094499504386517#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 210,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115094367610302850",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115094367610302850",
+      "parent_post_id": null,
+      "thread_root_id": "2115094367610302850",
+      "author": {
+        "platform_id": null,
+        "display_name": "belara__",
+        "username": "belara__",
+        "profile_url": "https://x.com/belara__"
+      },
+      "text": "O ideal é perderem 10x isso com a taxação das grandes fortunas\n\nÉ só fazer, Lula\n\nVotei em você pra isso",
+      "created_at": "2026-10-27T14:52:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/belara__/status/2115094367610302850#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 2,
+        "quote_count": 3
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115094367610302850",
+        "text": "O ideal é perderem 10x isso com a taxação das grandes fortunas\n\nÉ só fazer, Lula\n\nVotei em você pra isso",
+        "author_username": "belara__",
+        "author_name": "belara__",
+        "created_at": "2026-10-27T14:52:00+00:00",
+        "permalink": "https://nitter.meowing.monster/belara__/status/2115094367610302850#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 2,
+          "quote_count": 3
+        }
+      },
+      "normalized": {
+        "text_length": 104,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115094318033625401",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115094318033625401",
+      "parent_post_id": null,
+      "thread_root_id": "2115094318033625401",
+      "author": {
+        "platform_id": null,
+        "display_name": "viadocatkkj",
+        "username": "viadocatkkj",
+        "profile_url": "https://x.com/viadocatkkj"
+      },
+      "text": "pior mn, aqui na parte do interior do norte onde os povos originários e ribeirinhos votam em lula também; atrasando ônibus, atrasando balsas, fazendo vistoria desnecessária.",
+      "created_at": "2026-10-27T14:52:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/viadocatkkj/status/2115094318033625401#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115094318033625401",
+        "text": "pior mn, aqui na parte do interior do norte onde os povos originários e ribeirinhos votam em lula também; atrasando ônibus, atrasando balsas, fazendo vistoria desnecessária.",
+        "author_username": "viadocatkkj",
+        "author_name": "viadocatkkj",
+        "created_at": "2026-10-27T14:52:00+00:00",
+        "permalink": "https://nitter.meowing.monster/viadocatkkj/status/2115094318033625401#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 173,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115094136063766928",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115094136063766928",
+      "parent_post_id": null,
+      "thread_root_id": "2115094136063766928",
+      "author": {
+        "platform_id": null,
+        "display_name": "LuizcomZGabriel",
+        "username": "LuizcomZGabriel",
+        "profile_url": "https://x.com/LuizcomZGabriel"
+      },
+      "text": "Só foge que comete crime.\nLula foi preso em um processo todo viciado e encarou a prisão, não precisou fugir.",
+      "created_at": "2026-10-27T14:51:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/LuizcomZGabriel/status/2115094136063766928#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115094136063766928",
+        "text": "Só foge que comete crime.\nLula foi preso em um processo todo viciado e encarou a prisão, não precisou fugir.",
+        "author_username": "LuizcomZGabriel",
+        "author_name": "LuizcomZGabriel",
+        "created_at": "2026-10-27T14:51:00+00:00",
+        "permalink": "https://nitter.meowing.monster/LuizcomZGabriel/status/2115094136063766928#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 108,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115093968203436472",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115093968203436472",
+      "parent_post_id": null,
+      "thread_root_id": "2115093968203436472",
+      "author": {
+        "platform_id": null,
+        "display_name": "PROFTULIO",
+        "username": "PROFTULIO",
+        "profile_url": "https://x.com/PROFTULIO"
+      },
+      "text": "Apoiamos à reeleição do Presidente Lula e construímos a Unidade na Luta contra a extrema-direita neofascista nas urnas, nas redes e nas ruas. Mas, o @PCBpartidao mantém sua independência política em relação ao Governo Lula.",
+      "created_at": "2026-10-27T14:51:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/PROFTULIO/status/2115093968203436472#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "direita",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115093968203436472",
+        "text": "Apoiamos à reeleição do Presidente Lula e construímos a Unidade na Luta contra a extrema-direita neofascista nas urnas, nas redes e nas ruas. Mas, o @PCBpartidao mantém sua independência política em relação ao Governo Lula.",
+        "author_username": "PROFTULIO",
+        "author_name": "PROFTULIO",
+        "created_at": "2026-10-27T14:51:00+00:00",
+        "permalink": "https://nitter.meowing.monster/PROFTULIO/status/2115093968203436472#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 223,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115093829531394523",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115093829531394523",
+      "parent_post_id": null,
+      "thread_root_id": "2115093829531394523",
+      "author": {
+        "platform_id": null,
+        "display_name": "SchutzAndre",
+        "username": "SchutzAndre",
+        "profile_url": "https://x.com/SchutzAndre"
+      },
+      "text": "Entre Trump e Xi Jinping, Lula precisa colocar os interesses do Brasil em primeiro lugar portalandresilva.com.br/trum…",
+      "created_at": "2026-10-27T14:50:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/SchutzAndre/status/2115093829531394523#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115093829531394523",
+        "text": "Entre Trump e Xi Jinping, Lula precisa colocar os interesses do Brasil em primeiro lugar portalandresilva.com.br/trum…",
+        "author_username": "SchutzAndre",
+        "author_name": "SchutzAndre",
+        "created_at": "2026-10-27T14:50:00+00:00",
+        "permalink": "https://nitter.meowing.monster/SchutzAndre/status/2115093829531394523#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 118,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115093737852354969",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115093737852354969",
+      "parent_post_id": null,
+      "thread_root_id": "2115093737852354969",
+      "author": {
+        "platform_id": null,
+        "display_name": "LuciaNana92601",
+        "username": "LuciaNana92601",
+        "profile_url": "https://x.com/LuciaNana92601"
+      },
+      "text": "Parabéns, Lula!",
+      "created_at": "2026-10-27T14:50:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/LuciaNana92601/status/2115093737852354969#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115093737852354969",
+        "text": "Parabéns, Lula!",
+        "author_username": "LuciaNana92601",
+        "author_name": "LuciaNana92601",
+        "created_at": "2026-10-27T14:50:00+00:00",
+        "permalink": "https://nitter.meowing.monster/LuciaNana92601/status/2115093737852354969#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 15,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115093700162310207",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115093700162310207",
+      "parent_post_id": null,
+      "thread_root_id": "2115093700162310207",
+      "author": {
+        "platform_id": null,
+        "display_name": "LucianeKlinke",
+        "username": "LucianeKlinke",
+        "profile_url": "https://x.com/LucianeKlinke"
+      },
+      "text": "FELIZ ANIVERSÁRIO LULA !",
+      "created_at": "2026-10-27T14:50:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/LucianeKlinke/status/2115093700162310207#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115093700162310207",
+        "text": "FELIZ ANIVERSÁRIO LULA !",
+        "author_username": "LucianeKlinke",
+        "author_name": "LucianeKlinke",
+        "created_at": "2026-10-27T14:50:00+00:00",
+        "permalink": "https://nitter.meowing.monster/LucianeKlinke/status/2115093700162310207#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 24,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115093570268828027",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115093570268828027",
+      "parent_post_id": null,
+      "thread_root_id": "2115093570268828027",
+      "author": {
+        "platform_id": null,
+        "display_name": "tiagofpe",
+        "username": "tiagofpe",
+        "profile_url": "https://x.com/tiagofpe"
+      },
+      "text": "A vitória de Lula aumentando a venda de um Jornal impresso. 👏🏿👏🏿👏🏿👏🏿👏🏿",
+      "created_at": "2026-10-27T14:49:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/tiagofpe/status/2115093570268828027#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115093570268828027",
+        "text": "A vitória de Lula aumentando a venda de um Jornal impresso. 👏🏿👏🏿👏🏿👏🏿👏🏿",
+        "author_username": "tiagofpe",
+        "author_name": "tiagofpe",
+        "created_at": "2026-10-27T14:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/tiagofpe/status/2115093570268828027#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 70,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115093372838797319",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115093372838797319",
+      "parent_post_id": null,
+      "thread_root_id": "2115093372838797319",
+      "author": {
+        "platform_id": null,
+        "display_name": "TavaresMarciaB",
+        "username": "TavaresMarciaB",
+        "profile_url": "https://x.com/TavaresMarciaB"
+      },
+      "text": "Eu disse que não pediria mais nada ao universo se Lula fosse reeleito, mas... eu mereço ver esse verme sair algemado do avião e direto pra Papuda! Haa universo; só mais essa vai!!",
+      "created_at": "2026-10-27T14:48:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/TavaresMarciaB/status/2115093372838797319#m",
+      "metrics": {
+        "like_count": 29,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115093372838797319",
+        "text": "Eu disse que não pediria mais nada ao universo se Lula fosse reeleito, mas... eu mereço ver esse verme sair algemado do avião e direto pra Papuda! Haa universo; só mais essa vai!!",
+        "author_username": "TavaresMarciaB",
+        "author_name": "TavaresMarciaB",
+        "created_at": "2026-10-27T14:48:00+00:00",
+        "permalink": "https://nitter.meowing.monster/TavaresMarciaB/status/2115093372838797319#m",
+        "metrics": {
+          "like_count": 29,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 179,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115092794351944108",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115092794351944108",
+      "parent_post_id": null,
+      "thread_root_id": "2115092794351944108",
+      "author": {
+        "platform_id": null,
+        "display_name": "paulo47araujo",
+        "username": "paulo47araujo",
+        "profile_url": "https://x.com/paulo47araujo"
+      },
+      "text": "FELIZ ANIVERSÁRIO, MEU PRESIDENTE LULA! SAÚDE, VJDA LONGA E QUE O SENHOR JESUS ESTEJA SEMPRE COM VOCÊ. NÓS, O POVO WSTAMOS!\nPARABÉNS PRA VOCÊ!🚩🥂🍺\n@LulaOficial",
+      "created_at": "2026-10-27T14:46:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/paulo47araujo/status/2115092794351944108#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115092794351944108",
+        "text": "FELIZ ANIVERSÁRIO, MEU PRESIDENTE LULA! SAÚDE, VJDA LONGA E QUE O SENHOR JESUS ESTEJA SEMPRE COM VOCÊ. NÓS, O POVO WSTAMOS!\nPARABÉNS PRA VOCÊ!🚩🥂🍺\n@LulaOficial",
+        "author_username": "paulo47araujo",
+        "author_name": "paulo47araujo",
+        "created_at": "2026-10-27T14:46:00+00:00",
+        "permalink": "https://nitter.meowing.monster/paulo47araujo/status/2115092794351944108#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 158,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115092506987663515",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115092506987663515",
+      "parent_post_id": null,
+      "thread_root_id": "2115092506987663515",
+      "author": {
+        "platform_id": null,
+        "display_name": "gaelsvrs",
+        "username": "gaelsvrs",
+        "profile_url": "https://x.com/gaelsvrs"
+      },
+      "text": "agora que a eleição acabou eu consigo falar. puta que me pariu thallis que merda do caralho, sua presença vai virar vazio pq não tem quem preencha a pessoa que vc foi. descanse em paz meu eterno irmão, que mãe Oya possa te receber de braços abertos. te amo pra caralho charlie. 🤍",
+      "created_at": "2026-10-27T14:45:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/gaelsvrs/status/2115092506987663515#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115092506987663515",
+        "text": "agora que a eleição acabou eu consigo falar. puta que me pariu thallis que merda do caralho, sua presença vai virar vazio pq não tem quem preencha a pessoa que vc foi. descanse em paz meu eterno irmão, que mãe Oya possa te receber de braços abertos. te amo pra caralho charlie. 🤍",
+        "author_username": "gaelsvrs",
+        "author_name": "gaelsvrs",
+        "created_at": "2026-10-27T14:45:00+00:00",
+        "permalink": "https://nitter.meowing.monster/gaelsvrs/status/2115092506987663515#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 279,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115092495784677573",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115092495784677573",
+      "parent_post_id": null,
+      "thread_root_id": "2115092495784677573",
+      "author": {
+        "platform_id": null,
+        "display_name": "FialhoSa",
+        "username": "FialhoSa",
+        "profile_url": "https://x.com/FialhoSa"
+      },
+      "text": "Sinto a mesma coisa. Meu consolo é achar que Flávio teve um livramento,  porque ia ser complicado tirar o país desse buraco mexendo em benefício que Lula prometeu. Petista não ia entender se fizesse o que Lula está sendo obrigado a fazer limpando a própria sujeira que ele fez.",
+      "created_at": "2026-10-27T14:45:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/FialhoSa/status/2115092495784677573#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115092495784677573",
+        "text": "Sinto a mesma coisa. Meu consolo é achar que Flávio teve um livramento,  porque ia ser complicado tirar o país desse buraco mexendo em benefício que Lula prometeu. Petista não ia entender se fizesse o que Lula está sendo obrigado a fazer limpando a própria sujeira que ele fez.",
+        "author_username": "FialhoSa",
+        "author_name": "FialhoSa",
+        "created_at": "2026-10-27T14:45:00+00:00",
+        "permalink": "https://nitter.meowing.monster/FialhoSa/status/2115092495784677573#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 277,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115092402448842965",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115092402448842965",
+      "parent_post_id": null,
+      "thread_root_id": "2115092402448842965",
+      "author": {
+        "platform_id": null,
+        "display_name": "THX2047",
+        "username": "THX2047",
+        "profile_url": "https://x.com/THX2047"
+      },
+      "text": "Eu não tenho pena de demitidos. NUNCA.\nO PT e o Lula me fizeram perder o emprego, e mais da metade de minha subsistência.\nSE VIREM!\nMORRAM!",
+      "created_at": "2026-10-27T14:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/THX2047/status/2115092402448842965#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115092402448842965",
+        "text": "Eu não tenho pena de demitidos. NUNCA.\nO PT e o Lula me fizeram perder o emprego, e mais da metade de minha subsistência.\nSE VIREM!\nMORRAM!",
+        "author_username": "THX2047",
+        "author_name": "THX2047",
+        "created_at": "2026-10-27T14:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/THX2047/status/2115092402448842965#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 139,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115092240544518248",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115092240544518248",
+      "parent_post_id": null,
+      "thread_root_id": "2115092240544518248",
+      "author": {
+        "platform_id": null,
+        "display_name": "ElenaraLelex",
+        "username": "ElenaraLelex",
+        "profile_url": "https://x.com/ElenaraLelex"
+      },
+      "text": "Quero que @LulaOficial indique uma mulher negra com militância social para ministra do STF. Quero que Lula  indique @ErikakHilton Ministra do STF!! Posso ficar querendo, mas não vou deixar de querer!",
+      "created_at": "2026-10-27T14:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/ElenaraLelex/status/2115092240544518248#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115092240544518248",
+        "text": "Quero que @LulaOficial indique uma mulher negra com militância social para ministra do STF. Quero que Lula  indique @ErikakHilton Ministra do STF!! Posso ficar querendo, mas não vou deixar de querer!",
+        "author_username": "ElenaraLelex",
+        "author_name": "ElenaraLelex",
+        "created_at": "2026-10-27T14:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ElenaraLelex/status/2115092240544518248#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 199,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115092078967287917",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115092078967287917",
+      "parent_post_id": null,
+      "thread_root_id": "2115092078967287917",
+      "author": {
+        "platform_id": null,
+        "display_name": "Marifreama321",
+        "username": "Marifreama321",
+        "profile_url": "https://x.com/Marifreama321"
+      },
+      "text": "Viramos revolucionários PORRAAAA",
+      "created_at": "2026-10-27T14:43:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/Marifreama321/status/2115092078967287917#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115092078967287917",
+        "text": "Viramos revolucionários PORRAAAA",
+        "author_username": "Marifreama321",
+        "author_name": "Marifreama321",
+        "created_at": "2026-10-27T14:43:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Marifreama321/status/2115092078967287917#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 32,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115091627936989567",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115091627936989567",
+      "parent_post_id": null,
+      "thread_root_id": "2115091627936989567",
+      "author": {
+        "platform_id": null,
+        "display_name": "eightdj_",
+        "username": "eightdj_",
+        "profile_url": "https://x.com/eightdj_"
+      },
+      "text": "LULA EVERDEEN CARALHO",
+      "created_at": "2026-10-27T14:41:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/eightdj_/status/2115091627936989567#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115091627936989567",
+        "text": "LULA EVERDEEN CARALHO",
+        "author_username": "eightdj_",
+        "author_name": "eightdj_",
+        "created_at": "2026-10-27T14:41:00+00:00",
+        "permalink": "https://nitter.meowing.monster/eightdj_/status/2115091627936989567#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 21,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115091474618421544",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115091474618421544",
+      "parent_post_id": null,
+      "thread_root_id": "2115091474618421544",
+      "author": {
+        "platform_id": null,
+        "display_name": "Fabio_Bonilha",
+        "username": "Fabio_Bonilha",
+        "profile_url": "https://x.com/Fabio_Bonilha"
+      },
+      "text": "Mas empresários não são fascistas?\nOs demitidos que vão pedir emprego para o Lula!",
+      "created_at": "2026-10-27T14:41:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/Fabio_Bonilha/status/2115091474618421544#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115091474618421544",
+        "text": "Mas empresários não são fascistas?\nOs demitidos que vão pedir emprego para o Lula!",
+        "author_username": "Fabio_Bonilha",
+        "author_name": "Fabio_Bonilha",
+        "created_at": "2026-10-27T14:41:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fabio_Bonilha/status/2115091474618421544#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 82,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115091440766202079",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115091440766202079",
+      "parent_post_id": null,
+      "thread_root_id": "2115091440766202079",
+      "author": {
+        "platform_id": null,
+        "display_name": "rachel_blo9944",
+        "username": "rachel_blo9944",
+        "profile_url": "https://x.com/rachel_blo9944"
+      },
+      "text": "Como estariam as ruas petistas se Lula tivesse perdido ?",
+      "created_at": "2026-10-27T14:41:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/rachel_blo9944/status/2115091440766202079#m",
+      "metrics": {
+        "like_count": 182,
+        "reply_count": 1,
+        "retweet_count": 3,
+        "quote_count": 16
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115091440766202079",
+        "text": "Como estariam as ruas petistas se Lula tivesse perdido ?",
+        "author_username": "rachel_blo9944",
+        "author_name": "rachel_blo9944",
+        "created_at": "2026-10-27T14:41:00+00:00",
+        "permalink": "https://nitter.meowing.monster/rachel_blo9944/status/2115091440766202079#m",
+        "metrics": {
+          "like_count": 182,
+          "reply_count": 1,
+          "retweet_count": 3,
+          "quote_count": 16
+        }
+      },
+      "normalized": {
+        "text_length": 56,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115091351331066073",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115091351331066073",
+      "parent_post_id": null,
+      "thread_root_id": "2115091351331066073",
+      "author": {
+        "platform_id": null,
+        "display_name": "sopedroo",
+        "username": "sopedroo",
+        "profile_url": "https://x.com/sopedroo"
+      },
+      "text": "tô quase ficando em mania de afropunk, já revisei minha programação várias vezes hoje 👁️👁️",
+      "created_at": "2026-10-27T14:40:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/sopedroo/status/2115091351331066073#m",
+      "metrics": {
+        "like_count": 18,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115091351331066073",
+        "text": "tô quase ficando em mania de afropunk, já revisei minha programação várias vezes hoje 👁️👁️",
+        "author_username": "sopedroo",
+        "author_name": "sopedroo",
+        "created_at": "2026-10-27T14:40:00+00:00",
+        "permalink": "https://nitter.meowing.monster/sopedroo/status/2115091351331066073#m",
+        "metrics": {
+          "like_count": 18,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 90,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115091087920382182",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115091087920382182",
+      "parent_post_id": null,
+      "thread_root_id": "2115091087920382182",
+      "author": {
+        "platform_id": null,
+        "display_name": "_filipe_vieira",
+        "username": "_filipe_vieira",
+        "profile_url": "https://x.com/_filipe_vieira"
+      },
+      "text": "Diretamente de Niterói, onde as manifestações iniciaram e se espalharam por todo País, parabenizo Luiz Inácio Lula da Silva pelos seus 81 anos de vida!! Reeleito no último domingo batendo várias marcas: único Presidente eleito 4 vezes... (completo no Instagram)",
+      "created_at": "2026-10-27T14:39:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/_filipe_vieira/status/2115091087920382182#m",
+      "metrics": {
+        "like_count": 22,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115091087920382182",
+        "text": "Diretamente de Niterói, onde as manifestações iniciaram e se espalharam por todo País, parabenizo Luiz Inácio Lula da Silva pelos seus 81 anos de vida!! Reeleito no último domingo batendo várias marcas: único Presidente eleito 4 vezes... (completo no Instagram)",
+        "author_username": "_filipe_vieira",
+        "author_name": "_filipe_vieira",
+        "created_at": "2026-10-27T14:39:00+00:00",
+        "permalink": "https://nitter.meowing.monster/_filipe_vieira/status/2115091087920382182#m",
+        "metrics": {
+          "like_count": 22,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 261,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115090765944660322",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115090765944660322",
+      "parent_post_id": null,
+      "thread_root_id": "2115090765944660322",
+      "author": {
+        "platform_id": null,
+        "display_name": "carecabissexual",
+        "username": "carecabissexual",
+        "profile_url": "https://x.com/carecabissexual"
+      },
+      "text": "ontem era lula agr eh apenas bts",
+      "created_at": "2026-10-27T14:38:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/carecabissexual/status/2115090765944660322#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115090765944660322",
+        "text": "ontem era lula agr eh apenas bts",
+        "author_username": "carecabissexual",
+        "author_name": "carecabissexual",
+        "created_at": "2026-10-27T14:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/carecabissexual/status/2115090765944660322#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 32,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115090672784900164",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115090672784900164",
+      "parent_post_id": null,
+      "thread_root_id": "2115090672784900164",
+      "author": {
+        "platform_id": null,
+        "display_name": "marion_rib13371",
+        "username": "marion_rib13371",
+        "profile_url": "https://x.com/marion_rib13371"
+      },
+      "text": "FELIZ ANIVERSÁRIO LULA",
+      "created_at": "2026-10-27T14:38:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/marion_rib13371/status/2115090672784900164#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115090672784900164",
+        "text": "FELIZ ANIVERSÁRIO LULA",
+        "author_username": "marion_rib13371",
+        "author_name": "marion_rib13371",
+        "created_at": "2026-10-27T14:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/marion_rib13371/status/2115090672784900164#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 22,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115090661221277733",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115090661221277733",
+      "parent_post_id": null,
+      "thread_root_id": "2115090661221277733",
+      "author": {
+        "platform_id": null,
+        "display_name": "Marifreama321",
+        "username": "Marifreama321",
+        "profile_url": "https://x.com/Marifreama321"
+      },
+      "text": "Nunca usei essa merda, mas pela democracia tive que apelar",
+      "created_at": "2026-10-27T14:38:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/Marifreama321/status/2115090661221277733#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115090661221277733",
+        "text": "Nunca usei essa merda, mas pela democracia tive que apelar",
+        "author_username": "Marifreama321",
+        "author_name": "Marifreama321",
+        "created_at": "2026-10-27T14:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Marifreama321/status/2115090661221277733#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 58,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115090558632788147",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115090558632788147",
+      "parent_post_id": null,
+      "thread_root_id": "2115090558632788147",
+      "author": {
+        "platform_id": null,
+        "display_name": "marion_rib13371",
+        "username": "marion_rib13371",
+        "profile_url": "https://x.com/marion_rib13371"
+      },
+      "text": "FELIZ ANIVERSÁRIO LULA",
+      "created_at": "2026-10-27T14:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/marion_rib13371/status/2115090558632788147#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115090558632788147",
+        "text": "FELIZ ANIVERSÁRIO LULA",
+        "author_username": "marion_rib13371",
+        "author_name": "marion_rib13371",
+        "created_at": "2026-10-27T14:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/marion_rib13371/status/2115090558632788147#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 22,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115090531571163269",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115090531571163269",
+      "parent_post_id": null,
+      "thread_root_id": "2115090531571163269",
+      "author": {
+        "platform_id": null,
+        "display_name": "Marifreama321",
+        "username": "Marifreama321",
+        "profile_url": "https://x.com/Marifreama321"
+      },
+      "text": "Simmmm,kkkkkkkk",
+      "created_at": "2026-10-27T14:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/Marifreama321/status/2115090531571163269#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115090531571163269",
+        "text": "Simmmm,kkkkkkkk",
+        "author_username": "Marifreama321",
+        "author_name": "Marifreama321",
+        "created_at": "2026-10-27T14:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Marifreama321/status/2115090531571163269#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 15,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115090392500584520",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115090392500584520",
+      "parent_post_id": null,
+      "thread_root_id": "2115090392500584520",
+      "author": {
+        "platform_id": null,
+        "display_name": "Marifreama321",
+        "username": "Marifreama321",
+        "profile_url": "https://x.com/Marifreama321"
+      },
+      "text": "Também",
+      "created_at": "2026-10-27T14:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/Marifreama321/status/2115090392500584520#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115090392500584520",
+        "text": "Também",
+        "author_username": "Marifreama321",
+        "author_name": "Marifreama321",
+        "created_at": "2026-10-27T14:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Marifreama321/status/2115090392500584520#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 6,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115090297713459326",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115090297713459326",
+      "parent_post_id": null,
+      "thread_root_id": "2115090297713459326",
+      "author": {
+        "platform_id": null,
+        "display_name": "CrisBernart",
+        "username": "CrisBernart",
+        "profile_url": "https://x.com/CrisBernart"
+      },
+      "text": "Eu? Eu nem tô trabalhando. Aliás, gravo um filme semana que vem, mas eu não tenho contrato fixo. E também nem votei no Lula. Kkkk que achismo foi esse?",
+      "created_at": "2026-10-27T14:36:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/CrisBernart/status/2115090297713459326#m",
+      "metrics": {
+        "like_count": 25,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115090297713459326",
+        "text": "Eu? Eu nem tô trabalhando. Aliás, gravo um filme semana que vem, mas eu não tenho contrato fixo. E também nem votei no Lula. Kkkk que achismo foi esse?",
+        "author_username": "CrisBernart",
+        "author_name": "CrisBernart",
+        "created_at": "2026-10-27T14:36:00+00:00",
+        "permalink": "https://nitter.meowing.monster/CrisBernart/status/2115090297713459326#m",
+        "metrics": {
+          "like_count": 25,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 151,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115090121728860449",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115090121728860449",
+      "parent_post_id": null,
+      "thread_root_id": "2115090121728860449",
+      "author": {
+        "platform_id": null,
+        "display_name": "Fabio_Bonilha",
+        "username": "Fabio_Bonilha",
+        "profile_url": "https://x.com/Fabio_Bonilha"
+      },
+      "text": "Lula não tirou o Brasil da fome um milhão de vezes?\nEntão, ele que se vire e sustente seus eleitores.",
+      "created_at": "2026-10-27T14:35:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/Fabio_Bonilha/status/2115090121728860449#m",
+      "metrics": {
+        "like_count": 18,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 4
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115090121728860449",
+        "text": "Lula não tirou o Brasil da fome um milhão de vezes?\nEntão, ele que se vire e sustente seus eleitores.",
+        "author_username": "Fabio_Bonilha",
+        "author_name": "Fabio_Bonilha",
+        "created_at": "2026-10-27T14:35:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fabio_Bonilha/status/2115090121728860449#m",
+        "metrics": {
+          "like_count": 18,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 4
+        }
+      },
+      "normalized": {
+        "text_length": 101,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115090101998961091",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115090101998961091",
+      "parent_post_id": null,
+      "thread_root_id": "2115090101998961091",
+      "author": {
+        "platform_id": null,
+        "display_name": "marion_rib13371",
+        "username": "marion_rib13371",
+        "profile_url": "https://x.com/marion_rib13371"
+      },
+      "text": "FELIZ ANIVERSÁRIO LULA",
+      "created_at": "2026-10-27T14:35:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/marion_rib13371/status/2115090101998961091#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115090101998961091",
+        "text": "FELIZ ANIVERSÁRIO LULA",
+        "author_username": "marion_rib13371",
+        "author_name": "marion_rib13371",
+        "created_at": "2026-10-27T14:35:00+00:00",
+        "permalink": "https://nitter.meowing.monster/marion_rib13371/status/2115090101998961091#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 22,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115090068440301772",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115090068440301772",
+      "parent_post_id": null,
+      "thread_root_id": "2115090068440301772",
+      "author": {
+        "platform_id": null,
+        "display_name": "mbernadete429",
+        "username": "mbernadete429",
+        "profile_url": "https://x.com/mbernadete429"
+      },
+      "text": "Eu avisei bicha kkkkk lula vai pra cadeia",
+      "created_at": "2026-10-27T14:35:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/mbernadete429/status/2115090068440301772#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115090068440301772",
+        "text": "Eu avisei bicha kkkkk lula vai pra cadeia",
+        "author_username": "mbernadete429",
+        "author_name": "mbernadete429",
+        "created_at": "2026-10-27T14:35:00+00:00",
+        "permalink": "https://nitter.meowing.monster/mbernadete429/status/2115090068440301772#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 41,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115089956544610489",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115089956544610489",
+      "parent_post_id": null,
+      "thread_root_id": "2115089956544610489",
+      "author": {
+        "platform_id": null,
+        "display_name": "mbernadete429",
+        "username": "mbernadete429",
+        "profile_url": "https://x.com/mbernadete429"
+      },
+      "text": "Kkkk lula vai pra cadeia junto maduro",
+      "created_at": "2026-10-27T14:35:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/mbernadete429/status/2115089956544610489#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115089956544610489",
+        "text": "Kkkk lula vai pra cadeia junto maduro",
+        "author_username": "mbernadete429",
+        "author_name": "mbernadete429",
+        "created_at": "2026-10-27T14:35:00+00:00",
+        "permalink": "https://nitter.meowing.monster/mbernadete429/status/2115089956544610489#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 37,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115089744434479120",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115089744434479120",
+      "parent_post_id": null,
+      "thread_root_id": "2115089744434479120",
+      "author": {
+        "platform_id": null,
+        "display_name": "marion_rib13371",
+        "username": "marion_rib13371",
+        "profile_url": "https://x.com/marion_rib13371"
+      },
+      "text": "FELIZ ANIVERSÁRIO LULA",
+      "created_at": "2026-10-27T14:34:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/marion_rib13371/status/2115089744434479120#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115089744434479120",
+        "text": "FELIZ ANIVERSÁRIO LULA",
+        "author_username": "marion_rib13371",
+        "author_name": "marion_rib13371",
+        "created_at": "2026-10-27T14:34:00+00:00",
+        "permalink": "https://nitter.meowing.monster/marion_rib13371/status/2115089744434479120#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 22,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115089679624069230",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115089679624069230",
+      "parent_post_id": null,
+      "thread_root_id": "2115089679624069230",
+      "author": {
+        "platform_id": null,
+        "display_name": "marion_rib13371",
+        "username": "marion_rib13371",
+        "profile_url": "https://x.com/marion_rib13371"
+      },
+      "text": "FELIZ ANIVERSÁRIO LULA",
+      "created_at": "2026-10-27T14:34:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/marion_rib13371/status/2115089679624069230#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115089679624069230",
+        "text": "FELIZ ANIVERSÁRIO LULA",
+        "author_username": "marion_rib13371",
+        "author_name": "marion_rib13371",
+        "created_at": "2026-10-27T14:34:00+00:00",
+        "permalink": "https://nitter.meowing.monster/marion_rib13371/status/2115089679624069230#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 22,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115089641149727078",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115089641149727078",
+      "parent_post_id": null,
+      "thread_root_id": "2115089641149727078",
+      "author": {
+        "platform_id": null,
+        "display_name": "__robz",
+        "username": "__robz",
+        "profile_url": "https://x.com/__robz"
+      },
+      "text": "Tinha que ser alguém do metrópoles...\n\noglobo.globo.com/google/amp/…",
+      "created_at": "2026-10-27T14:34:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/__robz/status/2115089641149727078#m",
+      "metrics": {
+        "like_count": 38,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115089641149727078",
+        "text": "Tinha que ser alguém do metrópoles...\n\noglobo.globo.com/google/amp/…",
+        "author_username": "__robz",
+        "author_name": "__robz",
+        "created_at": "2026-10-27T14:34:00+00:00",
+        "permalink": "https://nitter.meowing.monster/__robz/status/2115089641149727078#m",
+        "metrics": {
+          "like_count": 38,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 68,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115089621033857253",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115089621033857253",
+      "parent_post_id": null,
+      "thread_root_id": "2115089621033857253",
+      "author": {
+        "platform_id": null,
+        "display_name": "marion_rib13371",
+        "username": "marion_rib13371",
+        "profile_url": "https://x.com/marion_rib13371"
+      },
+      "text": "FELIZ ANIVERSÁRIO LULA",
+      "created_at": "2026-10-27T14:33:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/marion_rib13371/status/2115089621033857253#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115089621033857253",
+        "text": "FELIZ ANIVERSÁRIO LULA",
+        "author_username": "marion_rib13371",
+        "author_name": "marion_rib13371",
+        "created_at": "2026-10-27T14:33:00+00:00",
+        "permalink": "https://nitter.meowing.monster/marion_rib13371/status/2115089621033857253#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 22,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115089540494790688",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115089540494790688",
+      "parent_post_id": null,
+      "thread_root_id": "2115089540494790688",
+      "author": {
+        "platform_id": null,
+        "display_name": "marion_rib13371",
+        "username": "marion_rib13371",
+        "profile_url": "https://x.com/marion_rib13371"
+      },
+      "text": "FELIZ ANIVERSÁRIO LULA",
+      "created_at": "2026-10-27T14:33:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/marion_rib13371/status/2115089540494790688#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115089540494790688",
+        "text": "FELIZ ANIVERSÁRIO LULA",
+        "author_username": "marion_rib13371",
+        "author_name": "marion_rib13371",
+        "created_at": "2026-10-27T14:33:00+00:00",
+        "permalink": "https://nitter.meowing.monster/marion_rib13371/status/2115089540494790688#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 22,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115089380960248232",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115089380960248232",
+      "parent_post_id": null,
+      "thread_root_id": "2115089380960248232",
+      "author": {
+        "platform_id": null,
+        "display_name": "Cadamin",
+        "username": "Cadamin",
+        "profile_url": "https://x.com/Cadamin"
+      },
+      "text": "Renan Filho é cotado para ocupar o Ministério da Fazenda ou assumir a liderança do governo no Congresso em um eventual quarto mandato de Lula. As possibilidades ainda não foram confirmadas oficialmente. Saiba mais no link na bio.",
+      "created_at": "2026-10-27T14:32:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/Cadamin/status/2115089380960248232#m",
+      "metrics": {
+        "like_count": 34,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115089380960248232",
+        "text": "Renan Filho é cotado para ocupar o Ministério da Fazenda ou assumir a liderança do governo no Congresso em um eventual quarto mandato de Lula. As possibilidades ainda não foram confirmadas oficialmente. Saiba mais no link na bio.",
+        "author_username": "Cadamin",
+        "author_name": "Cadamin",
+        "created_at": "2026-10-27T14:32:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Cadamin/status/2115089380960248232#m",
+        "metrics": {
+          "like_count": 34,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 229,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115089206556979665",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115089206556979665",
+      "parent_post_id": null,
+      "thread_root_id": "2115089206556979665",
+      "author": {
+        "platform_id": null,
+        "display_name": "sopedroo",
+        "username": "sopedroo",
+        "profile_url": "https://x.com/sopedroo"
+      },
+      "text": "Poderia ser qualquer um de nós :/",
+      "created_at": "2026-10-27T14:32:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/sopedroo/status/2115089206556979665#m",
+      "metrics": {
+        "like_count": 29,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 3
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115089206556979665",
+        "text": "Poderia ser qualquer um de nós :/",
+        "author_username": "sopedroo",
+        "author_name": "sopedroo",
+        "created_at": "2026-10-27T14:32:00+00:00",
+        "permalink": "https://nitter.meowing.monster/sopedroo/status/2115089206556979665#m",
+        "metrics": {
+          "like_count": 29,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      },
+      "normalized": {
+        "text_length": 33,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115089098629063024",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115089098629063024",
+      "parent_post_id": null,
+      "thread_root_id": "2115089098629063024",
+      "author": {
+        "platform_id": null,
+        "display_name": "VacaPretta",
+        "username": "VacaPretta",
+        "profile_url": "https://x.com/VacaPretta"
+      },
+      "text": "Mds ainda chorando quando vejo algo do Lula ou como a gente virou essa porra!",
+      "created_at": "2026-10-27T14:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/VacaPretta/status/2115089098629063024#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115089098629063024",
+        "text": "Mds ainda chorando quando vejo algo do Lula ou como a gente virou essa porra!",
+        "author_username": "VacaPretta",
+        "author_name": "VacaPretta",
+        "created_at": "2026-10-27T14:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/VacaPretta/status/2115089098629063024#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 77,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115089031918961128",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115089031918961128",
+      "parent_post_id": null,
+      "thread_root_id": "2115089031918961128",
+      "author": {
+        "platform_id": null,
+        "display_name": "Fabio_Bonilha",
+        "username": "Fabio_Bonilha",
+        "profile_url": "https://x.com/Fabio_Bonilha"
+      },
+      "text": "Sabe o que isso significa? \nDESEMPREGO!\nParabéns presidente Lula",
+      "created_at": "2026-10-27T14:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/Fabio_Bonilha/status/2115089031918961128#m",
+      "metrics": {
+        "like_count": 25,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115089031918961128",
+        "text": "Sabe o que isso significa? \nDESEMPREGO!\nParabéns presidente Lula",
+        "author_username": "Fabio_Bonilha",
+        "author_name": "Fabio_Bonilha",
+        "created_at": "2026-10-27T14:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fabio_Bonilha/status/2115089031918961128#m",
+        "metrics": {
+          "like_count": 25,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 64,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115088994757132496",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115088994757132496",
+      "parent_post_id": null,
+      "thread_root_id": "2115088994757132496",
+      "author": {
+        "platform_id": null,
+        "display_name": "souxax",
+        "username": "souxax",
+        "profile_url": "https://x.com/souxax"
+      },
+      "text": "a vitória do lula tem esse som pra mim\nopen.spotify.com/track/2ypG5…",
+      "created_at": "2026-10-27T14:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/souxax/status/2115088994757132496#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115088994757132496",
+        "text": "a vitória do lula tem esse som pra mim\nopen.spotify.com/track/2ypG5…",
+        "author_username": "souxax",
+        "author_name": "souxax",
+        "created_at": "2026-10-27T14:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/souxax/status/2115088994757132496#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 68,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115088908824215990",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115088908824215990",
+      "parent_post_id": null,
+      "thread_root_id": "2115088908824215990",
+      "author": {
+        "platform_id": null,
+        "display_name": "DistopiaBrazil",
+        "username": "DistopiaBrazil",
+        "profile_url": "https://x.com/DistopiaBrazil"
+      },
+      "text": "Parabéns Presidente Lula",
+      "created_at": "2026-10-27T14:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/DistopiaBrazil/status/2115088908824215990#m",
+      "metrics": {
+        "like_count": 12,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115088908824215990",
+        "text": "Parabéns Presidente Lula",
+        "author_username": "DistopiaBrazil",
+        "author_name": "DistopiaBrazil",
+        "created_at": "2026-10-27T14:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/DistopiaBrazil/status/2115088908824215990#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 24,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115088858077405510",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115088858077405510",
+      "parent_post_id": null,
+      "thread_root_id": "2115088858077405510",
+      "author": {
+        "platform_id": null,
+        "display_name": "eightdj_",
+        "username": "eightdj_",
+        "profile_url": "https://x.com/eightdj_"
+      },
+      "text": "E quando do Lula criar meu pretinho minha vida",
+      "created_at": "2026-10-27T14:30:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/eightdj_/status/2115088858077405510#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115088858077405510",
+        "text": "E quando do Lula criar meu pretinho minha vida",
+        "author_username": "eightdj_",
+        "author_name": "eightdj_",
+        "created_at": "2026-10-27T14:30:00+00:00",
+        "permalink": "https://nitter.meowing.monster/eightdj_/status/2115088858077405510#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 46,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115088842201985042",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115088842201985042",
+      "parent_post_id": null,
+      "thread_root_id": "2115088842201985042",
+      "author": {
+        "platform_id": null,
+        "display_name": "Samuel_Bastille",
+        "username": "Samuel_Bastille",
+        "profile_url": "https://x.com/Samuel_Bastille"
+      },
+      "text": "Muito simples de entender, muitos bolsonaristas viraram o voto para o Lula, essa é a verdade! 🤣",
+      "created_at": "2026-10-27T14:30:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/Samuel_Bastille/status/2115088842201985042#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115088842201985042",
+        "text": "Muito simples de entender, muitos bolsonaristas viraram o voto para o Lula, essa é a verdade! 🤣",
+        "author_username": "Samuel_Bastille",
+        "author_name": "Samuel_Bastille",
+        "created_at": "2026-10-27T14:30:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Samuel_Bastille/status/2115088842201985042#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 95,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115088717568266413",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115088717568266413",
+      "parent_post_id": null,
+      "thread_root_id": "2115088717568266413",
+      "author": {
+        "platform_id": null,
+        "display_name": "biaflauaus",
+        "username": "biaflauaus",
+        "profile_url": "https://x.com/biaflauaus"
+      },
+      "text": "Se Flávio tivesse ganhado, a esquerda estaria agora lutando pela escala 5x2 para TODOS os trabalhadores... Lula ganhou e os bolsonaristas estão lutando pra que os trabalhadores que votaram em Lula sejam demitidos! Nunca foi uma escolha difícil! Sempre foi perversão!",
+      "created_at": "2026-10-27T14:30:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/biaflauaus/status/2115088717568266413#m",
+      "metrics": {
+        "like_count": 24,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115088717568266413",
+        "text": "Se Flávio tivesse ganhado, a esquerda estaria agora lutando pela escala 5x2 para TODOS os trabalhadores... Lula ganhou e os bolsonaristas estão lutando pra que os trabalhadores que votaram em Lula sejam demitidos! Nunca foi uma escolha difícil! Sempre foi perversão!",
+        "author_username": "biaflauaus",
+        "author_name": "biaflauaus",
+        "created_at": "2026-10-27T14:30:00+00:00",
+        "permalink": "https://nitter.meowing.monster/biaflauaus/status/2115088717568266413#m",
+        "metrics": {
+          "like_count": 24,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 266,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115088630679060493",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115088630679060493",
+      "parent_post_id": null,
+      "thread_root_id": "2115088630679060493",
+      "author": {
+        "platform_id": null,
+        "display_name": "biaflauaus",
+        "username": "biaflauaus",
+        "profile_url": "https://x.com/biaflauaus"
+      },
+      "text": "Se Flávio tivesse ganhado, a esquerda estaria agora lutando pela escala 5x2 para TODOS os trabalhadores... Lula ganhou e os bolsonaristas estão lutando pra que os trabalhadores que votaram em Lula sejam demitidos! Nunca foi uma escolha difícil! Sempre foi perversão!",
+      "created_at": "2026-10-27T14:30:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/biaflauaus/status/2115088630679060493#m",
+      "metrics": {
+        "like_count": 23,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115088630679060493",
+        "text": "Se Flávio tivesse ganhado, a esquerda estaria agora lutando pela escala 5x2 para TODOS os trabalhadores... Lula ganhou e os bolsonaristas estão lutando pra que os trabalhadores que votaram em Lula sejam demitidos! Nunca foi uma escolha difícil! Sempre foi perversão!",
+        "author_username": "biaflauaus",
+        "author_name": "biaflauaus",
+        "created_at": "2026-10-27T14:30:00+00:00",
+        "permalink": "https://nitter.meowing.monster/biaflauaus/status/2115088630679060493#m",
+        "metrics": {
+          "like_count": 23,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 266,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115088549884088817",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115088549884088817",
+      "parent_post_id": null,
+      "thread_root_id": "2115088549884088817",
+      "author": {
+        "platform_id": null,
+        "display_name": "biaflauaus",
+        "username": "biaflauaus",
+        "profile_url": "https://x.com/biaflauaus"
+      },
+      "text": "Se Flávio tivesse ganhado, a esquerda estaria agora lutando pela escala 5x2 para TODOS os trabalhadores... Lula ganhou e os bolsonaristas estão lutando pra que os trabalhadores que votaram em Lula sejam demitidos! Nunca foi uma escolha difícil! Sempre foi perversão!",
+      "created_at": "2026-10-27T14:29:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/biaflauaus/status/2115088549884088817#m",
+      "metrics": {
+        "like_count": 19,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115088549884088817",
+        "text": "Se Flávio tivesse ganhado, a esquerda estaria agora lutando pela escala 5x2 para TODOS os trabalhadores... Lula ganhou e os bolsonaristas estão lutando pra que os trabalhadores que votaram em Lula sejam demitidos! Nunca foi uma escolha difícil! Sempre foi perversão!",
+        "author_username": "biaflauaus",
+        "author_name": "biaflauaus",
+        "created_at": "2026-10-27T14:29:00+00:00",
+        "permalink": "https://nitter.meowing.monster/biaflauaus/status/2115088549884088817#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 266,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115088485761564672",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115088485761564672",
+      "parent_post_id": null,
+      "thread_root_id": "2115088485761564672",
+      "author": {
+        "platform_id": null,
+        "display_name": "biaflauaus",
+        "username": "biaflauaus",
+        "profile_url": "https://x.com/biaflauaus"
+      },
+      "text": "Se Flávio tivesse ganhado, a esquerda estaria agora lutando pela escala 5x2 para TODOS os trabalhadores... Lula ganhou e os bolsonaristas estão lutando pra que os trabalhadores que votaram em Lula sejam demitidos! Nunca foi uma escolha difícil! Sempre foi perversão!",
+      "created_at": "2026-10-27T14:29:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/biaflauaus/status/2115088485761564672#m",
+      "metrics": {
+        "like_count": 17,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115088485761564672",
+        "text": "Se Flávio tivesse ganhado, a esquerda estaria agora lutando pela escala 5x2 para TODOS os trabalhadores... Lula ganhou e os bolsonaristas estão lutando pra que os trabalhadores que votaram em Lula sejam demitidos! Nunca foi uma escolha difícil! Sempre foi perversão!",
+        "author_username": "biaflauaus",
+        "author_name": "biaflauaus",
+        "created_at": "2026-10-27T14:29:00+00:00",
+        "permalink": "https://nitter.meowing.monster/biaflauaus/status/2115088485761564672#m",
+        "metrics": {
+          "like_count": 17,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 266,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115087972777206083",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115087972777206083",
+      "parent_post_id": null,
+      "thread_root_id": "2115087972777206083",
+      "author": {
+        "platform_id": null,
+        "display_name": "ArteIvy",
+        "username": "ArteIvy",
+        "profile_url": "https://x.com/ArteIvy"
+      },
+      "text": "De ferias nos meus pais em Minas, comentei algo sobre política e achei que meu pai tinha feito uma cara estranha. Deduzi q ele tinha virado B e fiquei quieta. Agora mamãe veio me contar que o bichinho ficou tão nervoso com a apuração com medo do Lula n ganhar q alterou a pressão",
+      "created_at": "2026-10-27T14:27:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/ArteIvy/status/2115087972777206083#m",
+      "metrics": {
+        "like_count": 17,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115087972777206083",
+        "text": "De ferias nos meus pais em Minas, comentei algo sobre política e achei que meu pai tinha feito uma cara estranha. Deduzi q ele tinha virado B e fiquei quieta. Agora mamãe veio me contar que o bichinho ficou tão nervoso com a apuração com medo do Lula n ganhar q alterou a pressão",
+        "author_username": "ArteIvy",
+        "author_name": "ArteIvy",
+        "created_at": "2026-10-27T14:27:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ArteIvy/status/2115087972777206083#m",
+        "metrics": {
+          "like_count": 17,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 279,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115087818372309070",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115087818372309070",
+      "parent_post_id": null,
+      "thread_root_id": "2115087818372309070",
+      "author": {
+        "platform_id": null,
+        "display_name": "fabiofelixdf",
+        "username": "fabiofelixdf",
+        "profile_url": "https://x.com/fabiofelixdf"
+      },
+      "text": "Gravíssimas as denúncias de violência contra povos indígenas no Mato Grosso do Sul após o resultado da vitória de Lula. \n\nSegundo a @ApibOficial, há denúncias de assassinatos em Naviraí, atropelamentos em Coronel Sapucaia, além de ameaças de morte, ataques racistas e até ameaças de envenenamento da água de comunidades indígenas em Tacuru e Nioaque.\n\nÉ inadmissível que povos indígenas sejam ameaçados e tenham suas vidas colocadas em risco em qualquer circunstâncias.\n\nA APIB já acionou o Ministério Público Federal, a Polícia Federal e órgãos do Governo Federal.\n\nEssas denúncias precisam ser investigadas com urgência! É fundamental garantir a proteção das comunidades, apurar possíveis omissões policiais e responsabilizar os envolvidos. \n\nNenhuma violência contra os povos indígenas pode ficar impune!",
+      "created_at": "2026-10-27T14:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/fabiofelixdf/status/2115087818372309070#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 3,
+        "retweet_count": 72,
+        "quote_count": 142
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115087818372309070",
+        "text": "Gravíssimas as denúncias de violência contra povos indígenas no Mato Grosso do Sul após o resultado da vitória de Lula. \n\nSegundo a @ApibOficial, há denúncias de assassinatos em Naviraí, atropelamentos em Coronel Sapucaia, além de ameaças de morte, ataques racistas e até ameaças de envenenamento da água de comunidades indígenas em Tacuru e Nioaque.\n\nÉ inadmissível que povos indígenas sejam ameaçados e tenham suas vidas colocadas em risco em qualquer circunstâncias.\n\nA APIB já acionou o Ministério Público Federal, a Polícia Federal e órgãos do Governo Federal.\n\nEssas denúncias precisam ser investigadas com urgência! É fundamental garantir a proteção das comunidades, apurar possíveis omissões policiais e responsabilizar os envolvidos. \n\nNenhuma violência contra os povos indígenas pode ficar impune!",
+        "author_username": "fabiofelixdf",
+        "author_name": "fabiofelixdf",
+        "created_at": "2026-10-27T14:26:00+00:00",
+        "permalink": "https://nitter.meowing.monster/fabiofelixdf/status/2115087818372309070#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 3,
+          "retweet_count": 72,
+          "quote_count": 142
+        }
+      },
+      "normalized": {
+        "text_length": 807,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115087674755178614",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115087674755178614",
+      "parent_post_id": null,
+      "thread_root_id": "2115087674755178614",
+      "author": {
+        "platform_id": null,
+        "display_name": "Fabrici70242229",
+        "username": "Fabrici70242229",
+        "profile_url": "https://x.com/Fabrici70242229"
+      },
+      "text": "Vc tem todo direito do mundo em não votar no Lula. Mais defende um cara desses aí vc perde todo e qualquer argumento",
+      "created_at": "2026-10-27T14:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/Fabrici70242229/status/2115087674755178614#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115087674755178614",
+        "text": "Vc tem todo direito do mundo em não votar no Lula. Mais defende um cara desses aí vc perde todo e qualquer argumento",
+        "author_username": "Fabrici70242229",
+        "author_name": "Fabrici70242229",
+        "created_at": "2026-10-27T14:26:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fabrici70242229/status/2115087674755178614#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 116,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115086725072441428",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115086725072441428",
+      "parent_post_id": null,
+      "thread_root_id": "2115086725072441428",
+      "author": {
+        "platform_id": null,
+        "display_name": "AutismoPensante",
+        "username": "AutismoPensante",
+        "profile_url": "https://x.com/AutismoPensante"
+      },
+      "text": "Vocês vírgula né\nEu não apoiei o Lula, nem no primeiro e nem no segundo turno. Só os motivos que foram diferentes desse.",
+      "created_at": "2026-10-27T14:22:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/AutismoPensante/status/2115086725072441428#m",
+      "metrics": {
+        "like_count": 17,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115086725072441428",
+        "text": "Vocês vírgula né\nEu não apoiei o Lula, nem no primeiro e nem no segundo turno. Só os motivos que foram diferentes desse.",
+        "author_username": "AutismoPensante",
+        "author_name": "AutismoPensante",
+        "created_at": "2026-10-27T14:22:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AutismoPensante/status/2115086725072441428#m",
+        "metrics": {
+          "like_count": 17,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 120,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115086527545966697",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115086527545966697",
+      "parent_post_id": null,
+      "thread_root_id": "2115086527545966697",
+      "author": {
+        "platform_id": null,
+        "display_name": "EmersonSouza077",
+        "username": "EmersonSouza077",
+        "profile_url": "https://x.com/EmersonSouza077"
+      },
+      "text": "Meu amigo o que fazer diante de uma eleição muito estranha aonde lula virou votos até no sul eu não acredito nisso sinceramente já eras o pais",
+      "created_at": "2026-10-27T14:21:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/EmersonSouza077/status/2115086527545966697#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115086527545966697",
+        "text": "Meu amigo o que fazer diante de uma eleição muito estranha aonde lula virou votos até no sul eu não acredito nisso sinceramente já eras o pais",
+        "author_username": "EmersonSouza077",
+        "author_name": "EmersonSouza077",
+        "created_at": "2026-10-27T14:21:00+00:00",
+        "permalink": "https://nitter.meowing.monster/EmersonSouza077/status/2115086527545966697#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 142,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115085963424628861",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115085963424628861",
+      "parent_post_id": null,
+      "thread_root_id": "2115085963424628861",
+      "author": {
+        "platform_id": null,
+        "display_name": "CarlitosCorgi",
+        "username": "CarlitosCorgi",
+        "profile_url": "https://x.com/CarlitosCorgi"
+      },
+      "text": "e quando o lula o minha festa de rep minha vida",
+      "created_at": "2026-10-27T14:19:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/CarlitosCorgi/status/2115085963424628861#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115085963424628861",
+        "text": "e quando o lula o minha festa de rep minha vida",
+        "author_username": "CarlitosCorgi",
+        "author_name": "CarlitosCorgi",
+        "created_at": "2026-10-27T14:19:00+00:00",
+        "permalink": "https://nitter.meowing.monster/CarlitosCorgi/status/2115085963424628861#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 47,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115085811712459140",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115085811712459140",
+      "parent_post_id": null,
+      "thread_root_id": "2115085811712459140",
+      "author": {
+        "platform_id": null,
+        "display_name": "GuimaraesLiih",
+        "username": "GuimaraesLiih",
+        "profile_url": "https://x.com/GuimaraesLiih"
+      },
+      "text": "Quero desejar ao Presidente Lula saúde e um novo (último) mandato c muito amor, união, justiça e sabedoria. \nQue os 81 anos se transformem nos 120 (disposição e saúde eu sei que tem pra isso!).\n\nFoto da campanha de 2002.\n\n#FelizAniversarioPresidente\n#81AnosDoMaiorDoMundo",
+      "created_at": "2026-10-27T14:18:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/GuimaraesLiih/status/2115085811712459140#m",
+      "metrics": {
+        "like_count": 44,
+        "reply_count": 1,
+        "retweet_count": 1,
+        "quote_count": 5
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115085811712459140",
+        "text": "Quero desejar ao Presidente Lula saúde e um novo (último) mandato c muito amor, união, justiça e sabedoria. \nQue os 81 anos se transformem nos 120 (disposição e saúde eu sei que tem pra isso!).\n\nFoto da campanha de 2002.\n\n#FelizAniversarioPresidente\n#81AnosDoMaiorDoMundo",
+        "author_username": "GuimaraesLiih",
+        "author_name": "GuimaraesLiih",
+        "created_at": "2026-10-27T14:18:00+00:00",
+        "permalink": "https://nitter.meowing.monster/GuimaraesLiih/status/2115085811712459140#m",
+        "metrics": {
+          "like_count": 44,
+          "reply_count": 1,
+          "retweet_count": 1,
+          "quote_count": 5
+        }
+      },
+      "normalized": {
+        "text_length": 271,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115085724911284277",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115085724911284277",
+      "parent_post_id": null,
+      "thread_root_id": "2115085724911284277",
+      "author": {
+        "platform_id": null,
+        "display_name": "EmersonSouza077",
+        "username": "EmersonSouza077",
+        "profile_url": "https://x.com/EmersonSouza077"
+      },
+      "text": "Que ótimo que se fodam quero que o Brasil quebre com a volta do lula",
+      "created_at": "2026-10-27T14:18:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/EmersonSouza077/status/2115085724911284277#m",
+      "metrics": {
+        "like_count": 43,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115085724911284277",
+        "text": "Que ótimo que se fodam quero que o Brasil quebre com a volta do lula",
+        "author_username": "EmersonSouza077",
+        "author_name": "EmersonSouza077",
+        "created_at": "2026-10-27T14:18:00+00:00",
+        "permalink": "https://nitter.meowing.monster/EmersonSouza077/status/2115085724911284277#m",
+        "metrics": {
+          "like_count": 43,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 68,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115085679638032501",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115085679638032501",
+      "parent_post_id": null,
+      "thread_root_id": "2115085679638032501",
+      "author": {
+        "platform_id": null,
+        "display_name": "SdbaSormani",
+        "username": "SdbaSormani",
+        "profile_url": "https://x.com/SdbaSormani"
+      },
+      "text": "Concordo. Só forma de como serão ajudados é que varia. Pessoas que votam no Lula, serão ajudados através dos impostos na forma dos diversos auxilios governamentais, enquanto que os demais poderão ser ajudados diretamente. É bem simples e justo.",
+      "created_at": "2026-10-27T14:18:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/SdbaSormani/status/2115085679638032501#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115085679638032501",
+        "text": "Concordo. Só forma de como serão ajudados é que varia. Pessoas que votam no Lula, serão ajudados através dos impostos na forma dos diversos auxilios governamentais, enquanto que os demais poderão ser ajudados diretamente. É bem simples e justo.",
+        "author_username": "SdbaSormani",
+        "author_name": "SdbaSormani",
+        "created_at": "2026-10-27T14:18:00+00:00",
+        "permalink": "https://nitter.meowing.monster/SdbaSormani/status/2115085679638032501#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 244,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115085545139245322",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115085545139245322",
+      "parent_post_id": null,
+      "thread_root_id": "2115085545139245322",
+      "author": {
+        "platform_id": null,
+        "display_name": "MarcoSouthern",
+        "username": "MarcoSouthern",
+        "profile_url": "https://x.com/MarcoSouthern"
+      },
+      "text": "Dantas, é preciso investigar os tais mesários pianistas, aparentemente foram esses caras que votam no lugar de quem morreu ou não foi votar, que ajudaram na contrução desses 11 milhões dos votos para o Lula.",
+      "created_at": "2026-10-27T14:17:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/MarcoSouthern/status/2115085545139245322#m",
+      "metrics": {
+        "like_count": 9,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115085545139245322",
+        "text": "Dantas, é preciso investigar os tais mesários pianistas, aparentemente foram esses caras que votam no lugar de quem morreu ou não foi votar, que ajudaram na contrução desses 11 milhões dos votos para o Lula.",
+        "author_username": "MarcoSouthern",
+        "author_name": "MarcoSouthern",
+        "created_at": "2026-10-27T14:17:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MarcoSouthern/status/2115085545139245322#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 207,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115085515875586459",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115085515875586459",
+      "parent_post_id": null,
+      "thread_root_id": "2115085515875586459",
+      "author": {
+        "platform_id": null,
+        "display_name": "renanvermelhou",
+        "username": "renanvermelhou",
+        "profile_url": "https://x.com/renanvermelhou"
+      },
+      "text": "Lula só gosta de mulher loba e mandona",
+      "created_at": "2026-10-27T14:17:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/renanvermelhou/status/2115085515875586459#m",
+      "metrics": {
+        "like_count": 19,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115085515875586459",
+        "text": "Lula só gosta de mulher loba e mandona",
+        "author_username": "renanvermelhou",
+        "author_name": "renanvermelhou",
+        "created_at": "2026-10-27T14:17:00+00:00",
+        "permalink": "https://nitter.meowing.monster/renanvermelhou/status/2115085515875586459#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 38,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115085344517378112",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115085344517378112",
+      "parent_post_id": null,
+      "thread_root_id": "2115085344517378112",
+      "author": {
+        "platform_id": null,
+        "display_name": "Fabrici70242229",
+        "username": "Fabrici70242229",
+        "profile_url": "https://x.com/Fabrici70242229"
+      },
+      "text": "Se tiver fugido é um covarde. Tem q ficar pra provar q é inocente. Lula poderia ter fugido e não o fez",
+      "created_at": "2026-10-27T14:16:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/Fabrici70242229/status/2115085344517378112#m",
+      "metrics": {
+        "like_count": 33,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115085344517378112",
+        "text": "Se tiver fugido é um covarde. Tem q ficar pra provar q é inocente. Lula poderia ter fugido e não o fez",
+        "author_username": "Fabrici70242229",
+        "author_name": "Fabrici70242229",
+        "created_at": "2026-10-27T14:16:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fabrici70242229/status/2115085344517378112#m",
+        "metrics": {
+          "like_count": 33,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 102,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115085332546768906",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115085332546768906",
+      "parent_post_id": null,
+      "thread_root_id": "2115085332546768906",
+      "author": {
+        "platform_id": null,
+        "display_name": "kinganaisa_",
+        "username": "kinganaisa_",
+        "profile_url": "https://x.com/kinganaisa_"
+      },
+      "text": "Parabéns Presidente Lula \n\nDesenho da maravilhosa @mariilustra",
+      "created_at": "2026-10-27T14:16:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/kinganaisa_/status/2115085332546768906#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115085332546768906",
+        "text": "Parabéns Presidente Lula \n\nDesenho da maravilhosa @mariilustra",
+        "author_username": "kinganaisa_",
+        "author_name": "kinganaisa_",
+        "created_at": "2026-10-27T14:16:00+00:00",
+        "permalink": "https://nitter.meowing.monster/kinganaisa_/status/2115085332546768906#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 62,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115085062622339520",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115085062622339520",
+      "parent_post_id": null,
+      "thread_root_id": "2115085062622339520",
+      "author": {
+        "platform_id": null,
+        "display_name": "DEBORAA93854687",
+        "username": "DEBORAA93854687",
+        "profile_url": "https://x.com/DEBORAA93854687"
+      },
+      "text": "Lula é maduro, Maduro é Lula.",
+      "created_at": "2026-10-27T14:15:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/DEBORAA93854687/status/2115085062622339520#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115085062622339520",
+        "text": "Lula é maduro, Maduro é Lula.",
+        "author_username": "DEBORAA93854687",
+        "author_name": "DEBORAA93854687",
+        "created_at": "2026-10-27T14:15:00+00:00",
+        "permalink": "https://nitter.meowing.monster/DEBORAA93854687/status/2115085062622339520#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 29,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115084455706554853",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115084455706554853",
+      "parent_post_id": null,
+      "thread_root_id": "2115084455706554853",
+      "author": {
+        "platform_id": null,
+        "display_name": "DalvaniraD8289",
+        "username": "DalvaniraD8289",
+        "profile_url": "https://x.com/DalvaniraD8289"
+      },
+      "text": "Feliz aniversário  Lula \n#LulaOBrasilTeAma",
+      "created_at": "2026-10-27T14:13:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/DalvaniraD8289/status/2115084455706554853#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115084455706554853",
+        "text": "Feliz aniversário  Lula \n#LulaOBrasilTeAma",
+        "author_username": "DalvaniraD8289",
+        "author_name": "DalvaniraD8289",
+        "created_at": "2026-10-27T14:13:00+00:00",
+        "permalink": "https://nitter.meowing.monster/DalvaniraD8289/status/2115084455706554853#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 42,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115084395379880192",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115084395379880192",
+      "parent_post_id": null,
+      "thread_root_id": "2115084395379880192",
+      "author": {
+        "platform_id": null,
+        "display_name": "RivanySantos3",
+        "username": "RivanySantos3",
+        "profile_url": "https://x.com/RivanySantos3"
+      },
+      "text": "GRAVÍSSIMOOOOOOO‼️😲😲\n\nIMPEACHIMENT DO DINO JÁ‼️\n\nIMPEACHIMENT DO LULA JÁ‼️",
+      "created_at": "2026-10-27T14:13:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/RivanySantos3/status/2115084395379880192#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115084395379880192",
+        "text": "GRAVÍSSIMOOOOOOO‼️😲😲\n\nIMPEACHIMENT DO DINO JÁ‼️\n\nIMPEACHIMENT DO LULA JÁ‼️",
+        "author_username": "RivanySantos3",
+        "author_name": "RivanySantos3",
+        "created_at": "2026-10-27T14:13:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RivanySantos3/status/2115084395379880192#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 74,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115084020744659144",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115084020744659144",
+      "parent_post_id": null,
+      "thread_root_id": "2115084020744659144",
+      "author": {
+        "platform_id": null,
+        "display_name": "RivanySantos3",
+        "username": "RivanySantos3",
+        "profile_url": "https://x.com/RivanySantos3"
+      },
+      "text": "A ÚNICA SAÍDA É O IMPEACHIMENT DO LULA IMEDIATAMENTE\n\nIMPEACHIMENT DO LULA JÁ‼️‼️‼️‼️🇧🇷",
+      "created_at": "2026-10-27T14:11:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/RivanySantos3/status/2115084020744659144#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115084020744659144",
+        "text": "A ÚNICA SAÍDA É O IMPEACHIMENT DO LULA IMEDIATAMENTE\n\nIMPEACHIMENT DO LULA JÁ‼️‼️‼️‼️🇧🇷",
+        "author_username": "RivanySantos3",
+        "author_name": "RivanySantos3",
+        "created_at": "2026-10-27T14:11:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RivanySantos3/status/2115084020744659144#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 87,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115083980999368711",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115083980999368711",
+      "parent_post_id": null,
+      "thread_root_id": "2115083980999368711",
+      "author": {
+        "platform_id": null,
+        "display_name": "Fabio_Bonilha",
+        "username": "Fabio_Bonilha",
+        "profile_url": "https://x.com/Fabio_Bonilha"
+      },
+      "text": "Concordo! Que vão pedir emprego pro Lula.",
+      "created_at": "2026-10-27T14:11:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/Fabio_Bonilha/status/2115083980999368711#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115083980999368711",
+        "text": "Concordo! Que vão pedir emprego pro Lula.",
+        "author_username": "Fabio_Bonilha",
+        "author_name": "Fabio_Bonilha",
+        "created_at": "2026-10-27T14:11:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fabio_Bonilha/status/2115083980999368711#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 41,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115083783594492129",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115083783594492129",
+      "parent_post_id": null,
+      "thread_root_id": "2115083783594492129",
+      "author": {
+        "platform_id": null,
+        "display_name": "selcrvg",
+        "username": "selcrvg",
+        "profile_url": "https://x.com/selcrvg"
+      },
+      "text": "vcs vivem em que ano",
+      "created_at": "2026-10-27T14:10:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/selcrvg/status/2115083783594492129#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115083783594492129",
+        "text": "vcs vivem em que ano",
+        "author_username": "selcrvg",
+        "author_name": "selcrvg",
+        "created_at": "2026-10-27T14:10:00+00:00",
+        "permalink": "https://nitter.meowing.monster/selcrvg/status/2115083783594492129#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 20,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115083736307888634",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115083736307888634",
+      "parent_post_id": null,
+      "thread_root_id": "2115083736307888634",
+      "author": {
+        "platform_id": null,
+        "display_name": "RivanySantos3",
+        "username": "RivanySantos3",
+        "profile_url": "https://x.com/RivanySantos3"
+      },
+      "text": "ERA O FLÁVIO BOLSONARO QUEM IA CORTAR O BOLSA FAMÍLIA E VALE GÁS❓❓❓😲😲😲\n\nOLHA A COVARDIA DO LULA DO PT",
+      "created_at": "2026-10-27T14:10:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/RivanySantos3/status/2115083736307888634#m",
+      "metrics": {
+        "like_count": 31,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115083736307888634",
+        "text": "ERA O FLÁVIO BOLSONARO QUEM IA CORTAR O BOLSA FAMÍLIA E VALE GÁS❓❓❓😲😲😲\n\nOLHA A COVARDIA DO LULA DO PT",
+        "author_username": "RivanySantos3",
+        "author_name": "RivanySantos3",
+        "created_at": "2026-10-27T14:10:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RivanySantos3/status/2115083736307888634#m",
+        "metrics": {
+          "like_count": 31,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 101,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115083527154761728",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115083527154761728",
+      "parent_post_id": null,
+      "thread_root_id": "2115083527154761728",
+      "author": {
+        "platform_id": null,
+        "display_name": "nicotinocolina",
+        "username": "nicotinocolina",
+        "profile_url": "https://x.com/nicotinocolina"
+      },
+      "text": "\"Acho que foi fraudada pela ditadura comunista de lula mas eu gosto dele entao ta bao\"",
+      "created_at": "2026-10-27T14:09:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/nicotinocolina/status/2115083527154761728#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115083527154761728",
+        "text": "\"Acho que foi fraudada pela ditadura comunista de lula mas eu gosto dele entao ta bao\"",
+        "author_username": "nicotinocolina",
+        "author_name": "nicotinocolina",
+        "created_at": "2026-10-27T14:09:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nicotinocolina/status/2115083527154761728#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 86,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115083280693281073",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115083280693281073",
+      "parent_post_id": null,
+      "thread_root_id": "2115083280693281073",
+      "author": {
+        "platform_id": null,
+        "display_name": "RivanySantos3",
+        "username": "RivanySantos3",
+        "profile_url": "https://x.com/RivanySantos3"
+      },
+      "text": "PRECISAMOS ENTRAR NUM  COM SENSO NEM \nBOLSONARISTAS NEM LULISTAS PODEM  OU DEVEM SER DEMITIDOS\n\nESTAMOS FALANDO DE TRABALHO DE SITUAÇÃO FINANCEIRA DAS PESSOAS QUE TEM FAMÍLIA OU NÃO\n\nO LULA QUERIDA ESTÁ SUSPENDENDO O BOLSA FAMILIA E VALE GAS JÁ RECLAMOU  COM O LULA TAMBÉM ❓😳",
+      "created_at": "2026-10-27T14:08:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/RivanySantos3/status/2115083280693281073#m",
+      "metrics": {
+        "like_count": 24,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115083280693281073",
+        "text": "PRECISAMOS ENTRAR NUM  COM SENSO NEM \nBOLSONARISTAS NEM LULISTAS PODEM  OU DEVEM SER DEMITIDOS\n\nESTAMOS FALANDO DE TRABALHO DE SITUAÇÃO FINANCEIRA DAS PESSOAS QUE TEM FAMÍLIA OU NÃO\n\nO LULA QUERIDA ESTÁ SUSPENDENDO O BOLSA FAMILIA E VALE GAS JÁ RECLAMOU  COM O LULA TAMBÉM ❓😳",
+        "author_username": "RivanySantos3",
+        "author_name": "RivanySantos3",
+        "created_at": "2026-10-27T14:08:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RivanySantos3/status/2115083280693281073#m",
+        "metrics": {
+          "like_count": 24,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 275,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115083276998054227",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115083276998054227",
+      "parent_post_id": null,
+      "thread_root_id": "2115083276998054227",
+      "author": {
+        "platform_id": null,
+        "display_name": "MarcoSouthern",
+        "username": "MarcoSouthern",
+        "profile_url": "https://x.com/MarcoSouthern"
+      },
+      "text": "Eli, tem como invernar os tais \"mesários pianistas\"?  Aparentemente foi esses caras que ajudaram na construção dos 11 milhões de votos no Lula.",
+      "created_at": "2026-10-27T14:08:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/MarcoSouthern/status/2115083276998054227#m",
+      "metrics": {
+        "like_count": 31,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115083276998054227",
+        "text": "Eli, tem como invernar os tais \"mesários pianistas\"?  Aparentemente foi esses caras que ajudaram na construção dos 11 milhões de votos no Lula.",
+        "author_username": "MarcoSouthern",
+        "author_name": "MarcoSouthern",
+        "created_at": "2026-10-27T14:08:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MarcoSouthern/status/2115083276998054227#m",
+        "metrics": {
+          "like_count": 31,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 143,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115082955714408616",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115082955714408616",
+      "parent_post_id": null,
+      "thread_root_id": "2115082955714408616",
+      "author": {
+        "platform_id": null,
+        "display_name": "nandocruz",
+        "username": "nandocruz",
+        "profile_url": "https://x.com/nandocruz"
+      },
+      "text": "a mão de Midas reversa",
+      "created_at": "2026-10-27T14:07:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:00:27-03:00",
+      "permalink": "https://nitter.meowing.monster/nandocruz/status/2115082955714408616#m",
+      "metrics": {
+        "like_count": 18,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Lula",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115082955714408616",
+        "text": "a mão de Midas reversa",
+        "author_username": "nandocruz",
+        "author_name": "nandocruz",
+        "created_at": "2026-10-27T14:07:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nandocruz/status/2115082955714408616#m",
+        "metrics": {
+          "like_count": 18,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 22,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

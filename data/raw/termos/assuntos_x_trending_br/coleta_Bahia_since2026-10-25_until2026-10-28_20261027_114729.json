@@ -1,0 +1,2020 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Bahia",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+    "collected_at": "2026-10-27T11:47:29-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 15,
+      "comments": 0,
+      "records_total": 15,
+      "skipped_duplicate": 88
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2115080003243159641",
+            "text": "A influencer Aline Guimarães anunciou o cancelamento de uma viagem que faria para um resort na Bahia após o resultado das eleições. Disse que não pisaria na Bahia ou seja, ela acha que \"cancelou a Bahia, mas foi justamente o contrário querida a Bahia não compactua com fascistas!!!\"",
+            "author_username": "TitoGremistazo",
+            "author_name": "TitoGremistazo",
+            "created_at": "2026-10-27T13:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/TitoGremistazo/status/2115080003243159641#m",
+            "metrics": {
+              "like_count": 118,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2115077913234030859",
+            "text": "Nossa, a multimilionário não vai mais para a Bahia; certeza que o povo baiano e a Bahia ficarão gratos!",
+            "author_username": "Ronir05929010",
+            "author_name": "Ronir05929010",
+            "created_at": "2026-10-27T13:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Ronir05929010/status/2115077913234030859#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115077843348521169",
+            "text": "Minha Bahia é linda demais",
+            "author_username": "meninosalvador",
+            "author_name": "meninosalvador",
+            "created_at": "2026-10-27T13:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/meninosalvador/status/2115077843348521169#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2115076808345284932",
+            "text": "Oque poucos sabem é que esse ditado nasceu aqui na bahia de uma redação escrita por carlos marighela na escola politécnica que na epoca concorria ao gremio estudantil",
+            "author_username": "BroaNoite",
+            "author_name": "BroaNoite",
+            "created_at": "2026-10-27T13:43:00+00:00",
+            "permalink": "https://nitter.meowing.monster/BroaNoite/status/2115076808345284932#m",
+            "metrics": {
+              "like_count": 311,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2115070660783304731",
+            "text": "Olha. O Wagner Moura mora ai. Manda ele de volta pra Bahia.",
+            "author_username": "HlioHenriq56903",
+            "author_name": "HlioHenriq56903",
+            "created_at": "2026-10-27T13:18:00+00:00",
+            "permalink": "https://nitter.meowing.monster/HlioHenriq56903/status/2115070660783304731#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115054567578554867",
+            "text": "O motorista de aplicativo elogiando minha camisa. Viemos comemorando a vitória de Lula. Ele relatando sobre a situação no interior da Bahia e todas as benesses do governo Lula. Estamos Felizes!",
+            "author_username": "wallaceteix",
+            "author_name": "wallaceteix",
+            "created_at": "2026-10-27T12:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/wallaceteix/status/2115054567578554867#m",
+            "metrics": {
+              "like_count": 278,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 29
+            }
+          },
+          {
+            "id": "2115048653530222810",
+            "text": "Eu e minha família, tbm somos da Bahia. São  muitos miseráveis  mesmo, infelizmente,  n posso me mudar daq, estou sofrendo horrores",
+            "author_username": "maia_adelia60",
+            "author_name": "maia_adelia60",
+            "created_at": "2026-10-27T11:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/maia_adelia60/status/2115048653530222810#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115045390374629677",
+            "text": "🔵🔴⚪ Fonte de Memórias!\n\nCriei este manto para o concurso do Bahia 2027, inspirado na camisa de 2002 e nas duas Fontes Novas. Uma homenagem às 7 vidas perdidas em 2007.\n\n#ECBahia #FonteDeMemórias #MantoDoSocioEsquadrão #MantoDoSocioEsquadrão2027",
+            "author_username": "souljosu",
+            "author_name": "souljosu",
+            "created_at": "2026-10-27T11:38:00+00:00",
+            "permalink": "https://nitter.meowing.monster/souljosu/status/2115045390374629677#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115042656346595567",
+            "text": "Estou super feliz  com esse movimento, DEMITA UM PETISTA!  SE TIVER ALGUM EMPRESÁRIO DA BAHIA PPR AQUI, TEMHO DUAS FILHAS QUE PRECISAM DE EMPREGO.",
+            "author_username": "maia_adelia60",
+            "author_name": "maia_adelia60",
+            "created_at": "2026-10-27T11:27:00+00:00",
+            "permalink": "https://nitter.meowing.monster/maia_adelia60/status/2115042656346595567#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115039211162079649",
+            "text": "Tem algum empresário da Bahia aqui? Tenho duas filhas bolsonaristas que estão  desmpregadas,  graduadas em adm e engenharia de produção.  Ja que estamos em campanha, demita um petista, contratem duas 100% da direita.",
+            "author_username": "maia_adelia60",
+            "author_name": "maia_adelia60",
+            "created_at": "2026-10-27T11:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/maia_adelia60/status/2115039211162079649#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115038691731136952",
+            "text": "Mdsss cada coisa mais gostosa da vontade de leva a Bahia na mala🫶🏼😋",
+            "author_username": "Kimberlynunes16",
+            "author_name": "Kimberlynunes16",
+            "created_at": "2026-10-27T11:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Kimberlynunes16/status/2115038691731136952#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115007880495554711",
+            "text": "É só rico que é afetado por isso?\nClaro né, pois se a Casas Bahia e o magazine Luiza tiverem que fechar um monte de lojas os funcionários vão continuar com seus empregos.",
+            "author_username": "fernandosoder",
+            "author_name": "fernandosoder",
+            "created_at": "2026-10-27T09:09:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fernandosoder/status/2115007880495554711#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114999745684861213",
+            "text": "\"Herói\" de  esquerda do segundo turno de Lula na Bahia foi o filho de Daniela Mercury que \"mobilizou 40 carros\" no dia da eleição...!!!\n\nDepois a direita cresce e ninguém sabe o por quê...",
+            "author_username": "blogdafeira",
+            "author_name": "blogdafeira",
+            "created_at": "2026-10-27T08:36:00+00:00",
+            "permalink": "https://nitter.meowing.monster/blogdafeira/status/2114999745684861213#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 5,
+              "retweet_count": 0,
+              "quote_count": 21
+            }
+          },
+          {
+            "id": "2114924848451309705",
+            "text": "Algum empresário ou empresa admitindo funcionário que não fez o L na Bahia ou no Nordeste? Tenho um amigo engenheiro que não fez o L, está desempregado precisando trabalhar.",
+            "author_username": "eudecosilva",
+            "author_name": "eudecosilva",
+            "created_at": "2026-10-27T03:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/eudecosilva/status/2114924848451309705#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114923670598537253",
+            "text": "Contrato de limpeza é suspenso após suspeita de rombo na Bahia .. A quadrilha organizada desse PT de corruptos sempre a espreita.\natarde.com.br/_/1407012",
+            "author_username": "pnpjnarciso",
+            "author_name": "pnpjnarciso",
+            "created_at": "2026-10-27T03:34:00+00:00",
+            "permalink": "https://nitter.meowing.monster/pnpjnarciso/status/2114923670598537253#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114921854364234037",
+            "text": "Será bem vindo, venha conhecer o nordeste, fortaleza, paraíba Bahia.",
+            "author_username": "Rafagamesxxe",
+            "author_name": "Rafagamesxxe",
+            "created_at": "2026-10-27T03:27:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Rafagamesxxe/status/2114921854364234037#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114918796582392067",
+            "text": "A bolsa caiu. Mas e daí? Não comemos ações do Magazine Luiza ou das Casas Bahia. Por mim podem fechar todas as lojas físicas no Brasil que não vai afetar os empregos de seus funcionários.",
+            "author_username": "fernandosoder",
+            "author_name": "fernandosoder",
+            "created_at": "2026-10-27T03:15:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fernandosoder/status/2114918796582392067#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114896253775720773",
+            "text": "Sai da Bahia, hoje o Sul,é  o Meu Pais! Pode crer!",
+            "author_username": "NancyMa12723236",
+            "author_name": "NancyMa12723236",
+            "created_at": "2026-10-27T01:45:00+00:00",
+            "permalink": "https://nitter.meowing.monster/NancyMa12723236/status/2114896253775720773#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114892602365374747",
+            "text": "Pois é, meu Parabéns por deixar o advogado de Lula interferir nas Eleições do País! \nEra preciso poucas horas para carregar o programa, travar a apuração já estava manjado... Ainda esquerda na Bahia adesiva os ônibus, entra com ação para atrasar o fim das eleições e vrauuu...🤦🤦",
+            "author_username": "Everton99869486",
+            "author_name": "Everton99869486",
+            "created_at": "2026-10-27T01:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Everton99869486/status/2114892602365374747#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114890061405650959",
+            "text": "A liberdade de expressão é garantida pela Constituição, mas não pode ser usada para ofender ou stigmatizar grupos. Ver o William José jogando no Bahia, um clube que historicamente defende pautas progressistas e humanitárias, soa como uma grande incongruência. #ECBahia",
+            "author_username": "Flavianoso",
+            "author_name": "Flavianoso",
+            "created_at": "2026-10-27T01:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Flavianoso/status/2114890061405650959#m",
+            "metrics": {
+              "like_count": 37,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114882691011084661",
+            "text": "Me provocaram e pra não ficar no prejuízo, provoquei de volta 🤷🏾‍♀️😶‍🌫️",
+            "author_username": "Mirelinhaart",
+            "author_name": "Mirelinhaart",
+            "created_at": "2026-10-27T00:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Mirelinhaart/status/2114882691011084661#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114866989856440386",
+            "text": "Lula cresceu 22,63% em número de votos válidos do primeiro para o segundo turno no município de Luís Eduardo Magalhães, na Bahia, onde o deputado federal Nikolas Ferreira (PL) fez a gravação de um vídeo com eleitores que criticavam o petista. (CNN)",
+            "author_username": "renatoalvesdf",
+            "author_name": "renatoalvesdf",
+            "created_at": "2026-10-26T23:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/renatoalvesdf/status/2114866989856440386#m",
+            "metrics": {
+              "like_count": 163,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114864960643993891",
+            "text": "Vcs são maravilhosos,  pra mim é fácil ser de esquerda, sou da Bahia. Continuem, camaradas.",
+            "author_username": "de_victor2360",
+            "author_name": "de_victor2360",
+            "created_at": "2026-10-26T23:41:00+00:00",
+            "permalink": "https://nitter.meowing.monster/de_victor2360/status/2114864960643993891#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114864884693270819",
+            "text": "CA RA LHO",
+            "author_username": "melbaiano",
+            "author_name": "melbaiano",
+            "created_at": "2026-10-26T23:40:00+00:00",
+            "permalink": "https://nitter.meowing.monster/melbaiano/status/2114864884693270819#m",
+            "metrics": {
+              "like_count": 36,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114863801598157263",
+            "text": "Kkk amo",
+            "author_username": "melbaiano",
+            "author_name": "melbaiano",
+            "created_at": "2026-10-26T23:36:00+00:00",
+            "permalink": "https://nitter.meowing.monster/melbaiano/status/2114863801598157263#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114855988742509031",
+            "text": "E Bahia é quente mesmo ..",
+            "author_username": "Possaitt",
+            "author_name": "Possaitt",
+            "created_at": "2026-10-26T23:05:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Possaitt/status/2114855988742509031#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114851993420468350",
+            "text": "as pessoas esquecem ou simplesmente não sabem q o ruo grande do sul é o estado do Brasil com a maior quantidade de terrenos no BRASIL, sim, mais q na bahia e rio de janeiro",
+            "author_username": "Dieguin21_",
+            "author_name": "Dieguin21_",
+            "created_at": "2026-10-26T22:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Dieguin21_/status/2114851993420468350#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114850954193617341",
+            "text": "Os valores praticados pela refinaria da Unidade de Matari na Bahia são maiores do q as outras unidades em todo País. \nPreço dos combustíveis + caros\nO Gás de cozinha e o Diesel a diferença é de quase 40% + caro.\n\nE seguimos comemorando \n\nAgora vem os presentes \n👏🏻👏🏻👏🏻👏🏻\n😂😂😂",
+            "author_username": "Fernand65622019",
+            "author_name": "Fernand65622019",
+            "created_at": "2026-10-26T22:45:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fernand65622019/status/2114850954193617341#m",
+            "metrics": {
+              "like_count": 29,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114838020532691208",
+            "text": "Neymar, será denunciado pelo STJD após a expulsão no empate com o Bahia, no último sábado, na Vila Belmiro, pela 32ª rodada do Brasileirao. O camisa 10 poderá receber uma suspensão de uma a seis partidas, dependendo do enquadramento adotado pelo tribunal.",
+            "author_username": "MemesSantosfc",
+            "author_name": "MemesSantosfc",
+            "created_at": "2026-10-26T21:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MemesSantosfc/status/2114838020532691208#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114827865707393475",
+            "text": "Planos de Saúde em Salvador - Bahia\nplanosdesaudejccruz.blogspot…\n\n#planodesaude #planodesaúde #convenio #convêniomedico #corretordeseguros #vendedordeplanodesaude #planodesaudefamiliar #planodesaudeindividual #consultordeplanodesaude #planodesaudeparaempresas #planodesaudepme #planodesaudemei #Amil",
+            "author_username": "jccruz222",
+            "author_name": "jccruz222",
+            "created_at": "2026-10-26T21:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jccruz222/status/2114827865707393475#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114808171650863224",
+            "text": "Nem na Bahia e nem em Pernambuco.",
+            "author_username": "Neroon_2",
+            "author_name": "Neroon_2",
+            "created_at": "2026-10-26T19:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Neroon_2/status/2114808171650863224#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114806953993990542",
+            "text": "Se eu fosse a torcida do Bahia perturbava esse mano até ele sumir do time.",
+            "author_username": "maju0411",
+            "author_name": "maju0411",
+            "created_at": "2026-10-26T19:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/maju0411/status/2114806953993990542#m",
+            "metrics": {
+              "like_count": 62,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114803772849316305",
+            "text": "Acho que é",
+            "author_username": "flagreinabahia",
+            "author_name": "flagreinabahia",
+            "created_at": "2026-10-26T19:38:00+00:00",
+            "permalink": "https://nitter.meowing.monster/flagreinabahia/status/2114803772849316305#m",
+            "metrics": {
+              "like_count": 175,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114801086381117474",
+            "text": "A ironia da política: o Nikolas Ferreira gravou vídeo de campanha na Bahia pra tentar derrubar o PT, mas o Lula acabou crescendo em votos no 2º turno na mesma cidade! O tal do tiro no pé perfeito.",
+            "author_username": "claudio_psciano",
+            "author_name": "claudio_psciano",
+            "created_at": "2026-10-26T19:27:00+00:00",
+            "permalink": "https://nitter.meowing.monster/claudio_psciano/status/2114801086381117474#m",
+            "metrics": {
+              "like_count": 49,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114800626051743898",
+            "text": "Expulso contra o Bahia, Neymar desfalca o Santos nos jogos contra Palmeiras e Red Bull Bragantino e Cuca define seu substituto.\n\nPor @filipe_cbdias\n\nmeupeixao.com.br/2026/10/sem…",
+            "author_username": "portalmeupeixao",
+            "author_name": "portalmeupeixao",
+            "created_at": "2026-10-26T19:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/portalmeupeixao/status/2114800626051743898#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 14
+            }
+          },
+          {
+            "id": "2114798693199073784",
+            "text": "Na BAHIA TEVE ATE PRISAO .TUDO FOI REGISTRADO PELA IMPRENSA .GOVERNADOR JA PAGOU AO BOLSONARO. CUIDA DA SEGURANCA DE SP QUE É  DE TUA RESPONSABILIDADE. ALIÁS DE TODOS OD GOVERNADORES.",
+            "author_username": "TeresaF44143318",
+            "author_name": "TeresaF44143318",
+            "created_at": "2026-10-26T19:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/TeresaF44143318/status/2114798693199073784#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114796532054602107",
+            "text": "Sou do.nordeste Bahia,  nao faço  parte das \" desgracas\" como vc se refere. Co cordo que muitos são  preguiçosos  e gostam de vida fa il, esperam migalhas.  Mas n generalize, não  são tda iguais. Eu e minha ha família, nunca votamos no PT e estamos sofrendo muito",
+            "author_username": "maia_adelia60",
+            "author_name": "maia_adelia60",
+            "created_at": "2026-10-26T19:09:00+00:00",
+            "permalink": "https://nitter.meowing.monster/maia_adelia60/status/2114796532054602107#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114796345597043125",
+            "text": "Orquestra Sinfônica da Bahia  apresenta,\nno dia 6 de novembro (sexta-feira), às 20h,\nna Sala Principal do Teatro Castro Alves, em Salvador:\nobras de Mahler e Tchaikovsky em concerto da Série Jorge Amado.\n\nRegência do maestro Carlos Prazeres.\n\nIngressos\n (sympla.com.br)",
+            "author_username": "blogdafeira",
+            "author_name": "blogdafeira",
+            "created_at": "2026-10-26T19:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/blogdafeira/status/2114796345597043125#m",
+            "metrics": {
+              "like_count": 72,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114793438751383570",
+            "text": "Agradeço por.ser solidaria.  Sua frustração,  tbm é  a mi ha,mesmo fazendo parte de um eatado corrompido, fracassado e de gente pobre de eapirito e dignidade como a Bahia . Eu e minha ja família, demos o melhor de nós.  Nunca votamos no partido das trevas.",
+            "author_username": "maia_adelia60",
+            "author_name": "maia_adelia60",
+            "created_at": "2026-10-26T18:57:00+00:00",
+            "permalink": "https://nitter.meowing.monster/maia_adelia60/status/2114793438751383570#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114791212007706776",
+            "text": "Eu sou do nordeste , Bahia.  Estou doente desde ontem, n preguei os olhos, nao comi e minhas filhas tbm não.  Sinto muito por tantos motivos, mas principalmente por meu amado presidente  Bolsonaro e os presos políticos. Meus olhos sangram nesse momento.",
+            "author_username": "maia_adelia60",
+            "author_name": "maia_adelia60",
+            "created_at": "2026-10-26T18:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/maia_adelia60/status/2114791212007706776#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114788787125735500",
+            "text": "#Jogoabertoba Parecia que o Bahia q tinha 10 jogadores. Pressão do Santos. O time todo recuado .umas substituição q ninguém entende .Rogério na beira do campo não faz nada fica difícil",
+            "author_username": "JorgeLFCoelho",
+            "author_name": "JorgeLFCoelho",
+            "created_at": "2026-10-26T18:38:00+00:00",
+            "permalink": "https://nitter.meowing.monster/JorgeLFCoelho/status/2114788787125735500#m",
+            "metrics": {
+              "like_count": 404,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114776229622771769",
+            "text": "Orgulho desse Clube, dessa Instituição 💙❤️🤍 BBMP \n\nO Bahia merece respeito",
+            "author_username": "Fernand65622019",
+            "author_name": "Fernand65622019",
+            "created_at": "2026-10-26T17:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fernand65622019/status/2114776229622771769#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114775727039979947",
+            "text": "Parabéns ao povo da Bahia!\nParabéns ao povo do Nordeste!\nE gratidão a Daniela pelo engajamento, liderança da classe artística da Bahia junto com a ministra Margareth, Veveta, Gil, Betânia, Caetano e outros tantos artistas da Bahia!",
+            "author_username": "Teo1650604",
+            "author_name": "Teo1650604",
+            "created_at": "2026-10-26T17:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Teo1650604/status/2114775727039979947#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114773919320129812",
+            "text": "Por isso vcs são burros, aqui na Bahia é a coisa mais comum o cara votar no Acm neto, pra governador, Lula pra presidente, senador do PL, dep Federal do PP e estadual no PSB.\n\nOs próprios partidos possuem composições nacionais bem diferente das estaduais e municipais.",
+            "author_username": "de_victor2360",
+            "author_name": "de_victor2360",
+            "created_at": "2026-10-26T17:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/de_victor2360/status/2114773919320129812#m",
+            "metrics": {
+              "like_count": 32,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114765765740040614",
+            "text": "Sim, \nTem que deixar nordeste, Bahia se fuder",
+            "author_username": "toniribas74",
+            "author_name": "toniribas74",
+            "created_at": "2026-10-26T17:07:00+00:00",
+            "permalink": "https://nitter.meowing.monster/toniribas74/status/2114765765740040614#m",
+            "metrics": {
+              "like_count": 22,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114760708017565855",
+            "text": "É a Bahia, porra!!! 🔥🔥",
+            "author_username": "minatriz_",
+            "author_name": "minatriz_",
+            "created_at": "2026-10-26T16:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/minatriz_/status/2114760708017565855#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114760693228691854",
+            "text": "A falcatrua deles não deu certo \nÉ A BAHIA PORRAAAA ⭐❤️⭐❤️⭐❤️",
+            "author_username": "ms_ms04",
+            "author_name": "ms_ms04",
+            "created_at": "2026-10-26T16:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ms_ms04/status/2114760693228691854#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114756938386854038",
+            "text": "NA BAHIA INCLUIRAM VOTOS ESCRITOS A MÃO,  MAIS DE DOIS MIL VOTOS",
+            "author_username": "ngelaMariaDiLo1",
+            "author_name": "ngelaMariaDiLo1",
+            "created_at": "2026-10-26T16:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ngelaMariaDiLo1/status/2114756938386854038#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114756585511903471",
+            "text": "O ponto não é esse. A questão é: se existe Estado, a função dele é, dentre outras, segurança e educação. A Bahia tem 5 das 10 cidades mais violentas do BR. Tem 1,1milhao de analfabetos, 50% não tem o Fundamental. E pasmem, 7/10 baianos disseram: tudo bem e foram as ruas comemorar",
+            "author_username": "marcosrosa7",
+            "author_name": "marcosrosa7",
+            "created_at": "2026-10-26T16:30:00+00:00",
+            "permalink": "https://nitter.meowing.monster/marcosrosa7/status/2114756585511903471#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114752571617276289",
+            "text": "A ELEIÇÃO FOI ROUBADA POR LULA, BAHIA e STF.",
+            "author_username": "Andrew_Petter",
+            "author_name": "Andrew_Petter",
+            "created_at": "2026-10-26T16:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Andrew_Petter/status/2114752571617276289#m",
+            "metrics": {
+              "like_count": 22,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114750613305086061",
+            "text": "muitas nuvens, raios e chuvas em amplas áreas entre a Amazônia e o Nordeste brasileiro, particularmente o estado da Bahia.",
+            "author_username": "bhtempoeclima",
+            "author_name": "bhtempoeclima",
+            "created_at": "2026-10-26T16:06:00+00:00",
+            "permalink": "https://nitter.meowing.monster/bhtempoeclima/status/2114750613305086061#m",
+            "metrics": {
+              "like_count": 88,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114737044500996118",
+            "text": "Uma amiga minha mora na Bahia e vota em Niterói. Ela pegou o avião e veio pro Rio pra votar! Professora, uma querida maravilhosa ela.",
+            "author_username": "cjuniorfox",
+            "author_name": "cjuniorfox",
+            "created_at": "2026-10-26T15:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/cjuniorfox/status/2114737044500996118#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114736033321422849",
+            "text": "O jornalismo da TV Bahia tentando dizer que a AGERBA também tem culpa no cartório por causa do caos do transporte público no dia de ontem. Me poupe!",
+            "author_username": "ViNikima",
+            "author_name": "ViNikima",
+            "created_at": "2026-10-26T15:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ViNikima/status/2114736033321422849#m",
+            "metrics": {
+              "like_count": 91,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114729459689373755",
+            "text": "Não sei como tem gente sem apego ao místico. Eu vesti minha camisa da sorte do bahia e deu certo pra eleger um presidente",
+            "author_username": "pythonegra",
+            "author_name": "pythonegra",
+            "created_at": "2026-10-26T14:42:00+00:00",
+            "permalink": "https://nitter.meowing.monster/pythonegra/status/2114729459689373755#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114726946286293411",
+            "text": "Temos a OBRIGAÇÃO de extirpar Bruno Reis e ACM Neto da política na Bahia. \nTemos que nos unir e eleger um candidato da esquerda aqui em Salvador. \nVamos acabar com a vida política deles.",
+            "author_username": "Djavanluz5988",
+            "author_name": "Djavanluz5988",
+            "created_at": "2026-10-26T14:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Djavanluz5988/status/2114726946286293411#m",
+            "metrics": {
+              "like_count": 22,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114724356496499166",
+            "text": "Pelo menos estou feliz pela minha terra, a Bahia o nordeste até que fim vai sair de vez da pobreza, depois de muitos anos de promessas, a Bahia o nordeste vai virar uma DUBAI !!! \n\nSEM POBREZA, SEM Miséria, SEM FILA DE OSSO, SEM PROBLEMAS NO SUS !!",
+            "author_username": "GambaroSantos",
+            "author_name": "GambaroSantos",
+            "created_at": "2026-10-26T14:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/GambaroSantos/status/2114724356496499166#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114718935287304285",
+            "text": "POVO BRASILEIRO SE QUEREMOS UM BRASIL DEMOCRATICO LEAL EDUCATIVO VAMOS ESQUECER A BAHIA NÃO VAI EM FERIAS OU PASSEIO NÃO COMPRE CARRO DA CHINESA BYD NÃO COMPRE PRODUTOS FEITOS OU FORNECIDOS PELA BAHIA OU FAZEMOS ISSO OU VAMOS TRABALHAR ELES SEM TRABALHAR E TOMAR SOL AGUA COCO",
+            "author_username": "AliciaFofuras",
+            "author_name": "AliciaFofuras",
+            "created_at": "2026-10-26T14:00:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AliciaFofuras/status/2114718935287304285#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114715280232399020",
+            "text": "Imagina a tristeza do cara ter que pra uma praia e só tem praia  no sul pra ir. Olha, praia de verdade só a partir da Bahia. O resto é cosplay",
+            "author_username": "Luzo_junior",
+            "author_name": "Luzo_junior",
+            "created_at": "2026-10-26T13:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Luzo_junior/status/2114715280232399020#m",
+            "metrics": {
+              "like_count": 748,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114714538947887487",
+            "text": "Não sei, não moro na Bahia.",
+            "author_username": "Xioinhell",
+            "author_name": "Xioinhell",
+            "created_at": "2026-10-26T13:43:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Xioinhell/status/2114714538947887487#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114713733905694756",
+            "text": "ACM, o Neto! Que história cativante. Ele arrota arrogância, fala da Bahia como se fosse sua propriedade. Perdeu a eleição para governador em que concorrreu. Perdeu a eleição pra senador em que apoiou. E perdeu para presidência. Hora de pedir música no Correio. Que música combina?",
+            "author_username": "m_dalexandria",
+            "author_name": "m_dalexandria",
+            "created_at": "2026-10-26T13:40:00+00:00",
+            "permalink": "https://nitter.meowing.monster/m_dalexandria/status/2114713733905694756#m",
+            "metrics": {
+              "like_count": 49,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114710199051104717",
+            "text": "Vamos Bahia, agiliza",
+            "author_username": "AlanBergmanndj",
+            "author_name": "AlanBergmanndj",
+            "created_at": "2026-10-26T13:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AlanBergmanndj/status/2114710199051104717#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114709288161518012",
+            "text": "\"TEM CHEIRO DE RESULTADO CONTESTADO NA JUSTIÇA\":\nRenan Santos após ocorrências \neleitorais na Bahia",
+            "author_username": "065999036707cba",
+            "author_name": "065999036707cba",
+            "created_at": "2026-10-26T13:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/065999036707cba/status/2114709288161518012#m",
+            "metrics": {
+              "like_count": 416,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114703038015217912",
+            "text": "O BRASIL,\nTAMBÉM A BAHIA, DA DÉCADA DE 60, ATÉ MEADOS DA DÉCADA DE 80,ERAM RICOS E DESENVOLVIDOS🇧🇷\nBASTOU ACABAR O REGIME MILITAR, EM 1985,\nE  ENTROU ESSA DEMOCRACIA NARRATIVA E PROMÍSCUAAAAAA \nDA ESQUERDA COMUNISTA PODRE, E DESTRUI TUDO QUE O BRASIL, TINHA DE ÓTIMO. \nVERGONHAAAA",
+            "author_username": "ElviaDeCas79661",
+            "author_name": "ElviaDeCas79661",
+            "created_at": "2026-10-26T12:57:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ElviaDeCas79661/status/2114703038015217912#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114698209918374268",
+            "text": "Sabino, se vc analisar os dados sociais, econômicos e educacionais daqui, da Bahia, vc não vai entender pq reelegeram governador, 2 senadores, e 70% para o Lula. Então, acho que o ponto não é a oposição, mas sim, o eleitor. No 1t havia opção, além do nulo, branco, abstenção.",
+            "author_username": "marcosrosa7",
+            "author_name": "marcosrosa7",
+            "created_at": "2026-10-26T12:38:00+00:00",
+            "permalink": "https://nitter.meowing.monster/marcosrosa7/status/2114698209918374268#m",
+            "metrics": {
+              "like_count": 295,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 6
+            }
+          },
+          {
+            "id": "2114684121507098822",
+            "text": "Aqui na Bahia, o povo atrás do reio Grita: Hei Bolsonaro vá tomar no cú!!",
+            "author_username": "Ricdultra",
+            "author_name": "Ricdultra",
+            "created_at": "2026-10-26T11:42:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Ricdultra/status/2114684121507098822#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114680090374074871",
+            "text": "Aqui como já é de praxe começo hoje a  planejar as férias na  Bahia para agradecer esse povo maravilhoso",
+            "author_username": "Sebito2010",
+            "author_name": "Sebito2010",
+            "created_at": "2026-10-26T11:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Sebito2010/status/2114680090374074871#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114676232071553133",
+            "text": "JA QUE LULA SÓ VENCEU NA BAHIA, MANDA ELE PRA LA GOVERNAR A BAHIA,E VAMOS DIVIDIR O BRASIL EU SOU A FAVOR, MO RA UM PALÁCIO PRO LULA NA BAHIA",
+            "author_username": "ngelaMariaDiLo1",
+            "author_name": "ngelaMariaDiLo1",
+            "created_at": "2026-10-26T11:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ngelaMariaDiLo1/status/2114676232071553133#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114647577958244701",
+            "text": "Sou Nordestino,Sou da Bahia, e minha consciência está LIMPA! NÃO VOTEI EM LULA, NEM NO PT. E JAMAIS VOTARIA! Tenho princípios, valores e convicções. Não abro mão da minha consciência!\n.\nREPÚDIO TOTAL! 🤮😢🖤🇧🇷\n\nANULAÇÃO DO SEGUNDO TURNO JÁ! \n\n#Eleições2026 #acordabrasil #Fraude",
+            "author_username": "antoniodisouza",
+            "author_name": "antoniodisouza",
+            "created_at": "2026-10-26T09:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/antoniodisouza/status/2114647577958244701#m",
+            "metrics": {
+              "like_count": 189,
+              "reply_count": 2,
+              "retweet_count": 1,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114618250575118725",
+            "text": "E pra Bahia.",
+            "author_username": "elderlazevedo",
+            "author_name": "elderlazevedo",
+            "created_at": "2026-10-26T07:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/elderlazevedo/status/2114618250575118725#m",
+            "metrics": {
+              "like_count": 148,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114617053600477260",
+            "text": "ou idiota o bolsonaristas perdeu foi por muitos votos, F R B, se misturou com políticos fracassado na Bahia, o sec dos transportes públicos de ssa bahia , está escondido na casa de acn, dizendo que foi para paris. só q ver quando for se apresenta na polícia.",
+            "author_username": "vandofm39",
+            "author_name": "vandofm39",
+            "created_at": "2026-10-26T07:16:00+00:00",
+            "permalink": "https://nitter.meowing.monster/vandofm39/status/2114617053600477260#m",
+            "metrics": {
+              "like_count": 52,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114587479411929366",
+            "text": "Chupa prefeitura da Bahia\n#ObrigadaExercitoDoLula",
+            "author_username": "gambademay",
+            "author_name": "gambademay",
+            "created_at": "2026-10-26T05:18:00+00:00",
+            "permalink": "https://nitter.meowing.monster/gambademay/status/2114587479411929366#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114569922663637282",
+            "text": "Pelo menos não vou ser a única a dormir com tesão hj 🤷🏾‍♀️🙌🏾",
+            "author_username": "Mirelinhaart",
+            "author_name": "Mirelinhaart",
+            "created_at": "2026-10-26T04:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Mirelinhaart/status/2114569922663637282#m",
+            "metrics": {
+              "like_count": 38,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114568152138854777",
+            "text": "E ainda teve o caso dos ônibus da Bahia que foram adesivado com adesivo do Pt por sindicato do Lula. Fazendo com a empresa perdesse tempo até que fossem removidos de toda a frota e poder circular.\nFizeram uma SABOTAGEM para justificar o adiantamento de 2h",
+            "author_username": "WiltonMid",
+            "author_name": "WiltonMid",
+            "created_at": "2026-10-26T04:01:00+00:00",
+            "permalink": "https://nitter.meowing.monster/WiltonMid/status/2114568152138854777#m",
+            "metrics": {
+              "like_count": 163,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114565517704823104",
+            "text": "Quem sabe o q haverá \nOlha  a cara da Fux americana \nCerto nao vai dar \nCapital voando pra fora , juro e dolar disparando,  bolsa a 130 mil\nQueria interna srm balas\nPressao americana absurda q vamos pagar \nChegamos em 27 ?? \nZanin foi o psicopata do mal brilhante \nInterveio antes !!! \nO PL apoiou o pedido do PT na Bahia pra prolongar \nAbriram o fiofó \nA Zambelli puxou uma arma \nO PL jogou um tanque de guerra na mao do STF \nVIRAR 10 MILHOES DE VOTOS C ESTAS 3 SEMANAS?\nTA",
+            "author_username": "bar212325",
+            "author_name": "bar212325",
+            "created_at": "2026-10-26T03:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/bar212325/status/2114565517704823104#m",
+            "metrics": {
+              "like_count": 25,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114564080186937345",
+            "text": "aceitem que a minha Bahia é a maior do Brasil",
+            "author_username": "curiasantos",
+            "author_name": "curiasantos",
+            "created_at": "2026-10-26T03:45:00+00:00",
+            "permalink": "https://nitter.meowing.monster/curiasantos/status/2114564080186937345#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114560481121693743",
+            "text": "Candidato derrotado questionou decisão que estendeu horário de votação\n\nO senador Flávio Bolsonaro (PL), candidato derrotado no segundo turno das eleições presidenciais, anunciou na noite deste domingo (25) que não vai reconhecer o resultado das urnas, apesar da diferença de mais de 4,4 milhões de votos a favor de Luiz Inácio Lula da Silva (PT).\n\nA justificativa seria a prorrogação do horário de votação eleitoral, decidida pelo ministro do Supremo Tribunal Federal (STF), Cristiano Zanin, que atendeu um pedido de ambas as candidaturas, incluindo a da campanha de Flávio.\n\n\"É impossível reconhecer o resultado das eleições no contexto como essas coisas aconteceram. Vamos usar nosso jurídico, vamos pedir a anulação dessas eleições. A gente não está aqui para brincadeira. Não vou aceitar que essa regra tenha mudado em cima do jogo. Mais uma vez, pelos amigos do Lula do Supremo Tribunal Federal\", afirmou Flávio em comunicado à imprensa ao lado de aliados, na frente de seu QG de campanha, em Brasília.\n\nPara ele, os acontecimentos do segundo turno foram inaceitáveis.\n\n\"O que aconteceu hoje não foi algo normal. Foi algo, inclusive, inaceitável. Um ministro da Suprema Corte, pela primeira vez na história, ex-advogado do Lula, dá uma canetada, a pedido de um ex-sócio dele, e muda a regra do jogo no meio do jogo. Às 17h01, o ministro Zanin, que não faz parte do Tribunal Superior Eleitoral [TSE], atropelando a justiça especializada, toma uma decisão prorrogando por duas horas as eleições. Isso nunca tinha acontecido na história do Brasil. Houve uma quebra total de isonomia entre os brasileiros de diversas cidades e diferentes estados. Eu nunca vou saber se num estado onde as urnas não foram reabertas quantos votos eu poderia ter. É inexplicável ter acontecido o que aconteceu\", disse o candidato.\n\nSem fazer menção aos mais de 59 milhões de votos recebidos, Flávio Bolsonaro saiu sem responder às perguntas.\n\nZanin tomou a decisão sobre a prorrogação do horário de votação, até às 19h, em caráter de urgência, considerando graves os relatos de dificuldades no transporte de eleitores, especialmente em cidades da Bahia e na cidade de São Paulo.\n\nA determinação, anunciada próximo das 17h, horário previsto para o encerramento da votação, inicialmente estabeleceu a extensão do prazo em todas as seções eleitorais.\n\nApós informações do TSE de que diversas urnas já haviam sido fechadas, o ministro esclareceu que a prorrogação deveria ser aplicada somente às seções que ainda estavam abertas.\n\nO presidente do TSE, Kassio Nunes Marques, orientou os tribunais regionais a manterem essas seções em funcionamento até as 19h. Os votos registrados nas urnas já encerradas seriam computados normalmente.\n\n📰 Leia a matéria completa em metropolitanapiracicaba.com.…\n\n📷 Joédson Alves/Agência Brasil\n✍🏽 Danilo Telles/Jornalista\nPublicado por: Danilo Telles | Grupo Metropolitana\n\n#tvmetropolitanapiracicaba #tvmetropolitana #piracicaba #MTV #jornalmetropolitano #radiometropolitanapiracicaba #radiometropolitana #jornal #eleicões2026",
+            "author_username": "TVMetroPiracity",
+            "author_name": "TVMetroPiracity",
+            "created_at": "2026-10-26T03:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/TVMetroPiracity/status/2114560481121693743#m",
+            "metrics": {
+              "like_count": 118,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114560112668881350",
+            "text": "Aqui é Bahia e na Bahia porra de fascista não se cria!\nCom boicote, com interferência mostramos que aqui ngm abaixa a cabeça e nem arrega!\nVIVA A DEMOCRACIA!!!\n#Eleicoes2026 #ObrigadaJanones",
+            "author_username": "GuimaraesLiih",
+            "author_name": "GuimaraesLiih",
+            "created_at": "2026-10-26T03:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/GuimaraesLiih/status/2114560112668881350#m",
+            "metrics": {
+              "like_count": 653,
+              "reply_count": 3,
+              "retweet_count": 14,
+              "quote_count": 48
+            }
+          },
+          {
+            "id": "2114559569510678988",
+            "text": "Alô @TSEjusbr vejam, boca de urna hoje dia 25/10/26 segundo turno das eleições pr. no colégio Luiz Rogério na cidade de Camaçari na Bahia pelo partido do PT, escancarado p/ todos, e esse da foto é o vereador da cidade de nome Tagner Oliveira que venceu p Deputado Estadual",
+            "author_username": "LeninhaLopes77",
+            "author_name": "LeninhaLopes77",
+            "created_at": "2026-10-26T03:27:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LeninhaLopes77/status/2114559569510678988#m",
+            "metrics": {
+              "like_count": 409,
+              "reply_count": 1,
+              "retweet_count": 18,
+              "quote_count": 24
+            }
+          },
+          {
+            "id": "2114556121239212287",
+            "text": "Não façam turismo na Bahia e nem em Minas Gerais.",
+            "author_username": "trapo041",
+            "author_name": "trapo041",
+            "created_at": "2026-10-26T03:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/trapo041/status/2114556121239212287#m",
+            "metrics": {
+              "like_count": 161,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114555053423944149",
+            "text": "Cara! Pensa nos militares q o TSE faz na Bahia. O povo com menos IDH, maior taxa de analfabetos do país tem uma das menores taxa de abstinência.",
+            "author_username": "valcalon77",
+            "author_name": "valcalon77",
+            "created_at": "2026-10-26T03:09:00+00:00",
+            "permalink": "https://nitter.meowing.monster/valcalon77/status/2114555053423944149#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114553146559054106",
+            "text": "João, na Bahia só da vasco e Lula.",
+            "author_username": "Camaradamarques",
+            "author_name": "Camaradamarques",
+            "created_at": "2026-10-26T03:02:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Camaradamarques/status/2114553146559054106#m",
+            "metrics": {
+              "like_count": 35,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114550612289376338",
+            "text": "Queria dar uns pega gostoso pra comemorar a vitória do Lula 😔⭐",
+            "author_username": "Mirelinhaart",
+            "author_name": "Mirelinhaart",
+            "created_at": "2026-10-26T02:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Mirelinhaart/status/2114550612289376338#m",
+            "metrics": {
+              "like_count": 26,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114548055445807456",
+            "text": "A resposta está na sua pergunta hahaha\n\nChupetinha vacilou no vídeo do Nordeste ( NE de Minas é praticamente Bahia) , e dizem as mas línguas que ele nao estava deixando material de campanha nas cidades do interior.",
+            "author_username": "SENlNHA",
+            "author_name": "SENlNHA",
+            "created_at": "2026-10-26T02:41:00+00:00",
+            "permalink": "https://nitter.meowing.monster/SENlNHA/status/2114548055445807456#m",
+            "metrics": {
+              "like_count": 322,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114547950269395043",
+            "text": "ZANIN, LARANJA DO GOLPE\nSO PARA OS VERDADEIROS GOLPISTAS\nNÃO APARECESSEM\nGILMAR E MORAES. 🤮\nCOM CERTEZA\nA BAHIA, NÃO FICOU SEM ÔNIBU ESSA FOI A NARRATIVA DA ESQUERDA, PARA ESCONDER O GOLPE\nVÁRIAS CIDADES DA BAHIA, FICARAM SEM LUZ E NÃO VOTARAM NO FLÁVIO instagram.com/reel/De7OHTyh7…",
+            "author_username": "ElviaDeCas79661",
+            "author_name": "ElviaDeCas79661",
+            "created_at": "2026-10-26T02:41:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ElviaDeCas79661/status/2114547950269395043#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114545725665153067",
+            "text": "Tudo foi ensaiado dias antes não e possível estas merdas fazerem tudo isso hoje",
+            "author_username": "Kito1Kareca",
+            "author_name": "Kito1Kareca",
+            "created_at": "2026-10-26T02:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Kito1Kareca/status/2114545725665153067#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114544268534554775",
+            "text": "Na Bahia fascista não se cria",
+            "author_username": "EloNairo",
+            "author_name": "EloNairo",
+            "created_at": "2026-10-26T02:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/EloNairo/status/2114544268534554775#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114541471131213845",
+            "text": "prox ano bahia me aguarde",
+            "author_username": "nofockinbody",
+            "author_name": "nofockinbody",
+            "created_at": "2026-10-26T02:15:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nofockinbody/status/2114541471131213845#m",
+            "metrics": {
+              "like_count": 631,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 24
+            }
+          },
+          {
+            "id": "2114540253801336985",
+            "text": "Obrigada Bahia",
+            "author_username": "Fabiportodas",
+            "author_name": "Fabiportodas",
+            "created_at": "2026-10-26T02:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fabiportodas/status/2114540253801336985#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114538404520341637",
+            "text": "Quem é da Bahia já sabia que ele não ganharia e que já estava morto politicamente, mas depois da derrota para Jerônimo, ele se enterrou de vez! E pelo que o Bruno Reis fez hoje, é capaz dele não ganha nem a prefeitura de Salvador caso se candidate.",
+            "author_username": "Tai_Jor",
+            "author_name": "Tai_Jor",
+            "created_at": "2026-10-26T02:03:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Tai_Jor/status/2114538404520341637#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 154
+            }
+          },
+          {
+            "id": "2114536426675032311",
+            "text": "Dia Histórico ❤️ e eu estou aqui na Bahia, no Nordeste comemorando a vitória do povo✨️❤️❤️❤️🇧🇷",
+            "author_username": "Kimberlynunes16",
+            "author_name": "Kimberlynunes16",
+            "created_at": "2026-10-26T01:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Kimberlynunes16/status/2114536426675032311#m",
+            "metrics": {
+              "like_count": 29,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114533739392823482",
+            "text": "É a Bahia",
+            "author_username": "Mariananda3505",
+            "author_name": "Mariananda3505",
+            "created_at": "2026-10-26T01:45:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Mariananda3505/status/2114533739392823482#m",
+            "metrics": {
+              "like_count": 100,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114532748845081062",
+            "text": "A musica do carnaval da bahia 2027 !",
+            "author_username": "F_rnando1910",
+            "author_name": "F_rnando1910",
+            "created_at": "2026-10-26T01:41:00+00:00",
+            "permalink": "https://nitter.meowing.monster/F_rnando1910/status/2114532748845081062#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114531400703758805",
+            "text": "AQUI É BAHIA E NA BAHIA FACISTA NÃO SE CRIA",
+            "author_username": "curiasantos",
+            "author_name": "curiasantos",
+            "created_at": "2026-10-26T01:35:00+00:00",
+            "permalink": "https://nitter.meowing.monster/curiasantos/status/2114531400703758805#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114528850025553986",
+            "text": "Zé Ronaldo sentiu o peso do rompante de Lula chamando-o de \"sacana\". \nMas não confrontou. \nJogou a culpa em má informação, produzida na Bahia. \nO Prefeito de Feira não quer ficar 'ruim na fita' com Lula, com quem mantém uma relação institucional sem abalos.\nSe toldar agora...",
+            "author_username": "blogdafeira",
+            "author_name": "blogdafeira",
+            "created_at": "2026-10-26T01:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/blogdafeira/status/2114528850025553986#m",
+            "metrics": {
+              "like_count": 286,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 11
+            }
+          },
+          {
+            "id": "2114528596395962570",
+            "text": "Aquele teu vídeo forjado na Bahia custou caro hahahhaa.",
+            "author_username": "_edusoares_",
+            "author_name": "_edusoares_",
+            "created_at": "2026-10-26T01:24:00+00:00",
+            "permalink": "https://nitter.meowing.monster/_edusoares_/status/2114528596395962570#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114527972140957984",
+            "text": "Jogar uma bomba na Bahia.",
+            "author_username": "Ana_Durrafa",
+            "author_name": "Ana_Durrafa",
+            "created_at": "2026-10-26T01:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Ana_Durrafa/status/2114527972140957984#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114527320589373935",
+            "text": "EU SOU ESPORTE CLUBE BAHIA EU SOU LUIS INÁCIO LULA DA SILVA",
+            "author_username": "pythonegra",
+            "author_name": "pythonegra",
+            "created_at": "2026-10-26T01:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/pythonegra/status/2114527320589373935#m",
+            "metrics": {
+              "like_count": 384,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 46
+            }
+          },
+          {
+            "id": "2114525853853925833",
+            "text": "Como de diz aqui na Bahia, você é barril!",
+            "author_username": "JosluisDeJ1717",
+            "author_name": "JosluisDeJ1717",
+            "created_at": "2026-10-26T01:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/JosluisDeJ1717/status/2114525853853925833#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114524156859425277",
+            "text": "Como a Bahia ferrou o Brasil? São vcs que vivem o tempo todo a dizer que a urna eletrónica é uma fraude e agora que ela demonstrou que uma vez fechada, não pode ser reaberta vêm reclamar de estado e/ou urna!",
+            "author_username": "ttpdotcom",
+            "author_name": "ttpdotcom",
+            "created_at": "2026-10-26T01:06:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ttpdotcom/status/2114524156859425277#m",
+            "metrics": {
+              "like_count": 24,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114524147355385922",
+            "text": "Bahia no segundo turno deu 1 milhão de votos a mais pra Lula que no segundo, que coisa foda \nQue parada incrível",
+            "author_username": "joseniasnjunior",
+            "author_name": "joseniasnjunior",
+            "created_at": "2026-10-26T01:06:00+00:00",
+            "permalink": "https://nitter.meowing.monster/joseniasnjunior/status/2114524147355385922#m",
+            "metrics": {
+              "like_count": 57,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2115092068670243203",
+            "text": "Não venha mesmo não.",
+            "author_username": "flagreinabahia",
+            "author_name": "flagreinabahia",
+            "created_at": "2026-10-27T14:43:00+00:00",
+            "permalink": "https://nitter.mie.foundation/flagreinabahia/status/2115092068670243203#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115092062815113325",
+            "text": "Adoro ver essas coisas😋",
+            "author_username": "flagreinabahia",
+            "author_name": "flagreinabahia",
+            "created_at": "2026-10-27T14:43:00+00:00",
+            "permalink": "https://nitter.mie.foundation/flagreinabahia/status/2115092062815113325#m",
+            "metrics": {
+              "like_count": 148,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2115091126176620787",
+            "text": "A Bahia deve agradecer por ela não pisar lá? Não entendi... 😏🤩",
+            "author_username": "bortollotti",
+            "author_name": "bortollotti",
+            "created_at": "2026-10-27T14:39:00+00:00",
+            "permalink": "https://nitter.mie.foundation/bortollotti/status/2115091126176620787#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 4,
+          "instance_used": "https://nitter.mie.foundation"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "assuntos_x_momento_ate_27out21h_20261026"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2115080003243159641",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115080003243159641",
+      "collected_at": "2026-10-27T11:47:29-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115080003243159641",
+        "text": "A influencer Aline Guimarães anunciou o cancelamento de uma viagem que faria para um resort na Bahia após o resultado das eleições. Disse que não pisaria na Bahia ou seja, ela acha que \"cancelou a Bahia, mas foi justamente o contrário querida a Bahia não compactua com fascistas!!!\"",
+        "author_username": "TitoGremistazo",
+        "author_name": "TitoGremistazo",
+        "created_at": "2026-10-27T13:55:00+00:00",
+        "permalink": "https://nitter.meowing.monster/TitoGremistazo/status/2115080003243159641#m",
+        "metrics": {
+          "like_count": 118,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115077913234030859",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115077913234030859",
+      "collected_at": "2026-10-27T11:47:29-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115077913234030859",
+        "text": "Nossa, a multimilionário não vai mais para a Bahia; certeza que o povo baiano e a Bahia ficarão gratos!",
+        "author_username": "Ronir05929010",
+        "author_name": "Ronir05929010",
+        "created_at": "2026-10-27T13:47:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Ronir05929010/status/2115077913234030859#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115077843348521169",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115077843348521169",
+      "collected_at": "2026-10-27T11:47:29-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115077843348521169",
+        "text": "Minha Bahia é linda demais",
+        "author_username": "meninosalvador",
+        "author_name": "meninosalvador",
+        "created_at": "2026-10-27T13:47:00+00:00",
+        "permalink": "https://nitter.meowing.monster/meninosalvador/status/2115077843348521169#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115076808345284932",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115076808345284932",
+      "collected_at": "2026-10-27T11:47:29-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115076808345284932",
+        "text": "Oque poucos sabem é que esse ditado nasceu aqui na bahia de uma redação escrita por carlos marighela na escola politécnica que na epoca concorria ao gremio estudantil",
+        "author_username": "BroaNoite",
+        "author_name": "BroaNoite",
+        "created_at": "2026-10-27T13:43:00+00:00",
+        "permalink": "https://nitter.meowing.monster/BroaNoite/status/2115076808345284932#m",
+        "metrics": {
+          "like_count": 311,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115070660783304731",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115070660783304731",
+      "collected_at": "2026-10-27T11:47:29-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115070660783304731",
+        "text": "Olha. O Wagner Moura mora ai. Manda ele de volta pra Bahia.",
+        "author_username": "HlioHenriq56903",
+        "author_name": "HlioHenriq56903",
+        "created_at": "2026-10-27T13:18:00+00:00",
+        "permalink": "https://nitter.meowing.monster/HlioHenriq56903/status/2115070660783304731#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115048653530222810",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115048653530222810",
+      "collected_at": "2026-10-27T11:47:29-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115048653530222810",
+        "text": "Eu e minha família, tbm somos da Bahia. São  muitos miseráveis  mesmo, infelizmente,  n posso me mudar daq, estou sofrendo horrores",
+        "author_username": "maia_adelia60",
+        "author_name": "maia_adelia60",
+        "created_at": "2026-10-27T11:51:00+00:00",
+        "permalink": "https://nitter.meowing.monster/maia_adelia60/status/2115048653530222810#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115045390374629677",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115045390374629677",
+      "collected_at": "2026-10-27T11:47:29-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115045390374629677",
+        "text": "🔵🔴⚪ Fonte de Memórias!\n\nCriei este manto para o concurso do Bahia 2027, inspirado na camisa de 2002 e nas duas Fontes Novas. Uma homenagem às 7 vidas perdidas em 2007.\n\n#ECBahia #FonteDeMemórias #MantoDoSocioEsquadrão #MantoDoSocioEsquadrão2027",
+        "author_username": "souljosu",
+        "author_name": "souljosu",
+        "created_at": "2026-10-27T11:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/souljosu/status/2115045390374629677#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115042656346595567",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115042656346595567",
+      "collected_at": "2026-10-27T11:47:29-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115042656346595567",
+        "text": "Estou super feliz  com esse movimento, DEMITA UM PETISTA!  SE TIVER ALGUM EMPRESÁRIO DA BAHIA PPR AQUI, TEMHO DUAS FILHAS QUE PRECISAM DE EMPREGO.",
+        "author_username": "maia_adelia60",
+        "author_name": "maia_adelia60",
+        "created_at": "2026-10-27T11:27:00+00:00",
+        "permalink": "https://nitter.meowing.monster/maia_adelia60/status/2115042656346595567#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115039211162079649",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115039211162079649",
+      "collected_at": "2026-10-27T11:47:29-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "direita"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115039211162079649",
+        "text": "Tem algum empresário da Bahia aqui? Tenho duas filhas bolsonaristas que estão  desmpregadas,  graduadas em adm e engenharia de produção.  Ja que estamos em campanha, demita um petista, contratem duas 100% da direita.",
+        "author_username": "maia_adelia60",
+        "author_name": "maia_adelia60",
+        "created_at": "2026-10-27T11:13:00+00:00",
+        "permalink": "https://nitter.meowing.monster/maia_adelia60/status/2115039211162079649#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115038691731136952",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115038691731136952",
+      "collected_at": "2026-10-27T11:47:29-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115038691731136952",
+        "text": "Mdsss cada coisa mais gostosa da vontade de leva a Bahia na mala🫶🏼😋",
+        "author_username": "Kimberlynunes16",
+        "author_name": "Kimberlynunes16",
+        "created_at": "2026-10-27T11:11:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Kimberlynunes16/status/2115038691731136952#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115007880495554711",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115007880495554711",
+      "collected_at": "2026-10-27T11:47:29-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115007880495554711",
+        "text": "É só rico que é afetado por isso?\nClaro né, pois se a Casas Bahia e o magazine Luiza tiverem que fechar um monte de lojas os funcionários vão continuar com seus empregos.",
+        "author_username": "fernandosoder",
+        "author_name": "fernandosoder",
+        "created_at": "2026-10-27T09:09:00+00:00",
+        "permalink": "https://nitter.meowing.monster/fernandosoder/status/2115007880495554711#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114918796582392067",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114918796582392067",
+      "collected_at": "2026-10-27T11:47:29-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114918796582392067",
+        "text": "A bolsa caiu. Mas e daí? Não comemos ações do Magazine Luiza ou das Casas Bahia. Por mim podem fechar todas as lojas físicas no Brasil que não vai afetar os empregos de seus funcionários.",
+        "author_username": "fernandosoder",
+        "author_name": "fernandosoder",
+        "created_at": "2026-10-27T03:15:00+00:00",
+        "permalink": "https://nitter.meowing.monster/fernandosoder/status/2114918796582392067#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115092068670243203",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115092068670243203",
+      "collected_at": "2026-10-27T11:47:29-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115092068670243203",
+        "text": "Não venha mesmo não.",
+        "author_username": "flagreinabahia",
+        "author_name": "flagreinabahia",
+        "created_at": "2026-10-27T14:43:00+00:00",
+        "permalink": "https://nitter.mie.foundation/flagreinabahia/status/2115092068670243203#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115092062815113325",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115092062815113325",
+      "collected_at": "2026-10-27T11:47:29-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115092062815113325",
+        "text": "Adoro ver essas coisas😋",
+        "author_username": "flagreinabahia",
+        "author_name": "flagreinabahia",
+        "created_at": "2026-10-27T14:43:00+00:00",
+        "permalink": "https://nitter.mie.foundation/flagreinabahia/status/2115092062815113325#m",
+        "metrics": {
+          "like_count": 148,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115091126176620787",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115091126176620787",
+      "collected_at": "2026-10-27T11:47:29-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Bahia",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115091126176620787",
+        "text": "A Bahia deve agradecer por ela não pisar lá? Não entendi... 😏🤩",
+        "author_username": "bortollotti",
+        "author_name": "bortollotti",
+        "created_at": "2026-10-27T14:39:00+00:00",
+        "permalink": "https://nitter.mie.foundation/bortollotti/status/2115091126176620787#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}
