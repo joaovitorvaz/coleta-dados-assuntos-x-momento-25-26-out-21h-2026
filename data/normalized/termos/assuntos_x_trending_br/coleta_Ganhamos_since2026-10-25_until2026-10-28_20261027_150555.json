@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Ganhamos",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+    "collected_at": "2026-10-27T15:05:55-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 105
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115051685768777823",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115051685768777823",
+      "parent_post_id": null,
+      "thread_root_id": "2115051685768777823",
+      "author": {
+        "platform_id": null,
+        "display_name": "Ricdultra",
+        "username": "Ricdultra",
+        "profile_url": "https://x.com/Ricdultra"
+      },
+      "text": "Não morremos e saímos mais fortes. Ganhamos representatividade nas redes e nas ruas. Como falei, política é momento!",
+      "created_at": "2026-10-27T12:03:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T15:05:55-03:00",
+      "permalink": "https://nitter.meowing.monster/Ricdultra/status/2115051685768777823#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115051685768777823",
+        "text": "Não morremos e saímos mais fortes. Ganhamos representatividade nas redes e nas ruas. Como falei, política é momento!",
+        "author_username": "Ricdultra",
+        "author_name": "Ricdultra",
+        "created_at": "2026-10-27T12:03:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Ricdultra/status/2115051685768777823#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 116,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

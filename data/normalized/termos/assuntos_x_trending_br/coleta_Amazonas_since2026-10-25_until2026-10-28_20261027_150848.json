@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Amazonas",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+    "collected_at": "2026-10-27T15:08:48-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 9
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115104993581683061",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115104993581683061",
+      "parent_post_id": null,
+      "thread_root_id": "2115104993581683061",
+      "author": {
+        "platform_id": null,
+        "display_name": "RobertoAOrtega1",
+        "username": "RobertoAOrtega1",
+        "profile_url": "https://x.com/RobertoAOrtega1"
+      },
+      "text": "Como pode o estado do Amazonas, de novo??????",
+      "created_at": "2026-10-27T15:35:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T15:08:48-03:00",
+      "permalink": "https://nitter.meowing.monster/RobertoAOrtega1/status/2115104993581683061#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Amazonas",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115104993581683061",
+        "text": "Como pode o estado do Amazonas, de novo??????",
+        "author_username": "RobertoAOrtega1",
+        "author_name": "RobertoAOrtega1",
+        "created_at": "2026-10-27T15:35:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RobertoAOrtega1/status/2115104993581683061#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 45,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115099545960874236",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115099545960874236",
+      "parent_post_id": null,
+      "thread_root_id": "2115099545960874236",
+      "author": {
+        "platform_id": null,
+        "display_name": "jqueiroz0",
+        "username": "jqueiroz0",
+        "profile_url": "https://x.com/jqueiroz0"
+      },
+      "text": "E a grande vitória do Omar no Amazonas, até que fim interrompemos esse povo doido de direita no estado!!",
+      "created_at": "2026-10-27T15:13:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T15:08:48-03:00",
+      "permalink": "https://nitter.meowing.monster/jqueiroz0/status/2115099545960874236#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "direita"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Amazonas",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115099545960874236",
+        "text": "E a grande vitória do Omar no Amazonas, até que fim interrompemos esse povo doido de direita no estado!!",
+        "author_username": "jqueiroz0",
+        "author_name": "jqueiroz0",
+        "created_at": "2026-10-27T15:13:00+00:00",
+        "permalink": "https://nitter.meowing.monster/jqueiroz0/status/2115099545960874236#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 104,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
