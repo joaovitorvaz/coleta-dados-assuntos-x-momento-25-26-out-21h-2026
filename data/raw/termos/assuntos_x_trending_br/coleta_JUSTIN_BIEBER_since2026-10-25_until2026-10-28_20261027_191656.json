@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "JUSTIN BIEBER",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+    "collected_at": "2026-10-27T19:16:56-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 1
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2115144133836771803",
+            "text": "Caminhar escutando Justin Bieber 🤌🏽🤌🏽🤌🏽🎧",
+            "author_username": "Roccha_15",
+            "author_name": "Roccha_15",
+            "created_at": "2026-10-27T18:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Roccha_15/status/2115144133836771803#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114698070021578830",
+            "text": "irmão até o JUSTIN BIEBER meteu essa e o VIADO do felca não falou nada",
+            "author_username": "tristheuzismo",
+            "author_name": "tristheuzismo",
+            "created_at": "2026-10-26T12:38:00+00:00",
+            "permalink": "https://nitter.meowing.monster/tristheuzismo/status/2114698070021578830#m",
+            "metrics": {
+              "like_count": 82,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114496569227587940",
+            "text": "MEU DEUS O JUSTIN BIEBER",
+            "author_username": "_bia_gsm",
+            "author_name": "_bia_gsm",
+            "created_at": "2026-10-25T23:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/_bia_gsm/status/2114496569227587940#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114353406340989360",
+            "text": "mds o João Gomes vilanovense e o justin bieber goiano\n\nViva o Lula!!!!",
+            "author_username": "sonfiasofrida",
+            "author_name": "sonfiasofrida",
+            "created_at": "2026-10-25T13:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/sonfiasofrida/status/2114353406340989360#m",
+            "metrics": {
+              "like_count": 153,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114026458997809484",
+            "text": "Justin Bieber wake up!\nHailey Bieber declara apoio a Lula nas eleições do Brasil:\n\n\"Pela democracia. Vote Lula. Vote 13.\"\n#DebateNaGlobo #LulaEmCopacabana",
+            "author_username": "ricardomedeiros",
+            "author_name": "ricardomedeiros",
+            "created_at": "2026-10-24T16:09:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ricardomedeiros/status/2114026458997809484#m",
+            "metrics": {
+              "like_count": 173,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 4,
+          "instance_used": "https://nitter.mie.foundation"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "assuntos_x_momento_ate_27out21h_20261026"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2115144133836771803",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115144133836771803",
+      "collected_at": "2026-10-27T19:16:56-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "JUSTIN BIEBER",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115144133836771803",
+        "text": "Caminhar escutando Justin Bieber 🤌🏽🤌🏽🤌🏽🎧",
+        "author_username": "Roccha_15",
+        "author_name": "Roccha_15",
+        "created_at": "2026-10-27T18:10:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Roccha_15/status/2115144133836771803#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}
