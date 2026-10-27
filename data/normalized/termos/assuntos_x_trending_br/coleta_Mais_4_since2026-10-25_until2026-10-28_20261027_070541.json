@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Mais 4",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "3f313541-c89c-4314-9ab3-e59b766bc37b",
+    "collected_at": "2026-10-27T07:05:41-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 150
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115013497637470516",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115013497637470516",
+      "parent_post_id": null,
+      "thread_root_id": "2115013497637470516",
+      "author": {
+        "platform_id": null,
+        "display_name": "pthiagooliveira",
+        "username": "pthiagooliveira",
+        "profile_url": "https://x.com/pthiagooliveira"
+      },
+      "text": "Será? O Lula vive a dizer que o país melhora, que as pessoas melhoram suas vidas... logo a linha de raciocínio deve vir de encontro, em um país tão bom assim o povo não tem mais necessidade. 🤷🏻‍♂️ Não é Bassil que a coisa acontece? O assistencialismo desenfreado que causa dependência não é mais necessário, o país está em perfeito progresso. 🤷🏻‍♂️ O movimento de cancelamento começou justamente pelo espectro político da esquerda... lembre-se que 4 anos atrás ou um pouco mais, marcas, empresas e comércios eram cancelados diariamente pelo Sleeping Giants, e eles eram amplamente aplaudidos. Lembre-se que nestas duas décadas de governo petista o empresariado (que em suma maioria são de pequeno e médio porte) foram demonizados como opressores do trabalhador (quando quem faz isso é o estado com sua senzala ideológica, e os impostos estalando no lombo destes trabalhadores). Logo, antes de debandar todo o argumento direcionado ao outro espectro político, lembre-se disso! Pq no final, a própria paciência tem limites, e as próprias escolhas levam a isso por mais que parece extremamente grotesco. 🤷🏻‍♂️",
+      "created_at": "2026-10-27T09:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T07:05:41-03:00",
+      "permalink": "https://nitter.netbub.com/pthiagooliveira/status/2115013497637470516#m",
+      "metrics": {
+        "like_count": 32,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "esquerda",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "3f313541-c89c-4314-9ab3-e59b766bc37b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 12,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2115013497637470516",
+        "text": "Será? O Lula vive a dizer que o país melhora, que as pessoas melhoram suas vidas... logo a linha de raciocínio deve vir de encontro, em um país tão bom assim o povo não tem mais necessidade. 🤷🏻‍♂️ Não é Bassil que a coisa acontece? O assistencialismo desenfreado que causa dependência não é mais necessário, o país está em perfeito progresso. 🤷🏻‍♂️ O movimento de cancelamento começou justamente pelo espectro político da esquerda... lembre-se que 4 anos atrás ou um pouco mais, marcas, empresas e comércios eram cancelados diariamente pelo Sleeping Giants, e eles eram amplamente aplaudidos. Lembre-se que nestas duas décadas de governo petista o empresariado (que em suma maioria são de pequeno e médio porte) foram demonizados como opressores do trabalhador (quando quem faz isso é o estado com sua senzala ideológica, e os impostos estalando no lombo destes trabalhadores). Logo, antes de debandar todo o argumento direcionado ao outro espectro político, lembre-se disso! Pq no final, a própria paciência tem limites, e as próprias escolhas levam a isso por mais que parece extremamente grotesco. 🤷🏻‍♂️",
+        "author_username": "pthiagooliveira",
+        "author_name": "pthiagooliveira",
+        "created_at": "2026-10-27T09:31:00+00:00",
+        "permalink": "https://nitter.netbub.com/pthiagooliveira/status/2115013497637470516#m",
+        "metrics": {
+          "like_count": 32,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 1106,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114984066202095847",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114984066202095847",
+      "parent_post_id": null,
+      "thread_root_id": "2114984066202095847",
+      "author": {
+        "platform_id": null,
+        "display_name": "Maclaund",
+        "username": "Maclaund",
+        "profile_url": "https://x.com/Maclaund"
+      },
+      "text": "Mudou mesmo. Enfiou no rabo de quem Produz mais 4 anos de atraso.",
+      "created_at": "2026-10-27T07:34:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T07:05:41-03:00",
+      "permalink": "https://nitter.netbub.com/Maclaund/status/2114984066202095847#m",
+      "metrics": {
+        "like_count": 39,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "3f313541-c89c-4314-9ab3-e59b766bc37b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 12,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114984066202095847",
+        "text": "Mudou mesmo. Enfiou no rabo de quem Produz mais 4 anos de atraso.",
+        "author_username": "Maclaund",
+        "author_name": "Maclaund",
+        "created_at": "2026-10-27T07:34:00+00:00",
+        "permalink": "https://nitter.netbub.com/Maclaund/status/2114984066202095847#m",
+        "metrics": {
+          "like_count": 39,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 65,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

@@ -1,0 +1,288 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Golpe",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "3f313541-c89c-4314-9ab3-e59b766bc37b",
+    "collected_at": "2026-10-27T07:02:08-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 4,
+      "comments": 0,
+      "records_total": 4,
+      "skipped_duplicate": 76
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115018868959678740",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115018868959678740",
+      "parent_post_id": null,
+      "thread_root_id": "2115018868959678740",
+      "author": {
+        "platform_id": null,
+        "display_name": "dlrodrigues76",
+        "username": "dlrodrigues76",
+        "profile_url": "https://x.com/dlrodrigues76"
+      },
+      "text": "O Golpe a Tai 🇧🇷👀👇🏼",
+      "created_at": "2026-10-27T09:52:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T07:02:08-03:00",
+      "permalink": "https://nitter.netbub.com/dlrodrigues76/status/2115018868959678740#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "3f313541-c89c-4314-9ab3-e59b766bc37b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2115018868959678740",
+        "text": "O Golpe a Tai 🇧🇷👀👇🏼",
+        "author_username": "dlrodrigues76",
+        "author_name": "dlrodrigues76",
+        "created_at": "2026-10-27T09:52:00+00:00",
+        "permalink": "https://nitter.netbub.com/dlrodrigues76/status/2115018868959678740#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 19,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115015317122404863",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115015317122404863",
+      "parent_post_id": null,
+      "thread_root_id": "2115015317122404863",
+      "author": {
+        "platform_id": null,
+        "display_name": "leo_zenitte",
+        "username": "leo_zenitte",
+        "profile_url": "https://x.com/leo_zenitte"
+      },
+      "text": "O golpe tava aí... caiu quem quis... 🤣🤣🤣🤣🤣🤣",
+      "created_at": "2026-10-27T09:38:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T07:02:08-03:00",
+      "permalink": "https://nitter.netbub.com/leo_zenitte/status/2115015317122404863#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "3f313541-c89c-4314-9ab3-e59b766bc37b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2115015317122404863",
+        "text": "O golpe tava aí... caiu quem quis... 🤣🤣🤣🤣🤣🤣",
+        "author_username": "leo_zenitte",
+        "author_name": "leo_zenitte",
+        "created_at": "2026-10-27T09:38:00+00:00",
+        "permalink": "https://nitter.netbub.com/leo_zenitte/status/2115015317122404863#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 43,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115011440335556639",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115011440335556639",
+      "parent_post_id": null,
+      "thread_root_id": "2115011440335556639",
+      "author": {
+        "platform_id": null,
+        "display_name": "Erlishenrique",
+        "username": "Erlishenrique",
+        "profile_url": "https://x.com/Erlishenrique"
+      },
+      "text": "Não teve pois algumas cúpulas das forças armadas  não embarcaram  na loucura.\nTinham pessoas fazendo acampamento em frente ao exército e pedindo intervenção militar! Bolsonaro poderia simplesmente fazer uma live e mandar todo mundo embora pra casa e descartar a possibilidade.\nO que ele fez , se calou. Porque ele se calou ? Será que estava com dor de garganta?\n\nEle se calou...e foi alimentando os lunaticos. \n\nSe as forças armadas entram na história, o golpe estaria feito e ainda teria uma manda de escudo.\n\nTem que ser muito alienado para acreditar numa família com sede de poder! Que sempre viveram as custas do Estado.",
+      "created_at": "2026-10-27T09:23:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T07:02:08-03:00",
+      "permalink": "https://nitter.netbub.com/Erlishenrique/status/2115011440335556639#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "3f313541-c89c-4314-9ab3-e59b766bc37b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2115011440335556639",
+        "text": "Não teve pois algumas cúpulas das forças armadas  não embarcaram  na loucura.\nTinham pessoas fazendo acampamento em frente ao exército e pedindo intervenção militar! Bolsonaro poderia simplesmente fazer uma live e mandar todo mundo embora pra casa e descartar a possibilidade.\nO que ele fez , se calou. Porque ele se calou ? Será que estava com dor de garganta?\n\nEle se calou...e foi alimentando os lunaticos. \n\nSe as forças armadas entram na história, o golpe estaria feito e ainda teria uma manda de escudo.\n\nTem que ser muito alienado para acreditar numa família com sede de poder! Que sempre viveram as custas do Estado.",
+        "author_username": "Erlishenrique",
+        "author_name": "Erlishenrique",
+        "created_at": "2026-10-27T09:23:00+00:00",
+        "permalink": "https://nitter.netbub.com/Erlishenrique/status/2115011440335556639#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 624,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114965107411448184",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114965107411448184",
+      "parent_post_id": null,
+      "thread_root_id": "2114965107411448184",
+      "author": {
+        "platform_id": null,
+        "display_name": "jubuenfin",
+        "username": "jubuenfin",
+        "profile_url": "https://x.com/jubuenfin"
+      },
+      "text": "Engraçado que até hoje questionam o Dr. Geraldo na chapa mas tem umas figuras aí que fizeram coro pro golpe da Dilma e pagam de pura esquerda radical. Me poupe",
+      "created_at": "2026-10-27T06:19:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T07:02:08-03:00",
+      "permalink": "https://nitter.netbub.com/jubuenfin/status/2114965107411448184#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "3f313541-c89c-4314-9ab3-e59b766bc37b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114965107411448184",
+        "text": "Engraçado que até hoje questionam o Dr. Geraldo na chapa mas tem umas figuras aí que fizeram coro pro golpe da Dilma e pagam de pura esquerda radical. Me poupe",
+        "author_username": "jubuenfin",
+        "author_name": "jubuenfin",
+        "created_at": "2026-10-27T06:19:00+00:00",
+        "permalink": "https://nitter.netbub.com/jubuenfin/status/2114965107411448184#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 159,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
