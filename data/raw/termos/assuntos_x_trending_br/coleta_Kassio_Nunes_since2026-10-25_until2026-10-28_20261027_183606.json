@@ -1,0 +1,2215 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Kassio Nunes",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+    "collected_at": "2026-10-27T18:36:06-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 49
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2115139412157964782",
+            "text": "Só do Moraes né? Fazem vista grossa pro Kassio Nunes pro Toffoli. Mostra bem o o jetivo desses desgraçados",
+            "author_username": "Fabrici70242229",
+            "author_name": "Fabrici70242229",
+            "created_at": "2026-10-27T17:51:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Fabrici70242229/status/2115139412157964782#m",
+            "metrics": {
+              "like_count": 262,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2115101449671623034",
+            "text": "O problema é  que só  ficamos falando é provando a verdade, mas é as denúncias que os juristas verdadeiros deveram fazer em massa?  Encostar o Zanin eo Kássio Nunes na parede, denunciar para o mundo todo saber em alto e bom som.\n🇧🇷🙏🏻🇧🇷🇺🇸🇮🇱🇦🇷",
+            "author_username": "Wanda22035823",
+            "author_name": "Wanda22035823",
+            "created_at": "2026-10-27T15:20:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Wanda22035823/status/2115101449671623034#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115100474890137659",
+            "text": "Kassio Nunes se juntou a Lula também??",
+            "author_username": "RodrigoPina01",
+            "author_name": "RodrigoPina01",
+            "created_at": "2026-10-27T15:17:00+00:00",
+            "permalink": "https://nitter.mie.foundation/RodrigoPina01/status/2115100474890137659#m",
+            "metrics": {
+              "like_count": 103,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115099896936018198",
+            "text": "Alexandre de Moraes, Toffoli e Kassio Nunes precisam sofrer impeachment, isso é inegociável",
+            "author_username": "caiohf25",
+            "author_name": "caiohf25",
+            "created_at": "2026-10-27T15:14:00+00:00",
+            "permalink": "https://nitter.mie.foundation/caiohf25/status/2115099896936018198#m",
+            "metrics": {
+              "like_count": 121,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2115082578659098757",
+            "text": "Engraçado q vc fala em Alexydw Moraes e esquece do Dias Toffoli e do Kassio Nunes Né? Mto conveniente agir assim",
+            "author_username": "Fabrici70242229",
+            "author_name": "Fabrici70242229",
+            "created_at": "2026-10-27T14:05:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Fabrici70242229/status/2115082578659098757#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2115032922600214558",
+            "text": "Video bem didático para entender porque todo processo foi um erro de Kassio Nunes e que o Ministro Fachin fez um sorteio no qual o Zanin foi sorteado.",
+            "author_username": "briciovieeira",
+            "author_name": "briciovieeira",
+            "created_at": "2026-10-27T10:48:00+00:00",
+            "permalink": "https://nitter.mie.foundation/briciovieeira/status/2115032922600214558#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 4,
+              "retweet_count": 12,
+              "quote_count": 59
+            }
+          },
+          {
+            "id": "2114984102067589518",
+            "text": "NÃO  MUDOU REGRA DO JOGO NENHUMA O KASSIO NUNES MARQUES PRESIDENTE DO TSE COLOCADO LA PELO O SEU PAI E QUEM DEMOROU CON AS DECISOES O STF SO SE METEU PORQUE ALEM DE O PT PEDIR VOCÊ TAMBÉM PEDIU PARA PRORROGRAR A VOTAÇÃO SEU MENTIROSO",
+            "author_username": "Djjoy7467",
+            "author_name": "Djjoy7467",
+            "created_at": "2026-10-27T07:34:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Djjoy7467/status/2114984102067589518#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114844686930116893",
+            "text": "Foda-se o Flávio, mas agora que a eleição acabou, tá na hora de Moraes e Kassio Nunes começarem a se explicar sobre os escândalos com o Vorcaro.",
+            "author_username": "DuraoRodrigo",
+            "author_name": "DuraoRodrigo",
+            "created_at": "2026-10-26T22:20:00+00:00",
+            "permalink": "https://nitter.mie.foundation/DuraoRodrigo/status/2114844686930116893#m",
+            "metrics": {
+              "like_count": 42,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114826992205943234",
+            "text": "Não vai acontecer nada. Pq vcs não vão fazer nada igualzinho o inútil do Kassio Nunes que foi indicado pelo bolsonaro, que tiro no pé!",
+            "author_username": "JeremyasBel",
+            "author_name": "JeremyasBel",
+            "created_at": "2026-10-26T21:10:00+00:00",
+            "permalink": "https://nitter.mie.foundation/JeremyasBel/status/2114826992205943234#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114822999199133813",
+            "text": "Até então a maioria dos nossos atos foram pró Lula. \n\nPrecisamos agora dos atos CONTRA a Meta, o Bolsonarismo, o Kassio Nunes Marques, a interferência nas eleições, as ameaças de golpe de certos deputados e tantas outras coisas que precisamos agir contra.",
+            "author_username": "_pablopj",
+            "author_name": "_pablopj",
+            "created_at": "2026-10-26T20:54:00+00:00",
+            "permalink": "https://nitter.mie.foundation/_pablopj/status/2114822999199133813#m",
+            "metrics": {
+              "like_count": 423,
+              "reply_count": 1,
+              "retweet_count": 1,
+              "quote_count": 15
+            }
+          },
+          {
+            "id": "2114821728308506900",
+            "text": "Kassio Nunes Traiu a nação.  PF tem as provas",
+            "author_username": "MariaCo25950191",
+            "author_name": "MariaCo25950191",
+            "created_at": "2026-10-26T20:49:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MariaCo25950191/status/2114821728308506900#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114787135454896306",
+            "text": "CANCELAR AS ELEIÇÕES  NA CARA DURAAAAAA KÁSSIO NUNES",
+            "author_username": "RivanySantos3",
+            "author_name": "RivanySantos3",
+            "created_at": "2026-10-26T18:31:00+00:00",
+            "permalink": "https://nitter.mie.foundation/RivanySantos3/status/2114787135454896306#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114749396675916159",
+            "text": "Pergunta lá pro Kassio Nunes",
+            "author_username": "Luli475877",
+            "author_name": "Luli475877",
+            "created_at": "2026-10-26T16:02:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Luli475877/status/2114749396675916159#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114704270649913351",
+            "text": "De acordo com Roberto Freire a  atitude do cristiano Zanin configura golpe de estado o pior de tudo foi a conivência o coloio do kássio Nunes",
+            "author_username": "Edisioferreira2",
+            "author_name": "Edisioferreira2",
+            "created_at": "2026-10-26T13:02:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Edisioferreira2/status/2114704270649913351#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114703243188040116",
+            "text": "Não sou eu quem diz mas sim Roberto Freire continuar com uma votação com horário marcado para terminar e o golpe de estado mas o seu principal general não foi só o Cristiano Zanin teve o Brutus o terrivelmente evangélico kassio Nunes como co-autor",
+            "author_username": "Edisioferreira2",
+            "author_name": "Edisioferreira2",
+            "created_at": "2026-10-26T12:58:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Edisioferreira2/status/2114703243188040116#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114701713676316948",
+            "text": "Não creio se o véuduração eles não vão anular a eleição Mas uma coisa eu tenho certeza desta vez podemos sim culpar Jair Messias bolsonaro pôr ter indicado kassio Nunes o terrivelmente evangélico compactuou com o golpe",
+            "author_username": "Edisioferreira2",
+            "author_name": "Edisioferreira2",
+            "created_at": "2026-10-26T12:52:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Edisioferreira2/status/2114701713676316948#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114701228374479027",
+            "text": "Dessa vez sim ea culpa e do bolsonaro por ter indicado kassio Nunes que ele dizia seu terrivelmente evangélico mostra uma face obscura",
+            "author_username": "Edisioferreira2",
+            "author_name": "Edisioferreira2",
+            "created_at": "2026-10-26T12:50:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Edisioferreira2/status/2114701228374479027#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114700068913594704",
+            "text": "Golpe sim só que com aval a conivência o coloio do kássio Nunes",
+            "author_username": "Edisioferreira2",
+            "author_name": "Edisioferreira2",
+            "created_at": "2026-10-26T12:46:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Edisioferreira2/status/2114700068913594704#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114699505635356900",
+            "text": "Pior que atropelar as regras do TSE foi a passividade a conivência coluio do kássio Nunes",
+            "author_username": "Edisioferreira2",
+            "author_name": "Edisioferreira2",
+            "created_at": "2026-10-26T12:43:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Edisioferreira2/status/2114699505635356900#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114695914702901745",
+            "text": "Pouco vai adiantar o golpe teve a Valdir kassio Nunes",
+            "author_username": "Edisioferreira2",
+            "author_name": "Edisioferreira2",
+            "created_at": "2026-10-26T12:29:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Edisioferreira2/status/2114695914702901745#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114694886746124534",
+            "text": "O golpe teve apoio dos ministros terrivelmente evangélico kassio Nunes ajudou na configuração do golpe",
+            "author_username": "Edisioferreira2",
+            "author_name": "Edisioferreira2",
+            "created_at": "2026-10-26T12:25:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Edisioferreira2/status/2114694886746124534#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114694326487752827",
+            "text": "Sim cara, o kassio nunes marques presidente do TSE roubou a eleição pro Lula, foi exatamente isso que aconteceu.\nVaitefudecarai, vcs são uns merda isso sim.",
+            "author_username": "maisumoutr0",
+            "author_name": "maisumoutr0",
+            "created_at": "2026-10-26T12:23:00+00:00",
+            "permalink": "https://nitter.mie.foundation/maisumoutr0/status/2114694326487752827#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114692779536253299",
+            "text": "@FlavioBolsonaro, foi o seu pai que indicou o Kassio Nunes e você que aprovou a indicação do Zanin ao STF, lembre-se disso.",
+            "author_username": "mendonca_photos",
+            "author_name": "mendonca_photos",
+            "created_at": "2026-10-26T12:17:00+00:00",
+            "permalink": "https://nitter.mie.foundation/mendonca_photos/status/2114692779536253299#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114691745329914351",
+            "text": "Não foi só ele o kassio Nunes ajudou a enterrar Flávio bolsonaro validando o factoide de lula",
+            "author_username": "Edisioferreira2",
+            "author_name": "Edisioferreira2",
+            "created_at": "2026-10-26T12:12:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Edisioferreira2/status/2114691745329914351#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114689459190952352",
+            "text": "Né isso, qdo o ministro Kassio Nunes além de reconhecer a expressiva vitória de Lula, reforçar q tem absoluta segurança de todo o processo eleitoral, nao há mais o q qstionar. É segurar o choro e engolir no seco👊",
+            "author_username": "SuelhyMenezes",
+            "author_name": "SuelhyMenezes",
+            "created_at": "2026-10-26T12:03:00+00:00",
+            "permalink": "https://nitter.mie.foundation/SuelhyMenezes/status/2114689459190952352#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114689147097026955",
+            "text": "Bom dia! Vencemos uma G U E R R A!\n\nAGORA exigimos a punição da META, do Kassio Nunes, das empresas que boicotaram o transporte, dos políticos que tentaram impedir a votação. @LulaOficial TRAIDOR DA PÁTRIA não é \"oposição\"! Deixar correr solto nos trouxe até aqui. Não dá mais!",
+            "author_username": "vozdassombrass",
+            "author_name": "vozdassombrass",
+            "created_at": "2026-10-26T12:02:00+00:00",
+            "permalink": "https://nitter.mie.foundation/vozdassombrass/status/2114689147097026955#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 3,
+              "retweet_count": 61,
+              "quote_count": 259
+            }
+          },
+          {
+            "id": "2114670808962355230",
+            "text": "Você consegue imaginar o que seriam 30 anos de Suprema Corte quase totalmente indicada pelo Bolsonarismo com o apoio irrestrito do Senado?\nVeja o que Kassio Nunes fez, é só uma amostra do que seria.",
+            "author_username": "vs06",
+            "author_name": "vs06",
+            "created_at": "2026-10-26T10:49:00+00:00",
+            "permalink": "https://nitter.mie.foundation/vs06/status/2114670808962355230#m",
+            "metrics": {
+              "like_count": 34,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114670150137811057",
+            "text": "FOMOS ROUBADOS NOVAMENTE, STF REDUTO DE BANDIDOS DECIDINDO A ELEIÇÃO PASSANDO POR CIMA DO TSE, KASSIO NUNES COVARDE. \n\nANULA A ELEIÇÃO KASSIO NUNES CANALHA \nANULA A ELEIÇÃO KASSIO",
+            "author_username": "helio_dos8157",
+            "author_name": "helio_dos8157",
+            "created_at": "2026-10-26T10:47:00+00:00",
+            "permalink": "https://nitter.mie.foundation/helio_dos8157/status/2114670150137811057#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114669896608993312",
+            "text": "FOMOS ROUBADOS NOVAMENTE, STF REDUTO DE BANDIDOS DECIDINDO A ELEIÇÃO PASSANDO POR CIMA DO TSE, KASSIO NUNES COVARDE. \n\nANULA A ELEIÇÃO KASSIO NUNES CANALHA \nANULA A ELEIÇÃO KASSIO",
+            "author_username": "helio_dos8157",
+            "author_name": "helio_dos8157",
+            "created_at": "2026-10-26T10:46:00+00:00",
+            "permalink": "https://nitter.mie.foundation/helio_dos8157/status/2114669896608993312#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114669832419360968",
+            "text": "FOMOS ROUBADOS NOVAMENTE, STF REDUTO DE BANDIDOS DECIDINDO A ELEIÇÃO PASSANDO POR CIMA DO TSE, KASSIO NUNES COVARDE. \n\nANULA A ELEIÇÃO KASSIO NUNES CANALHA \nANULA A ELEIÇÃO KASSIO",
+            "author_username": "helio_dos8157",
+            "author_name": "helio_dos8157",
+            "created_at": "2026-10-26T10:45:00+00:00",
+            "permalink": "https://nitter.mie.foundation/helio_dos8157/status/2114669832419360968#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114669398162108446",
+            "text": "FOMOS ROUBADOS NOVAMENTE, STF REDUTO DE BANDIDOS DECIDINDO A ELEIÇÃO PASSANDO POR CIMA DO TSE, KASSIO NUNES COVARDE. \n\nANULA A ELEIÇÃO KASSIO NUNES CANALHA \nANULA A ELEIÇÃO KASSIO",
+            "author_username": "helio_dos8157",
+            "author_name": "helio_dos8157",
+            "created_at": "2026-10-26T10:44:00+00:00",
+            "permalink": "https://nitter.mie.foundation/helio_dos8157/status/2114669398162108446#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114669306818503040",
+            "text": "FOMOS ROUBADOS NOVAMENTE, STF REDUTO DE BANDIDOS DECIDINDO A ELEIÇÃO PASSANDO POR CIMA DO TSE, KASSIO NUNES COVARDE. \n\nANULA A ELEIÇÃO KASSIO NUNES CANALHA \nANULA A ELEIÇÃO KASSIO NUNES CANALHA",
+            "author_username": "helio_dos8157",
+            "author_name": "helio_dos8157",
+            "created_at": "2026-10-26T10:43:00+00:00",
+            "permalink": "https://nitter.mie.foundation/helio_dos8157/status/2114669306818503040#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114663397350347040",
+            "text": "KASSIO NUNES AJUDOU POUBCO .KKKKKKKKKK",
+            "author_username": "TeresaF44143318",
+            "author_name": "TeresaF44143318",
+            "created_at": "2026-10-26T10:20:00+00:00",
+            "permalink": "https://nitter.mie.foundation/TeresaF44143318/status/2114663397350347040#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114642056811335785",
+            "text": "E o Kassio Nunes fez oq??",
+            "author_username": "sra_fabicha",
+            "author_name": "sra_fabicha",
+            "created_at": "2026-10-26T08:55:00+00:00",
+            "permalink": "https://nitter.mie.foundation/sra_fabicha/status/2114642056811335785#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114590309673767070",
+            "text": "O presidente do Tribunal Superior Eleitoral TSE Kássio Nunes Marques declarou que parabenizou Luiz Inácio Lula da Silva PT pela vitória nas urnas que garantiu ao petista um quarto mandato presidencial O ministro também parabenizou o candidato à Presidência Flávio Bolsonaro PL-RJ)",
+            "author_username": "LuizGomesPE",
+            "author_name": "LuizGomesPE",
+            "created_at": "2026-10-26T05:29:00+00:00",
+            "permalink": "https://nitter.mie.foundation/LuizGomesPE/status/2114590309673767070#m",
+            "metrics": {
+              "like_count": 33,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114565321625379113",
+            "text": "QUEM LEVA A FALSA INFORMAÇÃO DEVE SER PUNIDO KÁSSIO NUNES FOI USADO COMO MASSA DE MANOBRA COM MENTIRAS FALSAS DO PT E DO ZANIN\n\nA  URNAS SE FECHAM AS 17 HS\n\nE OS PORTÕES DAS ESCOLAS  TAMBEM\n\nNÃO EXISTE MARGENS PARA VOTAÇÃO POR MAIS DUAS HORAS COM URNAS LACRADAS \n\nO QUE FIZERAM❓",
+            "author_username": "RivanySantos3",
+            "author_name": "RivanySantos3",
+            "created_at": "2026-10-26T03:50:00+00:00",
+            "permalink": "https://nitter.mie.foundation/RivanySantos3/status/2114565321625379113#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114561988302914036",
+            "text": "O ministro do supremo tribunal federal kassio Nunes marques indicado por Bolsonaro já declarou a vitória de lula",
+            "author_username": "davidpaixao",
+            "author_name": "davidpaixao",
+            "created_at": "2026-10-26T03:37:00+00:00",
+            "permalink": "https://nitter.mie.foundation/davidpaixao/status/2114561988302914036#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114561034052608346",
+            "text": "Kassio Nunes fez parte da armação.",
+            "author_username": "BaltazarinoJ",
+            "author_name": "BaltazarinoJ",
+            "created_at": "2026-10-26T03:33:00+00:00",
+            "permalink": "https://nitter.mie.foundation/BaltazarinoJ/status/2114561034052608346#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114560481121693743",
+            "text": "Candidato derrotado questionou decisão que estendeu horário de votação\n\nO senador Flávio Bolsonaro (PL), candidato derrotado no segundo turno das eleições presidenciais, anunciou na noite deste domingo (25) que não vai reconhecer o resultado das urnas, apesar da diferença de mais de 4,4 milhões de votos a favor de Luiz Inácio Lula da Silva (PT).\n\nA justificativa seria a prorrogação do horário de votação eleitoral, decidida pelo ministro do Supremo Tribunal Federal (STF), Cristiano Zanin, que atendeu um pedido de ambas as candidaturas, incluindo a da campanha de Flávio.\n\n\"É impossível reconhecer o resultado das eleições no contexto como essas coisas aconteceram. Vamos usar nosso jurídico, vamos pedir a anulação dessas eleições. A gente não está aqui para brincadeira. Não vou aceitar que essa regra tenha mudado em cima do jogo. Mais uma vez, pelos amigos do Lula do Supremo Tribunal Federal\", afirmou Flávio em comunicado à imprensa ao lado de aliados, na frente de seu QG de campanha, em Brasília.\n\nPara ele, os acontecimentos do segundo turno foram inaceitáveis.\n\n\"O que aconteceu hoje não foi algo normal. Foi algo, inclusive, inaceitável. Um ministro da Suprema Corte, pela primeira vez na história, ex-advogado do Lula, dá uma canetada, a pedido de um ex-sócio dele, e muda a regra do jogo no meio do jogo. Às 17h01, o ministro Zanin, que não faz parte do Tribunal Superior Eleitoral [TSE], atropelando a justiça especializada, toma uma decisão prorrogando por duas horas as eleições. Isso nunca tinha acontecido na história do Brasil. Houve uma quebra total de isonomia entre os brasileiros de diversas cidades e diferentes estados. Eu nunca vou saber se num estado onde as urnas não foram reabertas quantos votos eu poderia ter. É inexplicável ter acontecido o que aconteceu\", disse o candidato.\n\nSem fazer menção aos mais de 59 milhões de votos recebidos, Flávio Bolsonaro saiu sem responder às perguntas.\n\nZanin tomou a decisão sobre a prorrogação do horário de votação, até às 19h, em caráter de urgência, considerando graves os relatos de dificuldades no transporte de eleitores, especialmente em cidades da Bahia e na cidade de São Paulo.\n\nA determinação, anunciada próximo das 17h, horário previsto para o encerramento da votação, inicialmente estabeleceu a extensão do prazo em todas as seções eleitorais.\n\nApós informações do TSE de que diversas urnas já haviam sido fechadas, o ministro esclareceu que a prorrogação deveria ser aplicada somente às seções que ainda estavam abertas.\n\nO presidente do TSE, Kassio Nunes Marques, orientou os tribunais regionais a manterem essas seções em funcionamento até as 19h. Os votos registrados nas urnas já encerradas seriam computados normalmente.\n\n📰 Leia a matéria completa em metropolitanapiracicaba.com.…\n\n📷 Joédson Alves/Agência Brasil\n✍🏽 Danilo Telles/Jornalista\nPublicado por: Danilo Telles | Grupo Metropolitana\n\n#tvmetropolitanapiracicaba #tvmetropolitana #piracicaba #MTV #jornalmetropolitano #radiometropolitanapiracicaba #radiometropolitana #jornal #eleicões2026",
+            "author_username": "TVMetroPiracity",
+            "author_name": "TVMetroPiracity",
+            "created_at": "2026-10-26T03:31:00+00:00",
+            "permalink": "https://nitter.mie.foundation/TVMetroPiracity/status/2114560481121693743#m",
+            "metrics": {
+              "like_count": 118,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114550184709353921",
+            "text": "Reclama da omissão do Kassio Nunes Marques. Desde as 13hs já sabia do problema e ficou empurrando com a barriga. Então o culpado dessa bagunça é KASSIO NUNES MARQUES",
+            "author_username": "RicardoReisjf",
+            "author_name": "RicardoReisjf",
+            "created_at": "2026-10-26T02:50:00+00:00",
+            "permalink": "https://nitter.mie.foundation/RicardoReisjf/status/2114550184709353921#m",
+            "metrics": {
+              "like_count": 201,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114547533825384815",
+            "text": "@22flaviobolsonaro as 15:21 você pediu a prorrogação do horário de enceramento e aprovadas pelo seu ministro Kassio Nunes Marques. Esqueceu???????🔥🔥🔥🔥",
+            "author_username": "carlosmoura74",
+            "author_name": "carlosmoura74",
+            "created_at": "2026-10-26T02:39:00+00:00",
+            "permalink": "https://nitter.mie.foundation/carlosmoura74/status/2114547533825384815#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114546917820481790",
+            "text": "Foi maravilhoso ver Kassio Nunes tendo que reconhecer a vitória do Lula formalmente, mesmo com todas as manobras golpistas feitas para tentar nos derrubar.\n#Eleições2026",
+            "author_username": "artemis_rouge",
+            "author_name": "artemis_rouge",
+            "created_at": "2026-10-26T02:37:00+00:00",
+            "permalink": "https://nitter.mie.foundation/artemis_rouge/status/2114546917820481790#m",
+            "metrics": {
+              "like_count": 635,
+              "reply_count": 0,
+              "retweet_count": 22,
+              "quote_count": 134
+            }
+          },
+          {
+            "id": "2114538120028868917",
+            "text": "Kassio Nunes ja largando essa pauta do Flávio de barriga.",
+            "author_username": "rafaelahfn",
+            "author_name": "rafaelahfn",
+            "created_at": "2026-10-26T02:02:00+00:00",
+            "permalink": "https://nitter.mie.foundation/rafaelahfn/status/2114538120028868917#m",
+            "metrics": {
+              "like_count": 48,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114537885588238647",
+            "text": "Kássio Nunes Marques proclamou o resultado do pleito: Luiz Inácio Lula da Silva é eleito novamente PRESIDENTE DO BRASIL.\n\n@TSEjusbr @STF_oficial @LulaOficial @RogerioCorreia_ @DudaSalabert @AndreJanonesMG\n\nAo vivo no #Fantastico.",
+            "author_username": "laurocesar77",
+            "author_name": "laurocesar77",
+            "created_at": "2026-10-26T02:01:00+00:00",
+            "permalink": "https://nitter.mie.foundation/laurocesar77/status/2114537885588238647#m",
+            "metrics": {
+              "like_count": 207,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114537538715000973",
+            "text": "kassio nunes eh o ministro mais FRACO que eu já vi na minha vida até o Mendonça eu vejo tendo certo culhao",
+            "author_username": "jualvictor",
+            "author_name": "jualvictor",
+            "created_at": "2026-10-26T02:00:00+00:00",
+            "permalink": "https://nitter.mie.foundation/jualvictor/status/2114537538715000973#m",
+            "metrics": {
+              "like_count": 78,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114535294804320487",
+            "text": "Vai lá machão pedir a cabeça do Kássio Nunes kkkkkkkk aí não vai né, tu engana só a merda desses gados ai",
+            "author_username": "crffcb_",
+            "author_name": "crffcb_",
+            "created_at": "2026-10-26T01:51:00+00:00",
+            "permalink": "https://nitter.mie.foundation/crffcb_/status/2114535294804320487#m",
+            "metrics": {
+              "like_count": 54,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114523115732521090",
+            "text": "Ricardo Nunes, Bruno Reis e Kassio Nunes Marques são os responsáveis pela bagunça nas eleições de hoje. Não podemos nos esquecer disso e qualquer alegação de golpe vindo a outra parte precisa cair no colo deles.",
+            "author_username": "_pablopj",
+            "author_name": "_pablopj",
+            "created_at": "2026-10-26T01:02:00+00:00",
+            "permalink": "https://nitter.mie.foundation/_pablopj/status/2114523115732521090#m",
+            "metrics": {
+              "like_count": 230,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114520309281837399",
+            "text": "Queremos o impeachment do Kassio Nunes e o do André Mendonça, e prisāo de todos os que aqueles que atentaram contra a democracia hoje.",
+            "author_username": "GlaucoS13113",
+            "author_name": "GlaucoS13113",
+            "created_at": "2026-10-26T00:51:00+00:00",
+            "permalink": "https://nitter.mie.foundation/GlaucoS13113/status/2114520309281837399#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 11,
+              "retweet_count": 251,
+              "quote_count": 672
+            }
+          },
+          {
+            "id": "2114510573316506070",
+            "text": "NÃO ADIANTOU GOLPISTA  KASSIO NUNES E NEM ANDRE MENDONÇA.",
+            "author_username": "viviane2q86",
+            "author_name": "viviane2q86",
+            "created_at": "2026-10-26T00:13:00+00:00",
+            "permalink": "https://nitter.mie.foundation/viviane2q86/status/2114510573316506070#m",
+            "metrics": {
+              "like_count": 33,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114509355110302067",
+            "text": "Acabou, mais não podemos deixar o que aconteceu hoje passar em branco.\nCabeças tem que rolar, prisões tem que ser feitas imediatamente, começando com Kássio Nunes Marques.",
+            "author_username": "marcosjsoares_",
+            "author_name": "marcosjsoares_",
+            "created_at": "2026-10-26T00:08:00+00:00",
+            "permalink": "https://nitter.mie.foundation/marcosjsoares_/status/2114509355110302067#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114506167393337619",
+            "text": "KASSIO NUNES INIMIGO DA NAÇÃO",
+            "author_username": "Anna_hope94",
+            "author_name": "Anna_hope94",
+            "created_at": "2026-10-25T23:55:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2114506167393337619#m",
+            "metrics": {
+              "like_count": 44,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114506147084308862",
+            "text": "KASSIO NUNES INIMIGO DA NAÇÃO",
+            "author_username": "Anna_hope94",
+            "author_name": "Anna_hope94",
+            "created_at": "2026-10-25T23:55:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2114506147084308862#m",
+            "metrics": {
+              "like_count": 37,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114506118227734659",
+            "text": "KASSIO NUNES INIMIGO DA NAÇÃO",
+            "author_username": "Anna_hope94",
+            "author_name": "Anna_hope94",
+            "created_at": "2026-10-25T23:55:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2114506118227734659#m",
+            "metrics": {
+              "like_count": 49,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114504825782071572",
+            "text": "Kassio Nunes e André Mendonça devem pagar caro, viu.",
+            "author_username": "rafaieeelll",
+            "author_name": "rafaieeelll",
+            "created_at": "2026-10-25T23:50:00+00:00",
+            "permalink": "https://nitter.mie.foundation/rafaieeelll/status/2114504825782071572#m",
+            "metrics": {
+              "like_count": 326,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 14
+            }
+          },
+          {
+            "id": "2114504753988427953",
+            "text": "KASSIO NUNES INIMIGO DA NAÇÃO",
+            "author_username": "Anna_hope94",
+            "author_name": "Anna_hope94",
+            "created_at": "2026-10-25T23:49:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Anna_hope94/status/2114504753988427953#m",
+            "metrics": {
+              "like_count": 32,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114502718815719882",
+            "text": "Kassio NUNES Msrques anuncia: O novo Prewidente do Brasil é o Sr. Waldemar\nEleitores protestam: \n\nAH SACANAGEM PORRA \nO FLÁVIO VAI COMANDA PELO TELEFONE DO RAPÁ \nJUSTIÇA DE MERDA\nAH AH AH FORA WALDEMAR",
+            "author_username": "luigiberzoini",
+            "author_name": "luigiberzoini",
+            "created_at": "2026-10-25T23:41:00+00:00",
+            "permalink": "https://nitter.mie.foundation/luigiberzoini/status/2114502718815719882#m",
+            "metrics": {
+              "like_count": 56,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114502353005228498",
+            "text": "Kassio Nunes prevaricou e não foi pouco. \nParabéns, como sempre, Daniela Lima @UOL @UOLNoticias #Eleições2026",
+            "author_username": "eusoucpgomes",
+            "author_name": "eusoucpgomes",
+            "created_at": "2026-10-25T23:40:00+00:00",
+            "permalink": "https://nitter.mie.foundation/eusoucpgomes/status/2114502353005228498#m",
+            "metrics": {
+              "like_count": 754,
+              "reply_count": 1,
+              "retweet_count": 1,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114498195560472895",
+            "text": "Culpa dos TREs e do Kassio Nunes que não tomaram providência pra prorrogação do horário da votação em tempo, mesmo sabendo d problemas no Brasil todo, principalmente em Estados da DIREITA! Qdo as urnas são fechadas não têm como abri-las de novo! 😡",
+            "author_username": "zenaideBH",
+            "author_name": "zenaideBH",
+            "created_at": "2026-10-25T23:23:00+00:00",
+            "permalink": "https://nitter.mie.foundation/zenaideBH/status/2114498195560472895#m",
+            "metrics": {
+              "like_count": 59,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114496315958694150",
+            "text": "Com toda ctza! O q ocorreu em todo BR, c tentativa d impedir eleitores d Lula chegarem às urnas, ainda cedo, sem providências d Kassio Nunes, foi uma vergonha! Nenhum pronunciamento dele a respeito d atraso d avião d sul pro NE, blitzes no RJ e falta d ônibus em SP e na BA!😡👿🐍",
+            "author_username": "zenaideBH",
+            "author_name": "zenaideBH",
+            "created_at": "2026-10-25T23:16:00+00:00",
+            "permalink": "https://nitter.mie.foundation/zenaideBH/status/2114496315958694150#m",
+            "metrics": {
+              "like_count": 61,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114491918897865016",
+            "text": "Cadê Kassio Nunes, hein gente? Nós vamos precisar ir às ruas contra esse golpista maldito?",
+            "author_username": "artemis_rouge",
+            "author_name": "artemis_rouge",
+            "created_at": "2026-10-25T22:58:00+00:00",
+            "permalink": "https://nitter.mie.foundation/artemis_rouge/status/2114491918897865016#m",
+            "metrics": {
+              "like_count": 485,
+              "reply_count": 2,
+              "retweet_count": 4,
+              "quote_count": 45
+            }
+          },
+          {
+            "id": "2114488472132026617",
+            "text": "KASSIO NUNES INIMIGO DA NAÇÃO",
+            "author_username": "profe_vivi_",
+            "author_name": "profe_vivi_",
+            "created_at": "2026-10-25T22:45:00+00:00",
+            "permalink": "https://nitter.mie.foundation/profe_vivi_/status/2114488472132026617#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114484170701312458",
+            "text": "KÁSSIO NUNES SEU LUGAR É NA PRISÃO SEU RATO DE ESGOTO",
+            "author_username": "fairysherazade",
+            "author_name": "fairysherazade",
+            "created_at": "2026-10-25T22:28:00+00:00",
+            "permalink": "https://nitter.mie.foundation/fairysherazade/status/2114484170701312458#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114481251281211472",
+            "text": "Quando um ano atrás fiquei sabendo que o presidente do TSE seria Nunes Marques totalmente parcial para o bolsonarismo, imaginei que teríamos dificuldades. Só não imaginei que seria tão as claras, sem disfarces e de forma tão pesada. As 13h30 todo mundo sabia que havia sabotagem por parte das empresas de ônibus especialmente no Nordeste principal nicho eleitoral de Lula, mas o abominável Kássio, amigo de Vorcaro, engavetou e nada fez. Essa omissão pode ser determinante na vitória de Flavio Bolsonaro. LAMENTÁVEL!",
+            "author_username": "AmorimMelisa",
+            "author_name": "AmorimMelisa",
+            "created_at": "2026-10-25T22:16:00+00:00",
+            "permalink": "https://nitter.mie.foundation/AmorimMelisa/status/2114481251281211472#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114480343025586535",
+            "text": "KASSIO NUNES INIMIGO DA NAÇÃO",
+            "author_username": "zaynneonsz",
+            "author_name": "zaynneonsz",
+            "created_at": "2026-10-25T22:12:00+00:00",
+            "permalink": "https://nitter.mie.foundation/zaynneonsz/status/2114480343025586535#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114478300999589892",
+            "text": "Kassio Nunes tem que ser PRESO, hoje!",
+            "author_username": "SomensiMauricio",
+            "author_name": "SomensiMauricio",
+            "created_at": "2026-10-25T22:04:00+00:00",
+            "permalink": "https://nitter.mie.foundation/SomensiMauricio/status/2114478300999589892#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114477331603435652",
+            "text": "EU QUERO O IMPEACHMENT DO KASSIO NUNES!!!!!!!!!!",
+            "author_username": "rafaelahfn",
+            "author_name": "rafaelahfn",
+            "created_at": "2026-10-25T22:00:00+00:00",
+            "permalink": "https://nitter.mie.foundation/rafaelahfn/status/2114477331603435652#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114477160237002840",
+            "text": "KASSIO NUNES INIMIGO DA NAÇÃO",
+            "author_username": "WiltonAlmSPO",
+            "author_name": "WiltonAlmSPO",
+            "created_at": "2026-10-25T22:00:00+00:00",
+            "permalink": "https://nitter.mie.foundation/WiltonAlmSPO/status/2114477160237002840#m",
+            "metrics": {
+              "like_count": 858,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 9
+            }
+          },
+          {
+            "id": "2114476671352918281",
+            "text": "Eles não estão nem aí pra isso . Porque amanhã a imprensa vai estar falando que foi democrático. O sistema está totalmente aparelhado. E o Kassio Nunes que fez um discurso emocionante hoje pela manhã, tomou o golpe na cara",
+            "author_username": "Luizkapms",
+            "author_name": "Luizkapms",
+            "created_at": "2026-10-25T21:58:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Luizkapms/status/2114476671352918281#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114476201834107332",
+            "text": "KASSIO NUNES MARQUES É UMA VERGONHA !",
+            "author_username": "LalaRempel",
+            "author_name": "LalaRempel",
+            "created_at": "2026-10-25T21:56:00+00:00",
+            "permalink": "https://nitter.mie.foundation/LalaRempel/status/2114476201834107332#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114476178165613029",
+            "text": "Isso não teria acontecido se o Kassio Nunes q recebeu o pedido 13h, tivesse decidido logo",
+            "author_username": "Fabrici70242229",
+            "author_name": "Fabrici70242229",
+            "created_at": "2026-10-25T21:56:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Fabrici70242229/status/2114476178165613029#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114476054924698028",
+            "text": "Kassio Nunes precisa ser preso. \nEle é um funcionário do bolsonarismo no TSE. Passou o dia inteiro vendo crimes eleitorais acontecendo e permitindo. \nEssa eleição já foi manchada pelo bolsonarismo. \n#DeixemOPovoVotar \n#DeixemONorteVotar \n#Deixemonordestevotar",
+            "author_username": "Florencio933",
+            "author_name": "Florencio933",
+            "created_at": "2026-10-25T21:55:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Florencio933/status/2114476054924698028#m",
+            "metrics": {
+              "like_count": 70,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114475878348710261",
+            "text": "Sim, tá tendo golpe é dos bolsonaristas...Com a Gol ontem, ônibus em Salvador sem circular e o kassio Nunes com tarde decisão imoral! Esse povo é lixo do lixo!",
+            "author_username": "ceceiaa",
+            "author_name": "ceceiaa",
+            "created_at": "2026-10-25T21:55:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ceceiaa/status/2114475878348710261#m",
+            "metrics": {
+              "like_count": 111,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114475629391253654",
+            "text": "Graças ao Kassio Nunes Marques, ele sabia das denúncias, já havia um pedido para adiamento e esse cara veio dar uma coletiva dizendo que estava analisando.\nEsse cara tem que ser preso",
+            "author_username": "LuizcomZGabriel",
+            "author_name": "LuizcomZGabriel",
+            "created_at": "2026-10-25T21:54:00+00:00",
+            "permalink": "https://nitter.mie.foundation/LuizcomZGabriel/status/2114475629391253654#m",
+            "metrics": {
+              "like_count": 68,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114475371248890314",
+            "text": "Temos que ir pra rua pra tirar Kassio Nunes do STF",
+            "author_username": "Brunna112",
+            "author_name": "Brunna112",
+            "created_at": "2026-10-25T21:53:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Brunna112/status/2114475371248890314#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114475346800123995",
+            "text": "Kassio Nunes e André Mendonça precisam ser presos hoje! Tentativa de Golpe de Estado!",
+            "author_username": "GlaucoS13113",
+            "author_name": "GlaucoS13113",
+            "created_at": "2026-10-25T21:53:00+00:00",
+            "permalink": "https://nitter.mie.foundation/GlaucoS13113/status/2114475346800123995#m",
+            "metrics": {
+              "like_count": 900,
+              "reply_count": 7,
+              "retweet_count": 38,
+              "quote_count": 131
+            }
+          },
+          {
+            "id": "2114474669927739728",
+            "text": "É óbvio que foi um golpe orquestrado pela campanha do Flávio entre os prefeitos das cidades e o Kassio Nunes e o PT e o Zanin caíram.",
+            "author_username": "gussr2",
+            "author_name": "gussr2",
+            "created_at": "2026-10-25T21:50:00+00:00",
+            "permalink": "https://nitter.mie.foundation/gussr2/status/2114474669927739728#m",
+            "metrics": {
+              "like_count": 42,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114474227755602075",
+            "text": "Kassio Nunes Marques,   responsável por manchar  a imagem das eleições brasileira",
+            "author_username": "eijessicalenne",
+            "author_name": "eijessicalenne",
+            "created_at": "2026-10-25T21:48:00+00:00",
+            "permalink": "https://nitter.mie.foundation/eijessicalenne/status/2114474227755602075#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114474218591244348",
+            "text": "RICARDO NUNES\nBRUNO REIS\nKASSIO NUNES MARQUES \n\nEsses são os traidores da Democracia. PRECISAM SER PRESOS AINDA HOJE!",
+            "author_username": "_pablopj",
+            "author_name": "_pablopj",
+            "created_at": "2026-10-25T21:48:00+00:00",
+            "permalink": "https://nitter.mie.foundation/_pablopj/status/2114474218591244348#m",
+            "metrics": {
+              "like_count": 674,
+              "reply_count": 0,
+              "retweet_count": 3,
+              "quote_count": 16
+            }
+          },
+          {
+            "id": "2114473959605281172",
+            "text": "Mas é um fanfarrão mesmo o sr.\nPL pediu também prorrogação do tempo, para algumas cidades, mas pediu.\nSem contar que o Ministro Kassio Nunes sentou no pedido.\nMas não mude sua fanforrice.",
+            "author_username": "brunom9",
+            "author_name": "brunom9",
+            "created_at": "2026-10-25T21:47:00+00:00",
+            "permalink": "https://nitter.mie.foundation/brunom9/status/2114473959605281172#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114473957227459057",
+            "text": "RICARDO NUNES\nBRUNO REIS\nKASSIO NUNES MARQUES \n\nEsses são os traidores da Democracia. PRECISAM SER PRESOS AINDA HOJE!",
+            "author_username": "_pablopj",
+            "author_name": "_pablopj",
+            "created_at": "2026-10-25T21:47:00+00:00",
+            "permalink": "https://nitter.mie.foundation/_pablopj/status/2114473957227459057#m",
+            "metrics": {
+              "like_count": 221,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114473632382722130",
+            "text": "kassio nunes e andre memdonça na cadeia.",
+            "author_username": "Dieguin21_",
+            "author_name": "Dieguin21_",
+            "created_at": "2026-10-25T21:46:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Dieguin21_/status/2114473632382722130#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114472638710182129",
+            "text": "Sabe o que você é Kássio Nunes: você é frouxo, borra-botas, covarde, pusilânime, servil, medroso, submisso, tíbio, vacilante e arregão.",
+            "author_username": "Fabio_Bonilha",
+            "author_name": "Fabio_Bonilha",
+            "created_at": "2026-10-25T21:42:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Fabio_Bonilha/status/2114472638710182129#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 7,
+              "quote_count": 23
+            }
+          },
+          {
+            "id": "2114472606761918732",
+            "text": "GENTE VAI DAR 19 HORAS, METADE DAS ESCOLAS NAO CUMPRIRAM A ORDEM??? KASSIO NUNES TA TRANCADO!!! E AGORA PORRA??",
+            "author_username": "saraahnsxy",
+            "author_name": "saraahnsxy",
+            "created_at": "2026-10-25T21:42:00+00:00",
+            "permalink": "https://nitter.mie.foundation/saraahnsxy/status/2114472606761918732#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114472208034640380",
+            "text": "Kassio Nunes é o maior incompetente da história! Nunca se viu isso antes!\n#LulaPelaDemocracia",
+            "author_username": "MiaStyles2020",
+            "author_name": "MiaStyles2020",
+            "created_at": "2026-10-25T21:40:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MiaStyles2020/status/2114472208034640380#m",
+            "metrics": {
+              "like_count": 79,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114471481161760847",
+            "text": "Independente do resultadol, eu quero ver kassio nunes marques, pendurado em praça pública",
+            "author_username": "RuthydoNasci",
+            "author_name": "RuthydoNasci",
+            "created_at": "2026-10-25T21:37:00+00:00",
+            "permalink": "https://nitter.mie.foundation/RuthydoNasci/status/2114471481161760847#m",
+            "metrics": {
+              "like_count": 26,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114471143306654195",
+            "text": "ENCARCEREM, URGENTE!\n\nPablo Souza\nBruno Reis \nRicardo Nunes\nCelso Jorge Caldeira\nKassio Nunes Marques \n\n#VotacaoAte19Horas",
+            "author_username": "_henriquephc",
+            "author_name": "_henriquephc",
+            "created_at": "2026-10-25T21:36:00+00:00",
+            "permalink": "https://nitter.mie.foundation/_henriquephc/status/2114471143306654195#m",
+            "metrics": {
+              "like_count": 156,
+              "reply_count": 1,
+              "retweet_count": 1,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114471027056988206",
+            "text": "Mais uma vez o bolsonarismo quer dar o golpe através do Kássio Nunes e pela falta de ônibus em diversos estados. A família bolsonaro é o inferno no Brasil.",
+            "author_username": "AlferRodrigo",
+            "author_name": "AlferRodrigo",
+            "created_at": "2026-10-25T21:35:00+00:00",
+            "permalink": "https://nitter.mie.foundation/AlferRodrigo/status/2114471027056988206#m",
+            "metrics": {
+              "like_count": 50,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114470975823634757",
+            "text": "Kassio Nunes é VAGABUNDO",
+            "author_username": "StuffGuiSays",
+            "author_name": "StuffGuiSays",
+            "created_at": "2026-10-25T21:35:00+00:00",
+            "permalink": "https://nitter.mie.foundation/StuffGuiSays/status/2114470975823634757#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114470603508113906",
+            "text": "KASSIO NUNES PRESO AMANHÃ",
+            "author_username": "underneath_br",
+            "author_name": "underneath_br",
+            "created_at": "2026-10-25T21:34:00+00:00",
+            "permalink": "https://nitter.mie.foundation/underneath_br/status/2114470603508113906#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114469629523529760",
+            "text": "Pois é, Lucas! Faz o seguinte: cobre do Presidente do TSE, o inapto Kassio Nunes Marques, a omissão em analisar o pedido das DUAS COLIGAÇÕES.",
+            "author_username": "miguelsalek",
+            "author_name": "miguelsalek",
+            "created_at": "2026-10-25T21:30:00+00:00",
+            "permalink": "https://nitter.mie.foundation/miguelsalek/status/2114469629523529760#m",
+            "metrics": {
+              "like_count": 26,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114469173338464651",
+            "text": "Então não podem reclamar! Kassio Nunes concorda com Zanin!\nmetropoles.com/brasil/nunes-…",
+            "author_username": "ricardoaccampos",
+            "author_name": "ricardoaccampos",
+            "created_at": "2026-10-25T21:28:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ricardoaccampos/status/2114469173338464651#m",
+            "metrics": {
+              "like_count": 74,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114468691928637731",
+            "text": "Kassio Nunes decidiu não decidir.\n\nDemorou mais de uma hora para se manifestar e endossar a decisão de prorrogação do STF. Enquanto isso, a maior parte das escolas fecharam. Fecharam \n\nAgora ele disse que as que fecharam estão definitivamente fechadas. Há prorrogação jurídica, mas na prática não há.",
+            "author_username": "MonicaSeixas",
+            "author_name": "MonicaSeixas",
+            "created_at": "2026-10-25T21:26:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MonicaSeixas/status/2114468691928637731#m",
+            "metrics": {
+              "like_count": 959,
+              "reply_count": 1,
+              "retweet_count": 22,
+              "quote_count": 65
+            }
+          },
+          {
+            "id": "2114468006411608382",
+            "text": "Pacificar após eleições o caralho! Independente do resultado é para amanhã já ter movimentos para uma mobilização geral no próximo fds pedindo a cabeça do Kassio Nunes e a abertura de investigações sobre esse processo eleitoral",
+            "author_username": "rsdfalbe",
+            "author_name": "rsdfalbe",
+            "created_at": "2026-10-25T21:23:00+00:00",
+            "permalink": "https://nitter.mie.foundation/rsdfalbe/status/2114468006411608382#m",
+            "metrics": {
+              "like_count": 133,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114467012428669423",
+            "text": "Kassio Nunes precisa ser preso urgentemente #VotacaoAte19h carona.casamarighella.com.br…",
+            "author_username": "WellynaS_",
+            "author_name": "WellynaS_",
+            "created_at": "2026-10-25T21:19:00+00:00",
+            "permalink": "https://nitter.mie.foundation/WellynaS_/status/2114467012428669423#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114466864650936777",
+            "text": "Na anterior foi a Polícia Rodoviária Federal, sob a tutela do governo do genocida. Nessa eleição foi o Kássio Nunes, presidente do TSE! Golpista!",
+            "author_username": "AantonioFfabio",
+            "author_name": "AantonioFfabio",
+            "created_at": "2026-10-25T21:19:00+00:00",
+            "permalink": "https://nitter.mie.foundation/AantonioFfabio/status/2114466864650936777#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 8
+            }
+          },
+          {
+            "id": "2114466562329452631",
+            "text": "Em um país sério, figuras como Bruno Reis, Ricardo Nunes e Kassio Nunes dormiriam em uma cadeia.",
+            "author_username": "m_dalexandria",
+            "author_name": "m_dalexandria",
+            "created_at": "2026-10-25T21:18:00+00:00",
+            "permalink": "https://nitter.mie.foundation/m_dalexandria/status/2114466562329452631#m",
+            "metrics": {
+              "like_count": 699,
+              "reply_count": 0,
+              "retweet_count": 8,
+              "quote_count": 36
+            }
+          },
+          {
+            "id": "2114466422596210857",
+            "text": "O Bolsonarista Kassio Nunes Marques, junto com prefeitos bandidos bagunçaram um dos maiores troféus que tínhamos na visão do resto do mundo! Nossa eleição está melada! À partir do que está acontecendo, a Decisão Judicial do STF e do TSE de prolongamento do horário está viciada!😠",
+            "author_username": "temiltonmatos",
+            "author_name": "temiltonmatos",
+            "created_at": "2026-10-25T21:17:00+00:00",
+            "permalink": "https://nitter.mie.foundation/temiltonmatos/status/2114466422596210857#m",
+            "metrics": {
+              "like_count": 29,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114466240282472562",
+            "text": "Kassio Nunes Marques tem que ser preso, inelegível.  Não é possível ele continuar no cargo dps de tudo que esta acontecendo. A gente sabia que tinha mutreta mas agr estão totalmente sem vergonha e nem disfarçando mais. Vergonha Vergonha Vergonha",
+            "author_username": "noonadojimin93",
+            "author_name": "noonadojimin93",
+            "created_at": "2026-10-25T21:16:00+00:00",
+            "permalink": "https://nitter.mie.foundation/noonadojimin93/status/2114466240282472562#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114465500428157282",
+            "text": "não se pode tratar essa NÃO decisão de kassio nunes como uma simples procrastinação,  ele é um juiz que esta sob suspeita de corrupção no mesmo esquema do candidato Flávio, é lhe interessa a vitória dele, isso é método e o \"moderado\" governador de São paulo esta colaborando.",
+            "author_username": "MonteiroHicaro",
+            "author_name": "MonteiroHicaro",
+            "created_at": "2026-10-25T21:13:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MonteiroHicaro/status/2114465500428157282#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114465479301742742",
+            "text": "se o kassio nunes nao sair dessa preso  acabou o brasil gente",
+            "author_username": "luvasconcelox",
+            "author_name": "luvasconcelox",
+            "created_at": "2026-10-25T21:13:00+00:00",
+            "permalink": "https://nitter.mie.foundation/luvasconcelox/status/2114465479301742742#m",
+            "metrics": {
+              "like_count": 27,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114465195443839073",
+            "text": "Kássio Nunes Marques finalmente conseguiu. Jogou o TSE na lama.",
+            "author_username": "rizsche",
+            "author_name": "rizsche",
+            "created_at": "2026-10-25T21:12:00+00:00",
+            "permalink": "https://nitter.mie.foundation/rizsche/status/2114465195443839073#m",
+            "metrics": {
+              "like_count": 380,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 13
+            }
+          },
+          {
+            "id": "2114464715673895063",
+            "text": "Prefeito da Bahia = União Brasil\nPrefeito de Teresina = União Brasil\nPrefeito de São Paulo = MDB\n\nGolpistas agindo em conluio com Kassio Nunes. Brasil sofrendo um golpe na cara dura.",
+            "author_username": "lisandrocastro",
+            "author_name": "lisandrocastro",
+            "created_at": "2026-10-25T21:10:00+00:00",
+            "permalink": "https://nitter.mie.foundation/lisandrocastro/status/2114464715673895063#m",
+            "metrics": {
+              "like_count": 57,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114464693511217318",
+            "text": "@nunesmarquesk Kássio Nunes Marques, VOCÊ É UM IRRESPONSÁVEL! 🤬",
+            "author_username": "jhonasaraujo",
+            "author_name": "jhonasaraujo",
+            "created_at": "2026-10-25T21:10:00+00:00",
+            "permalink": "https://nitter.mie.foundation/jhonasaraujo/status/2114464693511217318#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114464689820250135",
+            "text": "Omissão de Kassio Nunes Marques. Esse é o resumo.",
+            "author_username": "ferspinheiro",
+            "author_name": "ferspinheiro",
+            "created_at": "2026-10-25T21:10:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ferspinheiro/status/2114464689820250135#m",
+            "metrics": {
+              "like_count": 35,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114464465324290308",
+            "text": "KASSIO NUNES TRANSFORMOU AS ELEIÇÕES NUM MASTER SURUBÃO!!!!",
+            "author_username": "ThalitaSibuya",
+            "author_name": "ThalitaSibuya",
+            "created_at": "2026-10-25T21:09:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ThalitaSibuya/status/2114464465324290308#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114464351109222763",
+            "text": "Cadê os presidentes Kassio Nunes Marques e Edson Fachin???",
+            "author_username": "RJNatanaelJr",
+            "author_name": "RJNatanaelJr",
+            "created_at": "2026-10-25T21:09:00+00:00",
+            "permalink": "https://nitter.mie.foundation/RJNatanaelJr/status/2114464351109222763#m",
+            "metrics": {
+              "like_count": 126,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114463239182401764",
+            "text": "Onde estão os presidentes Kassio Nunes e principalmente Edson Fachin????",
+            "author_username": "RJNatanaelJr",
+            "author_name": "RJNatanaelJr",
+            "created_at": "2026-10-25T21:04:00+00:00",
+            "permalink": "https://nitter.mie.foundation/RJNatanaelJr/status/2114463239182401764#m",
+            "metrics": {
+              "like_count": 197,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 7
+            }
+          },
+          {
+            "id": "2114462541909053949",
+            "text": "O Min. Kassio Nunes Marques precisa se manifestar sobre essa loucura",
+            "author_username": "NenaMattos2",
+            "author_name": "NenaMattos2",
+            "created_at": "2026-10-25T21:02:00+00:00",
+            "permalink": "https://nitter.mie.foundation/NenaMattos2/status/2114462541909053949#m",
+            "metrics": {
+              "like_count": 71,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114462334584324431",
+            "text": "Bora assinar!!!!\n*Pelo impeachment do ministro Kassio Nunes Marques (STF)*\n\nLeia no Portal Democrático📲\ndemocraticonews.com/pelo-imp…",
+            "author_username": "psique2373",
+            "author_name": "psique2373",
+            "created_at": "2026-10-25T21:01:00+00:00",
+            "permalink": "https://nitter.mie.foundation/psique2373/status/2114462334584324431#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114462078614343883",
+            "text": "Amo dar o cu e chupar rola. É muito gostoso e você deveria experimentar, mas não entendi o que isso tem a ver com a irresponsabilidade e a necessidade do impeachment do Kassio Nunes Marques.",
+            "author_username": "_pablopj",
+            "author_name": "_pablopj",
+            "created_at": "2026-10-25T21:00:00+00:00",
+            "permalink": "https://nitter.mie.foundation/_pablopj/status/2114462078614343883#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114461539453509974",
+            "text": "não se pode tratar o ministro Kassio nunes como um um juiz qualquer, ele é um juiz que está sendo imputado em crimes graves onde um candidato também está no mesmo balão, então ele é um dos principais interessados em que falvio ganhe, para quem sabe, poder não ser investigador",
+            "author_username": "MonteiroHicaro",
+            "author_name": "MonteiroHicaro",
+            "created_at": "2026-10-25T20:58:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MonteiroHicaro/status/2114461539453509974#m",
+            "metrics": {
+              "like_count": 529,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 7
+            }
+          },
+          {
+            "id": "2114461496994312210",
+            "text": "A DECISÃO DO ZANIN É NULA.\nHORÁRIO 17:01H \nELA É NULA.\n@TSEjusbr KASSIO NUNES CADE O SR?",
+            "author_username": "ValHerdy",
+            "author_name": "ValHerdy",
+            "created_at": "2026-10-25T20:58:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ValHerdy/status/2114461496994312210#m",
+            "metrics": {
+              "like_count": 35,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114461022119711004",
+            "text": "Kassio Nunes Marques precisa ser preso, ainda hoje!",
+            "author_username": "eijessicalenne",
+            "author_name": "eijessicalenne",
+            "created_at": "2026-10-25T20:56:00+00:00",
+            "permalink": "https://nitter.mie.foundation/eijessicalenne/status/2114461022119711004#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114461017858281733",
+            "text": "Kassio Nunes Marques é um cúmplice",
+            "author_username": "RuthydoNasci",
+            "author_name": "RuthydoNasci",
+            "created_at": "2026-10-25T20:56:00+00:00",
+            "permalink": "https://nitter.mie.foundation/RuthydoNasci/status/2114461017858281733#m",
+            "metrics": {
+              "like_count": 50,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114460483629785524",
+            "text": "Kassio Nunes SAIBA QUE VOCE É UM LIXO o PIOR PRESIDENTE DO TSE. 🤮🤮🤮🤮🤮🤮🤮🤮🤮 \n\nLIXOSO",
+            "author_username": "jpattriick",
+            "author_name": "jpattriick",
+            "created_at": "2026-10-25T20:53:00+00:00",
+            "permalink": "https://nitter.mie.foundation/jpattriick/status/2114460483629785524#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114460363060040154",
+            "text": "KASSIO NUNES MARQUES OH FILHO DA PUTA ARROMBADO DO CARALHO VAI SE FUDER",
+            "author_username": "CliCarvalho",
+            "author_name": "CliCarvalho",
+            "created_at": "2026-10-25T20:53:00+00:00",
+            "permalink": "https://nitter.mie.foundation/CliCarvalho/status/2114460363060040154#m",
+            "metrics": {
+              "like_count": 68,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114460165076353065",
+            "text": "Não adianta prorrogar se não avisaram aos lugares de votação.  Kassio Pragas Nunes fez isso de propósito, ta desde cedo tendo problemas e só agr que foram avisar. Isso é um absurdo",
+            "author_username": "noonadojimin93",
+            "author_name": "noonadojimin93",
+            "created_at": "2026-10-25T20:52:00+00:00",
+            "permalink": "https://nitter.mie.foundation/noonadojimin93/status/2114460165076353065#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114458670922862877",
+            "text": "KASSIO NUNES TEM QUE SER PRESO",
+            "author_username": "luvasconcelox",
+            "author_name": "luvasconcelox",
+            "created_at": "2026-10-25T20:46:00+00:00",
+            "permalink": "https://nitter.mie.foundation/luvasconcelox/status/2114458670922862877#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114458428814790930",
+            "text": "Kássio Nunes Marques finalmente conseguiu. Jogou o TSE na lama.",
+            "author_username": "rizsche",
+            "author_name": "rizsche",
+            "created_at": "2026-10-25T20:45:00+00:00",
+            "permalink": "https://nitter.mie.foundation/rizsche/status/2114458428814790930#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114458303149359265",
+            "text": "Kassio Nunes Marques tem que ser investigado e punido pelos crimes que cometeu nessa eleição. Ele foi cúmplice de toda essa baderna",
+            "author_username": "rodrigo_berton",
+            "author_name": "rodrigo_berton",
+            "created_at": "2026-10-25T20:45:00+00:00",
+            "permalink": "https://nitter.mie.foundation/rodrigo_berton/status/2114458303149359265#m",
+            "metrics": {
+              "like_count": 958,
+              "reply_count": 1,
+              "retweet_count": 26,
+              "quote_count": 83
+            }
+          },
+          {
+            "id": "2114456346091192430",
+            "text": "Falta transparência e divulgação por parte do TSE cujo presidente é o bolsonarista e beneficiário de Vorcaro ministro Kassio Nunes Marques com relação a prorrogação do horário de votação. Mas isso é surpresa pra zero pessoas concordam?",
+            "author_username": "AmorimMelisa",
+            "author_name": "AmorimMelisa",
+            "created_at": "2026-10-25T20:37:00+00:00",
+            "permalink": "https://nitter.mie.foundation/AmorimMelisa/status/2114456346091192430#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114455879823294942",
+            "text": "Em país sério, Kassio Nunes Marques estaria preso hoje mesmo. Esse sujeito transformou o processo eleitoral num bacanal igual os que ele participou com o Vorcaro, nojento!",
+            "author_username": "leo_tomeleri",
+            "author_name": "leo_tomeleri",
+            "created_at": "2026-10-25T20:35:00+00:00",
+            "permalink": "https://nitter.mie.foundation/leo_tomeleri/status/2114455879823294942#m",
+            "metrics": {
+              "like_count": 716,
+              "reply_count": 0,
+              "retweet_count": 4,
+              "quote_count": 38
+            }
+          },
+          {
+            "id": "2114455721853243491",
+            "text": "Kássio Nunes Marques deveria ter sido retirado do TSE há muito tempo!",
+            "author_username": "LypsonPSIzidro",
+            "author_name": "LypsonPSIzidro",
+            "created_at": "2026-10-25T20:35:00+00:00",
+            "permalink": "https://nitter.mie.foundation/LypsonPSIzidro/status/2114455721853243491#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114455218284847510",
+            "text": "Até a suruba no madame satã que o Kassio Nunes Marques participou foi mais organizada e transparente do q o TSE sob sua presidência. \nPrecisamos que o Zanin interviesse para garantir que milhões de brasileiros pudessem votar após manobras golpistas dos prefeitos de Salvador e SP",
+            "author_username": "IPierreOliveira",
+            "author_name": "IPierreOliveira",
+            "created_at": "2026-10-25T20:33:00+00:00",
+            "permalink": "https://nitter.mie.foundation/IPierreOliveira/status/2114455218284847510#m",
+            "metrics": {
+              "like_count": 69,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114455123065766307",
+            "text": "Kassio Nunes Marques foi MUITO IRRESPONSÁVEL!",
+            "author_username": "ManoloDoca",
+            "author_name": "ManoloDoca",
+            "created_at": "2026-10-25T20:32:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ManoloDoca/status/2114455123065766307#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114454571309269456",
+            "text": "Parabéns, Kassio Nunes... belíssima merda que você fez.\nQue bom marginal, digno de um grande miliciano.\nSeu safado!! #Eleições2026",
+            "author_username": "eusoucpgomes",
+            "author_name": "eusoucpgomes",
+            "created_at": "2026-10-25T20:30:00+00:00",
+            "permalink": "https://nitter.mie.foundation/eusoucpgomes/status/2114454571309269456#m",
+            "metrics": {
+              "like_count": 76,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114453496741458296",
+            "text": "A BANGUNÇA DESSA ELEIÇÃO ATENDE PELO NOME DE KÁSSIO NUNES MARQUES!",
+            "author_username": "JooGustavoMelo3",
+            "author_name": "JooGustavoMelo3",
+            "created_at": "2026-10-25T20:26:00+00:00",
+            "permalink": "https://nitter.mie.foundation/JooGustavoMelo3/status/2114453496741458296#m",
+            "metrics": {
+              "like_count": 459,
+              "reply_count": 1,
+              "retweet_count": 6,
+              "quote_count": 38
+            }
+          },
+          {
+            "id": "2114450538708304017",
+            "text": "Já prenderam o Kassio Nunes Marques e o André Mendonça?",
+            "author_username": "RaphaBellem",
+            "author_name": "RaphaBellem",
+            "created_at": "2026-10-25T20:14:00+00:00",
+            "permalink": "https://nitter.mie.foundation/RaphaBellem/status/2114450538708304017#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114450533582844030",
+            "text": "Kassio Nunes Marques, mais do que nunca tem de ser preso",
+            "author_username": "trindadeeli",
+            "author_name": "trindadeeli",
+            "created_at": "2026-10-25T20:14:00+00:00",
+            "permalink": "https://nitter.mie.foundation/trindadeeli/status/2114450533582844030#m",
+            "metrics": {
+              "like_count": 80,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114450035773706571",
+            "text": "Kassio Nunes Marques tem que ser preso! Protelou a prorrogação e agora virou essa bagunça de urnas já fechadas, apuração em andamento no site...",
+            "author_username": "laiomattos",
+            "author_name": "laiomattos",
+            "created_at": "2026-10-25T20:12:00+00:00",
+            "permalink": "https://nitter.mie.foundation/laiomattos/status/2114450035773706571#m",
+            "metrics": {
+              "like_count": 268,
+              "reply_count": 0,
+              "retweet_count": 3,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114449494125203724",
+            "text": "Acho que o Kássio Nunes é um dos maiores inimigos dessa nação",
+            "author_username": "Guui_Gs",
+            "author_name": "Guui_Gs",
+            "created_at": "2026-10-25T20:10:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Guui_Gs/status/2114449494125203724#m",
+            "metrics": {
+              "like_count": 39,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114449003936927833",
+            "text": "Zanin prorrogou as eleições até 19h! Cabe ao TSE dar cumprimento. Está nas mãos de Kassio Nunes. \nDecisão tomada 16:30h. Eleição até 19h. Haja coração!!!",
+            "author_username": "JoaoFiguer",
+            "author_name": "JoaoFiguer",
+            "created_at": "2026-10-25T20:08:00+00:00",
+            "permalink": "https://nitter.mie.foundation/JoaoFiguer/status/2114449003936927833#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114448785220710624",
+            "text": "SE FOSSE PRA MANEJAR UM SURUBA CHEIO DE GAROTAS DE PROGRAMA, O MINISTRO KASSIO NUNES MANEJARIA COM SUCESSO! \n\nQUANTA INFELICIDADE DIANTE DA NÍTIDA INCOMPETÊNCIA DESTE TRIBUNAL SOBRE OS DIRECIONAMENTOS DO ORA MENCIONADO. \n\nLAMENTÁAAVEEEL!",
+            "author_username": "LuckasC3",
+            "author_name": "LuckasC3",
+            "created_at": "2026-10-25T20:07:00+00:00",
+            "permalink": "https://nitter.mie.foundation/LuckasC3/status/2114448785220710624#m",
+            "metrics": {
+              "like_count": 47,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114447966412984600",
+            "text": "Tem que fazer isso com o Kassio Nunes Marques",
+            "author_username": "DistopiaBrazil",
+            "author_name": "DistopiaBrazil",
+            "created_at": "2026-10-25T20:04:00+00:00",
+            "permalink": "https://nitter.mie.foundation/DistopiaBrazil/status/2114447966412984600#m",
+            "metrics": {
+              "like_count": 753,
+              "reply_count": 16,
+              "retweet_count": 39,
+              "quote_count": 70
+            }
+          },
+          {
+            "id": "2114447623050420695",
+            "text": "É URGENTE O IMPEACHMENT DO KASSIO NUNES MARQUES",
+            "author_username": "_pablopj",
+            "author_name": "_pablopj",
+            "created_at": "2026-10-25T20:02:00+00:00",
+            "permalink": "https://nitter.mie.foundation/_pablopj/status/2114447623050420695#m",
+            "metrics": {
+              "like_count": 260,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114447237283741710",
+            "text": "Kassio Nunes Marques, o amigo do Vorcaro, omisso o dia inteiro.",
+            "author_username": "ViniciusLemosRO",
+            "author_name": "ViniciusLemosRO",
+            "created_at": "2026-10-25T20:01:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ViniciusLemosRO/status/2114447237283741710#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 17,
+              "retweet_count": 141,
+              "quote_count": 987
+            }
+          },
+          {
+            "id": "2114441768951288061",
+            "text": "Ministro Kássio Nunes,libere a prorrogação da eleição, isso que está acontecendo é puro crime eleitoral em várias cidades do país em que as pessoas não estão conseguindo votar por falta de transporte, isso é um absurdo.DENUNCIEM, COMPARTILHEM!!\n#Eleicoes2026 #ProrrogacaoJa 1️⃣3️⃣🌟",
+            "author_username": "ASinergyF",
+            "author_name": "ASinergyF",
+            "created_at": "2026-10-25T19:39:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ASinergyF/status/2114441768951288061#m",
+            "metrics": {
+              "like_count": 102,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114436366058565861",
+            "text": "@AndreJanonesMG vc juntou 10 milhões de loucos no WhatsApp,  bate na porta do asqueroso do Kassio Nunes para ele decidir sobre o horário de votação",
+            "author_username": "caosabio",
+            "author_name": "caosabio",
+            "created_at": "2026-10-25T19:18:00+00:00",
+            "permalink": "https://nitter.mie.foundation/caosabio/status/2114436366058565861#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114428620013777079",
+            "text": "Com o Kassio Nunes eu duvido",
+            "author_username": "Fabrici70242229",
+            "author_name": "Fabrici70242229",
+            "created_at": "2026-10-25T18:47:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Fabrici70242229/status/2114428620013777079#m",
+            "metrics": {
+              "like_count": 155,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114424622749761629",
+            "text": "Tá ela aí de novo? Essa esquerdista tá fazendo maior alvoroço. Tudo por causa do Kassio Nunes. Eu votei no mesmo lugar. Vai no site advogada...kkk...🤑🤑🤑",
+            "author_username": "GamaSaragama77",
+            "author_name": "GamaSaragama77",
+            "created_at": "2026-10-25T18:31:00+00:00",
+            "permalink": "https://nitter.mie.foundation/GamaSaragama77/status/2114424622749761629#m",
+            "metrics": {
+              "like_count": 58,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114407636850352362",
+            "text": "Compartilhem!!!\nKassio Nunes tem que ser preso, esse bandido canalha não merece o cargo que ocupa.😡",
+            "author_username": "Marta_errejota",
+            "author_name": "Marta_errejota",
+            "created_at": "2026-10-25T17:23:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Marta_errejota/status/2114407636850352362#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114397393462407673",
+            "text": "que TSE? O do Kassio Nunes?",
+            "author_username": "leia__sempre",
+            "author_name": "leia__sempre",
+            "created_at": "2026-10-25T16:43:00+00:00",
+            "permalink": "https://nitter.mie.foundation/leia__sempre/status/2114397393462407673#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114390243507880307",
+            "text": "Denunciem todo e qualquer crime eleitoral!\nNão deixem passar!! \n\nE sigam denunciando sim, o golpista surubeiro do Kassio Nunes Marques.",
+            "author_username": "OllemArierom",
+            "author_name": "OllemArierom",
+            "created_at": "2026-10-25T16:14:00+00:00",
+            "permalink": "https://nitter.mie.foundation/OllemArierom/status/2114390243507880307#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114389657613898157",
+            "text": "O TSE, de Kássio Nunes Marques, tem muito a explicar depois destas eleições.",
+            "author_username": "rizsche",
+            "author_name": "rizsche",
+            "created_at": "2026-10-25T16:12:00+00:00",
+            "permalink": "https://nitter.mie.foundation/rizsche/status/2114389657613898157#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 188
+            }
+          },
+          {
+            "id": "2114198407937953906",
+            "text": "Não é suspeita. É direito a fiscalização. Há o cargo de fiscal de urna. O presidente atual do TSE, Kassio Nunes, determinou que os dois últimos eleitores da sessão fiquem pra avalizar o fechamento das urnas",
+            "author_username": "mahtukirenedra",
+            "author_name": "mahtukirenedra",
+            "created_at": "2026-10-25T03:32:00+00:00",
+            "permalink": "https://nitter.mie.foundation/mahtukirenedra/status/2114198407937953906#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114198378305278234",
+            "text": "Não é suspeita. É direito a fiscalização. Há o cargo de fiscal de urna. O presidente atual do TSE, Kassio Nunes, determinou que os dois últimos eleitores da sessão fiquem pra avalizar o fechamento das urnas",
+            "author_username": "mahtukirenedra",
+            "author_name": "mahtukirenedra",
+            "created_at": "2026-10-25T03:32:00+00:00",
+            "permalink": "https://nitter.mie.foundation/mahtukirenedra/status/2114198378305278234#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114196036314976518",
+            "text": "KASSIO NUNES MARQUES GOLPISTA E SURUBEIRO",
+            "author_username": "OllemArierom",
+            "author_name": "OllemArierom",
+            "created_at": "2026-10-25T03:23:00+00:00",
+            "permalink": "https://nitter.mie.foundation/OllemArierom/status/2114196036314976518#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114182411915264470",
+            "text": "O cara ta envolvido em dezenas de falcatruas \nSe ganhar vai ser salvo conduto pra ele e um monte de bandidos como Vorcaro e kassio Nunes e tantos outros \nNosso país não merece este horror",
+            "author_username": "AnaFontesBR",
+            "author_name": "AnaFontesBR",
+            "created_at": "2026-10-25T02:29:00+00:00",
+            "permalink": "https://nitter.mie.foundation/AnaFontesBR/status/2114182411915264470#m",
+            "metrics": {
+              "like_count": 27,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114142806130176105",
+            "text": "Kássio Nunes, CAPANGA da família Bolsonaro, o que participa de encontros sexuais com meninas traficadas e exploradas, falando na TV. Um vagabundo desses fingindo ser juiz das eleições. BIZARRO",
+            "author_username": "raoniferlin",
+            "author_name": "raoniferlin",
+            "created_at": "2026-10-24T23:51:00+00:00",
+            "permalink": "https://nitter.mie.foundation/raoniferlin/status/2114142806130176105#m",
+            "metrics": {
+              "like_count": 64,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114142190628700350",
+            "text": "Esse Excelentíssimo Kassio Nunes não é o da putaria com o Vorcaro?",
+            "author_username": "FabioPorao99",
+            "author_name": "FabioPorao99",
+            "created_at": "2026-10-24T23:49:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FabioPorao99/status/2114142190628700350#m",
+            "metrics": {
+              "like_count": 42,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114109340449734972",
+            "text": "@MPF_PGR\n @AndreJanonesMG @JoaoCampos @tabataamaralsp @ptbrasil @psol50 @pcdob_oficial @Haddad_Fernando \n\nA GOLPISTA DA @VoeGOLoficial DESMARCOU VÁRIOS VOOS PRO NORDESTE. ISSO NÃO PODE FICAR ASSIM.\n\n@TSEjusbr SEUS GOLPISTAS JUNTO COM ESSE CANALHA DO KASSIO NUNES.",
+            "author_username": "de_haliton33294",
+            "author_name": "de_haliton33294",
+            "created_at": "2026-10-24T21:38:00+00:00",
+            "permalink": "https://nitter.mie.foundation/de_haliton33294/status/2114109340449734972#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114104350238781690",
+            "text": "@MPF_PGR QUEREMOS EXPLICAÇÕES TODOS TEM O DIREITO AO VOTO. O @TSEjusbr NÃO ESTÁ SENDO INPARCIAL SOB O COMANDO O KASSIO NUNES.",
+            "author_username": "de_haliton33294",
+            "author_name": "de_haliton33294",
+            "created_at": "2026-10-24T21:18:00+00:00",
+            "permalink": "https://nitter.mie.foundation/de_haliton33294/status/2114104350238781690#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114073278339756471",
+            "text": "Kassio Nunes e André Medonça vocês merecem ser sofrer um impeachment!",
+            "author_username": "GlaucoS13113",
+            "author_name": "GlaucoS13113",
+            "created_at": "2026-10-24T19:15:00+00:00",
+            "permalink": "https://nitter.mie.foundation/GlaucoS13113/status/2114073278339756471#m",
+            "metrics": {
+              "like_count": 49,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 11,
+          "instance_used": "https://nitter.mie.foundation"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "assuntos_x_momento_ate_27out21h_20261026"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2115139412157964782",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115139412157964782",
+      "collected_at": "2026-10-27T18:36:06-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Kassio Nunes",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115139412157964782",
+        "text": "Só do Moraes né? Fazem vista grossa pro Kassio Nunes pro Toffoli. Mostra bem o o jetivo desses desgraçados",
+        "author_username": "Fabrici70242229",
+        "author_name": "Fabrici70242229",
+        "created_at": "2026-10-27T17:51:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Fabrici70242229/status/2115139412157964782#m",
+        "metrics": {
+          "like_count": 262,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 5
+        }
+      }
+    }
+  ],
+  "comments": []
+}

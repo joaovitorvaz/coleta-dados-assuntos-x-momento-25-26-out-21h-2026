@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Kassio Nunes",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+    "collected_at": "2026-10-27T18:36:06-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 49
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115139412157964782",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115139412157964782",
+      "parent_post_id": null,
+      "thread_root_id": "2115139412157964782",
+      "author": {
+        "platform_id": null,
+        "display_name": "Fabrici70242229",
+        "username": "Fabrici70242229",
+        "profile_url": "https://x.com/Fabrici70242229"
+      },
+      "text": "Só do Moraes né? Fazem vista grossa pro Kassio Nunes pro Toffoli. Mostra bem o o jetivo desses desgraçados",
+      "created_at": "2026-10-27T17:51:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T18:36:06-03:00",
+      "permalink": "https://nitter.mie.foundation/Fabrici70242229/status/2115139412157964782#m",
+      "metrics": {
+        "like_count": 262,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 5
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Kassio Nunes",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "11b7e734-902b-4ff3-aff5-7781cff1cf29",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115139412157964782",
+        "text": "Só do Moraes né? Fazem vista grossa pro Kassio Nunes pro Toffoli. Mostra bem o o jetivo desses desgraçados",
+        "author_username": "Fabrici70242229",
+        "author_name": "Fabrici70242229",
+        "created_at": "2026-10-27T17:51:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Fabrici70242229/status/2115139412157964782#m",
+        "metrics": {
+          "like_count": 262,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 5
+        }
+      },
+      "normalized": {
+        "text_length": 106,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
