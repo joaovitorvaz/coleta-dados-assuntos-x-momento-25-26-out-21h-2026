@@ -1,0 +1,685 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Mais 4",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+    "collected_at": "2026-10-27T11:10:44-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 10,
+      "comments": 0,
+      "records_total": 10,
+      "skipped_duplicate": 157
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115082759085412649",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115082759085412649",
+      "parent_post_id": null,
+      "thread_root_id": "2115082759085412649",
+      "author": {
+        "platform_id": null,
+        "display_name": "LuckPMamute",
+        "username": "LuckPMamute",
+        "profile_url": "https://x.com/LuckPMamute"
+      },
+      "text": "Sou escritor aqui em Mato Grosso  e o meu segundo livro \"O Segredo de Marguerite\" é o mais vendido no estado há 4 anos...Recebi R$ 4.500 de royalties nesse tempo. Só consigo ganhar dinheiro com a literatura com palestras e rodas literárias. Por isso montei a minha editora.",
+      "created_at": "2026-10-27T14:06:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T11:10:44-03:00",
+      "permalink": "https://nitter.mie.foundation/LuckPMamute/status/2115082759085412649#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 14,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115082759085412649",
+        "text": "Sou escritor aqui em Mato Grosso  e o meu segundo livro \"O Segredo de Marguerite\" é o mais vendido no estado há 4 anos...Recebi R$ 4.500 de royalties nesse tempo. Só consigo ganhar dinheiro com a literatura com palestras e rodas literárias. Por isso montei a minha editora.",
+        "author_username": "LuckPMamute",
+        "author_name": "LuckPMamute",
+        "created_at": "2026-10-27T14:06:00+00:00",
+        "permalink": "https://nitter.mie.foundation/LuckPMamute/status/2115082759085412649#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 273,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115080052014465145",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115080052014465145",
+      "parent_post_id": null,
+      "thread_root_id": "2115080052014465145",
+      "author": {
+        "platform_id": null,
+        "display_name": "mendonca_photos",
+        "username": "mendonca_photos",
+        "profile_url": "https://x.com/mendonca_photos"
+      },
+      "text": "Até o pobres do @catholicissimus @klautaum fizeram de tudo para mostrar a realidade eleitoral que se seguiu nesta eleição, principalmente eles alertando que o Lula poderia indicar mais 4 ministros com o risco de aprovarrm mais leis do aborto.",
+      "created_at": "2026-10-27T13:55:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T11:10:44-03:00",
+      "permalink": "https://nitter.mie.foundation/mendonca_photos/status/2115080052014465145#m",
+      "metrics": {
+        "like_count": 19,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 14,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115080052014465145",
+        "text": "Até o pobres do @catholicissimus @klautaum fizeram de tudo para mostrar a realidade eleitoral que se seguiu nesta eleição, principalmente eles alertando que o Lula poderia indicar mais 4 ministros com o risco de aprovarrm mais leis do aborto.",
+        "author_username": "mendonca_photos",
+        "author_name": "mendonca_photos",
+        "created_at": "2026-10-27T13:55:00+00:00",
+        "permalink": "https://nitter.mie.foundation/mendonca_photos/status/2115080052014465145#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 242,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115078392219345319",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115078392219345319",
+      "parent_post_id": null,
+      "thread_root_id": "2115078392219345319",
+      "author": {
+        "platform_id": null,
+        "display_name": "JocileneManhaes",
+        "username": "JocileneManhaes",
+        "profile_url": "https://x.com/JocileneManhaes"
+      },
+      "text": "O @FlavioBolsonaro retornará e o meu voto é dele. O Tarcísio e a Michelle poderiam ter o apoiado com mais intensidade no 1° turno e aguardar passar os 4 anos pela vez deles, o Flávio ainda está na vez.",
+      "created_at": "2026-10-27T13:49:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T11:10:44-03:00",
+      "permalink": "https://nitter.mie.foundation/JocileneManhaes/status/2115078392219345319#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 14,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115078392219345319",
+        "text": "O @FlavioBolsonaro retornará e o meu voto é dele. O Tarcísio e a Michelle poderiam ter o apoiado com mais intensidade no 1° turno e aguardar passar os 4 anos pela vez deles, o Flávio ainda está na vez.",
+        "author_username": "JocileneManhaes",
+        "author_name": "JocileneManhaes",
+        "created_at": "2026-10-27T13:49:00+00:00",
+        "permalink": "https://nitter.mie.foundation/JocileneManhaes/status/2115078392219345319#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 201,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115065033491190044",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115065033491190044",
+      "parent_post_id": null,
+      "thread_root_id": "2115065033491190044",
+      "author": {
+        "platform_id": null,
+        "display_name": "farminhalet",
+        "username": "farminhalet",
+        "profile_url": "https://x.com/farminhalet"
+      },
+      "text": "Agora com um pouca mais de clareza na consciência, foi bom Flávio não ter sido eleito. Seria horrível pra gestão dele pegar essa dívida do Lula e tentar em 4 anos mudar a situação do país! \n\nAgora Lula vai ter que correr atrás de resolver (não vai conseguir) e a culpa é só dele!",
+      "created_at": "2026-10-27T12:56:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T11:10:44-03:00",
+      "permalink": "https://nitter.mie.foundation/farminhalet/status/2115065033491190044#m",
+      "metrics": {
+        "like_count": 26,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 14,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115065033491190044",
+        "text": "Agora com um pouca mais de clareza na consciência, foi bom Flávio não ter sido eleito. Seria horrível pra gestão dele pegar essa dívida do Lula e tentar em 4 anos mudar a situação do país! \n\nAgora Lula vai ter que correr atrás de resolver (não vai conseguir) e a culpa é só dele!",
+        "author_username": "farminhalet",
+        "author_name": "farminhalet",
+        "created_at": "2026-10-27T12:56:00+00:00",
+        "permalink": "https://nitter.mie.foundation/farminhalet/status/2115065033491190044#m",
+        "metrics": {
+          "like_count": 26,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 279,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115062708693340460",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115062708693340460",
+      "parent_post_id": null,
+      "thread_root_id": "2115062708693340460",
+      "author": {
+        "platform_id": null,
+        "display_name": "Cadamin",
+        "username": "Cadamin",
+        "profile_url": "https://x.com/Cadamin"
+      },
+      "text": "Uma mulher foi presa em flagrante suspeita de maus-tratos contra a filha, de aproximadamente 4 anos, internada no Hospital Regional do Agreste, em Palmeira dos Índios. A criança permanece sob cuidados médicos. Saiba mais no link na bio.",
+      "created_at": "2026-10-27T12:47:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T11:10:44-03:00",
+      "permalink": "https://nitter.mie.foundation/Cadamin/status/2115062708693340460#m",
+      "metrics": {
+        "like_count": 37,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 14,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115062708693340460",
+        "text": "Uma mulher foi presa em flagrante suspeita de maus-tratos contra a filha, de aproximadamente 4 anos, internada no Hospital Regional do Agreste, em Palmeira dos Índios. A criança permanece sob cuidados médicos. Saiba mais no link na bio.",
+        "author_username": "Cadamin",
+        "author_name": "Cadamin",
+        "created_at": "2026-10-27T12:47:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Cadamin/status/2115062708693340460#m",
+        "metrics": {
+          "like_count": 37,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 236,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115062018826723478",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115062018826723478",
+      "parent_post_id": null,
+      "thread_root_id": "2115062018826723478",
+      "author": {
+        "platform_id": null,
+        "display_name": "rlarguesa",
+        "username": "rlarguesa",
+        "profile_url": "https://x.com/rlarguesa"
+      },
+      "text": "Tá uma febre de criar vídeos com IA usando motion graphics, e realmente está cad avez melhor. Mas qual modelo é melhor nessa tarefa?\n\nNós testamos os principais no @desbugados e o episódio ficou bem interessante:\nyoutube.com/watch?v=YXr0z2-8…\n\nMas a AA criou um benchmarking só para isso: o Code2Video-AA, desenvolvido em parceria com a HeyGen. Em 114 briefings de marketing, os modelos produzem uma composição HTML, posteriormente renderizada em vídeo com HyperFrames (que eu prefiro ao remotion faz tempo). Cada tentativa usa uma resposta, sem ferramentas. A renderização ocorre sem acesso à rede.\n\nO Gemini 4 Argon compara pares de vídeos em engajamento, atendimento ao pedido, composição, consistência temporal e acabamento. Mais de 35 mil julgamentos classificam 27 modelos. O Claude Opus 5.5, na configuração max com fallback, lidera com 1.536 pontos e US$ 3,08 por tarefa. O GPT-6.1 Sol, em max, obtém 1.369 pontos a US$ 0,31 por tarefa, quase dez vezes menos. Um baita custo / benefício.\n\nVale a pena conferir.",
+      "created_at": "2026-10-27T12:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T11:10:44-03:00",
+      "permalink": "https://nitter.mie.foundation/rlarguesa/status/2115062018826723478#m",
+      "metrics": {
+        "like_count": 52,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 14,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115062018826723478",
+        "text": "Tá uma febre de criar vídeos com IA usando motion graphics, e realmente está cad avez melhor. Mas qual modelo é melhor nessa tarefa?\n\nNós testamos os principais no @desbugados e o episódio ficou bem interessante:\nyoutube.com/watch?v=YXr0z2-8…\n\nMas a AA criou um benchmarking só para isso: o Code2Video-AA, desenvolvido em parceria com a HeyGen. Em 114 briefings de marketing, os modelos produzem uma composição HTML, posteriormente renderizada em vídeo com HyperFrames (que eu prefiro ao remotion faz tempo). Cada tentativa usa uma resposta, sem ferramentas. A renderização ocorre sem acesso à rede.\n\nO Gemini 4 Argon compara pares de vídeos em engajamento, atendimento ao pedido, composição, consistência temporal e acabamento. Mais de 35 mil julgamentos classificam 27 modelos. O Claude Opus 5.5, na configuração max com fallback, lidera com 1.536 pontos e US$ 3,08 por tarefa. O GPT-6.1 Sol, em max, obtém 1.369 pontos a US$ 0,31 por tarefa, quase dez vezes menos. Um baita custo / benefício.\n\nVale a pena conferir.",
+        "author_username": "rlarguesa",
+        "author_name": "rlarguesa",
+        "created_at": "2026-10-27T12:44:00+00:00",
+        "permalink": "https://nitter.mie.foundation/rlarguesa/status/2115062018826723478#m",
+        "metrics": {
+          "like_count": 52,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 1018,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115061324765892951",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115061324765892951",
+      "parent_post_id": null,
+      "thread_root_id": "2115061324765892951",
+      "author": {
+        "platform_id": null,
+        "display_name": "tjp_petrucci",
+        "username": "tjp_petrucci",
+        "profile_url": "https://x.com/tjp_petrucci"
+      },
+      "text": "4 anos. Com Lula IV, serão mais de 20 anos de PT no poder. Nunca se preocuparam em gerar consciência de classe. Partido dos Traidores totalmente descompromissado com isso. Conciliação de classes, rebaixamento de pauta, sempre cedendo p migalhas. Só se importam em ficar no Poder.",
+      "created_at": "2026-10-27T12:41:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T11:10:44-03:00",
+      "permalink": "https://nitter.mie.foundation/tjp_petrucci/status/2115061324765892951#m",
+      "metrics": {
+        "like_count": 21,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 14,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115061324765892951",
+        "text": "4 anos. Com Lula IV, serão mais de 20 anos de PT no poder. Nunca se preocuparam em gerar consciência de classe. Partido dos Traidores totalmente descompromissado com isso. Conciliação de classes, rebaixamento de pauta, sempre cedendo p migalhas. Só se importam em ficar no Poder.",
+        "author_username": "tjp_petrucci",
+        "author_name": "tjp_petrucci",
+        "created_at": "2026-10-27T12:41:00+00:00",
+        "permalink": "https://nitter.mie.foundation/tjp_petrucci/status/2115061324765892951#m",
+        "metrics": {
+          "like_count": 21,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 279,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115047834755998075",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115047834755998075",
+      "parent_post_id": null,
+      "thread_root_id": "2115047834755998075",
+      "author": {
+        "platform_id": null,
+        "display_name": "Joaotollentino",
+        "username": "Joaotollentino",
+        "profile_url": "https://x.com/Joaotollentino"
+      },
+      "text": "Fala a verdade sobre as Fraudes da urnas , na cidade de São João da Ponte MG ( disse que votaram a mais 4 mil pessoas a mais ,só que  entre elas mortos e vivos que não estava na cidade e realmente não teve essas 4 mil pessoas a mais tá havendo muitas Fraudes )",
+      "created_at": "2026-10-27T11:47:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T11:10:44-03:00",
+      "permalink": "https://nitter.mie.foundation/Joaotollentino/status/2115047834755998075#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 14,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115047834755998075",
+        "text": "Fala a verdade sobre as Fraudes da urnas , na cidade de São João da Ponte MG ( disse que votaram a mais 4 mil pessoas a mais ,só que  entre elas mortos e vivos que não estava na cidade e realmente não teve essas 4 mil pessoas a mais tá havendo muitas Fraudes )",
+        "author_username": "Joaotollentino",
+        "author_name": "Joaotollentino",
+        "created_at": "2026-10-27T11:47:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Joaotollentino/status/2115047834755998075#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 260,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115043414618120688",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115043414618120688",
+      "parent_post_id": null,
+      "thread_root_id": "2115043414618120688",
+      "author": {
+        "platform_id": null,
+        "display_name": "e_4lho",
+        "username": "e_4lho",
+        "profile_url": "https://x.com/e_4lho"
+      },
+      "text": "parece que meu estomago nunca mais vai se recuperar de tanta bebida\n\nhumor: morrendo de intoxicação alcoolica 🤒🤒",
+      "created_at": "2026-10-27T11:30:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T11:10:44-03:00",
+      "permalink": "https://nitter.mie.foundation/e_4lho/status/2115043414618120688#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 14,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115043414618120688",
+        "text": "parece que meu estomago nunca mais vai se recuperar de tanta bebida\n\nhumor: morrendo de intoxicação alcoolica 🤒🤒",
+        "author_username": "e_4lho",
+        "author_name": "e_4lho",
+        "created_at": "2026-10-27T11:30:00+00:00",
+        "permalink": "https://nitter.mie.foundation/e_4lho/status/2115043414618120688#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 112,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115039421833642078",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115039421833642078",
+      "parent_post_id": null,
+      "thread_root_id": "2115039421833642078",
+      "author": {
+        "platform_id": null,
+        "display_name": "Augusto6031072",
+        "username": "Augusto6031072",
+        "profile_url": "https://x.com/Augusto6031072"
+      },
+      "text": "Praticamente escolheram agora, imagine em 2030, mais 4 ministros petista, Alexandre será o PR.",
+      "created_at": "2026-10-27T11:14:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T11:10:44-03:00",
+      "permalink": "https://nitter.mie.foundation/Augusto6031072/status/2115039421833642078#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 14,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115039421833642078",
+        "text": "Praticamente escolheram agora, imagine em 2030, mais 4 ministros petista, Alexandre será o PR.",
+        "author_username": "Augusto6031072",
+        "author_name": "Augusto6031072",
+        "created_at": "2026-10-27T11:14:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Augusto6031072/status/2115039421833642078#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 94,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

@@ -1,0 +1,3425 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Mais 4",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+    "collected_at": "2026-10-27T11:10:44-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 10,
+      "comments": 0,
+      "records_total": 10,
+      "skipped_duplicate": 157
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2115082759085412649",
+            "text": "Sou escritor aqui em Mato Grosso  e o meu segundo livro \"O Segredo de Marguerite\" é o mais vendido no estado há 4 anos...Recebi R$ 4.500 de royalties nesse tempo. Só consigo ganhar dinheiro com a literatura com palestras e rodas literárias. Por isso montei a minha editora.",
+            "author_username": "LuckPMamute",
+            "author_name": "LuckPMamute",
+            "created_at": "2026-10-27T14:06:00+00:00",
+            "permalink": "https://nitter.mie.foundation/LuckPMamute/status/2115082759085412649#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115080052014465145",
+            "text": "Até o pobres do @catholicissimus @klautaum fizeram de tudo para mostrar a realidade eleitoral que se seguiu nesta eleição, principalmente eles alertando que o Lula poderia indicar mais 4 ministros com o risco de aprovarrm mais leis do aborto.",
+            "author_username": "mendonca_photos",
+            "author_name": "mendonca_photos",
+            "created_at": "2026-10-27T13:55:00+00:00",
+            "permalink": "https://nitter.mie.foundation/mendonca_photos/status/2115080052014465145#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2115078392219345319",
+            "text": "O @FlavioBolsonaro retornará e o meu voto é dele. O Tarcísio e a Michelle poderiam ter o apoiado com mais intensidade no 1° turno e aguardar passar os 4 anos pela vez deles, o Flávio ainda está na vez.",
+            "author_username": "JocileneManhaes",
+            "author_name": "JocileneManhaes",
+            "created_at": "2026-10-27T13:49:00+00:00",
+            "permalink": "https://nitter.mie.foundation/JocileneManhaes/status/2115078392219345319#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115065033491190044",
+            "text": "Agora com um pouca mais de clareza na consciência, foi bom Flávio não ter sido eleito. Seria horrível pra gestão dele pegar essa dívida do Lula e tentar em 4 anos mudar a situação do país! \n\nAgora Lula vai ter que correr atrás de resolver (não vai conseguir) e a culpa é só dele!",
+            "author_username": "farminhalet",
+            "author_name": "farminhalet",
+            "created_at": "2026-10-27T12:56:00+00:00",
+            "permalink": "https://nitter.mie.foundation/farminhalet/status/2115065033491190044#m",
+            "metrics": {
+              "like_count": 26,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2115062708693340460",
+            "text": "Uma mulher foi presa em flagrante suspeita de maus-tratos contra a filha, de aproximadamente 4 anos, internada no Hospital Regional do Agreste, em Palmeira dos Índios. A criança permanece sob cuidados médicos. Saiba mais no link na bio.",
+            "author_username": "Cadamin",
+            "author_name": "Cadamin",
+            "created_at": "2026-10-27T12:47:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Cadamin/status/2115062708693340460#m",
+            "metrics": {
+              "like_count": 37,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115062018826723478",
+            "text": "Tá uma febre de criar vídeos com IA usando motion graphics, e realmente está cad avez melhor. Mas qual modelo é melhor nessa tarefa?\n\nNós testamos os principais no @desbugados e o episódio ficou bem interessante:\nyoutube.com/watch?v=YXr0z2-8…\n\nMas a AA criou um benchmarking só para isso: o Code2Video-AA, desenvolvido em parceria com a HeyGen. Em 114 briefings de marketing, os modelos produzem uma composição HTML, posteriormente renderizada em vídeo com HyperFrames (que eu prefiro ao remotion faz tempo). Cada tentativa usa uma resposta, sem ferramentas. A renderização ocorre sem acesso à rede.\n\nO Gemini 4 Argon compara pares de vídeos em engajamento, atendimento ao pedido, composição, consistência temporal e acabamento. Mais de 35 mil julgamentos classificam 27 modelos. O Claude Opus 5.5, na configuração max com fallback, lidera com 1.536 pontos e US$ 3,08 por tarefa. O GPT-6.1 Sol, em max, obtém 1.369 pontos a US$ 0,31 por tarefa, quase dez vezes menos. Um baita custo / benefício.\n\nVale a pena conferir.",
+            "author_username": "rlarguesa",
+            "author_name": "rlarguesa",
+            "created_at": "2026-10-27T12:44:00+00:00",
+            "permalink": "https://nitter.mie.foundation/rlarguesa/status/2115062018826723478#m",
+            "metrics": {
+              "like_count": 52,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115061324765892951",
+            "text": "4 anos. Com Lula IV, serão mais de 20 anos de PT no poder. Nunca se preocuparam em gerar consciência de classe. Partido dos Traidores totalmente descompromissado com isso. Conciliação de classes, rebaixamento de pauta, sempre cedendo p migalhas. Só se importam em ficar no Poder.",
+            "author_username": "tjp_petrucci",
+            "author_name": "tjp_petrucci",
+            "created_at": "2026-10-27T12:41:00+00:00",
+            "permalink": "https://nitter.mie.foundation/tjp_petrucci/status/2115061324765892951#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115047834755998075",
+            "text": "Fala a verdade sobre as Fraudes da urnas , na cidade de São João da Ponte MG ( disse que votaram a mais 4 mil pessoas a mais ,só que  entre elas mortos e vivos que não estava na cidade e realmente não teve essas 4 mil pessoas a mais tá havendo muitas Fraudes )",
+            "author_username": "Joaotollentino",
+            "author_name": "Joaotollentino",
+            "created_at": "2026-10-27T11:47:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Joaotollentino/status/2115047834755998075#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115045442777968932",
+            "text": "Agora vejo que Lula nunca iria admitir uma derrota.... PT quer deixar registrado que o sujeito foi eleito 4 vezes, e fim da era nove dedos, pois não aguenta mais!!!!",
+            "author_username": "MarcosAndTri",
+            "author_name": "MarcosAndTri",
+            "created_at": "2026-10-27T11:38:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MarcosAndTri/status/2115045442777968932#m",
+            "metrics": {
+              "like_count": 51,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115043414618120688",
+            "text": "parece que meu estomago nunca mais vai se recuperar de tanta bebida\n\nhumor: morrendo de intoxicação alcoolica 🤒🤒",
+            "author_username": "e_4lho",
+            "author_name": "e_4lho",
+            "created_at": "2026-10-27T11:30:00+00:00",
+            "permalink": "https://nitter.mie.foundation/e_4lho/status/2115043414618120688#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115039421833642078",
+            "text": "Praticamente escolheram agora, imagine em 2030, mais 4 ministros petista, Alexandre será o PR.",
+            "author_username": "Augusto6031072",
+            "author_name": "Augusto6031072",
+            "created_at": "2026-10-27T11:14:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Augusto6031072/status/2115039421833642078#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115038018251735085",
+            "text": "Lula ganhou por mais de 4 milhões de votos e as pessoas que votaram depois das cinco não chegaram a 40 mil portanto não faria diferença a lavada foi grande.",
+            "author_username": "mucamiau",
+            "author_name": "mucamiau",
+            "created_at": "2026-10-27T11:08:00+00:00",
+            "permalink": "https://nitter.mie.foundation/mucamiau/status/2115038018251735085#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115037788349292608",
+            "text": "Vamos ver se aguentamos mais 4 anos de Lula, aqui no Sul nós fizemos nossa parte, parece que o nordeste tá contente com Lula, sempre votando em peso, boa sorte pra todos nós.",
+            "author_username": "saulo_lenz",
+            "author_name": "saulo_lenz",
+            "created_at": "2026-10-27T11:07:00+00:00",
+            "permalink": "https://nitter.mie.foundation/saulo_lenz/status/2115037788349292608#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115025689908834480",
+            "text": "Meu pai nesses 4 ano do governo do lula ta virando a pessoa mais de esquerda possível pqp q incrivel",
+            "author_username": "Bilauinox",
+            "author_name": "Bilauinox",
+            "created_at": "2026-10-27T10:19:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Bilauinox/status/2115025689908834480#m",
+            "metrics": {
+              "like_count": 24,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115022615618134154",
+            "text": "Não é minha culpa\nMas terei que sofrer mais 4 anos.\nCarrinhos mais vazios\nMaior inflação, juros e tudo que vem junto com a gastança e roubalheira do Lula.\nDepois reclamam, mas não assumem a própria burrice.\nEm mais 4 anos sempre vai ser a culpa de alguém. Nunca do #LulaLadrão",
+            "author_username": "haga_shin",
+            "author_name": "haga_shin",
+            "created_at": "2026-10-27T10:07:00+00:00",
+            "permalink": "https://nitter.mie.foundation/haga_shin/status/2115022615618134154#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115013497637470516",
+            "text": "Será? O Lula vive a dizer que o país melhora, que as pessoas melhoram suas vidas... logo a linha de raciocínio deve vir de encontro, em um país tão bom assim o povo não tem mais necessidade. 🤷🏻‍♂️ Não é Bassil que a coisa acontece? O assistencialismo desenfreado que causa dependência não é mais necessário, o país está em perfeito progresso. 🤷🏻‍♂️ O movimento de cancelamento começou justamente pelo espectro político da esquerda... lembre-se que 4 anos atrás ou um pouco mais, marcas, empresas e comércios eram cancelados diariamente pelo Sleeping Giants, e eles eram amplamente aplaudidos. Lembre-se que nestas duas décadas de governo petista o empresariado (que em suma maioria são de pequeno e médio porte) foram demonizados como opressores do trabalhador (quando quem faz isso é o estado com sua senzala ideológica, e os impostos estalando no lombo destes trabalhadores). Logo, antes de debandar todo o argumento direcionado ao outro espectro político, lembre-se disso! Pq no final, a própria paciência tem limites, e as próprias escolhas levam a isso por mais que parece extremamente grotesco. 🤷🏻‍♂️",
+            "author_username": "pthiagooliveira",
+            "author_name": "pthiagooliveira",
+            "created_at": "2026-10-27T09:31:00+00:00",
+            "permalink": "https://nitter.mie.foundation/pthiagooliveira/status/2115013497637470516#m",
+            "metrics": {
+              "like_count": 121,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114984066202095847",
+            "text": "Mudou mesmo. Enfiou no rabo de quem Produz mais 4 anos de atraso.",
+            "author_username": "Maclaund",
+            "author_name": "Maclaund",
+            "created_at": "2026-10-27T07:34:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Maclaund/status/2114984066202095847#m",
+            "metrics": {
+              "like_count": 100,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114955067493167167",
+            "text": "Está nas mãos do Senado o futuro desse país!! Sei que não será fácil, mas infelizmente teremos mais 4 indicações ao STF!!",
+            "author_username": "jarestonjunior",
+            "author_name": "jarestonjunior",
+            "created_at": "2026-10-27T05:39:00+00:00",
+            "permalink": "https://nitter.mie.foundation/jarestonjunior/status/2114955067493167167#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114930766769484126",
+            "text": ", diferença de mais de 3 milhões  de votos... o do meu pai ta no meio, a tal fic kkkk só pra largar de ser prepotente e tentar anular o tamanho do único presidente a governar 4x o nosso país, tu vai ganhar +4 anos p tuaprender a respeitar o maior nome da nossa política",
+            "author_username": "diggosabatini",
+            "author_name": "diggosabatini",
+            "created_at": "2026-10-27T04:02:00+00:00",
+            "permalink": "https://nitter.mie.foundation/diggosabatini/status/2114930766769484126#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114918965260484618",
+            "text": "Por mais 4 ano terei um governo/estado que nunca me representou... Vou me juntar com a galera ancap.",
+            "author_username": "surtasa_dev",
+            "author_name": "surtasa_dev",
+            "created_at": "2026-10-27T03:15:00+00:00",
+            "permalink": "https://nitter.mie.foundation/surtasa_dev/status/2114918965260484618#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114909964837716092",
+            "text": "Finalmente chegou a nova adaptação pras telonas de um dos jogos mais famosos do mundo: \"Street Fighter\"!\n\n#mesacast #streetfighter #capcom #videogame",
+            "author_username": "_mesapra4",
+            "author_name": "_mesapra4",
+            "created_at": "2026-10-27T02:40:00+00:00",
+            "permalink": "https://nitter.mie.foundation/_mesapra4/status/2114909964837716092#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114905073318859253",
+            "text": "Aparentemente depois de 4 anos a cabeça ficou mais do que quente!\ncansaram!",
+            "author_username": "AdrianaR15084",
+            "author_name": "AdrianaR15084",
+            "created_at": "2026-10-27T02:20:00+00:00",
+            "permalink": "https://nitter.mie.foundation/AdrianaR15084/status/2114905073318859253#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114903478950564009",
+            "text": "Já sabemos que isso poderia acontecer a esquerda joga sujo pensando bem Flávio teve  livramento porque País está UTI temos Desgoverno incompetente vamos aguentar mais 4 anos queremos olhar para frente  elegemos  Congresso de direita e esperamos que Vocês não deixem STF  Legislar",
+            "author_username": "NeinhaCeciliaa",
+            "author_name": "NeinhaCeciliaa",
+            "created_at": "2026-10-27T02:14:00+00:00",
+            "permalink": "https://nitter.mie.foundation/NeinhaCeciliaa/status/2114903478950564009#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114895371306418551",
+            "text": "NÃO ADIANTA POHA NENHUMA. \n\nELE ESTÁ SALVO DA NOSSA DITADURA,  SÓ ISSO.\n\nENQUANTO,  NÓS,  VAMOS TER QUE SUPORTAR ESSE FELADAPUTA CORRUPTO DO KARALHO POR MAIS 4 ANOS E A BISCATE VIAJANDO ÀS NOSSAS CUSTAS.",
+            "author_username": "SANDRORCOUTINHO",
+            "author_name": "SANDRORCOUTINHO",
+            "created_at": "2026-10-27T01:42:00+00:00",
+            "permalink": "https://nitter.mie.foundation/SANDRORCOUTINHO/status/2114895371306418551#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114894909089992842",
+            "text": "tenho uma impressão que a esquerda vai ficar ainda mais dividida em 4 anos, pior do que 2018",
+            "author_username": "jklmarcoss",
+            "author_name": "jklmarcoss",
+            "created_at": "2026-10-27T01:40:00+00:00",
+            "permalink": "https://nitter.mie.foundation/jklmarcoss/status/2114894909089992842#m",
+            "metrics": {
+              "like_count": 27,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114892123417747808",
+            "text": "Kkkkkkkkk faz um L Não queria esse corno na presidência agora chora por mais 4 anos entrando no grosso dele",
+            "author_username": "FabioEstevam7",
+            "author_name": "FabioEstevam7",
+            "created_at": "2026-10-27T01:29:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FabioEstevam7/status/2114892123417747808#m",
+            "metrics": {
+              "like_count": 32,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114890426532479343",
+            "text": "Não teve apoio nem interno, o PL não endossou essa ideia deles desde o início, era só a ala mais radical da equipe do Flávio, tiveram 4 pessoas que recomendaram de cara ligar para o Lula e reconhecer a derrota.\nA divulgação dos dados do TSE também de que os votos foram irrisórios próximo dos 4,4 milhões foi o prego final.\nAgora vão querer anular a chapa kkkkk",
+            "author_username": "flep",
+            "author_name": "flep",
+            "created_at": "2026-10-27T01:22:00+00:00",
+            "permalink": "https://nitter.mie.foundation/flep/status/2114890426532479343#m",
+            "metrics": {
+              "like_count": 261,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114887457531445536",
+            "text": "Flavio não tinha propostas e você muito menos. O estado do Rio mais uma vez vai ficar 4 anos na merda, isso se o próximo não for preso antes de terminar seu mandato",
+            "author_username": "FlavioPororoca",
+            "author_name": "FlavioPororoca",
+            "created_at": "2026-10-27T01:10:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FlavioPororoca/status/2114887457531445536#m",
+            "metrics": {
+              "like_count": 75,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114884204148212182",
+            "text": "acho que ta na hora de me proibir um pouquinho, ja ia beber mais mas daí ja ia passar de 24h que to bebendo\neu vou morrer",
+            "author_username": "e_4lho",
+            "author_name": "e_4lho",
+            "created_at": "2026-10-27T00:57:00+00:00",
+            "permalink": "https://nitter.mie.foundation/e_4lho/status/2114884204148212182#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114871916485857719",
+            "text": "Ontem foi a minha mudança de vez para a minha nova vida. Casada, feliz e morando em outro endereço. E a vida ainda né presenteou com a vitória do Lula. Ela via o meu medo, o nosso medo! Temos mais 4 anos longe dessa família desumana. Estamos  extremamente felizes ❤️🕊️",
+            "author_username": "MouraAriela",
+            "author_name": "MouraAriela",
+            "created_at": "2026-10-27T00:08:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MouraAriela/status/2114871916485857719#m",
+            "metrics": {
+              "like_count": 192,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 10
+            }
+          },
+          {
+            "id": "2114851633532420452",
+            "text": "Inacreditável.\nDecisão de um ministro MAIS DO QUE SUSPEITO.\n\nEsse é o Brasil a nós espera por mais 4 anos.",
+            "author_username": "tiggeschris",
+            "author_name": "tiggeschris",
+            "created_at": "2026-10-26T22:48:00+00:00",
+            "permalink": "https://nitter.mie.foundation/tiggeschris/status/2114851633532420452#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114840848663720239",
+            "text": "Você só errou em um ponto,Lula e o regime não sairão mais do poder.Por isso ele terá muitos anos para fazer o que sempre fez,destruir o país. Não será 4 anos. Deus tenha piedade do Brasil.",
+            "author_username": "Dejavu1619",
+            "author_name": "Dejavu1619",
+            "created_at": "2026-10-26T22:05:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Dejavu1619/status/2114840848663720239#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114838550248390992",
+            "text": "É mais fácil controlar uma única variável do que várias ao mesmo tempo. Pense naquele jogo de bolinhas de uma mão para outra. 1 bolinha é fácil. 2, complica. 3, 4 já fica quase  impossível.",
+            "author_username": "starcckman",
+            "author_name": "starcckman",
+            "created_at": "2026-10-26T21:56:00+00:00",
+            "permalink": "https://nitter.mie.foundation/starcckman/status/2114838550248390992#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114822845062680951",
+            "text": "Uma hora ele vai morrer. Nem sei se resiste mais 4 anos.",
+            "author_username": "munho30496",
+            "author_name": "munho30496",
+            "created_at": "2026-10-26T20:53:00+00:00",
+            "permalink": "https://nitter.mie.foundation/munho30496/status/2114822845062680951#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114818289142505842",
+            "text": "Mais 4 anos de viganças ,aí de quem tentar concorrer com ele ,o Deus Lula não aceita e manda prender!\nDemôniocracia 🤬🤬",
+            "author_username": "AdrianaR15084",
+            "author_name": "AdrianaR15084",
+            "created_at": "2026-10-26T20:35:00+00:00",
+            "permalink": "https://nitter.mie.foundation/AdrianaR15084/status/2114818289142505842#m",
+            "metrics": {
+              "like_count": 283,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 6
+            }
+          },
+          {
+            "id": "2114816345615532054",
+            "text": "Uma sugestão motivada pela falta de educação do povo.\nEm Deodoro, aumentar o comprimento da grade da 4° fila do 61 porque o ônibus encosta e a fila para ir em pé, que criaram, sai atravessando.\nDeixa-los mais atrás pode inibir a má-educação.\n@BRTMobiRio",
+            "author_username": "Xandy01",
+            "author_name": "Xandy01",
+            "created_at": "2026-10-26T20:28:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Xandy01/status/2114816345615532054#m",
+            "metrics": {
+              "like_count": 350,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114813700813238603",
+            "text": "Vai beber água de açude mais 4 anos seus Gado",
+            "author_username": "morcelli_s1904",
+            "author_name": "morcelli_s1904",
+            "created_at": "2026-10-26T20:17:00+00:00",
+            "permalink": "https://nitter.mie.foundation/morcelli_s1904/status/2114813700813238603#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114813080962040174",
+            "text": "Ninguém vai entender nada quando descobrirem que o PL não tem nada de direita e os senadores vão abrir as pernas para o centrão, reelegem o Alcolumbre, não cai ninguem do STF e o painho indica mais 4 cadeiras",
+            "author_username": "FabioPorao99",
+            "author_name": "FabioPorao99",
+            "created_at": "2026-10-26T20:15:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FabioPorao99/status/2114813080962040174#m",
+            "metrics": {
+              "like_count": 163,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114793979460088085",
+            "text": "Sabe aquele tio que é aposentado e vende balinhas na banquinha,é de esquerda e está todo feliz?\nNão dou mais nem um bom dia!\nSomos vingativos !?\nNão ! \nSe nossos votos não valem ,nosso dinheiro também não !É em tudo,farei isso durante esses 4 anos sem nenhum remoço,cansei",
+            "author_username": "AdrianaR15084",
+            "author_name": "AdrianaR15084",
+            "created_at": "2026-10-26T18:59:00+00:00",
+            "permalink": "https://nitter.mie.foundation/AdrianaR15084/status/2114793979460088085#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 5,
+              "retweet_count": 11,
+              "quote_count": 88
+            }
+          },
+          {
+            "id": "2114784717161562512",
+            "text": "Perguntaram porque tô aqui com olho todo marejado 🥹 é porque tô vendo relatos e isso me deixa emotivo e feliz, saber que ainda podemos viver mais 4 anos de uma forma que podemos demonstrar amor por aí sem ser repreendido ou morto, é uma batalha diária de sobrevivência sabe",
+            "author_username": "jean_braga",
+            "author_name": "jean_braga",
+            "created_at": "2026-10-26T18:22:00+00:00",
+            "permalink": "https://nitter.mie.foundation/jean_braga/status/2114784717161562512#m",
+            "metrics": {
+              "like_count": 771,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 21
+            }
+          },
+          {
+            "id": "2114782341319082355",
+            "text": "Chorando por 5 mil votos? Pode ficar com os 5 mil todos pro Flávio, nois ainda ganhamos com mais 4 milhões de votos, chora bonequinha!",
+            "author_username": "MariOli14kk",
+            "author_name": "MariOli14kk",
+            "created_at": "2026-10-26T18:12:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MariOli14kk/status/2114782341319082355#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114774715483181437",
+            "text": "já lutei muito contra o fascismo agora é arrumar a mala pq semana que vem tem 4 dias altamente deliciosos em salvador pra curtir mais uma edição do afropunk",
+            "author_username": "canhotorodrigo1",
+            "author_name": "canhotorodrigo1",
+            "created_at": "2026-10-26T17:42:00+00:00",
+            "permalink": "https://nitter.mie.foundation/canhotorodrigo1/status/2114774715483181437#m",
+            "metrics": {
+              "like_count": 32,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114772890641940863",
+            "text": "Professor, o X está lhe classificando. Vamos para mais 4 anos de pleno amor.",
+            "author_username": "laurocesar77",
+            "author_name": "laurocesar77",
+            "created_at": "2026-10-26T17:35:00+00:00",
+            "permalink": "https://nitter.mie.foundation/laurocesar77/status/2114772890641940863#m",
+            "metrics": {
+              "like_count": 50,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114769659522166890",
+            "text": "Esse era o medo, que agora vai nos assombrar por decádas.\nMais 4 ministros de LUULA no STF.\n\nNENHUMA ESPERANÇA Q O BRASIL RETOME UM RUMO DECENTE.\n\nReeleito, Lula pode indicar mais 4 ministros para o STF no próximo mandato | G1 share.google/iwVAOti7XMIt5F9…",
+            "author_username": "tiggeschris",
+            "author_name": "tiggeschris",
+            "created_at": "2026-10-26T17:22:00+00:00",
+            "permalink": "https://nitter.mie.foundation/tiggeschris/status/2114769659522166890#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114758531513770291",
+            "text": "Tá tranquilo! \nForam as vítimas dos usuários que irão ganhar ainda mais território com Lula 4.\nFaz o L!",
+            "author_username": "Fabio_Bonilha",
+            "author_name": "Fabio_Bonilha",
+            "created_at": "2026-10-26T16:38:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Fabio_Bonilha/status/2114758531513770291#m",
+            "metrics": {
+              "like_count": 396,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 23
+            }
+          },
+          {
+            "id": "2114757818020425749",
+            "text": "Nosso príncipe Park Bo Gum assumirá o papel de narrador do especial “K-Superfood”, uma produção de quatro episódios que será transmitida pela KBS 1TV! 🥹🩵\n\nCom sua voz suave e acolhedora, nosso príncipe nos levará a uma verdadeira viagem pela gastronomia da Coreia, explorando sabores, costumes e os benefícios dos alimentos tradicionais. \nUma jornada que revela a conexão entre a alimentação, a saúde e a riqueza da cultura coreana. 🇰🇷🥰\n\nCultura, ciência e gastronomia se encontram nessa produção especial, que ganha ainda mais encanto com a voz inconfundível do nosso Bogummy! 😍😍🩵🩵\n\n📅 ESTREIA: 28 DE OUTUBRO\n🕙 HORÁRIO: 22H (HORÁRIO DA COREIA)\n📺 EMISSORA: KBS 1TV\n🎬 PROGRAMA: K-SUPERFOOD — ESPECIAL DE 4 EPISÓDIOS\n\n🔗 Fonte: pbbs.kbs.co.kr/clip/read.htm…\n\n#KSUPERFOOD\n#박보검\n#ParkBoGum\n#KBS1TV\n#parkbogumbrasilfc",
+            "author_username": "parkbogumbrfc",
+            "author_name": "parkbogumbrfc",
+            "created_at": "2026-10-26T16:35:00+00:00",
+            "permalink": "https://nitter.mie.foundation/parkbogumbrfc/status/2114757818020425749#m",
+            "metrics": {
+              "like_count": 709,
+              "reply_count": 8,
+              "retweet_count": 19,
+              "quote_count": 48
+            }
+          },
+          {
+            "id": "2114751081842343968",
+            "text": "O marasmo de viver mais 4 anos governado por um presidente que em nada melhorou a minha vida\nMas a alegria extrema de ver o Flávio Bolsonaro se fuder inteiramente.",
+            "author_username": "GustavoCafe",
+            "author_name": "GustavoCafe",
+            "created_at": "2026-10-26T16:08:00+00:00",
+            "permalink": "https://nitter.mie.foundation/GustavoCafe/status/2114751081842343968#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114748911801831580",
+            "text": "Fórmula prá ser reeleito: 1. abuse da caneta e do poder econômico (mais de 300 bilhões). 2. Faça terrorismo eleitoral (vai acabar o SUS, bolsa familia, aposentadoria, fim dos direitos da mulher...). 3. Tenha amigos no STF. 4. Tenha um adversário tão corrupto quanto.",
+            "author_username": "1Pbonate",
+            "author_name": "1Pbonate",
+            "created_at": "2026-10-26T16:00:00+00:00",
+            "permalink": "https://nitter.mie.foundation/1Pbonate/status/2114748911801831580#m",
+            "metrics": {
+              "like_count": 57,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114747278544027790",
+            "text": "o melhor dessa vitória com uma diferença de 4 mi e apoio popular, além do óbvio de menos um bolsonaro, é que tudo que se tornou bandeira levantada por Lula vai chegar com mais força ano que vem no congresso, desde a 6x1, passando por bet's e medidas compensatórias.",
+            "author_username": "MonteiroHicaro",
+            "author_name": "MonteiroHicaro",
+            "created_at": "2026-10-26T15:53:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MonteiroHicaro/status/2114747278544027790#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114745867433353436",
+            "text": "Se não houve fraude então foi escolha do povo.\nDe qualquer forma vamos sofrer mais 4 anos, quem votou no Lula, quem votou no Flávio e até quem não votou!!",
+            "author_username": "HenriqueCorraR2",
+            "author_name": "HenriqueCorraR2",
+            "created_at": "2026-10-26T15:47:00+00:00",
+            "permalink": "https://nitter.mie.foundation/HenriqueCorraR2/status/2114745867433353436#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114744878600987072",
+            "text": "Apenas 35 mil votos foram depositados entre 17h e 19h da eleição de ontem. Não mudaria o resultado da eleição. A diferença foi de mais dr 4 milhões de votos. \n#VitoriaDaDemocracia",
+            "author_username": "LucasMirandaLM",
+            "author_name": "LucasMirandaLM",
+            "created_at": "2026-10-26T15:44:00+00:00",
+            "permalink": "https://nitter.mie.foundation/LucasMirandaLM/status/2114744878600987072#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114743568698913176",
+            "text": "Abre a boa para falar a merda que deve comer, com certeza não faz ideia do que seja o tema que citou. \n\nBata palmas aí para seu político de estimação, pois só o fato dele ter tomado o segundo turno, o risco futuro do BRASIL e da economia já foram para o buraco. \n\nParabéns por contribuir por mais 4 anos de abusos, de corrupção e de um país afundado em dívidas.",
+            "author_username": "christianreoli",
+            "author_name": "christianreoli",
+            "created_at": "2026-10-26T15:38:00+00:00",
+            "permalink": "https://nitter.mie.foundation/christianreoli/status/2114743568698913176#m",
+            "metrics": {
+              "like_count": 41,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114742673839952366",
+            "text": "Eleições mais que legítimas, foi reveladora sobre a real vontade do povo brasileiro!\n\nRealiza, aceita e deixa de ser bunda mole. Aceita, parabeniza o vencedor, daqui 4 anos tenta novamente.\n\nQuando tu vai voltar p comer picanha de qualidade?",
+            "author_username": "Rapeize75",
+            "author_name": "Rapeize75",
+            "created_at": "2026-10-26T15:35:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Rapeize75/status/2114742673839952366#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114741795292635478",
+            "text": "Depois de 4 anos passando por um momento financeiro ruim, neste mês finalmente colocarei minhas contas em dia e assinarei novamente a suno e voltarei a fazer investimentos. Espero que o país sobreviva a mais 4 anos deste governo. Nunca peguei uma oportunidade desta.",
+            "author_username": "Cleiton34450763",
+            "author_name": "Cleiton34450763",
+            "created_at": "2026-10-26T15:31:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Cleiton34450763/status/2114741795292635478#m",
+            "metrics": {
+              "like_count": 114,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114740537664163974",
+            "text": "A mulher sai de Alvorada pega 4 ônibus para votar no centro de POA caralho não é mais fácil mudar o titulo para votar na cidade dela?",
+            "author_username": "FabioPorao99",
+            "author_name": "FabioPorao99",
+            "created_at": "2026-10-26T15:26:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FabioPorao99/status/2114740537664163974#m",
+            "metrics": {
+              "like_count": 90,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114737994875666926",
+            "text": "Isso era óbvio que aconteceria, né Paulo. Em comunismo, eleições são um mero teatro. Eu não sei se suportarei mais 4 anos com esse governo. Que Deus me ajude e ajude a todos que são contra o Lula, pois os que são a favor desse traste, quero mais que se explodam.",
+            "author_username": "CleusaMald",
+            "author_name": "CleusaMald",
+            "created_at": "2026-10-26T15:16:00+00:00",
+            "permalink": "https://nitter.mie.foundation/CleusaMald/status/2114737994875666926#m",
+            "metrics": {
+              "like_count": 70,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114734350507864088",
+            "text": "Mais 4 anos pagando 60 conto no kg do cafe",
+            "author_username": "FabioPorao99",
+            "author_name": "FabioPorao99",
+            "created_at": "2026-10-26T15:02:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FabioPorao99/status/2114734350507864088#m",
+            "metrics": {
+              "like_count": 116,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114733968155123956",
+            "text": "Obrigado mais uma Vez \nNordeste, Minas Gerais e Norte\nViva a Democracia ☀️🙏🏼🙏🏼\nDeus abençoe nossos próximos 4 Anos",
+            "author_username": "Geffinho10",
+            "author_name": "Geffinho10",
+            "created_at": "2026-10-26T15:00:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Geffinho10/status/2114733968155123956#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114733253848363152",
+            "text": "Eu acho ótimo, ja q vamos nos fuder mais 4 anos, que metam no rabo dessa galerinha q votou nele tb. Vamo todo mundo se foder junto! Bem bacaninha!!!",
+            "author_username": "LssLDah",
+            "author_name": "LssLDah",
+            "created_at": "2026-10-26T14:57:00+00:00",
+            "permalink": "https://nitter.mie.foundation/LssLDah/status/2114733253848363152#m",
+            "metrics": {
+              "like_count": 50,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114732796539261329",
+            "text": "Sem o povo nas ruas não vai mudar nada, será que a direita não intende isso.\nAs Ruas eram para estarem lotadas nessa segunda feira.\nPOVO COVARDE SAÍA PRAS RUAS OU ENGOLE SECO MAIS 4 ANOS DE ROUBALHEIRA.🇧🇷",
+            "author_username": "MarinoBoni27242",
+            "author_name": "MarinoBoni27242",
+            "created_at": "2026-10-26T14:56:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MarinoBoni27242/status/2114732796539261329#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114731641683759613",
+            "text": "Certíssimo, mais 4 anos o pobre comendo coisas de péssima qualidade 👏🏾👏🏾👏🏾👏🏾",
+            "author_username": "prince_of_abysm",
+            "author_name": "prince_of_abysm",
+            "created_at": "2026-10-26T14:51:00+00:00",
+            "permalink": "https://nitter.mie.foundation/prince_of_abysm/status/2114731641683759613#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114730951272022080",
+            "text": "A minha meta agora é estudar realmente pra eu ser concursada aproveitar mais esses 4 anos",
+            "author_username": "eymands",
+            "author_name": "eymands",
+            "created_at": "2026-10-26T14:48:00+00:00",
+            "permalink": "https://nitter.mie.foundation/eymands/status/2114730951272022080#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114730574661189835",
+            "text": "Mas se ela perde tem mais 4 anos de mandato como senadora. E seguindo a tradição do esposo e enteados deve fazer em 3 meses o pe de meia pra uns 10 anos so com caixa 2. E seo coiso morre daqui pra la ... Nossa Dona Florinda da Ceilandia",
+            "author_username": "paulorodrigohd",
+            "author_name": "paulorodrigohd",
+            "created_at": "2026-10-26T14:47:00+00:00",
+            "permalink": "https://nitter.mie.foundation/paulorodrigohd/status/2114730574661189835#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114729308463694217",
+            "text": "@TSEjusbr os 35 mil votos para o @FlavioBolsonaro já que ele faz tanta questão, a diferença foi de mais de 4 milhões 👍🏾",
+            "author_username": "Magrao_SCCP",
+            "author_name": "Magrao_SCCP",
+            "created_at": "2026-10-26T14:42:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Magrao_SCCP/status/2114729308463694217#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114722832013803570",
+            "text": "queria dizer que vou me formar como assistente social no governo lula mas eu me conheço vou levar mais de 4 anos pra terminar certeza",
+            "author_username": "aridhiosegundo",
+            "author_name": "aridhiosegundo",
+            "created_at": "2026-10-26T14:16:00+00:00",
+            "permalink": "https://nitter.mie.foundation/aridhiosegundo/status/2114722832013803570#m",
+            "metrics": {
+              "like_count": 27,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114715705996165258",
+            "text": "Votaram no Ruas, aguenta mais 4 anos de bandidagem!",
+            "author_username": "msmabdalla",
+            "author_name": "msmabdalla",
+            "created_at": "2026-10-26T13:48:00+00:00",
+            "permalink": "https://nitter.mie.foundation/msmabdalla/status/2114715705996165258#m",
+            "metrics": {
+              "like_count": 110,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114711276949487645",
+            "text": "facebook.com/reel/9407735785… jeito o Brasil vai gemer mais 4 anos",
+            "author_username": "luborges4065",
+            "author_name": "luborges4065",
+            "created_at": "2026-10-26T13:30:00+00:00",
+            "permalink": "https://nitter.mie.foundation/luborges4065/status/2114711276949487645#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114709785165607181",
+            "text": "GANHAMOOOOS 🌟🌟🌟🌟 GRAÇAS A DEUS É LULA 1️⃣3️⃣ REELEITO NOVAMENTE E É TETRA ⭐⭐⭐⭐ AGORA A QUARTA ESTRELA VAI BRILHAR MUITO MAIS FORTE É 13 ⭐❤️🇧🇷 RENASCE A ESPERANÇA. E FOI DE VIRADA! AGORA É LULA EM 2027 POR + 4 ANOS! VAI DAR PT, VAI DAR PT. QUE ALEGRIAAAAA 🤩🤩🤩🤩🤩🤩🤩",
+            "author_username": "fredy4murim85",
+            "author_name": "fredy4murim85",
+            "created_at": "2026-10-26T13:24:00+00:00",
+            "permalink": "https://nitter.mie.foundation/fredy4murim85/status/2114709785165607181#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114703072005939239",
+            "text": "Minha sensação com a reeleição do lula é de LUTO #lutopolítico\nMinha sensação com a reeleição do lula é de LUTO.\nCom esse resultado de ontem, 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista de projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+            "author_username": "rogeriofluence",
+            "author_name": "rogeriofluence",
+            "created_at": "2026-10-26T12:57:00+00:00",
+            "permalink": "https://nitter.mie.foundation/rogeriofluence/status/2114703072005939239#m",
+            "metrics": {
+              "like_count": 34,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114700890917511339",
+            "text": "Parabéns presidente, mais 4 anos de gastos sem limites. Sem limites para janja, seminjye para teu filho, IVA sugando empreendedor etc.",
+            "author_username": "CRobsonCorrea",
+            "author_name": "CRobsonCorrea",
+            "created_at": "2026-10-26T12:49:00+00:00",
+            "permalink": "https://nitter.mie.foundation/CRobsonCorrea/status/2114700890917511339#m",
+            "metrics": {
+              "like_count": 207,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114697948676210998",
+            "text": "Tenho mais 4 anos pra tentar financiar uma casa",
+            "author_username": "thaismaxado",
+            "author_name": "thaismaxado",
+            "created_at": "2026-10-26T12:37:00+00:00",
+            "permalink": "https://nitter.mie.foundation/thaismaxado/status/2114697948676210998#m",
+            "metrics": {
+              "like_count": 39,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114696822551728133",
+            "text": "Aí o cara que anular uma eleição com mais de 4 milhões de diferença de votos, é um brincante.",
+            "author_username": "Luzo_junior",
+            "author_name": "Luzo_junior",
+            "created_at": "2026-10-26T12:33:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Luzo_junior/status/2114696822551728133#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114696065022579188",
+            "text": "Mais 4 anos mamando...",
+            "author_username": "spacecowboyhash",
+            "author_name": "spacecowboyhash",
+            "created_at": "2026-10-26T12:30:00+00:00",
+            "permalink": "https://nitter.mie.foundation/spacecowboyhash/status/2114696065022579188#m",
+            "metrics": {
+              "like_count": 160,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114694064847130920",
+            "text": "Não teve com 2 milhões, vai ter com um amasso de mais de 4 milhões kkkkkkkk",
+            "author_username": "filipeacabral",
+            "author_name": "filipeacabral",
+            "created_at": "2026-10-26T12:22:00+00:00",
+            "permalink": "https://nitter.mie.foundation/filipeacabral/status/2114694064847130920#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114692826810163230",
+            "text": "O único alento que tenho , é saber que o Lula não vai governar o Brasil por mais 4 anos...\nEntendedores , entenderão 🔥",
+            "author_username": "Kabulozocensura",
+            "author_name": "Kabulozocensura",
+            "created_at": "2026-10-26T12:17:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Kabulozocensura/status/2114692826810163230#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 101,
+              "retweet_count": 44,
+              "quote_count": 648
+            }
+          },
+          {
+            "id": "2114691861075878187",
+            "text": "Bom dia, presidente Lula!!!\n\nO senhor dormiu bem? Tá tudo em ordem? Descansou? \nPois vamo que vamo que o Brasil ainda é seu por mais 4 anos ❤️❤️",
+            "author_username": "priscilla_im",
+            "author_name": "priscilla_im",
+            "created_at": "2026-10-26T12:13:00+00:00",
+            "permalink": "https://nitter.mie.foundation/priscilla_im/status/2114691861075878187#m",
+            "metrics": {
+              "like_count": 81,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114690290762039721",
+            "text": "Quase 4 milhões e ½ a mais.",
+            "author_username": "ecm_foim",
+            "author_name": "ecm_foim",
+            "created_at": "2026-10-26T12:07:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ecm_foim/status/2114690290762039721#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114685803808862292",
+            "text": "Calma Miliciano, é só mais 4 anos, enquanto isso bate uma punheta pro Flávio, que passa sua sede.\nCom essa cara de bosta que vc tem, não atinge ninguém, parece que tem piche na cara kkkkk",
+            "author_username": "braiva_paulinho",
+            "author_name": "braiva_paulinho",
+            "created_at": "2026-10-26T11:49:00+00:00",
+            "permalink": "https://nitter.mie.foundation/braiva_paulinho/status/2114685803808862292#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114684928419905752",
+            "text": "Com esse resultado de ontem, 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista de projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+            "author_username": "rogeriofluence",
+            "author_name": "rogeriofluence",
+            "created_at": "2026-10-26T11:45:00+00:00",
+            "permalink": "https://nitter.mie.foundation/rogeriofluence/status/2114684928419905752#m",
+            "metrics": {
+              "like_count": 25,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114684601754894617",
+            "text": "Com esse resultado de ontem, 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista de projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+            "author_username": "rogeriofluence",
+            "author_name": "rogeriofluence",
+            "created_at": "2026-10-26T11:44:00+00:00",
+            "permalink": "https://nitter.mie.foundation/rogeriofluence/status/2114684601754894617#m",
+            "metrics": {
+              "like_count": 250,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114683729666814064",
+            "text": "Independente do resultado e o meu posicionamento político, não tem o que fazer, Lula é o maior político que ja teve nesse país (não em questão de qualidade na minha opinião). Sabe muito do jogo político, mesmo fazendo um governo ruim, perdendo o 1° turno virou e ta ai mais 4 anos",
+            "author_username": "DaviLim8942030",
+            "author_name": "DaviLim8942030",
+            "created_at": "2026-10-26T11:41:00+00:00",
+            "permalink": "https://nitter.mie.foundation/DaviLim8942030/status/2114683729666814064#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114679742624395704",
+            "text": "Ja aproveita e poe mais 4 ou 5 esquemas na conta",
+            "author_username": "FeimperioLima",
+            "author_name": "FeimperioLima",
+            "created_at": "2026-10-26T11:25:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FeimperioLima/status/2114679742624395704#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114673572526317801",
+            "text": "Na minha família mais próxima foram 4 idosos que não votaram no primeiro turno e foram votar em Lula no segundo. A turma da Universidade da minha filha, metade vota no interior ou em outros estados. Muitos pagaram passagens aéreas para irem votar.",
+            "author_username": "andre_a_melo",
+            "author_name": "andre_a_melo",
+            "created_at": "2026-10-26T11:00:00+00:00",
+            "permalink": "https://nitter.mie.foundation/andre_a_melo/status/2114673572526317801#m",
+            "metrics": {
+              "like_count": 409,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 7
+            }
+          },
+          {
+            "id": "2114672276016632035",
+            "text": "Bom dia a todos \nVamos trabalhar muito pq temos mais 4 anos de Janja e 100 anos de sigilo nos cartões corporativos do governo",
+            "author_username": "FabioPorao99",
+            "author_name": "FabioPorao99",
+            "created_at": "2026-10-26T10:55:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FabioPorao99/status/2114672276016632035#m",
+            "metrics": {
+              "like_count": 301,
+              "reply_count": 1,
+              "retweet_count": 1,
+              "quote_count": 9
+            }
+          },
+          {
+            "id": "2114661228329017412",
+            "text": "O que o Renan santos fez, foi prejudicar o país por mais 4 anos, esse maluco é inimigo",
+            "author_username": "juan_meeeis",
+            "author_name": "juan_meeeis",
+            "created_at": "2026-10-26T10:11:00+00:00",
+            "permalink": "https://nitter.mie.foundation/juan_meeeis/status/2114661228329017412#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114651000459964761",
+            "text": "Acordei ao lado da minha mulher, e vou continuar acordando por mais 4 anos⭐️",
+            "author_username": "Mar_BPM",
+            "author_name": "Mar_BPM",
+            "created_at": "2026-10-26T09:31:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Mar_BPM/status/2114651000459964761#m",
+            "metrics": {
+              "like_count": 125,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 8
+            }
+          },
+          {
+            "id": "2114588058578190706",
+            "text": "Flávio teve 3 milhões de votos a mais que no primeiro turno. \nLula teve 10 milhões. 4 milhões a mais que seu recorde em 2022.",
+            "author_username": "danielborja",
+            "author_name": "danielborja",
+            "created_at": "2026-10-26T05:20:00+00:00",
+            "permalink": "https://nitter.mie.foundation/danielborja/status/2114588058578190706#m",
+            "metrics": {
+              "like_count": 73,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114576183824175591",
+            "text": "Questionam que os votos inválidos + outros candidatos seguiram o padrão 4/1 pro Lula no geral, embora sua urna tenha sido 1/1. Sou 3ª via e não votei no Lula, mas precisaria de mais pessoas pra chegar a uma estatística e não conheço outra pessoa que seja 3ª via ou anulado",
+            "author_username": "douglasppires",
+            "author_name": "douglasppires",
+            "created_at": "2026-10-26T04:33:00+00:00",
+            "permalink": "https://nitter.mie.foundation/douglasppires/status/2114576183824175591#m",
+            "metrics": {
+              "like_count": 89,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114564812696953183",
+            "text": "\"a geração que ia aposentar o pt\" aprovou uma reforma da previdência e o barba vai ter que trabalhar mais 4 anos pqp",
+            "author_username": "_pgrodrigues",
+            "author_name": "_pgrodrigues",
+            "created_at": "2026-10-26T03:48:00+00:00",
+            "permalink": "https://nitter.mie.foundation/_pgrodrigues/status/2114564812696953183#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114563628502221120",
+            "text": "Fiquem em casa no mínimo mais 4 anos.. aceitando os mandos e desmandos dos \"poderes\". O crim3 compensa. O quebra quebra na Av Paulista, compensa!",
+            "author_username": "juliocbr",
+            "author_name": "juliocbr",
+            "created_at": "2026-10-26T03:43:00+00:00",
+            "permalink": "https://nitter.mie.foundation/juliocbr/status/2114563628502221120#m",
+            "metrics": {
+              "like_count": 48,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114561456301650381",
+            "text": "Marçal disse que Lula era uma laranja e já deu o caldo que tinha que dar, rapaz.. KKKKKKKKKKKKKKK caldo pra mais 4 anos 👏🏻👏🏻👏🏻😂😂😂⭐⭐",
+            "author_username": "zbct0",
+            "author_name": "zbct0",
+            "created_at": "2026-10-26T03:35:00+00:00",
+            "permalink": "https://nitter.mie.foundation/zbct0/status/2114561456301650381#m",
+            "metrics": {
+              "like_count": 34,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114556646101807307",
+            "text": "Passarás mais 4 anos esperando. E o RJ não ficará muito atrás. Com esse governador Ruas, Fachel passará mais 4 anos reclamando do enxuga gelo da polícia. E nós concordaremos com Fachel.",
+            "author_username": "mjdelfino",
+            "author_name": "mjdelfino",
+            "created_at": "2026-10-26T03:16:00+00:00",
+            "permalink": "https://nitter.mie.foundation/mjdelfino/status/2114556646101807307#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114555299814048241",
+            "text": "O Miliciano não quer reconhecer que perdeu com diferença de mais de 4 milhões de votos. Derrota e chifre são duas coisas difíceis quando a pessoa não aceita.",
+            "author_username": "antoniole24",
+            "author_name": "antoniole24",
+            "created_at": "2026-10-26T03:10:00+00:00",
+            "permalink": "https://nitter.mie.foundation/antoniole24/status/2114555299814048241#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114553504584871994",
+            "text": "toda vez essa mesma história!!! em 2h a mais 4 milhões de pessoas saíram de casa  votaram no lula, é isso mesmo porra",
+            "author_username": "oliveiraaluana_",
+            "author_name": "oliveiraaluana_",
+            "created_at": "2026-10-26T03:03:00+00:00",
+            "permalink": "https://nitter.mie.foundation/oliveiraaluana_/status/2114553504584871994#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114550353588834590",
+            "text": "Nos debates quem tem mais de 4 neurônios percebeu o tanto que Flavio mente, falava de corte de gastos mas que ia fazer ferrovia e manter as politicas sociais. Sem contar na fala de \" mudar a constituição para redemocratizar o Brasil\"",
+            "author_username": "SENlNHA",
+            "author_name": "SENlNHA",
+            "created_at": "2026-10-26T02:51:00+00:00",
+            "permalink": "https://nitter.mie.foundation/SENlNHA/status/2114550353588834590#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114546200221192630",
+            "text": "Como empresário(a), sua obrigação é rentabilizar o negócio em qualquer cenário político do país. Ficar apenas assistindo aos acontecimentos na esperança de que \"tudo vai dar certo\" é um erro fatal. É preciso adotar uma postura de vigilância estratégica e preparar a sua empresa para os seguintes desafios:\n\n1. Aumento da censura, com restrições cada vez mais severas, inclusive nas redes sociais;\n2. Valorização contínua do dólar;\n3. Estagnação do mercado de capitais, com mais 4 anos sem janelas de IPO;\n4. Escassez de mão de obra e impacto da escala 5x2, exigindo automação acelerada das operações para corte de custos e ganho de eficiência;\n5. Necessidade urgente de internacionalização, visando redundância geográfica e proteção patrimonial;\n6. Agravamento da criminalidade e da violência urbana;\n7. Insegurança jurídica crescente.\n\nTendo isso em mente, saibam que toda crise traz consigo a busca por bodes expiatórios. Ela virá, isso é inevitável, mas a narrativa oficial nunca responsabilizará o governo em exercício. A culpa será sempre direcionada a inimigos externos (como os EUA) ou ao \"empresariado ganancioso\" que manipula preços.\n\nPortanto, se você ainda não iniciou o processo de internacionalização da sua empresa, você e o seu negócio já estão entregues à própria sorte.\n\nFiquem atentos a agenda do *\"Business Expeditions\"* e tomem a rédia do futuro de suas vidas e dos seus negócios.",
+            "author_username": "wagner3m",
+            "author_name": "wagner3m",
+            "created_at": "2026-10-26T02:34:00+00:00",
+            "permalink": "https://nitter.mie.foundation/wagner3m/status/2114546200221192630#m",
+            "metrics": {
+              "like_count": 26,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114545166249865272",
+            "text": "Querido agora não é hora.\nEle estava na trincheira na declaração do Flávio.\nAgora unir forças, pois, se houver mesmo um 4° mandato do Lula não haverá mais eleição. Foco.",
+            "author_username": "ValHerdy",
+            "author_name": "ValHerdy",
+            "created_at": "2026-10-26T02:30:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ValHerdy/status/2114545166249865272#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114540690126614588",
+            "text": "A imprenssa estava em todos estados somou não teve mais que três pessoas votando uma porque ninguém sabia que havia prorrogado outra as 5 quem estava apto a vota já tinha votado até às 5.  Outra lula ganhou com mais de 4 milhões nem se as urnas ficasse mais três dias",
+            "author_username": "davidpaixao",
+            "author_name": "davidpaixao",
+            "created_at": "2026-10-26T02:12:00+00:00",
+            "permalink": "https://nitter.mie.foundation/davidpaixao/status/2114540690126614588#m",
+            "metrics": {
+              "like_count": 155,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114539855686291596",
+            "text": "Bom, agora sabemos de uma coisa: quem tem dinheiro de verdade não está tão triste assim.\n\nMais 4 anos com juros elevados, o dinheiro rendendo e a dívida pública custando caro.\n\nNo Brasil, quem vive de renda pode brindar. Quem vive de salário, paga a conta.",
+            "author_username": "arlisson_pm",
+            "author_name": "arlisson_pm",
+            "created_at": "2026-10-26T02:09:00+00:00",
+            "permalink": "https://nitter.mie.foundation/arlisson_pm/status/2114539855686291596#m",
+            "metrics": {
+              "like_count": 32,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114536789801115925",
+            "text": "Com esse sistema. Tá jogando pra galera né. Sabemos que já estamos consolidados num regime tirano. São mais 4 ministros comunistas",
+            "author_username": "SusyGuerreiro1",
+            "author_name": "SusyGuerreiro1",
+            "created_at": "2026-10-26T01:57:00+00:00",
+            "permalink": "https://nitter.mie.foundation/SusyGuerreiro1/status/2114536789801115925#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114536773980143954",
+            "text": "Flávio ajudou a aprovar o fim da escala 6x1, garantiu o aumento ao bolsa família, e com isso ajudou o Lula a ficar mais 4 anos sendo o primeiro candidato a perder o segundo turno ganhando o primeiro.\n\nCerteza a pior campanha da história desse país.",
+            "author_username": "lordbxd",
+            "author_name": "lordbxd",
+            "created_at": "2026-10-26T01:57:00+00:00",
+            "permalink": "https://nitter.mie.foundation/lordbxd/status/2114536773980143954#m",
+            "metrics": {
+              "like_count": 64,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114534066972168580",
+            "text": "Flavio Bolsonaro irresponsável. Mau perdedor. Quer incendiar o país. Perdeu por mais de 4 milhões de votos. Golpismo indisfarçável.\n\nQuem causou os problemas de transporte público em Salvador e S. Paulo capital foram aliados do próprio Flavio Bolsonaro. Que devem ser devidamente processados.\n\nAs urnas falaram.",
+            "author_username": "ViniciusCord23",
+            "author_name": "ViniciusCord23",
+            "created_at": "2026-10-26T01:46:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ViniciusCord23/status/2114534066972168580#m",
+            "metrics": {
+              "like_count": 533,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 7
+            }
+          },
+          {
+            "id": "2114534012022853822",
+            "text": "Ele não reconhece o resultado das urnas mas 4 MILHÕES a mais de brasileiros SIM....\nfomos as urnas ....\nA maioria das seções ja estavam encerradas as 17 horas .\nE se me lembro bem  a turma dele também pediu pra prorrogar a eleição por mais tempo. \nNão procede a acusação.",
+            "author_username": "lutabaresDik",
+            "author_name": "lutabaresDik",
+            "created_at": "2026-10-26T01:46:00+00:00",
+            "permalink": "https://nitter.mie.foundation/lutabaresDik/status/2114534012022853822#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114533675476172984",
+            "text": "Vou tentar voltar pros animes e games... mas uma coisa vai me divertir... ver o caos financeiro nesses 4 anos...bora dolar, inflacao, selic e impostos... so mais vcs...",
+            "author_username": "Erix_SS",
+            "author_name": "Erix_SS",
+            "created_at": "2026-10-26T01:44:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Erix_SS/status/2114533675476172984#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114533577744367974",
+            "text": "O @CesarTralli não sabe nem disfarçar a decepção dele. Dá pra ver nitidamente a tristeza e a decepção do cara. Chora mais q é @lula 4 anos",
+            "author_username": "Fabrici70242229",
+            "author_name": "Fabrici70242229",
+            "created_at": "2026-10-26T01:44:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Fabrici70242229/status/2114533577744367974#m",
+            "metrics": {
+              "like_count": 66,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114532172166004742",
+            "text": "Não será mais 4 anos apenas, no Brasil não teremos mais eleições.",
+            "author_username": "Augusto6031072",
+            "author_name": "Augusto6031072",
+            "created_at": "2026-10-26T01:38:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Augusto6031072/status/2114532172166004742#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114532123508113602",
+            "text": "\"corinthians tá parecendo bolsonaro, só perde\" palavras do nosso presidente atual por mais 4 anos",
+            "author_username": "y2kcecii",
+            "author_name": "y2kcecii",
+            "created_at": "2026-10-26T01:38:00+00:00",
+            "permalink": "https://nitter.mie.foundation/y2kcecii/status/2114532123508113602#m",
+            "metrics": {
+              "like_count": 37,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114529270102188451",
+            "text": "Não tem como a maioria de direita ser eleita, e o presidente não.\nNão tem como.\nBora pra mais 4 anos de roubos e gastos excessivos.",
+            "author_username": "alesekope",
+            "author_name": "alesekope",
+            "created_at": "2026-10-26T01:27:00+00:00",
+            "permalink": "https://nitter.mie.foundation/alesekope/status/2114529270102188451#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114529105693565333",
+            "text": "Ótimo e os seus próximos 4 anos, como os meus serão de preços aumentando a cada dia, insegurança pública, bandidagem crescente (aliás, cuidado ao usar seu celular na rua), não queira precisar do SUS pois ele piorará a cada dia !!! \n\nResumindo, Bolsonaro preso e sua vida afundando a cada dia mais na miséria !!!",
+            "author_username": "christianreoli",
+            "author_name": "christianreoli",
+            "created_at": "2026-10-26T01:26:00+00:00",
+            "permalink": "https://nitter.mie.foundation/christianreoli/status/2114529105693565333#m",
+            "metrics": {
+              "like_count": 137,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114527894248755499",
+            "text": "Brasil agora tá lascado, mais 4 ministros e agora  vamos ser vendidos para a china",
+            "author_username": "sansaoss",
+            "author_name": "sansaoss",
+            "created_at": "2026-10-26T01:21:00+00:00",
+            "permalink": "https://nitter.mie.foundation/sansaoss/status/2114527894248755499#m",
+            "metrics": {
+              "like_count": 315,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114527051658973484",
+            "text": "Flávio sequestrou a Direita e acabou nos afundando por mais 4 anos.",
+            "author_username": "frbarcellos43",
+            "author_name": "frbarcellos43",
+            "created_at": "2026-10-26T01:18:00+00:00",
+            "permalink": "https://nitter.mie.foundation/frbarcellos43/status/2114527051658973484#m",
+            "metrics": {
+              "like_count": 27,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114525782777196584",
+            "text": "Realmente vc acredita que com essas eleições roubadas e o Nine indicando mais 4 ministros do (já podre) STF teremos mais alguma chance de eleger alguém, me sinto como uma criança que fizeram trabalhar em troca de um doce, e no final me deram um cascudo e um passa \"muleke\"!",
+            "author_username": "Everton99869486",
+            "author_name": "Everton99869486",
+            "created_at": "2026-10-26T01:13:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Everton99869486/status/2114525782777196584#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114525619237060958",
+            "text": "Estamos fudidos Renan \nE de quebra mais 4 ministros \nAguardando as notas de R$500,00",
+            "author_username": "sansaoss",
+            "author_name": "sansaoss",
+            "created_at": "2026-10-26T01:12:00+00:00",
+            "permalink": "https://nitter.mie.foundation/sansaoss/status/2114525619237060958#m",
+            "metrics": {
+              "like_count": 51,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114525543378886851",
+            "text": "E vc é o ser do voto inútil vai lá votar para Renan. Você é responsável pelo pt estar no poder mais 4 anos.",
+            "author_username": "zingaplayers",
+            "author_name": "zingaplayers",
+            "created_at": "2026-10-26T01:12:00+00:00",
+            "permalink": "https://nitter.mie.foundation/zingaplayers/status/2114525543378886851#m",
+            "metrics": {
+              "like_count": 677,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114525369839550642",
+            "text": "Irmãozão, lula 2 entregou o mais próspero Brasil da história. \n\nE tava pouco tá? Ele pode fazer os 4 melhores anos da história do Brasil, vamos cobrar juntos. \nPode vir comigo, pq o Brasil é foda e nós merecemos muito mais.",
+            "author_username": "pensandinho",
+            "author_name": "pensandinho",
+            "created_at": "2026-10-26T01:11:00+00:00",
+            "permalink": "https://nitter.mie.foundation/pensandinho/status/2114525369839550642#m",
+            "metrics": {
+              "like_count": 301,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114525221478695116",
+            "text": "Agora teremos mais 4 anos de ILUSÃO pela frente.\n\nComendo as migalhas do bolsa família, bolsa gás, pé de meia e sei lá, mais o que...",
+            "author_username": "tiggeschris",
+            "author_name": "tiggeschris",
+            "created_at": "2026-10-26T01:11:00+00:00",
+            "permalink": "https://nitter.mie.foundation/tiggeschris/status/2114525221478695116#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114524561358098718",
+            "text": "E mais 4 ministros",
+            "author_username": "sansaoss",
+            "author_name": "sansaoss",
+            "created_at": "2026-10-26T01:08:00+00:00",
+            "permalink": "https://nitter.mie.foundation/sansaoss/status/2114524561358098718#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114524077104787618",
+            "text": "Infelizmente Fachin e Kassio se calaram quando deveriam agir e vários \"se\" aparecerão.\nFato que devemos buscar pacificar o país (mais fácil com a derrota do que seria com a vitória), cobrar e trabalhar bastante para tentar suprir os erros do presidente com um congresso responsável e torcer para dias melhores ou mudança daqui a 4 anos.\nTodos ao lado do Brasil!!!",
+            "author_username": "RJNatanaelJr",
+            "author_name": "RJNatanaelJr",
+            "created_at": "2026-10-26T01:06:00+00:00",
+            "permalink": "https://nitter.mie.foundation/RJNatanaelJr/status/2114524077104787618#m",
+            "metrics": {
+              "like_count": 569,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 6
+            }
+          },
+          {
+            "id": "2114523007062343773",
+            "text": "Inacreditável,  mais 4 anos de atraso para nosso combalido Brasil 🇧🇷 🤕.\n\nInfelizmente @FlavioBolsonaro não venceu as eleições 2026,  com mais uma interferência dos Ministros do PT no STF e Cia.\n\nLula é reeleito presidente da República 🇧🇷\n\ncapitalnews.com.br/politica-…",
+            "author_username": "Ramos_Anderson",
+            "author_name": "Ramos_Anderson",
+            "created_at": "2026-10-26T01:02:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Ramos_Anderson/status/2114523007062343773#m",
+            "metrics": {
+              "like_count": 32,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114522849943900584",
+            "text": "Infelizmente, perdemos... Dessa vez fiquei completamente desapontado com esse país e desanimado com tudo... Não tem jeito mesmo, espero mesmo que o \"Painho\" gaste ainda mais, torre tudo, já que querem isso, vamos ver o povo comemorar mais 4 anos...",
+            "author_username": "fokixx",
+            "author_name": "fokixx",
+            "created_at": "2026-10-26T01:01:00+00:00",
+            "permalink": "https://nitter.mie.foundation/fokixx/status/2114522849943900584#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114522831065137601",
+            "text": "Agora o pessoal da direita vai reclamar igual o pessoal da esquerda no 1° turno, dos mais de 4 milhões de nulos e abstenção, que se tivessem votado no Flávio ele ganharia e blá blá blá kkkkkkk vão a merda",
+            "author_username": "luclazz",
+            "author_name": "luclazz",
+            "created_at": "2026-10-26T01:01:00+00:00",
+            "permalink": "https://nitter.mie.foundation/luclazz/status/2114522831065137601#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114522503842349113",
+            "text": "O que dizer!\nNós a plebe só vamos sofrer os desmandos dos chefes do país!\nAgora saberemos quanto será o IVA, quanto vai ficar os juros mais 4 anos, o STF no que vai se transformar...\nÉ isso, então vou apertar a tecla FODA-SE e vida que segue, enquanto pudermos suportar!",
+            "author_username": "EloiMaziero",
+            "author_name": "EloiMaziero",
+            "created_at": "2026-10-26T01:00:00+00:00",
+            "permalink": "https://nitter.mie.foundation/EloiMaziero/status/2114522503842349113#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114521567161885108",
+            "text": "Não iria mudar o resultado!\nTemos que sofrer mais 4 anos para aprender!",
+            "author_username": "Victor_Martins",
+            "author_name": "Victor_Martins",
+            "created_at": "2026-10-26T00:56:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Victor_Martins/status/2114521567161885108#m",
+            "metrics": {
+              "like_count": 132,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 12
+            }
+          },
+          {
+            "id": "2114521548090495212",
+            "text": "Por causa da Bahia, essa porcaria vai ficar mais 4 anos!...",
+            "author_username": "Francis86539688",
+            "author_name": "Francis86539688",
+            "created_at": "2026-10-26T00:56:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Francis86539688/status/2114521548090495212#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114521271018893328",
+            "text": "E assim a ciência no Brasil seguirá relativamente estável por mais 4 anos",
+            "author_username": "victordmachado",
+            "author_name": "victordmachado",
+            "created_at": "2026-10-26T00:55:00+00:00",
+            "permalink": "https://nitter.mie.foundation/victordmachado/status/2114521271018893328#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114521249892188559",
+            "text": "Obrigada Senhor, por nos livrar dessa mula, por mais 4 anos!!!",
+            "author_username": "nathannygoes",
+            "author_name": "nathannygoes",
+            "created_at": "2026-10-26T00:55:00+00:00",
+            "permalink": "https://nitter.mie.foundation/nathannygoes/status/2114521249892188559#m",
+            "metrics": {
+              "like_count": 24,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114520638488490237",
+            "text": "Todos os órgãos de imprensa do Brasil estavam dando vitória ao candidato Flávio Bolsonaro, houve sim algum tipo de golpe, nem que seja aquela absurda prorrogação do horário de votação para até as 19hs. Mais 4 anos de porcaria...",
+            "author_username": "Francis86539688",
+            "author_name": "Francis86539688",
+            "created_at": "2026-10-26T00:53:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Francis86539688/status/2114520638488490237#m",
+            "metrics": {
+              "like_count": 42,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114520413388599473",
+            "text": "Agora o Lula tem que ter vergonha na cara e fazer um governo melhor.\n\nEsse 3° mandato dele foi muito abaixo, ele vai ter que se reinventar e muito, mas sinceramente depois dessa virada eu não duvido mais nada nesse país.\n\nQue ele faça desses últimos 4 anos dele no poder o melhor.",
+            "author_username": "Pacoca1404",
+            "author_name": "Pacoca1404",
+            "created_at": "2026-10-26T00:52:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Pacoca1404/status/2114520413388599473#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114520359215198297",
+            "text": "A minha também e eu não sei se vou aguentar mais 4 anos de crise, não.",
+            "author_username": "fabiofcb1966",
+            "author_name": "fabiofcb1966",
+            "created_at": "2026-10-26T00:51:00+00:00",
+            "permalink": "https://nitter.mie.foundation/fabiofcb1966/status/2114520359215198297#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114520122664865888",
+            "text": "Prepare-se para o pior, maís 4 ministros no STF será o fim do país. Infelizmente! Muitos não acreditam quando acordarem será tarde demais, garanto pra VC q eu esperarei tranquilamente esse momento, pra rir da cara de cada um Q chorar 😭 pelo seu erro. Brasil Acabouuuuu!",
+            "author_username": "Rads286611",
+            "author_name": "Rads286611",
+            "created_at": "2026-10-26T00:50:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Rads286611/status/2114520122664865888#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114519451387470233",
+            "text": "Feito no sentido de conscientização. \nMas sim, vamos cobrar o Lula juntos, meu amigo. \n\nEle pode fazer os melhores 4 anos da história dessa nação, o Brasil merece ainda mais. \nPode vir comigo.",
+            "author_username": "pensandinho",
+            "author_name": "pensandinho",
+            "created_at": "2026-10-26T00:48:00+00:00",
+            "permalink": "https://nitter.mie.foundation/pensandinho/status/2114519451387470233#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114518442938085800",
+            "text": "Há, vai ter, um impostinho ali outro aqui, e também ele não vai precisar de congresso, já que agora o supremo pode aprovar tudo que ele quiser, com mais 4 indicações.",
+            "author_username": "ssalomao13",
+            "author_name": "ssalomao13",
+            "created_at": "2026-10-26T00:44:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ssalomao13/status/2114518442938085800#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114518244287476098",
+            "text": "Você foi GIGANTE meu velhinho @LulaOficial \nEu disse que você iria virar essa, são anos de história.\nA luta foi grande, puxada, com dificuldades mas no final deu tudo certo. \nObgda por mais 4 anos  com Democracia.\n✊🏽❤️⭐\n#LulaOMaiorDeTodos #LulaMeuPresidente #viramoslula",
+            "author_username": "Ellen_OSilvaa",
+            "author_name": "Ellen_OSilvaa",
+            "created_at": "2026-10-26T00:43:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Ellen_OSilvaa/status/2114518244287476098#m",
+            "metrics": {
+              "like_count": 55,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114518142772989960",
+            "text": "O Brasil ta ferrado mais 4 anos 🤣",
+            "author_username": "loirabonie0906",
+            "author_name": "loirabonie0906",
+            "created_at": "2026-10-26T00:43:00+00:00",
+            "permalink": "https://nitter.mie.foundation/loirabonie0906/status/2114518142772989960#m",
+            "metrics": {
+              "like_count": 498,
+              "reply_count": 1,
+              "retweet_count": 1,
+              "quote_count": 27
+            }
+          },
+          {
+            "id": "2114517885175386234",
+            "text": "Mas está tudo lindo, né? Kkkkk\nMais 4 anos, amigos! Depois não adianta reclamar!!!",
+            "author_username": "laurasouzapqt",
+            "author_name": "laurasouzapqt",
+            "created_at": "2026-10-26T00:42:00+00:00",
+            "permalink": "https://nitter.mie.foundation/laurasouzapqt/status/2114517885175386234#m",
+            "metrics": {
+              "like_count": 62,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114517231535088047",
+            "text": "Minas entregou a paçoca. Desculpe Zema, mas se desde início vc tivesse apoiado Flávio, não teríamos que sofrer mais 4 anos.\n@RomeuZema",
+            "author_username": "HiginoOliveiraf",
+            "author_name": "HiginoOliveiraf",
+            "created_at": "2026-10-26T00:39:00+00:00",
+            "permalink": "https://nitter.mie.foundation/HiginoOliveiraf/status/2114517231535088047#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114516591224238522",
+            "text": "Mais de 4 milhões!",
+            "author_username": "FrancisN13",
+            "author_name": "FrancisN13",
+            "created_at": "2026-10-26T00:36:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FrancisN13/status/2114516591224238522#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114516563260788920",
+            "text": "O nome disso é rejeição. Lula tem rejeição alta mas Flávio tem ainda mais, a direita apoiou o candidato errado e agora vamos colher 4 anos de Lula de novo.",
+            "author_username": "cezzar85",
+            "author_name": "cezzar85",
+            "created_at": "2026-10-26T00:36:00+00:00",
+            "permalink": "https://nitter.mie.foundation/cezzar85/status/2114516563260788920#m",
+            "metrics": {
+              "like_count": 33,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114515566270554216",
+            "text": "falam de assalto como se o Bolsonaro ganhasse ia acabar o roubo se liguem a direita governa o rio a 30 anos e é essa merda. Bolsonaro não é o homem aranha heroi da vizinhança não porra aceita e espera mais 4 anos",
+            "author_username": "LehFernandes12",
+            "author_name": "LehFernandes12",
+            "created_at": "2026-10-26T00:32:00+00:00",
+            "permalink": "https://nitter.mie.foundation/LehFernandes12/status/2114515566270554216#m",
+            "metrics": {
+              "like_count": 89,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114515351572472204",
+            "text": "Acabou... mais 4 anos de bandidos",
+            "author_username": "Friscio357",
+            "author_name": "Friscio357",
+            "created_at": "2026-10-26T00:32:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Friscio357/status/2114515351572472204#m",
+            "metrics": {
+              "like_count": 47,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114514795412255226",
+            "text": "O q definiu as eleições foi o ZANIN.\nGANHARAM NO RAPETÃO DE NOVO.\nO MALDITO LULA VAI COLOCAR MAIS 4 STF.\nE O ANDRE MENDONÇA SERA PRESO.",
+            "author_username": "ValHerdy",
+            "author_name": "ValHerdy",
+            "created_at": "2026-10-26T00:29:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ValHerdy/status/2114514795412255226#m",
+            "metrics": {
+              "like_count": 185,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114514765527625931",
+            "text": "Não conseguiram, haverá mais 4 cabeças de ovo",
+            "author_username": "Genival80325353",
+            "author_name": "Genival80325353",
+            "created_at": "2026-10-26T00:29:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Genival80325353/status/2114514765527625931#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114514703653142911",
+            "text": "E mais 4 anos de bandido sendo vítima da sociedade, absolutamente tudo caro, juros nas alturas, imposto em cima de imposto, dívida pública impagável, judiciário corrupto, medo de andar na rua e o povo vivendo de esmolas. Maravilha. 👍🏻",
+            "author_username": "rafaribeiro_adv",
+            "author_name": "rafaribeiro_adv",
+            "created_at": "2026-10-26T00:29:00+00:00",
+            "permalink": "https://nitter.mie.foundation/rafaribeiro_adv/status/2114514703653142911#m",
+            "metrics": {
+              "like_count": 109,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114514029376897283",
+            "text": "4 MILHÕES DE VOTOS A MAIS, BOLSONARO VOCE TA MORTO!!!!!! LULA REELEITO CARALHOOOO⭐⭐⭐⭐❤️❤️❤️🦑🦑🦑🦑🦑🦑🦑",
+            "author_username": "sleepyxiniih",
+            "author_name": "sleepyxiniih",
+            "created_at": "2026-10-26T00:26:00+00:00",
+            "permalink": "https://nitter.mie.foundation/sleepyxiniih/status/2114514029376897283#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114513613813641229",
+            "text": "Mais 4 Anos na M..... #DeusSalveOBrasil",
+            "author_username": "everton_britto",
+            "author_name": "everton_britto",
+            "created_at": "2026-10-26T00:25:00+00:00",
+            "permalink": "https://nitter.mie.foundation/everton_britto/status/2114513613813641229#m",
+            "metrics": {
+              "like_count": 27,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114513483391738125",
+            "text": "Tomaram o poder. Agora com 4 ministros a mais, qualquer um de oposição dentro do congresso será  cassado. Não teremos mais eleições. A maioria  criada agora vai ser eliminada processo a processo. Viramos a Venezuela. Só  uma intervenção estrangeira pode parar esse processo.",
+            "author_username": "FSJORGE76",
+            "author_name": "FSJORGE76",
+            "created_at": "2026-10-26T00:24:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FSJORGE76/status/2114513483391738125#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114513457660002565",
+            "text": "Será mais 4 anos de roubo......",
+            "author_username": "FernandoSalus14",
+            "author_name": "FernandoSalus14",
+            "created_at": "2026-10-26T00:24:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FernandoSalus14/status/2114513457660002565#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114513388118200452",
+            "text": "Vai chorar Bruno...por mais 4 anos. Estou comemorando",
+            "author_username": "carolin8285543",
+            "author_name": "carolin8285543",
+            "created_at": "2026-10-26T00:24:00+00:00",
+            "permalink": "https://nitter.mie.foundation/carolin8285543/status/2114513388118200452#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114512097451332000",
+            "text": "Que o Brasil amargue sua decisão.\nTeremos mais 4 anos de retrocesso...\n\n Resultados share.google/Prom0y0pYmmS8m6…",
+            "author_username": "tiggeschris",
+            "author_name": "tiggeschris",
+            "created_at": "2026-10-26T00:19:00+00:00",
+            "permalink": "https://nitter.mie.foundation/tiggeschris/status/2114512097451332000#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114512095761043762",
+            "text": "Mais 4 anos!!!!",
+            "author_username": "FernandoSalus14",
+            "author_name": "FernandoSalus14",
+            "created_at": "2026-10-26T00:19:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FernandoSalus14/status/2114512095761043762#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114511982388801882",
+            "text": "PAINHO MAIS 4 ANOS, COM ISSO 21 ANOS DE PT NO PODER, AGORA BRASIL VIRA SUIÇA, DESSA VEZ VAI, SEREMOS",
+            "author_username": "EuGabrielEu9",
+            "author_name": "EuGabrielEu9",
+            "created_at": "2026-10-26T00:18:00+00:00",
+            "permalink": "https://nitter.mie.foundation/EuGabrielEu9/status/2114511982388801882#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 6,
+              "retweet_count": 1,
+              "quote_count": 81
+            }
+          },
+          {
+            "id": "2114511902105563420",
+            "text": "Relaxa. Infelizmente teremos que aturar esses vagabundos por mais 4 anos, pois depois disso, esse partido das trevas morre. Claro que apartir de 27 estaremos muito phudidos, pois vai faltar $$$ pra tudo que esse pilantra prometeu...",
+            "author_username": "LBA_007",
+            "author_name": "LBA_007",
+            "created_at": "2026-10-26T00:18:00+00:00",
+            "permalink": "https://nitter.mie.foundation/LBA_007/status/2114511902105563420#m",
+            "metrics": {
+              "like_count": 85,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114511658164813948",
+            "text": "PUTA QUE PARIU..... NÃO QUERO SOFRER MAIS 4 ANOS COM A LEI FELCA E A PUTA DA JANJA....",
+            "author_username": "JohnMFoxxy",
+            "author_name": "JohnMFoxxy",
+            "created_at": "2026-10-26T00:17:00+00:00",
+            "permalink": "https://nitter.mie.foundation/JohnMFoxxy/status/2114511658164813948#m",
+            "metrics": {
+              "like_count": 36,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114511588111868191",
+            "text": "Acabou a eleição, daqui a 4 anos tem mais...\n\nVoltamos a programação normal \n\nAMANHÃ TEM GAAAAAAAAAAALOOOOOOO, E NADA MAIS IMPORTA 🐔🐔",
+            "author_username": "NandoTeixeiraV9",
+            "author_name": "NandoTeixeiraV9",
+            "created_at": "2026-10-26T00:17:00+00:00",
+            "permalink": "https://nitter.mie.foundation/NandoTeixeiraV9/status/2114511588111868191#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 11,
+              "retweet_count": 2,
+              "quote_count": 63
+            }
+          },
+          {
+            "id": "2114511161530191977",
+            "text": "A culpa não é só dos milhões de retardados que votaram em um ex-condenado que deveria estar preso até hoje...\n\nA culpa é também de quem apoiou e endossou a escolha de um marginal para enfrentá-lo.\n\nVocê que apoiou esse vagabundo do Flávio Bolsonaro é culpado por mais 4 anos de PT também.",
+            "author_username": "CascaGrossaReal",
+            "author_name": "CascaGrossaReal",
+            "created_at": "2026-10-26T00:15:00+00:00",
+            "permalink": "https://nitter.mie.foundation/CascaGrossaReal/status/2114511161530191977#m",
+            "metrics": {
+              "like_count": 50,
+              "reply_count": 82,
+              "retweet_count": 199,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114511130592760126",
+            "text": "Eu fiz aquilo que como brasileiro deveria fazer, mas vivemos em um país onde a democracia impera, que venha mais 4 anos, eu acredito que não cai uma folha sem a permissão de Deus, então!!!!!",
+            "author_username": "Cristia44223191",
+            "author_name": "Cristia44223191",
+            "created_at": "2026-10-26T00:15:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Cristia44223191/status/2114511130592760126#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114510937755726219",
+            "text": "Mantendo por mais 4 anos. \nEsse país é uma vergonha.",
+            "author_username": "Nakle",
+            "author_name": "Nakle",
+            "created_at": "2026-10-26T00:14:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Nakle/status/2114510937755726219#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114509983173710062",
+            "text": "Mais 4 anos 🤦🏻‍♀️",
+            "author_username": "EmyGattino",
+            "author_name": "EmyGattino",
+            "created_at": "2026-10-26T00:10:00+00:00",
+            "permalink": "https://nitter.mie.foundation/EmyGattino/status/2114509983173710062#m",
+            "metrics": {
+              "like_count": 74,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114509835546853711",
+            "text": "Mais 4 anos de saidinha de presos\nMais 4 anos de roubo de celulares \nHaddad de volta na economia",
+            "author_username": "FabioPorao99",
+            "author_name": "FabioPorao99",
+            "created_at": "2026-10-26T00:10:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FabioPorao99/status/2114509835546853711#m",
+            "metrics": {
+              "like_count": 61,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114509378359287931",
+            "text": "Mais 4 Anos do de sempre... Que pena Brasil!",
+            "author_username": "MaurcioMotta1",
+            "author_name": "MaurcioMotta1",
+            "created_at": "2026-10-26T00:08:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MaurcioMotta1/status/2114509378359287931#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114509246411001901",
+            "text": "Mais 4 anos de STF comandando o país",
+            "author_username": "FabioPorao99",
+            "author_name": "FabioPorao99",
+            "created_at": "2026-10-26T00:07:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FabioPorao99/status/2114509246411001901#m",
+            "metrics": {
+              "like_count": 54,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114508884643574240",
+            "text": "Mais 4 no STF, demogracinha... É o jeito...\n\nGOLPE",
+            "author_username": "crypt_archangel",
+            "author_name": "crypt_archangel",
+            "created_at": "2026-10-26T00:06:00+00:00",
+            "permalink": "https://nitter.mie.foundation/crypt_archangel/status/2114508884643574240#m",
+            "metrics": {
+              "like_count": 787,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 12
+            }
+          },
+          {
+            "id": "2114508684608860536",
+            "text": "Bom pra vc, já nós vamos ter que aturar esse 9 dedos socando imposto no brasileiro por mais 4 anos",
+            "author_username": "ssalomao13",
+            "author_name": "ssalomao13",
+            "created_at": "2026-10-26T00:05:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ssalomao13/status/2114508684608860536#m",
+            "metrics": {
+              "like_count": 60,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114508443969098049",
+            "text": "Mais 4 anos de Janja\nMais 4 cadeiras no STF \nMais 4 anos de Lulinha \nMinistério para Janones\nAguardando o próximo \"maior esquema de corrupção do país",
+            "author_username": "FabioPorao99",
+            "author_name": "FabioPorao99",
+            "created_at": "2026-10-26T00:04:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FabioPorao99/status/2114508443969098049#m",
+            "metrics": {
+              "like_count": 270,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 7
+            }
+          },
+          {
+            "id": "2114508368001810645",
+            "text": "Mais 4 anos do Barba",
+            "author_username": "vagner0070",
+            "author_name": "vagner0070",
+            "created_at": "2026-10-26T00:04:00+00:00",
+            "permalink": "https://nitter.mie.foundation/vagner0070/status/2114508368001810645#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114508335990833365",
+            "text": "LUULA está vencendo...\nVamos ter q amargar mais 4 anos de NARRATIVAS?\nParece q sim...\nÉ um Brasil iludido.\nÉ um Brasil desperdiçado para o FUTURO.",
+            "author_username": "tiggeschris",
+            "author_name": "tiggeschris",
+            "created_at": "2026-10-26T00:04:00+00:00",
+            "permalink": "https://nitter.mie.foundation/tiggeschris/status/2114508335990833365#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114507306717126983",
+            "text": "Quem diria que escolher um bandido para enfrentar o outro não daria certo, né?\n\nNós tentamos avisar, mas vocês preferiram nos atacar, mesmo sabendo que estávamos certos.\n\nAgora a gente se fode todo mundo junto com mais 4 anos de PT aí...",
+            "author_username": "CascaGrossaReal",
+            "author_name": "CascaGrossaReal",
+            "created_at": "2026-10-26T00:00:00+00:00",
+            "permalink": "https://nitter.mie.foundation/CascaGrossaReal/status/2114507306717126983#m",
+            "metrics": {
+              "like_count": 68,
+              "reply_count": 105,
+              "retweet_count": 426,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114507221249773847",
+            "text": "Parabéns à família Bolsonaro, por puro ego nos entregou a mais 4 anos do demônio como presidente.",
+            "author_username": "Deris01",
+            "author_name": "Deris01",
+            "created_at": "2026-10-25T23:59:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Deris01/status/2114507221249773847#m",
+            "metrics": {
+              "like_count": 38,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114506764012130403",
+            "text": "Não existe mais votação. Eles tomaram e não sairão mais do poder. Ele agora indica mais 4 pra Facção do STF e tchau",
+            "author_username": "cleberfelipe11",
+            "author_name": "cleberfelipe11",
+            "created_at": "2026-10-25T23:57:00+00:00",
+            "permalink": "https://nitter.mie.foundation/cleberfelipe11/status/2114506764012130403#m",
+            "metrics": {
+              "like_count": 347,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 10
+            }
+          },
+          {
+            "id": "2114506652623737059",
+            "text": "O Golpe já tá dado, mais 4 anos sofrendo com bandido na presidência! Todos sabemos que tá errado, mas esse pessoal é muito cego pra não enxergar",
+            "author_username": "TheuzinMc1",
+            "author_name": "TheuzinMc1",
+            "created_at": "2026-10-25T23:57:00+00:00",
+            "permalink": "https://nitter.mie.foundation/TheuzinMc1/status/2114506652623737059#m",
+            "metrics": {
+              "like_count": 46,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114506642259882344",
+            "text": "Já era. O erro foi ter deixado o Flávio Bolsonaro concorrer... aceita que agora é mais 4 anos com o Nine na liderança.",
+            "author_username": "cezzar85",
+            "author_name": "cezzar85",
+            "created_at": "2026-10-25T23:57:00+00:00",
+            "permalink": "https://nitter.mie.foundation/cezzar85/status/2114506642259882344#m",
+            "metrics": {
+              "like_count": 46,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114506336297759177",
+            "text": "Puta que pariu....\n\nAmanhã é dia do meu patrão cuspir marimbondo vendo o Dólar subir e ele não conseguindo vender.\n\nVamos para mais 4 anos de Lula\nVejo vocês em 2030\n\nVivam suas vidas e não dependam do Governo.",
+            "author_username": "brunobarbafla",
+            "author_name": "brunobarbafla",
+            "created_at": "2026-10-25T23:56:00+00:00",
+            "permalink": "https://nitter.mie.foundation/brunobarbafla/status/2114506336297759177#m",
+            "metrics": {
+              "like_count": 445,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 13
+            }
+          },
+          {
+            "id": "2114504128025985517",
+            "text": "@LulaOficial, vai continuar com Calabouço Fiscal, com construção de austeridade e obsessão por déficit zero no lombo da classe trabalhadora? 4 anos de mais esmagamento! Fora, Austeriddad, Tebet, Durigan e qualquer lixo simpatizante da Faria Lima!",
+            "author_username": "tjp_petrucci",
+            "author_name": "tjp_petrucci",
+            "created_at": "2026-10-25T23:47:00+00:00",
+            "permalink": "https://nitter.mie.foundation/tjp_petrucci/status/2114504128025985517#m",
+            "metrics": {
+              "like_count": 34,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114503623035986282",
+            "text": "As 2 horas a mais inventadas pelo Zanin vão se tornar 4 anos de judicialização e de atraso para o Brasil.\nParabéns jagunço!",
+            "author_username": "joaopaulonuness",
+            "author_name": "joaopaulonuness",
+            "created_at": "2026-10-25T23:45:00+00:00",
+            "permalink": "https://nitter.mie.foundation/joaopaulonuness/status/2114503623035986282#m",
+            "metrics": {
+              "like_count": 32,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114503387823673525",
+            "text": "Mais 4 anos de PT",
+            "author_username": "sccpbueno",
+            "author_name": "sccpbueno",
+            "created_at": "2026-10-25T23:44:00+00:00",
+            "permalink": "https://nitter.mie.foundation/sccpbueno/status/2114503387823673525#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114502776260624696",
+            "text": "Morreu Maria Prea.....mais 4 anos do ladrão de nove dedos",
+            "author_username": "TaiguaraAS",
+            "author_name": "TaiguaraAS",
+            "created_at": "2026-10-25T23:42:00+00:00",
+            "permalink": "https://nitter.mie.foundation/TaiguaraAS/status/2114502776260624696#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114499667572486645",
+            "text": "Mais 4 anos com direitos básicos,  rapaziada. Pode soltar o rojao",
+            "author_username": "fael_scm",
+            "author_name": "fael_scm",
+            "created_at": "2026-10-25T23:29:00+00:00",
+            "permalink": "https://nitter.mie.foundation/fael_scm/status/2114499667572486645#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114491792288780560",
+            "text": "Minha avó não vota a alguns anos e não votou no primeiro turno. \n\nDia 4, viu os resultados e nao acreditou em como as pessoas estavam sendo tão más assim em votar em um bolsonaro de novo.\n\nDisse que estávamos precisando de toda ajuda para vencer mais uma vez. E foi.",
+            "author_username": "ZzPrincessZzz",
+            "author_name": "ZzPrincessZzz",
+            "created_at": "2026-10-25T22:58:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ZzPrincessZzz/status/2114491792288780560#m",
+            "metrics": {
+              "like_count": 42,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114482130814185497",
+            "text": "@JanjaLula como tá a pressão do nosso velhinho? como tá o coração? Já deu algum calmante? \nManda ele aguentar um pouquinho ai, pois ele tem mais 4 anos de luta, já virou já virou!  \n ✊🏽😭❤️⭐ \n\n#BrilhaNossaEstrela\n#LulaVaiVencer1️⃣3️⃣\n#PelaDemocracia",
+            "author_username": "Ellen_OSilvaa",
+            "author_name": "Ellen_OSilvaa",
+            "created_at": "2026-10-25T22:19:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Ellen_OSilvaa/status/2114482130814185497#m",
+            "metrics": {
+              "like_count": 52,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114470283734327740",
+            "text": "Olha o que UM bolsonarista no STF pode fazer... imagina 4. Esgotado disso ó, o bolsonarismo empurrou o processo eleitoral ao mais baixo nivel\n\n#DeixemOPovoVotar",
+            "author_username": "KayanLimas",
+            "author_name": "KayanLimas",
+            "created_at": "2026-10-25T21:32:00+00:00",
+            "permalink": "https://nitter.mie.foundation/KayanLimas/status/2114470283734327740#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114466292698698046",
+            "text": "E obrigado pela audiência. Para mais comentários clubistas sigam o perfil. E vai chorar na cama, quem não tem competência pra chegar na final dentro das 4 linhas.",
+            "author_username": "dgrandesso",
+            "author_name": "dgrandesso",
+            "created_at": "2026-10-25T21:17:00+00:00",
+            "permalink": "https://nitter.mie.foundation/dgrandesso/status/2114466292698698046#m",
+            "metrics": {
+              "like_count": 234,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 7
+            }
+          },
+          {
+            "id": "2114465423257215270",
+            "text": "O COMUNISTAS SÃO MUITO AMADORES, FICAM CORRENDO ATRÁS DE MACALLAM E PUTAS LOIRAS,  E SÃO TOTALMENTES IRRESPONSÁVEIS E INCONSEQUENTES,  EU NÃO LULA LADRÃO COMO PRESIDENTE DO BRASIL COM SUA COMPANHEIRA A PIRANJA COMO PRIMEIRA DAMA POR MAIS 4 ANOS, CHEGA!",
+            "author_username": "FABER1254",
+            "author_name": "FABER1254",
+            "created_at": "2026-10-25T21:13:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FABER1254/status/2114465423257215270#m",
+            "metrics": {
+              "like_count": 40,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114460576789246265",
+            "text": "Que seja feita a minha a tua a nossa vontade.\n\nEstrela estrelinha brilha mais uma vez por 4 anos ....\n\n#LulaOMaiorDeTodos #LulaPelaDemocracia \n#Lula13",
+            "author_username": "lutabaresDik",
+            "author_name": "lutabaresDik",
+            "created_at": "2026-10-25T20:54:00+00:00",
+            "permalink": "https://nitter.mie.foundation/lutabaresDik/status/2114460576789246265#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114452649571397939",
+            "text": "Eu acho MUITO dificil o Lula ganhar, vamos ficar 4 anos aturando mais um governo miliciano",
+            "author_username": "_bia_gsm",
+            "author_name": "_bia_gsm",
+            "created_at": "2026-10-25T20:22:00+00:00",
+            "permalink": "https://nitter.mie.foundation/_bia_gsm/status/2114452649571397939#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114415203173515538",
+            "text": "É muito importante que vc tenha um metodo de estudo. Nao ter método pode te custar caro e lembre-se: menos é mais. Concurseiros se impressionam com o complexo mas nao saber o basico que te reprova - 4 de X",
+            "author_username": "madeiradez",
+            "author_name": "madeiradez",
+            "created_at": "2026-10-25T17:54:00+00:00",
+            "permalink": "https://nitter.mie.foundation/madeiradez/status/2114415203173515538#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 185
+            }
+          },
+          {
+            "id": "2114394150955110555",
+            "text": "Isso ele e a turma dele ja tiveram 20 anos para melhorar a vida dos cidadãos, inclusive do subúrbio mas agora precisa ficar mais 4 anos para melhorar a vida do Brasileiro. Que pensamento, rapazzzz",
+            "author_username": "andrefflores1",
+            "author_name": "andrefflores1",
+            "created_at": "2026-10-25T16:30:00+00:00",
+            "permalink": "https://nitter.mie.foundation/andrefflores1/status/2114394150955110555#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114389849088180512",
+            "text": "Azar o dele de chamar ela de pilantra. Não votou nele por vingança, embora o nosso Biden não tem condições de governar mais 4 anos. Valeu pelo voto.",
+            "author_username": "FialhoSa",
+            "author_name": "FialhoSa",
+            "created_at": "2026-10-25T16:13:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FialhoSa/status/2114389849088180512#m",
+            "metrics": {
+              "like_count": 157,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114384633349431388",
+            "text": "Arthur Lira (PP), senador eleito por Alagoas, votou neste domingo (25), em Pilar, durante o segundo turno das eleições. Ele recebeu 948.703 votos na disputa pelo Senado, no primeiro turno, realizado em 4 de outubro. Saiba mais no link na bio.",
+            "author_username": "Cadamin",
+            "author_name": "Cadamin",
+            "created_at": "2026-10-25T15:52:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Cadamin/status/2114384633349431388#m",
+            "metrics": {
+              "like_count": 210,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114373396624523469",
+            "text": "OS LÍDERES EUROPEUS SABOTAM A PAZ NA UCRÂNIA.\n\nO vídeo apresenta uma entrevista conduzida pelo Prof. Glenn Diesen com o embaixador Chas Freeman, discutindo o atual cenário de crise diplomática global, com foco especial nos conflitos na Ucrânia e no Oriente Médio.\n\nPrincipais pontos discutidos:\n\n1.Fracasso Diplomático na Europa: \nFreeman critica a recente proposta de paz de Oslo, argumentando que ela falhou por ignorar as preocupações de segurança da Rússia. Ele contrasta isso com a proposta de Jeffrey Sachs, que considera mais realista e pragmática.\n\n2.O Futuro da Ucrânia:\n O embaixador projeta um futuro sombrio para a Ucrânia, descrevendo-a como uma nação potencialmente sem saída para o mar, desindustrializada e marcada pela corrupção, usada pelo Ocidente como um instrumento para enfraquecer a Rússia.\n\n3.Politização da Diplomacia: \nÉ destacado um \"colapso institucional\" no Departamento de Estado dos EUA, onde diplomatas de carreira estão sendo substituídos ou avaliados por critérios políticos internos.\n\n4.Situação no Oriente Médio: Freeman discute a ineficácia dos processos de paz na região, como o \"Conselho da Paz\" em Gaza, e o surgimento de novas estruturas de autonomia estratégica, como a Aliança de Meca e o Pacto da Manteiga, que buscam reduzir a dependência dos Estados Unidos.\n\n5.Crise Democrática: \nAmbos os debatedores observam que a guerra e a polarização política estão afetando a estabilidade democrática, tanto na Europa quanto nos EUA, com o aumento de populismos e tensões sociais.\n\nyoutu.be/PRp95O6hLr0?is=molw…\n\nOlá, não deixe de se inscrever no Canal Mundo Multipolar no Telegram:\nt.me/mundomultipolar",
+            "author_username": "MultipolarMundo",
+            "author_name": "MultipolarMundo",
+            "created_at": "2026-10-25T15:07:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MultipolarMundo/status/2114373396624523469#m",
+            "metrics": {
+              "like_count": 183,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114372622137831683",
+            "text": "Eu não quero mais 4 anos de SUJEIRA, CORRUPÇÃO e INSEGURANÇA PÚBLICA do PTismo.  Chega!\n\nOnde o ESQUERDISMO governa fica um rastro de SUJEIRA. \n\nOnde a DIREITA governa fica tudo limpo, sem a sujeira e organizado.",
+            "author_username": "AGarciaS1611",
+            "author_name": "AGarciaS1611",
+            "created_at": "2026-10-25T15:04:00+00:00",
+            "permalink": "https://nitter.mie.foundation/AGarciaS1611/status/2114372622137831683#m",
+            "metrics": {
+              "like_count": 564,
+              "reply_count": 0,
+              "retweet_count": 26,
+              "quote_count": 75
+            }
+          },
+          {
+            "id": "2114366427557699696",
+            "text": "Consegui levar 4 pessoas que não votaram no primeiro turno para votar hoje! ❤️🇧🇷\n\nUm voto a mais faz a diferença! Vamos pra luta! ✊❤️⭐️🦑\n#LulaPelaDemocracia \n#ExercitoDoLula \n#LulaVaiVencer1️⃣3️⃣",
+            "author_username": "belarosemberg",
+            "author_name": "belarosemberg",
+            "created_at": "2026-10-25T14:40:00+00:00",
+            "permalink": "https://nitter.mie.foundation/belarosemberg/status/2114366427557699696#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114358409751392697",
+            "text": "E o Nordeste tendo 4 Estados no top 10 mais violentos do Brasil",
+            "author_username": "pcampos_f1",
+            "author_name": "pcampos_f1",
+            "created_at": "2026-10-25T14:08:00+00:00",
+            "permalink": "https://nitter.mie.foundation/pcampos_f1/status/2114358409751392697#m",
+            "metrics": {
+              "like_count": 563,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114355072234594467",
+            "text": "Tipo o Lula, um lider que concorre a Presidência à 37 anos, que tenta o 4° mandato( e mais 6 anos da cumpanheira Dilma), só que da esquerda? Que domina o povo prometendo migalhas e segurando esse povo nessas migalhas, pra se perpetuar no Poder.",
+            "author_username": "marcelocrocelli",
+            "author_name": "marcelocrocelli",
+            "created_at": "2026-10-25T13:55:00+00:00",
+            "permalink": "https://nitter.mie.foundation/marcelocrocelli/status/2114355072234594467#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114351511522214070",
+            "text": "Só mais 4, mais 4, mais 4, mais 4..... é só pra deixar mais gente na miséria!!!",
+            "author_username": "dannymello013",
+            "author_name": "dannymello013",
+            "created_at": "2026-10-25T13:40:00+00:00",
+            "permalink": "https://nitter.mie.foundation/dannymello013/status/2114351511522214070#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114326320767254663",
+            "text": "Tempos sombrios... \nbuhhhh 👻👻👻\nSó mais 4 aninhos pessoal, é pela democracinha sim, não é pra ficar mais 20 anos no poder não, tá 🤡\n\n🙄",
+            "author_username": "EdenFact",
+            "author_name": "EdenFact",
+            "created_at": "2026-10-25T12:00:00+00:00",
+            "permalink": "https://nitter.mie.foundation/EdenFact/status/2114326320767254663#m",
+            "metrics": {
+              "like_count": 171,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114319006014357749",
+            "text": "Se o país está quebrado e não cresce... Como, nesses 4 anos, eu comprei um fogão de 2  fornos, uma máquina de lavar; 5 pares de tênis, várias roupas; troquei de academia,  estou em acompanhamento nutricional; como mais e melhor; quase comecei meu curso superior? E tudo com $1600",
+            "author_username": "osantoluiz",
+            "author_name": "osantoluiz",
+            "created_at": "2026-10-25T11:31:00+00:00",
+            "permalink": "https://nitter.mie.foundation/osantoluiz/status/2114319006014357749#m",
+            "metrics": {
+              "like_count": 61,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114318772899135997",
+            "text": "Negacionista dos fatos dos últimos anos pra cá....\nNunca ouve tanta censura e decisões autoritários e monocráticos como nos últimos 4 anos.\nE mais 4 a 5 ministros no nível Alex ou Dino só vai piorar isso....",
+            "author_username": "easy_cash",
+            "author_name": "easy_cash",
+            "created_at": "2026-10-25T11:30:00+00:00",
+            "permalink": "https://nitter.mie.foundation/easy_cash/status/2114318772899135997#m",
+            "metrics": {
+              "like_count": 26,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114318284791206061",
+            "text": "Eles só querem tirar o PT. Entendo as indignações e os anseios.Prefiro ficar estagnado com mais 4 anos de Lula do que votar em uma família que nunca teve em seus projetos o Brasil. Assim, vou de LULA 13, consciente que estou do lado correto. Viva o nosso direito de escolha. 🤝🇧🇷",
+            "author_username": "Nogueira_igor40",
+            "author_name": "Nogueira_igor40",
+            "created_at": "2026-10-25T11:28:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Nogueira_igor40/status/2114318284791206061#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114301542933069873",
+            "text": "Diversas nações tiveram mudanças significativas no mesmo período que temos o PT no poder, mas só aqui sempre precisa de mais 4 anos pra acabar com a miséria",
+            "author_username": "ands_99",
+            "author_name": "ands_99",
+            "created_at": "2026-10-25T10:22:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ands_99/status/2114301542933069873#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114288041548284206",
+            "text": "Fiquei sabendo ontem que a mãe dos meus primos ficou presa por 4 meses na papuda.  Sabendo disso: ainda mais certeza que estamos no caminho certo\n22 Flávio.@Fa1ryNight",
+            "author_username": "SusyGuerreiro1",
+            "author_name": "SusyGuerreiro1",
+            "created_at": "2026-10-25T09:28:00+00:00",
+            "permalink": "https://nitter.mie.foundation/SusyGuerreiro1/status/2114288041548284206#m",
+            "metrics": {
+              "like_count": 117,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 14
+            }
+          },
+          {
+            "id": "2114203677514706948",
+            "text": "Se tivemos vários países com mais mortes proporcionais que o Brasil, cerca de 4% do total de mortes no período entre a primeira vacina no mundo e quase 400 mil mortes após início da vacinação, estatisticamente é possível considerar alguma dessas duas pesquisas (uma com 120 e outra com 400 mil!!!)?",
+            "author_username": "RJNatanaelJr",
+            "author_name": "RJNatanaelJr",
+            "created_at": "2026-10-25T03:53:00+00:00",
+            "permalink": "https://nitter.mie.foundation/RJNatanaelJr/status/2114203677514706948#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114200878542393764",
+            "text": "lotou pq ninguém suporta mais tantas hipocrisia de vcs ,tapou o sol com a peneira durante 4 anos e hj vem com narrativas de quinta categoria",
+            "author_username": "AdrianaR15084",
+            "author_name": "AdrianaR15084",
+            "created_at": "2026-10-25T03:42:00+00:00",
+            "permalink": "https://nitter.mie.foundation/AdrianaR15084/status/2114200878542393764#m",
+            "metrics": {
+              "like_count": 173,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 7
+            }
+          },
+          {
+            "id": "2114190445332873534",
+            "text": "Nada será como era antes pode ser bom ou melhor a decisão é pessoal, alguns se foram não tem mais volta , mas valeu apena guerreiros tenho certeza que sentiram a vitória antes da gente 🙏💚foram 4 anos chorando debaixo de um governo abusador, e são 9 anos carregando a lembrança de quem eles são, está acabando 🙏 Deus nos permita a vitória no Brasil com Flávio Bolsonaro 22",
+            "author_username": "VanessaCri12866",
+            "author_name": "VanessaCri12866",
+            "created_at": "2026-10-25T03:00:00+00:00",
+            "permalink": "https://nitter.mie.foundation/VanessaCri12866/status/2114190445332873534#m",
+            "metrics": {
+              "like_count": 40,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114170836806443018",
+            "text": "Como é que em 4 anos o Raoul foi de um adolescente para um cara com mais de 30?\n\n#LupinPart4",
+            "author_username": "eutriscila",
+            "author_name": "eutriscila",
+            "created_at": "2026-10-25T01:43:00+00:00",
+            "permalink": "https://nitter.mie.foundation/eutriscila/status/2114170836806443018#m",
+            "metrics": {
+              "like_count": 424,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114168570728861834",
+            "text": "O maior c..são da história do país vamos ver se o filho concerta suas cagadas se é homem de verdade ou mais um fanfarrão que só fala,se desculpa por carta e tem medo de tudo, ou viverá falando de 4 linhas ingênuo do Krl com mais 70milhões de patriotas pediu pinico pra criminosos.",
+            "author_username": "Francis18167065",
+            "author_name": "Francis18167065",
+            "created_at": "2026-10-25T01:34:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Francis18167065/status/2114168570728861834#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114156930595791264",
+            "text": "Bullying: cartórios têm recorde de atas que podem comprovar agressões.\n\nO volume é o maior da série analisada, iniciada em 2016, e representa crescimento de 4%: maisminas.com.br/brasil/bull…",
+            "author_username": "MaisMinas1",
+            "author_name": "MaisMinas1",
+            "created_at": "2026-10-25T00:47:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MaisMinas1/status/2114156930595791264#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114156506744574154",
+            "text": "tipo, eu sempre soube a principio que votar é importante, mas depois de um quase golpe em 2022 pensei que tinha ficado claro que não tem nada mais importante, simplesmente não planejar a vida inteira pra ta no seu local de votação no dia é loucura pra mim",
+            "author_username": "e_4lho",
+            "author_name": "e_4lho",
+            "created_at": "2026-10-25T00:46:00+00:00",
+            "permalink": "https://nitter.mie.foundation/e_4lho/status/2114156506744574154#m",
+            "metrics": {
+              "like_count": 26,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114152534629601298",
+            "text": "Eu sou um de vocês \n\n\"Eu não sou mais um ser humano, eu sou uma ideia\" - Luiz Inácio Lula da Silva (7/4/2018)\n\n#Lula13 #democracia #Brasil #LuizInacioLulaDaSilva",
+            "author_username": "tony_df",
+            "author_name": "tony_df",
+            "created_at": "2026-10-25T00:30:00+00:00",
+            "permalink": "https://nitter.mie.foundation/tony_df/status/2114152534629601298#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114138305499459983",
+            "text": "Os 4 do Rio de Janeiro sempre foram considerados grandes por serem os maiores da capital - Rio só deixa de ser capital nos anos 60, os 4 de São Paulo por ser o lugar mais rico, os 2 de Minas Gerais e os 2 do Rio Grande do Sul por serem grandes centros políticos e populosos",
+            "author_username": "batsuteko",
+            "author_name": "batsuteko",
+            "created_at": "2026-10-24T23:33:00+00:00",
+            "permalink": "https://nitter.mie.foundation/batsuteko/status/2114138305499459983#m",
+            "metrics": {
+              "like_count": 230,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114131755028361583",
+            "text": "NOSSA, MUNDO VAI ACABAR, TODOS MORRERAM, O CAOS SERÁ A TODO MOMENTO, O CAPETA VAI SAIR DO INFERNO E SERÁ VICE DO FLÁVIO E NO FIM...\nSERÁ SÓ MAIS 1 ARROMBADO Q AO INVÉS D ROUBAR POR 24 ANOS IRÁ ROUBAR POR 4.\nSOBREVIVEMOS ATÉ AGORA C ESSE DESGOVERNO LIXO.",
+            "author_username": "lhaforizna",
+            "author_name": "lhaforizna",
+            "created_at": "2026-10-24T23:07:00+00:00",
+            "permalink": "https://nitter.mie.foundation/lhaforizna/status/2114131755028361583#m",
+            "metrics": {
+              "like_count": 257,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114110347749523542",
+            "text": "Pode jogar mais 4 pontos 🤡",
+            "author_username": "Kabulozocensura",
+            "author_name": "Kabulozocensura",
+            "created_at": "2026-10-24T21:42:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Kabulozocensura/status/2114110347749523542#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114108360966729738",
+            "text": "Ele fala aos 4 ventos que acabou com a fome , mas agora precisa mais 4 anos. É um mentiroso Contumaz mesmo. #ForaLula",
+            "author_username": "Magofunker",
+            "author_name": "Magofunker",
+            "created_at": "2026-10-24T21:34:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Magofunker/status/2114108360966729738#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114098363335663794",
+            "text": "O @AthleticoPR joga com 3 zagueiros e toda rodado toma gol e de bola parada, não é de contra ataque, é bila parada com todo o time posicionado, melhor tirar um zagueiro, jogar com linha de 4 e mais um homem no meio de campo, desde que esse não seja o Zapelli, aí joga com 10! 😏🌪️",
+            "author_username": "bortollotti",
+            "author_name": "bortollotti",
+            "created_at": "2026-10-24T20:55:00+00:00",
+            "permalink": "https://nitter.mie.foundation/bortollotti/status/2114098363335663794#m",
+            "metrics": {
+              "like_count": 25,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114087512763146706",
+            "text": "Postei vídeos de minha vó ontem nos stories e quando isso acontece, eu tenho bem mais de 100 visualizações e mtas curtidas porque o pessoal gosta muito dela.\nOntem postei. Já completar 24h. E não sai de 86 visualizações. \nDepois desse, postei 4 stories da eleição em favor de Lula",
+            "author_username": "MillenaSantiago",
+            "author_name": "MillenaSantiago",
+            "created_at": "2026-10-24T20:11:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MillenaSantiago/status/2114087512763146706#m",
+            "metrics": {
+              "like_count": 37,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114048370448777401",
+            "text": "Mais ai so tem 4",
+            "author_username": "PauloNery89",
+            "author_name": "PauloNery89",
+            "created_at": "2026-10-24T17:36:00+00:00",
+            "permalink": "https://nitter.mie.foundation/PauloNery89/status/2114048370448777401#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114034299053732067",
+            "text": "O Chico então devo dar mais 4 anos para o Nine Fingers? Ops desculpa ele fica ofendido, então corrigindo para o Larápio de Garanhuns? Sei não hein!",
+            "author_username": "FMBC2915",
+            "author_name": "FMBC2915",
+            "created_at": "2026-10-24T16:40:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FMBC2915/status/2114034299053732067#m",
+            "metrics": {
+              "like_count": 46,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 14,
+          "instance_used": "https://nitter.mie.foundation"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "assuntos_x_momento_ate_27out21h_20261026"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2115082759085412649",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115082759085412649",
+      "collected_at": "2026-10-27T11:10:44-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115082759085412649",
+        "text": "Sou escritor aqui em Mato Grosso  e o meu segundo livro \"O Segredo de Marguerite\" é o mais vendido no estado há 4 anos...Recebi R$ 4.500 de royalties nesse tempo. Só consigo ganhar dinheiro com a literatura com palestras e rodas literárias. Por isso montei a minha editora.",
+        "author_username": "LuckPMamute",
+        "author_name": "LuckPMamute",
+        "created_at": "2026-10-27T14:06:00+00:00",
+        "permalink": "https://nitter.mie.foundation/LuckPMamute/status/2115082759085412649#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115080052014465145",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115080052014465145",
+      "collected_at": "2026-10-27T11:10:44-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115080052014465145",
+        "text": "Até o pobres do @catholicissimus @klautaum fizeram de tudo para mostrar a realidade eleitoral que se seguiu nesta eleição, principalmente eles alertando que o Lula poderia indicar mais 4 ministros com o risco de aprovarrm mais leis do aborto.",
+        "author_username": "mendonca_photos",
+        "author_name": "mendonca_photos",
+        "created_at": "2026-10-27T13:55:00+00:00",
+        "permalink": "https://nitter.mie.foundation/mendonca_photos/status/2115080052014465145#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115078392219345319",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115078392219345319",
+      "collected_at": "2026-10-27T11:10:44-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115078392219345319",
+        "text": "O @FlavioBolsonaro retornará e o meu voto é dele. O Tarcísio e a Michelle poderiam ter o apoiado com mais intensidade no 1° turno e aguardar passar os 4 anos pela vez deles, o Flávio ainda está na vez.",
+        "author_username": "JocileneManhaes",
+        "author_name": "JocileneManhaes",
+        "created_at": "2026-10-27T13:49:00+00:00",
+        "permalink": "https://nitter.mie.foundation/JocileneManhaes/status/2115078392219345319#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115065033491190044",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115065033491190044",
+      "collected_at": "2026-10-27T11:10:44-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115065033491190044",
+        "text": "Agora com um pouca mais de clareza na consciência, foi bom Flávio não ter sido eleito. Seria horrível pra gestão dele pegar essa dívida do Lula e tentar em 4 anos mudar a situação do país! \n\nAgora Lula vai ter que correr atrás de resolver (não vai conseguir) e a culpa é só dele!",
+        "author_username": "farminhalet",
+        "author_name": "farminhalet",
+        "created_at": "2026-10-27T12:56:00+00:00",
+        "permalink": "https://nitter.mie.foundation/farminhalet/status/2115065033491190044#m",
+        "metrics": {
+          "like_count": 26,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115062708693340460",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115062708693340460",
+      "collected_at": "2026-10-27T11:10:44-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115062708693340460",
+        "text": "Uma mulher foi presa em flagrante suspeita de maus-tratos contra a filha, de aproximadamente 4 anos, internada no Hospital Regional do Agreste, em Palmeira dos Índios. A criança permanece sob cuidados médicos. Saiba mais no link na bio.",
+        "author_username": "Cadamin",
+        "author_name": "Cadamin",
+        "created_at": "2026-10-27T12:47:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Cadamin/status/2115062708693340460#m",
+        "metrics": {
+          "like_count": 37,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115062018826723478",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115062018826723478",
+      "collected_at": "2026-10-27T11:10:44-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115062018826723478",
+        "text": "Tá uma febre de criar vídeos com IA usando motion graphics, e realmente está cad avez melhor. Mas qual modelo é melhor nessa tarefa?\n\nNós testamos os principais no @desbugados e o episódio ficou bem interessante:\nyoutube.com/watch?v=YXr0z2-8…\n\nMas a AA criou um benchmarking só para isso: o Code2Video-AA, desenvolvido em parceria com a HeyGen. Em 114 briefings de marketing, os modelos produzem uma composição HTML, posteriormente renderizada em vídeo com HyperFrames (que eu prefiro ao remotion faz tempo). Cada tentativa usa uma resposta, sem ferramentas. A renderização ocorre sem acesso à rede.\n\nO Gemini 4 Argon compara pares de vídeos em engajamento, atendimento ao pedido, composição, consistência temporal e acabamento. Mais de 35 mil julgamentos classificam 27 modelos. O Claude Opus 5.5, na configuração max com fallback, lidera com 1.536 pontos e US$ 3,08 por tarefa. O GPT-6.1 Sol, em max, obtém 1.369 pontos a US$ 0,31 por tarefa, quase dez vezes menos. Um baita custo / benefício.\n\nVale a pena conferir.",
+        "author_username": "rlarguesa",
+        "author_name": "rlarguesa",
+        "created_at": "2026-10-27T12:44:00+00:00",
+        "permalink": "https://nitter.mie.foundation/rlarguesa/status/2115062018826723478#m",
+        "metrics": {
+          "like_count": 52,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115061324765892951",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115061324765892951",
+      "collected_at": "2026-10-27T11:10:44-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115061324765892951",
+        "text": "4 anos. Com Lula IV, serão mais de 20 anos de PT no poder. Nunca se preocuparam em gerar consciência de classe. Partido dos Traidores totalmente descompromissado com isso. Conciliação de classes, rebaixamento de pauta, sempre cedendo p migalhas. Só se importam em ficar no Poder.",
+        "author_username": "tjp_petrucci",
+        "author_name": "tjp_petrucci",
+        "created_at": "2026-10-27T12:41:00+00:00",
+        "permalink": "https://nitter.mie.foundation/tjp_petrucci/status/2115061324765892951#m",
+        "metrics": {
+          "like_count": 21,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115047834755998075",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115047834755998075",
+      "collected_at": "2026-10-27T11:10:44-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115047834755998075",
+        "text": "Fala a verdade sobre as Fraudes da urnas , na cidade de São João da Ponte MG ( disse que votaram a mais 4 mil pessoas a mais ,só que  entre elas mortos e vivos que não estava na cidade e realmente não teve essas 4 mil pessoas a mais tá havendo muitas Fraudes )",
+        "author_username": "Joaotollentino",
+        "author_name": "Joaotollentino",
+        "created_at": "2026-10-27T11:47:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Joaotollentino/status/2115047834755998075#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115043414618120688",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115043414618120688",
+      "collected_at": "2026-10-27T11:10:44-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115043414618120688",
+        "text": "parece que meu estomago nunca mais vai se recuperar de tanta bebida\n\nhumor: morrendo de intoxicação alcoolica 🤒🤒",
+        "author_username": "e_4lho",
+        "author_name": "e_4lho",
+        "created_at": "2026-10-27T11:30:00+00:00",
+        "permalink": "https://nitter.mie.foundation/e_4lho/status/2115043414618120688#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115039421833642078",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115039421833642078",
+      "collected_at": "2026-10-27T11:10:44-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115039421833642078",
+        "text": "Praticamente escolheram agora, imagine em 2030, mais 4 ministros petista, Alexandre será o PR.",
+        "author_username": "Augusto6031072",
+        "author_name": "Augusto6031072",
+        "created_at": "2026-10-27T11:14:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Augusto6031072/status/2115039421833642078#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}
