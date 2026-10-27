@@ -1,0 +1,696 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Mais 4",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+    "collected_at": "2026-10-27T13:39:30-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 10,
+      "comments": 0,
+      "records_total": 10,
+      "skipped_duplicate": 167
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115115997384278385",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115115997384278385",
+      "parent_post_id": null,
+      "thread_root_id": "2115115997384278385",
+      "author": {
+        "platform_id": null,
+        "display_name": "carlospiroca__",
+        "username": "carlospiroca__",
+        "profile_url": "https://x.com/carlospiroca__"
+      },
+      "text": "Esse homem tem 4 x mais testosterona do que daquele bosta de jair bolsonaro",
+      "created_at": "2026-10-27T16:18:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:39:30-03:00",
+      "permalink": "https://nitter.meowing.monster/carlospiroca__/status/2115115997384278385#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 14,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115115997384278385",
+        "text": "Esse homem tem 4 x mais testosterona do que daquele bosta de jair bolsonaro",
+        "author_username": "carlospiroca__",
+        "author_name": "carlospiroca__",
+        "created_at": "2026-10-27T16:18:00+00:00",
+        "permalink": "https://nitter.meowing.monster/carlospiroca__/status/2115115997384278385#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 75,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115111921485521305",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115111921485521305",
+      "parent_post_id": null,
+      "thread_root_id": "2115111921485521305",
+      "author": {
+        "platform_id": null,
+        "display_name": "track213",
+        "username": "track213",
+        "profile_url": "https://x.com/track213"
+      },
+      "text": "Trabalhador limpa comemorando. Sabe  q o seu contrato e  as suas férias estão preservadas por mais 4 anos.",
+      "created_at": "2026-10-27T16:02:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:39:30-03:00",
+      "permalink": "https://nitter.meowing.monster/track213/status/2115111921485521305#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 14,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115111921485521305",
+        "text": "Trabalhador limpa comemorando. Sabe  q o seu contrato e  as suas férias estão preservadas por mais 4 anos.",
+        "author_username": "track213",
+        "author_name": "track213",
+        "created_at": "2026-10-27T16:02:00+00:00",
+        "permalink": "https://nitter.meowing.monster/track213/status/2115111921485521305#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 106,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115110624103379178",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115110624103379178",
+      "parent_post_id": null,
+      "thread_root_id": "2115110624103379178",
+      "author": {
+        "platform_id": null,
+        "display_name": "drogueirinha",
+        "username": "drogueirinha",
+        "profile_url": "https://x.com/drogueirinha"
+      },
+      "text": "Os bolsonaristas ficam c raiva quando são chamados de burros, e acho q até pegamos leve com eles. Somos maioria, meu povo! Ganhamos uma eleição de forma justa, através do voto popular nas urnas. São mais de 4 milhões de votos de diferença. Vocês n acham q o povo deixou um recado?",
+      "created_at": "2026-10-27T15:57:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:39:30-03:00",
+      "permalink": "https://nitter.meowing.monster/drogueirinha/status/2115110624103379178#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 14,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115110624103379178",
+        "text": "Os bolsonaristas ficam c raiva quando são chamados de burros, e acho q até pegamos leve com eles. Somos maioria, meu povo! Ganhamos uma eleição de forma justa, através do voto popular nas urnas. São mais de 4 milhões de votos de diferença. Vocês n acham q o povo deixou um recado?",
+        "author_username": "drogueirinha",
+        "author_name": "drogueirinha",
+        "created_at": "2026-10-27T15:57:00+00:00",
+        "permalink": "https://nitter.meowing.monster/drogueirinha/status/2115110624103379178#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 280,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115104372711440674",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115104372711440674",
+      "parent_post_id": null,
+      "thread_root_id": "2115104372711440674",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Minha sensação com a reeleição do lula é de LUTO #lutopolítico\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T15:32:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:39:30-03:00",
+      "permalink": "https://nitter.meowing.monster/rogeriofluence/status/2115104372711440674#m",
+      "metrics": {
+        "like_count": 24,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 14,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115104372711440674",
+        "text": "Minha sensação com a reeleição do lula é de LUTO #lutopolítico\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T15:32:00+00:00",
+        "permalink": "https://nitter.meowing.monster/rogeriofluence/status/2115104372711440674#m",
+        "metrics": {
+          "like_count": 24,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 1114,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115104245024174196",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115104245024174196",
+      "parent_post_id": null,
+      "thread_root_id": "2115104245024174196",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Minha sensação com a reeleição do lula é de LUTO #lutopolítico\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T15:32:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:39:30-03:00",
+      "permalink": "https://nitter.meowing.monster/rogeriofluence/status/2115104245024174196#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 14,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115104245024174196",
+        "text": "Minha sensação com a reeleição do lula é de LUTO #lutopolítico\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T15:32:00+00:00",
+        "permalink": "https://nitter.meowing.monster/rogeriofluence/status/2115104245024174196#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 1114,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115104199201501672",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115104199201501672",
+      "parent_post_id": null,
+      "thread_root_id": "2115104199201501672",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Minha sensação com a reeleição do lula é de LUTO #lutopolítico\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T15:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:39:30-03:00",
+      "permalink": "https://nitter.meowing.monster/rogeriofluence/status/2115104199201501672#m",
+      "metrics": {
+        "like_count": 9,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 14,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115104199201501672",
+        "text": "Minha sensação com a reeleição do lula é de LUTO #lutopolítico\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T15:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/rogeriofluence/status/2115104199201501672#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 1114,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115104084663415105",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115104084663415105",
+      "parent_post_id": null,
+      "thread_root_id": "2115104084663415105",
+      "author": {
+        "platform_id": null,
+        "display_name": "rogeriofluence",
+        "username": "rogeriofluence",
+        "profile_url": "https://x.com/rogeriofluence"
+      },
+      "text": "Minha sensação com a reeleição do lula é de LUTO #lutopolítico\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+      "created_at": "2026-10-27T15:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:39:30-03:00",
+      "permalink": "https://nitter.meowing.monster/rogeriofluence/status/2115104084663415105#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro",
+        "eleição",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 14,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115104084663415105",
+        "text": "Minha sensação com a reeleição do lula é de LUTO #lutopolítico\nCom esse resultado do 2° dia 25-10-2026 em que o lula foi reeleito no segundo turno. É muito difícil p/ter a compreensão dessa logística em q o Lula \"virou esse jogo\" ganhou essa eleição no 2° turno de 2026.\nÉ incompreensível no ponto de vista da logística e de até o projeto BRASIL, se alguém foi influenciado por algo momentâneo, banais, esdrúxulos, em que não seja o melhor bem comum para todos nós.\nUm exemplo:\nComo que o ⁨@flaviobolsonaro⁩ Flavio Bolsonaro & @Alfredogaspar_ com todas as alianças, só conseguiu 3 milhões de votos no 2° turno e Lula conseguiu 11 milhões a + no segundo turno ou seja em miúdos o Lula conseguiu 4 vezes a mais?\nÉ muitas \"coincidências, fatos ao mesmo tempo\". Não está sendo fácil sermos obrigados a ter que aceitar essa mudança brutal e incompreensível. Meu sentimento é de uma profunda tristeza, se tudo que aconteceu foi algo orgânico a logística é incompreensível pois o raciocínio do medo das facilidades não tem uma \"viabilidade\" clara. No meu entendimento parece que as \"as contas não fecham\" concorda comigo?",
+        "author_username": "rogeriofluence",
+        "author_name": "rogeriofluence",
+        "created_at": "2026-10-27T15:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/rogeriofluence/status/2115104084663415105#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 1114,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115097767508840544",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115097767508840544",
+      "parent_post_id": null,
+      "thread_root_id": "2115097767508840544",
+      "author": {
+        "platform_id": null,
+        "display_name": "tnnjZO",
+        "username": "tnnjZO",
+        "profile_url": "https://x.com/tnnjZO"
+      },
+      "text": "Pior disso tudo, é ir pra justiça e esperar mais de 6 anos pra pegar 4 mil parcelado 🤡🤡🤡 pq justiça não está ao lado do trabalhador",
+      "created_at": "2026-10-27T15:06:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:39:30-03:00",
+      "permalink": "https://nitter.meowing.monster/tnnjZO/status/2115097767508840544#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 14,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115097767508840544",
+        "text": "Pior disso tudo, é ir pra justiça e esperar mais de 6 anos pra pegar 4 mil parcelado 🤡🤡🤡 pq justiça não está ao lado do trabalhador",
+        "author_username": "tnnjZO",
+        "author_name": "tnnjZO",
+        "created_at": "2026-10-27T15:06:00+00:00",
+        "permalink": "https://nitter.meowing.monster/tnnjZO/status/2115097767508840544#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 131,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115088497295978635",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115088497295978635",
+      "parent_post_id": null,
+      "thread_root_id": "2115088497295978635",
+      "author": {
+        "platform_id": null,
+        "display_name": "TSMedeiros24",
+        "username": "TSMedeiros24",
+        "profile_url": "https://x.com/TSMedeiros24"
+      },
+      "text": "Serão mais 4 anos do total de 8 anos da minha e da sua vida onde veremos perseguições políticas, escândalos de corrupção e endividamento público.",
+      "created_at": "2026-10-27T14:29:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:39:30-03:00",
+      "permalink": "https://nitter.meowing.monster/TSMedeiros24/status/2115088497295978635#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 14,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115088497295978635",
+        "text": "Serão mais 4 anos do total de 8 anos da minha e da sua vida onde veremos perseguições políticas, escândalos de corrupção e endividamento público.",
+        "author_username": "TSMedeiros24",
+        "author_name": "TSMedeiros24",
+        "created_at": "2026-10-27T14:29:00+00:00",
+        "permalink": "https://nitter.meowing.monster/TSMedeiros24/status/2115088497295978635#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 145,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115086156245201068",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115086156245201068",
+      "parent_post_id": null,
+      "thread_root_id": "2115086156245201068",
+      "author": {
+        "platform_id": null,
+        "display_name": "allanrendeiro",
+        "username": "allanrendeiro",
+        "profile_url": "https://x.com/allanrendeiro"
+      },
+      "text": "Caro @FlavioBolsonaro, saia do Brasil, pela sua mulher e suas filhas. A ira destes tiranos é impecável e não vejo como podemos proteger nem você é nem nós. O processo de combate entre as 4 linhas é extremamente demorado. Vamos sufocar aos poucos, com uma demissão aqui, uma mudanca nós locais onde gostávamos dinheiro, evitar gerar imposto pois bandidos não produzem riquezas, eles roubam como fizeram com a apuração.\nVá, se salve, volte mais forte quando o povo covarde e desunido se una para defender a naçao",
+      "created_at": "2026-10-27T14:20:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:39:30-03:00",
+      "permalink": "https://nitter.meowing.monster/allanrendeiro/status/2115086156245201068#m",
+      "metrics": {
+        "like_count": 294,
+        "reply_count": 0,
+        "retweet_count": 2,
+        "quote_count": 17
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "49141c08-7b21-4170-a10d-44168e8103f9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 14,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115086156245201068",
+        "text": "Caro @FlavioBolsonaro, saia do Brasil, pela sua mulher e suas filhas. A ira destes tiranos é impecável e não vejo como podemos proteger nem você é nem nós. O processo de combate entre as 4 linhas é extremamente demorado. Vamos sufocar aos poucos, com uma demissão aqui, uma mudanca nós locais onde gostávamos dinheiro, evitar gerar imposto pois bandidos não produzem riquezas, eles roubam como fizeram com a apuração.\nVá, se salve, volte mais forte quando o povo covarde e desunido se una para defender a naçao",
+        "author_username": "allanrendeiro",
+        "author_name": "allanrendeiro",
+        "created_at": "2026-10-27T14:20:00+00:00",
+        "permalink": "https://nitter.meowing.monster/allanrendeiro/status/2115086156245201068#m",
+        "metrics": {
+          "like_count": 294,
+          "reply_count": 0,
+          "retweet_count": 2,
+          "quote_count": 17
+        }
+      },
+      "normalized": {
+        "text_length": 510,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
