@@ -1,0 +1,3350 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Golpe",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+    "collected_at": "2026-10-27T10:44:05-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 14,
+      "comments": 0,
+      "records_total": 14,
+      "skipped_duplicate": 186
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2115069452043669545",
+            "text": "Não foram eleitores que elegeram a esquerda,  foi golpe do STF. Armaram desde que perderam no primeiro turno. Odiar o outro, isso a esquerda quer.",
+            "author_username": "munho30496",
+            "author_name": "munho30496",
+            "created_at": "2026-10-27T13:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/munho30496/status/2115069452043669545#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115066375555145984",
+            "text": "ai que renan sla oq aii direita de verdade \n\npor favor galera kkkkkk MBL deu golpe até em PÁGINA DE MEME do facebook",
+            "author_username": "brunocanetinha",
+            "author_name": "brunocanetinha",
+            "created_at": "2026-10-27T13:01:00+00:00",
+            "permalink": "https://nitter.meowing.monster/brunocanetinha/status/2115066375555145984#m",
+            "metrics": {
+              "like_count": 50,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2115065207965815203",
+            "text": "A vizinha aqui é católica e votou bolsonaro. Maracuja de gaveta puro. NUNCA TRABALHOU pq deu golpe da barriga e votou Bolsonaro. Aiai. \nE detalhe: o pai recebe duas aposentadorias sendo que nem precisa",
+            "author_username": "theboreddemis",
+            "author_name": "theboreddemis",
+            "created_at": "2026-10-27T12:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/theboreddemis/status/2115065207965815203#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115056619977400335",
+            "text": "Sei. Tu acha bonito. Só que não foi democracia. Foi golpe. Com apoio do STF ok?",
+            "author_username": "mahtukirenedra",
+            "author_name": "mahtukirenedra",
+            "created_at": "2026-10-27T12:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mahtukirenedra/status/2115056619977400335#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115051245769519377",
+            "text": "ai miga elas não sabem que golpe quem faz é o candidato delas",
+            "author_username": "eusuquinho",
+            "author_name": "eusuquinho",
+            "created_at": "2026-10-27T12:01:00+00:00",
+            "permalink": "https://nitter.meowing.monster/eusuquinho/status/2115051245769519377#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115050554669871254",
+            "text": "Quando eles perdem, choram e no dia seguinte vão tentar golpe ou fugir do Brasil.",
+            "author_username": "tessmonte",
+            "author_name": "tessmonte",
+            "created_at": "2026-10-27T11:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/tessmonte/status/2115050554669871254#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115049526566228469",
+            "text": "Uma baita atitude.\n\nSabemos que o golpe pode vir dessa forma, e que o movimento Neoliberal sempre terá o apoio de uma mídia corporativa pronto para atacar todos os setores da esquerda (Vide golpe na Dilma)\n\nElias sabe muito bem se defender, e esse tipo de ação terá visibilidade",
+            "author_username": "Adriano_SouEu",
+            "author_name": "Adriano_SouEu",
+            "created_at": "2026-10-27T11:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Adriano_SouEu/status/2115049526566228469#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115047293787218114",
+            "text": "Dantas percebo que toda a mídia vem buscando desculpas nas campanhas e caladas qto a golpe, perseguição, mas pra fazer um omelete tem que quebrar os ovos né!",
+            "author_username": "EloiMaziero",
+            "author_name": "EloiMaziero",
+            "created_at": "2026-10-27T11:45:00+00:00",
+            "permalink": "https://nitter.meowing.monster/EloiMaziero/status/2115047293787218114#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115037871451021314",
+            "text": "Bom dia!\nHj não temos frase motivacional. \nSe for preciso faça q nem o Lula, resolva no golpe! Ou se necessário da um Gugo. \n\nTerçou nesse mês véi pôdi!",
+            "author_username": "LssLDah",
+            "author_name": "LssLDah",
+            "created_at": "2026-10-27T11:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LssLDah/status/2115037871451021314#m",
+            "metrics": {
+              "like_count": 327,
+              "reply_count": 7,
+              "retweet_count": 1,
+              "quote_count": 27
+            }
+          },
+          {
+            "id": "2115037507339321494",
+            "text": "Nunca a direita deu golpe. Em 22 a esquerda armou um golpe sujo  ,fez a maior quebradeira  no planalto e jogou a culpa nos coitados que estão presos até hj .  Dessa vez o alibe  foi ônibus parados .  O golpe fatal de 2 horas que bastou para jogar no lixo  60 milhões de votos .",
+            "author_username": "SuellyPrado3",
+            "author_name": "SuellyPrado3",
+            "created_at": "2026-10-27T11:06:00+00:00",
+            "permalink": "https://nitter.meowing.monster/SuellyPrado3/status/2115037507339321494#m",
+            "metrics": {
+              "like_count": 181,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2115034704122392837",
+            "text": "O golpe 1 foi na apuração do 1⁰ turno onde não deixaram o Flavio Bolsonaro fechar a fatura, já o golpe 2 e definitivo foi na apuração agraciada com o acréscimo de 2 horas para a \" acomodação\" do resultado pretendido?\nOu então nos provem porque mais 2 horas?",
+            "author_username": "pedro_diomar",
+            "author_name": "pedro_diomar",
+            "created_at": "2026-10-27T10:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/pedro_diomar/status/2115034704122392837#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115032301545337060",
+            "text": "Fraude  e agora já tem um golpe  planejado  ! Cakar o povo  !!",
+            "author_username": "GracaBinas",
+            "author_name": "GracaBinas",
+            "created_at": "2026-10-27T10:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/GracaBinas/status/2115032301545337060#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115031673532297444",
+            "text": "Foi fraude , foi GOLPE  de estado  , eles jogaram com tudo !",
+            "author_username": "GracaBinas",
+            "author_name": "GracaBinas",
+            "created_at": "2026-10-27T10:43:00+00:00",
+            "permalink": "https://nitter.meowing.monster/GracaBinas/status/2115031673532297444#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2115031044910907813",
+            "text": "Foi um tragédia  pro sistema  eleitoral  brasileiro , foi fraude sim , já tinham falado  que eles iam fazer isso  !  ISSO SIM FOI GOLPE  DE ESTSDO !",
+            "author_username": "GracaBinas",
+            "author_name": "GracaBinas",
+            "created_at": "2026-10-27T10:41:00+00:00",
+            "permalink": "https://nitter.meowing.monster/GracaBinas/status/2115031044910907813#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115023686889504878",
+            "text": "Essas desgraças só vivem de tramar golpe?",
+            "author_username": "pietrouniverso",
+            "author_name": "pietrouniverso",
+            "created_at": "2026-10-27T10:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/pietrouniverso/status/2115023686889504878#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115018868959678740",
+            "text": "O Golpe a Tai 🇧🇷👀👇🏼",
+            "author_username": "dlrodrigues76",
+            "author_name": "dlrodrigues76",
+            "created_at": "2026-10-27T09:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/dlrodrigues76/status/2115018868959678740#m",
+            "metrics": {
+              "like_count": 45,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115015317122404863",
+            "text": "O golpe tava aí... caiu quem quis... 🤣🤣🤣🤣🤣🤣",
+            "author_username": "leo_zenitte",
+            "author_name": "leo_zenitte",
+            "created_at": "2026-10-27T09:38:00+00:00",
+            "permalink": "https://nitter.meowing.monster/leo_zenitte/status/2115015317122404863#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115011440335556639",
+            "text": "Não teve pois algumas cúpulas das forças armadas  não embarcaram  na loucura.\nTinham pessoas fazendo acampamento em frente ao exército e pedindo intervenção militar! Bolsonaro poderia simplesmente fazer uma live e mandar todo mundo embora pra casa e descartar a possibilidade.\nO que ele fez , se calou. Porque ele se calou ? Será que estava com dor de garganta?\n\nEle se calou...e foi alimentando os lunaticos. \n\nSe as forças armadas entram na história, o golpe estaria feito e ainda teria uma manda de escudo.\n\nTem que ser muito alienado para acreditar numa família com sede de poder! Que sempre viveram as custas do Estado.",
+            "author_username": "Erlishenrique",
+            "author_name": "Erlishenrique",
+            "created_at": "2026-10-27T09:23:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Erlishenrique/status/2115011440335556639#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114977414438678775",
+            "text": "Verdade Janaina, eu lembro de ter acontecido o mesmo com o Serra e o Alckmin, a não, pera 🤔 os dois seguiram a carreira política tranquilamente depois da derrota para Lula né, sabe pq? NENHUM DELES TENTOU DÁ UM GOLPE DE ESTADO!",
+            "author_username": "thaismaxado",
+            "author_name": "thaismaxado",
+            "created_at": "2026-10-27T07:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/thaismaxado/status/2114977414438678775#m",
+            "metrics": {
+              "like_count": 409,
+              "reply_count": 1,
+              "retweet_count": 2,
+              "quote_count": 22
+            }
+          },
+          {
+            "id": "2114969350067085712",
+            "text": "O PSEUDO Bolsonarista que deu golpe junto com ZANIN",
+            "author_username": "RobeiltonL",
+            "author_name": "RobeiltonL",
+            "created_at": "2026-10-27T06:36:00+00:00",
+            "permalink": "https://nitter.meowing.monster/RobeiltonL/status/2114969350067085712#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114965107411448184",
+            "text": "Engraçado que até hoje questionam o Dr. Geraldo na chapa mas tem umas figuras aí que fizeram coro pro golpe da Dilma e pagam de pura esquerda radical. Me poupe",
+            "author_username": "jubuenfin",
+            "author_name": "jubuenfin",
+            "created_at": "2026-10-27T06:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jubuenfin/status/2114965107411448184#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114949877381685730",
+            "text": "Não foi golpe. \nFoi contra-golpe!",
+            "author_username": "ElenaraLelex",
+            "author_name": "ElenaraLelex",
+            "created_at": "2026-10-27T05:18:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ElenaraLelex/status/2114949877381685730#m",
+            "metrics": {
+              "like_count": 22,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114940577196175841",
+            "text": "Eu pegando o BRT aqui no rio e parando lá em Picos Piauí pra visitar meus parentes, dê o golpe Dudu eu apoio",
+            "author_username": "Eu_peTFFC",
+            "author_name": "Eu_peTFFC",
+            "created_at": "2026-10-27T04:41:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Eu_peTFFC/status/2114940577196175841#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114932096070307932",
+            "text": "Vdd ok mais aconteceu foi lindo demais tamos em paz pôr sabemos golpe",
+            "author_username": "mbernadete429",
+            "author_name": "mbernadete429",
+            "created_at": "2026-10-27T04:07:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mbernadete429/status/2114932096070307932#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114927993847972302",
+            "text": "Sabe o que não pode duvidar? É  alcolumbre com o stf querer antecipar a eleição de presidente das casas, pois se esperar próxima legislatura,o indivíduo não será eleito. \n\nGolpe aqui, Golpe ali, \"não faz diferença \"mais um.",
+            "author_username": "jdomingosjunior",
+            "author_name": "jdomingosjunior",
+            "created_at": "2026-10-27T03:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jdomingosjunior/status/2114927993847972302#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114921107627139169",
+            "text": "Golpe kkkk",
+            "author_username": "mbernadete429",
+            "author_name": "mbernadete429",
+            "created_at": "2026-10-27T03:24:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mbernadete429/status/2114921107627139169#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114920125908287654",
+            "text": "Todos sabemos mundo viu golpe",
+            "author_username": "mbernadete429",
+            "author_name": "mbernadete429",
+            "created_at": "2026-10-27T03:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mbernadete429/status/2114920125908287654#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114918642676572402",
+            "text": "ELE AMEAÇOU NA CARA DURA... ISSO PORQUE JÁ SABIA DO GOLPE QUE IA DAR.",
+            "author_username": "AnaLuciaPadilh5",
+            "author_name": "AnaLuciaPadilh5",
+            "created_at": "2026-10-27T03:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AnaLuciaPadilh5/status/2114918642676572402#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114917239539278232",
+            "text": "Isso é terrível, golpe baixo mesmo. Tinha um cara que combinava com um juiz para prender o adversário, pensa num golpe baixo.",
+            "author_username": "kanelanovo",
+            "author_name": "kanelanovo",
+            "created_at": "2026-10-27T03:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/kanelanovo/status/2114917239539278232#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114911034485903499",
+            "text": "Teria que ser uma traição coordenada, Hugo Motta, Davi Alcolumbre e Geraldo Alckmin, sem contar o aval do STF para não barrar o \"golpe\".",
+            "author_username": "Samuel_Bastille",
+            "author_name": "Samuel_Bastille",
+            "created_at": "2026-10-27T02:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Samuel_Bastille/status/2114911034485903499#m",
+            "metrics": {
+              "like_count": 231,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114908527453962659",
+            "text": "Posso falar uma coisa VC viu mídia preparando tudo pra golpe eles não tem 30porceto eles tiraram voto nulos jogaram no nordeste mesmo coisa 2018",
+            "author_username": "mbernadete429",
+            "author_name": "mbernadete429",
+            "created_at": "2026-10-27T02:34:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mbernadete429/status/2114908527453962659#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114904058532077920",
+            "text": "Não engoliram Flávio ganhar no primeiro turno. Tiveram 2 semanas para armar o Golpe.",
+            "author_username": "munho30496",
+            "author_name": "munho30496",
+            "created_at": "2026-10-27T02:16:00+00:00",
+            "permalink": "https://nitter.meowing.monster/munho30496/status/2114904058532077920#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114902697732194360",
+            "text": "Tem muito prefeito do Brasil que retirou ônibus, praticamente todos da extrema direita. Inclusive o Neto Donato prefeito de São Carlos interior de SP. Punição para todos esses golpistas, essa tentativa de golpe não pode ficar impune.",
+            "author_username": "mar13_sand",
+            "author_name": "mar13_sand",
+            "created_at": "2026-10-27T02:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mar13_sand/status/2114902697732194360#m",
+            "metrics": {
+              "like_count": 460,
+              "reply_count": 2,
+              "retweet_count": 18,
+              "quote_count": 46
+            }
+          },
+          {
+            "id": "2114900478244855838",
+            "text": "O GOLPE DO ZANIN , NAS ELEIÇÕES DE 2️⃣0️⃣2️⃣6️⃣ \nEX-ADVOGADO DO LULA 🚩",
+            "author_username": "LeninhaLopes77",
+            "author_name": "LeninhaLopes77",
+            "created_at": "2026-10-27T02:02:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LeninhaLopes77/status/2114900478244855838#m",
+            "metrics": {
+              "like_count": 486,
+              "reply_count": 9,
+              "retweet_count": 21,
+              "quote_count": 54
+            }
+          },
+          {
+            "id": "2114890435613040992",
+            "text": "Golpe a luz do Dia. Pqp.",
+            "author_username": "igor28905091695",
+            "author_name": "igor28905091695",
+            "created_at": "2026-10-27T01:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/igor28905091695/status/2114890435613040992#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114886717761085799",
+            "text": "FHC, 1985. Capital SP. Primeira eleição direta nas capitais depos do golpe de 64.",
+            "author_username": "Marcio_Roberson",
+            "author_name": "Marcio_Roberson",
+            "created_at": "2026-10-27T01:07:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Marcio_Roberson/status/2114886717761085799#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114886158232744345",
+            "text": "O Golpe começou com a descondenação do Lula pelo Ministro Fachin. Desse momento em diante vivemos em constante negação, acreditando que ainda vivemos uma democracia. 😔",
+            "author_username": "CaduDias7",
+            "author_name": "CaduDias7",
+            "created_at": "2026-10-27T01:05:00+00:00",
+            "permalink": "https://nitter.meowing.monster/CaduDias7/status/2114886158232744345#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114882745730322529",
+            "text": "Posso perguntar uma coisa vcs já deram golpe está no poder ok vcs tanto incomoda com a direita eram pra vcs está festa não é não estranho",
+            "author_username": "mbernadete429",
+            "author_name": "mbernadete429",
+            "created_at": "2026-10-27T00:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mbernadete429/status/2114882745730322529#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114880937980723505",
+            "text": "Golpe ?? kkkkk\nMinhas satisfações só está comecando.\nNada como um dia depois de uma eleição roubada 😇",
+            "author_username": "AustranSantos",
+            "author_name": "AustranSantos",
+            "created_at": "2026-10-27T00:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AustranSantos/status/2114880937980723505#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114876769769586790",
+            "text": "Até parece que eles vão anular e correrem o risco de serem presos por fraude. Anular seria admitir o golpe.",
+            "author_username": "LLazzar59",
+            "author_name": "LLazzar59",
+            "created_at": "2026-10-27T00:28:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LLazzar59/status/2114876769769586790#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114868272369635410",
+            "text": "Um irmão foragido, o pai além de tentar dar um golpe de Estado, tentou remover a tornozeleira eletrônica pra fugir também, e vocês acham exagero tirar o passaporte de um cara envolvido numa máfia tão grande como ele está? Pelo amor de Deus!",
+            "author_username": "dandoshowaqui",
+            "author_name": "dandoshowaqui",
+            "created_at": "2026-10-26T23:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/dandoshowaqui/status/2114868272369635410#m",
+            "metrics": {
+              "like_count": 47,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114861581192266189",
+            "text": "Quanto a essa história do candidato vencer no 1º turno e perder no 2º, isso ocorreu em 2024 nas eleições para prefeito de Fortaleza. Se no Brasil foi um golpe, aqui foi antes\n@andrefernm",
+            "author_username": "rodrigombl",
+            "author_name": "rodrigombl",
+            "created_at": "2026-10-26T23:27:00+00:00",
+            "permalink": "https://nitter.meowing.monster/rodrigombl/status/2114861581192266189#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114851863535259950",
+            "text": "Ele não reeleito! Dick vigarista trapaceiro deu golpe denovo!",
+            "author_username": "RueliPaulo70721",
+            "author_name": "RueliPaulo70721",
+            "created_at": "2026-10-26T22:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/RueliPaulo70721/status/2114851863535259950#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114851141892616586",
+            "text": "instagram.com/reel/DdkE7bhAC…\nA nossa luta não é de agora. E falamos de artistas de verdade, eternos que jamais serão esquecidos.\nSão esses heróis e suas músicas que nos mantém alertas contra GOLPE.🚩",
+            "author_username": "paulo47araujo",
+            "author_name": "paulo47araujo",
+            "created_at": "2026-10-26T22:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/paulo47araujo/status/2114851141892616586#m",
+            "metrics": {
+              "like_count": 43,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114846841640476896",
+            "text": "Por favor, engajem. Nós merecemos segundo turno. Levamos um golpe da corja que explora o Estado há anos!\n#exercitododudu55 \n#queremossegundoturnonorj",
+            "author_username": "missmariabeatz",
+            "author_name": "missmariabeatz",
+            "created_at": "2026-10-26T22:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/missmariabeatz/status/2114846841640476896#m",
+            "metrics": {
+              "like_count": 233,
+              "reply_count": 0,
+              "retweet_count": 3,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114844921878159492",
+            "text": "🚨 MALA COM DROGAS EM #GUARULHOS: BRASILEIRA DESCOBRE GOLPE EM SEU NOME!\npiped.video/TA-s9LjAY0Y #aeroporto #saopaulo",
+            "author_username": "helmerconecta",
+            "author_name": "helmerconecta",
+            "created_at": "2026-10-26T22:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/helmerconecta/status/2114844921878159492#m",
+            "metrics": {
+              "like_count": 71,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114844510035272093",
+            "text": "Kkkkkkkkkkkkkkkkk\n\nSabemos muito bem quem aplica Golpe",
+            "author_username": "crypt_archangel",
+            "author_name": "crypt_archangel",
+            "created_at": "2026-10-26T22:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/crypt_archangel/status/2114844510035272093#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114843831094935645",
+            "text": "Você tem parecente histórico de um sujeito que não aceitou a derrota. Foi para outro país e tentou dar um Golpe de estado. Deixando a manada dele quebrar todo o congresso?",
+            "author_username": "Erlishenrique",
+            "author_name": "Erlishenrique",
+            "created_at": "2026-10-26T22:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Erlishenrique/status/2114843831094935645#m",
+            "metrics": {
+              "like_count": 383,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114838304646398093",
+            "text": "É GOLPE 😡",
+            "author_username": "ArnildoKamien",
+            "author_name": "ArnildoKamien",
+            "created_at": "2026-10-26T21:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ArnildoKamien/status/2114838304646398093#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114837390275797360",
+            "text": "Você(s) votaram em um cara que como membro da família Bolsonaro foi até os EUA negociar com a extrema direita americana para que o Brasil fosse taxado, e o Eduardo irmão de Flávio, ainda comemorou essas tarifas.\n\nVocê(s) votaram em um grupo que tinha como plano dá um golpe!",
+            "author_username": "MateusC08996451",
+            "author_name": "MateusC08996451",
+            "created_at": "2026-10-26T21:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MateusC08996451/status/2114837390275797360#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114834368816726247",
+            "text": "Olavo disse não tem mais eleições no Brasil o Ai5TF e TSE cada eleição é um golpe",
+            "author_username": "RobeiltonL",
+            "author_name": "RobeiltonL",
+            "created_at": "2026-10-26T21:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/RobeiltonL/status/2114834368816726247#m",
+            "metrics": {
+              "like_count": 54,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114829758001471831",
+            "text": "Tentativa de golpe a caminho",
+            "author_username": "matheuscarfc",
+            "author_name": "matheuscarfc",
+            "created_at": "2026-10-26T21:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/matheuscarfc/status/2114829758001471831#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114825971706597539",
+            "text": "g1.globo.com/mundo/noticia/2…! E não é que foi😜 o golpe estava desenhado! Vergonha e o passaporte do Maraes, ja goi apreendido???Sera q a grana do vorcaro esta na conta dele e da mulher???",
+            "author_username": "brilhante1957",
+            "author_name": "brilhante1957",
+            "created_at": "2026-10-26T21:06:00+00:00",
+            "permalink": "https://nitter.meowing.monster/brilhante1957/status/2114825971706597539#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114824424012800442",
+            "text": "Pra quê? Pra vazar informações e depois a galera do grupo ser presa por tentativa de golpe via whatsapp? Olha o que aconteceu com o pessoal do 08/01. Aí será o motivo que eles querem pra regulamentar as redes sociais. \nEu não entro nessa furada.. 👍🏻",
+            "author_username": "CintiaDS2",
+            "author_name": "CintiaDS2",
+            "created_at": "2026-10-26T21:00:00+00:00",
+            "permalink": "https://nitter.meowing.monster/CintiaDS2/status/2114824424012800442#m",
+            "metrics": {
+              "like_count": 22,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114823667414896825",
+            "text": "Golpe descaradamente. Essas urnas não tem nem comprovante impresso. Vamos às ruas. O Brasil foi roubado #OBrasilFoiRoubado Brazil was robbed twice #Brazilwasrobbedtwice #SOS #Help @realdonaldtrump 🇧🇷🇺🇲",
+            "author_username": "mauronardi",
+            "author_name": "mauronardi",
+            "created_at": "2026-10-26T20:57:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mauronardi/status/2114823667414896825#m",
+            "metrics": {
+              "like_count": 37,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114823500112290293",
+            "text": "Ser de extrema direita é muito fácil deve ser muito bom pros caras poder literalmente arquitetar um golpe de estado e 10 anos depois ser chamado de \"direita democrática\" por gente que se diz de esquerda",
+            "author_username": "faebriela",
+            "author_name": "faebriela",
+            "created_at": "2026-10-26T20:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/faebriela/status/2114823500112290293#m",
+            "metrics": {
+              "like_count": 461,
+              "reply_count": 2,
+              "retweet_count": 5,
+              "quote_count": 25
+            }
+          },
+          {
+            "id": "2114822999199133813",
+            "text": "Até então a maioria dos nossos atos foram pró Lula. \n\nPrecisamos agora dos atos CONTRA a Meta, o Bolsonarismo, o Kassio Nunes Marques, a interferência nas eleições, as ameaças de golpe de certos deputados e tantas outras coisas que precisamos agir contra.",
+            "author_username": "_pablopj",
+            "author_name": "_pablopj",
+            "created_at": "2026-10-26T20:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/_pablopj/status/2114822999199133813#m",
+            "metrics": {
+              "like_count": 344,
+              "reply_count": 1,
+              "retweet_count": 1,
+              "quote_count": 12
+            }
+          },
+          {
+            "id": "2114822868198715448",
+            "text": "Golpe descaradamente. Essas urnas não tem nem comprovante impresso. Vamos às ruas. O Brasil foi roubado #OBrasilFoiRoubado Brazil was robbed twice #Brazilwasrobbedtwice #SOS #Help @realdonaldtrump 🇧🇷🇺🇲",
+            "author_username": "mauronardi",
+            "author_name": "mauronardi",
+            "created_at": "2026-10-26T20:53:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mauronardi/status/2114822868198715448#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114822624433807858",
+            "text": "Golpe descaradamente. Essas urnas não tem nem comprovante impresso. Vamos às ruas. O Brasil foi roubado #OBrasilFoiRoubado Brazil was robbed twice #Brazilwasrobbedtwice #SOS #Help @realdonaldtrump @elonmusk 🇧🇷🇺🇲",
+            "author_username": "mauronardi",
+            "author_name": "mauronardi",
+            "created_at": "2026-10-26T20:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mauronardi/status/2114822624433807858#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114822394955378813",
+            "text": "Golpe descaradamente. Essas urnas não tem nem comprovante impresso. Vamos às ruas. O Brasil foi roubado #OBrasilFoiRoubado Brazil was robbed twice #Brazilwasrobbedtwice #SOS #Help @realdonaldtrump 🇧🇷🇺🇲",
+            "author_username": "mauronardi",
+            "author_name": "mauronardi",
+            "created_at": "2026-10-26T20:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mauronardi/status/2114822394955378813#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114822199660171316",
+            "text": "Golpe descaradamente. Essas urnas não tem nem comprovante impresso. Vamos às ruas. O Brasil foi roubado #OBrasilFoiRoubado Brazil was robbed twice #Brazilwasrobbedtwice #SOS #Help @realdonaldtrump @elonmusk @marcorubio 🇧🇷🇺🇲",
+            "author_username": "mauronardi",
+            "author_name": "mauronardi",
+            "created_at": "2026-10-26T20:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mauronardi/status/2114822199660171316#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114821848521146792",
+            "text": "O golpe foi após Flávio ganhar no primeiro turno. Está provado.pela Meta que há videos gravados antes do dia 25 de artistas da Globo. Não sejam ingênuos, Está foi a forma que Chaves e Maduro ficaram no poder por anos.",
+            "author_username": "munho30496",
+            "author_name": "munho30496",
+            "created_at": "2026-10-26T20:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/munho30496/status/2114821848521146792#m",
+            "metrics": {
+              "like_count": 25,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114820350726787291",
+            "text": "Eu vejo uns caras falando umas coisas sem o menor nexo.\nO golpe foi dado em 2021 qdo tiraram o Lula da cadeia. \n Já vinham arranjando as eleições, foi com o Aécio, Bolsonaro, etc. Esqueçam essa coisa das regras. Não vai ter Tarcísio, Dória, Caiado, Zema, e ninguém.\nAcabou.🥸",
+            "author_username": "BonottoIvan",
+            "author_name": "BonottoIvan",
+            "created_at": "2026-10-26T20:43:00+00:00",
+            "permalink": "https://nitter.meowing.monster/BonottoIvan/status/2114820350726787291#m",
+            "metrics": {
+              "like_count": 29,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114817818222838255",
+            "text": "FHC também deu golpe no Brasil- para reeleição. Jogava combinado com o PT de Lula.",
+            "author_username": "joaopistola2022",
+            "author_name": "joaopistola2022",
+            "created_at": "2026-10-26T20:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/joaopistola2022/status/2114817818222838255#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114812929618989449",
+            "text": "O golpe estava armado desde o primeiro turno. Não sejam ingênuos de haver nova eleição.  Ainda correm o risco de fechar o congresso..",
+            "author_username": "munho30496",
+            "author_name": "munho30496",
+            "created_at": "2026-10-26T20:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/munho30496/status/2114812929618989449#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114812745593884989",
+            "text": "Natuza Nery, por não está indo muito longe sobre a família Bolsonaro a respeito d Flávio Bolsonaro, o mesmo foi derrotado, esse que perdeu a eleição, ao invés d aceitar o resultado não tentar golpe, isso só alimenta o Bolsonarismo colocando pólvora n berrante para explodir o gado",
+            "author_username": "batistaprimo",
+            "author_name": "batistaprimo",
+            "created_at": "2026-10-26T20:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/batistaprimo/status/2114812745593884989#m",
+            "metrics": {
+              "like_count": 62,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114809828925112659",
+            "text": "A interferência do almofadinha no encerramento da apuração não não indica tentativa de golpe, só mostra como a gang do Beiçola, da qual o adevogado do Lula faz parte, é abusada.",
+            "author_username": "BeolchiLuis",
+            "author_name": "BeolchiLuis",
+            "created_at": "2026-10-26T20:02:00+00:00",
+            "permalink": "https://nitter.meowing.monster/BeolchiLuis/status/2114809828925112659#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114805631701930455",
+            "text": "Eu esperava um golpe , depois que Flávio ganhou no primeiro turno..Agora é esperar fecharem o congresso. Escreve amiga.",
+            "author_username": "munho30496",
+            "author_name": "munho30496",
+            "created_at": "2026-10-26T19:45:00+00:00",
+            "permalink": "https://nitter.meowing.monster/munho30496/status/2114805631701930455#m",
+            "metrics": {
+              "like_count": 27,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114805336377106771",
+            "text": "Não acho que 100% do eleitorado do Flávio vá cair nesse papo de golpe, grande parte de quem votou nele votou mais por anti petismo do que alinhamento ideológico ao bolsonarismo. No geral essa narrativa pega mais no núcleo duro (que fica cada vez menor) o povo brasileiro quer paz",
+            "author_username": "panetoneguy",
+            "author_name": "panetoneguy",
+            "created_at": "2026-10-26T19:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/panetoneguy/status/2114805336377106771#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114799445812387987",
+            "text": "Caiu no golpe do MST",
+            "author_username": "jjcarlossouza",
+            "author_name": "jjcarlossouza",
+            "created_at": "2026-10-26T19:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jjcarlossouza/status/2114799445812387987#m",
+            "metrics": {
+              "like_count": 63,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114797832813371820",
+            "text": "Não vai ter golpe! #exercitododudu55",
+            "author_username": "Gbarrocass",
+            "author_name": "Gbarrocass",
+            "created_at": "2026-10-26T19:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Gbarrocass/status/2114797832813371820#m",
+            "metrics": {
+              "like_count": 645,
+              "reply_count": 8,
+              "retweet_count": 26,
+              "quote_count": 71
+            }
+          },
+          {
+            "id": "2114796255410892802",
+            "text": "STF cadê o segundo turno do Rio de Janeiro. Não aceitamos esse golpe diante dos nossos olhos. \n#exercitododudu55",
+            "author_username": "euchrisg",
+            "author_name": "euchrisg",
+            "created_at": "2026-10-26T19:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/euchrisg/status/2114796255410892802#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114795966729515143",
+            "text": "Esse golpe não irá vencer, a gente tem que ter direito ao voto. \n#exercitododudu55",
+            "author_username": "euchrisg",
+            "author_name": "euchrisg",
+            "created_at": "2026-10-26T19:07:00+00:00",
+            "permalink": "https://nitter.meowing.monster/euchrisg/status/2114795966729515143#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114793269016044021",
+            "text": "#LulaMaiorDoMundo #ExercitoDoLula\nLula venceu. Vencemos. A democracia venceu.\nvencemos a meta, o bolsonarismo, a família bolsonaro, a mídia, a imprensa, a Globo, a milícia, o golpe e tantos outros que tentaram impedi-lo. \nmas ninguém para aquele que Deus escolheu pra vencer!",
+            "author_username": "WellynaS_",
+            "author_name": "WellynaS_",
+            "created_at": "2026-10-26T18:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/WellynaS_/status/2114793269016044021#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114790428385988927",
+            "text": "🔥 NÃO VAI TER GOLPE",
+            "author_username": "profangelapsol",
+            "author_name": "profangelapsol",
+            "created_at": "2026-10-26T18:45:00+00:00",
+            "permalink": "https://nitter.meowing.monster/profangelapsol/status/2114790428385988927#m",
+            "metrics": {
+              "like_count": 590,
+              "reply_count": 0,
+              "retweet_count": 11,
+              "quote_count": 78
+            }
+          },
+          {
+            "id": "2114789379004936356",
+            "text": "QUE GOLPE DE MESTRE. QUE DEUS PROTEJA ESSA ABENÇOADA JOVEM DO VERDADEIRO FASIAMO PETISTA. @pfigueiredo08 , @ludmilagrilo11. . . @allanconta5",
+            "author_username": "pedrofm197214",
+            "author_name": "pedrofm197214",
+            "created_at": "2026-10-26T18:40:00+00:00",
+            "permalink": "https://nitter.meowing.monster/pedrofm197214/status/2114789379004936356#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114788981858595097",
+            "text": "Golpe de quem?",
+            "author_username": "CrisBernart",
+            "author_name": "CrisBernart",
+            "created_at": "2026-10-26T18:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/CrisBernart/status/2114788981858595097#m",
+            "metrics": {
+              "like_count": 77,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114786798391927232",
+            "text": "Ou seja, as urnas é uma ilusão só existe pra ilicitude ao o golpe, nunca existiu contagem de votos.\nSempre foi ao gosto de uma máfia.🇧🇷",
+            "author_username": "MarinoBoni27242",
+            "author_name": "MarinoBoni27242",
+            "created_at": "2026-10-26T18:30:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MarinoBoni27242/status/2114786798391927232#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114781884173701254",
+            "text": "Se lula tivesse esses 10.3mi de votos tinha sido eleito no primeiro turno quando tinha deputados, senadores e governadores seus fazendo campanha. Fraude escancarada! Golpe escancarado!",
+            "author_username": "DrioTeixei95845",
+            "author_name": "DrioTeixei95845",
+            "created_at": "2026-10-26T18:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DrioTeixei95845/status/2114781884173701254#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114781328550002816",
+            "text": "O Brasil em 25/10 foi o 2° Golpe através do Advogado de Lula , Militante travestido de TOGA, Ministro Zanin na Canetada debochou e está menosprezando a nossa inteligência b",
+            "author_username": "NeinhaCeciliaa",
+            "author_name": "NeinhaCeciliaa",
+            "created_at": "2026-10-26T18:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/NeinhaCeciliaa/status/2114781328550002816#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114780322306863523",
+            "text": "É o golpe tá aí.",
+            "author_username": "Cinthiacasagra5",
+            "author_name": "Cinthiacasagra5",
+            "created_at": "2026-10-26T18:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Cinthiacasagra5/status/2114780322306863523#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114777721503182880",
+            "text": "Como levar um País a sério com sistema podre , advogado do Descondenado travestido de Toga ,militante deu GOLPE no 2° tempo e elegeu seu patrao Lula Corrupto, Ladrão, Descondenado Anistiados",
+            "author_username": "NeinhaCeciliaa",
+            "author_name": "NeinhaCeciliaa",
+            "created_at": "2026-10-26T17:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/NeinhaCeciliaa/status/2114777721503182880#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114776602181796116",
+            "text": "O advogado de Lula , travestido de TOGA Zanin ,que Deus Golpe na maior cara dura sem o menor puder na cara dura . Caixinhas mágicas não eu confio 2022 e 2026 dois golpes",
+            "author_username": "NeinhaCeciliaa",
+            "author_name": "NeinhaCeciliaa",
+            "created_at": "2026-10-26T17:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/NeinhaCeciliaa/status/2114776602181796116#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114776460175233318",
+            "text": "Foi golpe",
+            "author_username": "EstrelaMas19639",
+            "author_name": "EstrelaMas19639",
+            "created_at": "2026-10-26T17:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/EstrelaMas19639/status/2114776460175233318#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114775388706468307",
+            "text": "O STF já  tinha decidido a eleiçoes só que esperaram o último minuto do segundo tempo para darem Golpe na cara dura do Brasileiro,através do Advogado Lula, travestido de Toga Ministro Zanin",
+            "author_username": "NeinhaCeciliaa",
+            "author_name": "NeinhaCeciliaa",
+            "created_at": "2026-10-26T17:45:00+00:00",
+            "permalink": "https://nitter.meowing.monster/NeinhaCeciliaa/status/2114775388706468307#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114773806179041603",
+            "text": "instagram.com/reel/De9dZJ7BT…\n\nÉ Provável que ele se junte com o Bananinha para tentar um golpe contra o Brasil mais uma vez ❗❗❗",
+            "author_username": "IzabelAdemir",
+            "author_name": "IzabelAdemir",
+            "created_at": "2026-10-26T17:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/IzabelAdemir/status/2114773806179041603#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114769323407581409",
+            "text": "Claro, ele faz a parte dele no golpe, oras. Um fdp",
+            "author_username": "noronha_lina",
+            "author_name": "noronha_lina",
+            "created_at": "2026-10-26T17:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/noronha_lina/status/2114769323407581409#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114767623476875728",
+            "text": "Onde estão os moralistas agora quando falam da morte da criança morta supostamente pela arma do policial. Agora morreu na mão de um bandido comemorando o \"GOLPE\" de @LulaOficial\n\nE aí? Vão relativizar agora?\n\ninstagram.com/reel/De9mcQlRz…",
+            "author_username": "litierysantos",
+            "author_name": "litierysantos",
+            "created_at": "2026-10-26T17:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/litierysantos/status/2114767623476875728#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114766210923675990",
+            "text": "Ai dps vai fingir q n teve golpe\n\nVAI TRABALHAR LEK, SEI Q N É MT O Q VC GOSTA, MAS DESTRAI, PAPO",
+            "author_username": "NyTorres_",
+            "author_name": "NyTorres_",
+            "created_at": "2026-10-26T17:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/NyTorres_/status/2114766210923675990#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114764748176740476",
+            "text": "Mesmo após toda decepção, ocasionada pelo golpe dado ontem, depois de ver o vídeo do Kim Paim, continuarei firme na minha posição, que ficou marcada em mim pelo presidente Jair Bolsonaro.\nNão parar, nao desistir, não retroceder!\nNão vou desistir da luta!",
+            "author_username": "amafort2000",
+            "author_name": "amafort2000",
+            "created_at": "2026-10-26T17:03:00+00:00",
+            "permalink": "https://nitter.meowing.monster/amafort2000/status/2114764748176740476#m",
+            "metrics": {
+              "like_count": 802,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 23
+            }
+          },
+          {
+            "id": "2114763809936076995",
+            "text": "Boa tarde Ivone,  sim outro golpe de luluzinha",
+            "author_username": "MBorischan66496",
+            "author_name": "MBorischan66496",
+            "created_at": "2026-10-26T16:59:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MBorischan66496/status/2114763809936076995#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114761149107618019",
+            "text": "Por que para o PL os resultados das eleições só são legítimos se eles ganham? \nSe não ganham é golpe, roubo...\n\nDetalhe: as mesmas eleições que, inclusive, elegeram maioria de políticos do PL no Senado, por exemplo.\n\nQue síndrome de criança mimada... Isso é DEMOCRACIA! Aceitem!",
+            "author_username": "DenyFreitass",
+            "author_name": "DenyFreitass",
+            "created_at": "2026-10-26T16:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DenyFreitass/status/2114761149107618019#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114759097761354024",
+            "text": "Golpe foi o que o espermas fizeram no útero da sua mãe, pra forma você, golpe foi o erro que o médico fez na hora de tirar vc da barriga da sua mãe eu processava esse médico juro",
+            "author_username": "Italomateusr",
+            "author_name": "Italomateusr",
+            "created_at": "2026-10-26T16:40:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Italomateusr/status/2114759097761354024#m",
+            "metrics": {
+              "like_count": 52,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114757032251417027",
+            "text": "Seu presidente ladrão roubou essa eleição através do stf, na pessoa de seu advogado.  Uma vergonha, isso sim é que é golpe",
+            "author_username": "Suziioliver",
+            "author_name": "Suziioliver",
+            "created_at": "2026-10-26T16:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Suziioliver/status/2114757032251417027#m",
+            "metrics": {
+              "like_count": 92,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114755838380245359",
+            "text": "Foi GOLPE 😡😡😡😡",
+            "author_username": "ArnildoKamien",
+            "author_name": "ArnildoKamien",
+            "created_at": "2026-10-26T16:27:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ArnildoKamien/status/2114755838380245359#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114755237416161407",
+            "text": "Engraçado demais os bolsonaristas falando que foi golpe ter prorrogação sendo que o próprio \"salvador da pátria\" deles tbm pediu prorrogação 🤑🤑",
+            "author_username": "shwnpeter",
+            "author_name": "shwnpeter",
+            "created_at": "2026-10-26T16:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/shwnpeter/status/2114755237416161407#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114754637077127578",
+            "text": "O golpe",
+            "author_username": "Fernandojoao45",
+            "author_name": "Fernandojoao45",
+            "created_at": "2026-10-26T16:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fernandojoao45/status/2114754637077127578#m",
+            "metrics": {
+              "like_count": 920,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114749193944203341",
+            "text": "E ela quer a todo custo que a menina idolatre ela. Como se ela fosse a mãe da criança. Quer que a menina vire um clone dela já que as filhas não viraram e ela tinha inveja das mesmas. Deixou de viver a vida pra dar o golpe sa barriga. Agr aguente",
+            "author_username": "theboreddemis",
+            "author_name": "theboreddemis",
+            "created_at": "2026-10-26T16:01:00+00:00",
+            "permalink": "https://nitter.meowing.monster/theboreddemis/status/2114749193944203341#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114747872830685601",
+            "text": "Os apostadores sabem identificar um golpe, ou melhor os apostadores são os golpistas. 🤨",
+            "author_username": "EXPECTACAO23",
+            "author_name": "EXPECTACAO23",
+            "created_at": "2026-10-26T15:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/EXPECTACAO23/status/2114747872830685601#m",
+            "metrics": {
+              "like_count": 832,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 11
+            }
+          },
+          {
+            "id": "2114746191132995660",
+            "text": "A prova do quanto as urnas são seguras, é que vcs precisaram tentar impedir as pessoas de chegarem ao local de votação, como única forma de golpe que conseguiram.",
+            "author_username": "MaraOliver35350",
+            "author_name": "MaraOliver35350",
+            "created_at": "2026-10-26T15:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MaraOliver35350/status/2114746191132995660#m",
+            "metrics": {
+              "like_count": 78,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114744967880995068",
+            "text": "Não vai ter Golpe.",
+            "author_username": "toptv90",
+            "author_name": "toptv90",
+            "created_at": "2026-10-26T15:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/toptv90/status/2114744967880995068#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114743627406590194",
+            "text": "Como dizia essa velha frase o GOLPE tá aí, cai quem quer",
+            "author_username": "Dudu1vga",
+            "author_name": "Dudu1vga",
+            "created_at": "2026-10-26T15:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Dudu1vga/status/2114743627406590194#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114741133171732584",
+            "text": "Golpe, tá? Isso aí é golpe. O que precisamos é uma reforma eleitoral que impeça Garotinhos e Canellas terem seus nomes nas urnas.",
+            "author_username": "marceloletram",
+            "author_name": "marceloletram",
+            "created_at": "2026-10-26T15:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/marceloletram/status/2114741133171732584#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114737160779636908",
+            "text": "ZANIN , EX -ADVOGADO DO LULA DEU O GOLPE NAS ELEIÇÕES DO BRASIL DE\n2️⃣0️⃣2️⃣6️⃣",
+            "author_username": "LeninhaLopes77",
+            "author_name": "LeninhaLopes77",
+            "created_at": "2026-10-26T15:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LeninhaLopes77/status/2114737160779636908#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 13,
+              "retweet_count": 75,
+              "quote_count": 164
+            }
+          },
+          {
+            "id": "2114736547132031092",
+            "text": "E você achou que o golpe foi no 08/01, né?",
+            "author_username": "Fabio_Bonilha",
+            "author_name": "Fabio_Bonilha",
+            "created_at": "2026-10-26T15:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fabio_Bonilha/status/2114736547132031092#m",
+            "metrics": {
+              "like_count": 478,
+              "reply_count": 1,
+              "retweet_count": 6,
+              "quote_count": 81
+            }
+          },
+          {
+            "id": "2114735958411051390",
+            "text": "instagram.com/p/De9YpdTCNmB/…  Golpe/Fraude  PT/STF/Narcotráfico",
+            "author_username": "NancyMa12723236",
+            "author_name": "NancyMa12723236",
+            "created_at": "2026-10-26T15:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/NancyMa12723236/status/2114735958411051390#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114733471897682333",
+            "text": "ZANIN , ADVOGADO DO LULA 🚩 DEU O GOLPE NAS ELEIÇÕES DE 2️⃣0️⃣2️⃣6️⃣",
+            "author_username": "LeninhaLopes77",
+            "author_name": "LeninhaLopes77",
+            "created_at": "2026-10-26T14:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LeninhaLopes77/status/2114733471897682333#m",
+            "metrics": {
+              "like_count": 568,
+              "reply_count": 11,
+              "retweet_count": 21,
+              "quote_count": 51
+            }
+          },
+          {
+            "id": "2114733009114947876",
+            "text": "ZANIN  , ADVOGADO DO LULA DEU  O GOLPE NAS ELEIÇÕES DE 2️⃣0️⃣2️⃣6️⃣ .",
+            "author_username": "LeninhaLopes77",
+            "author_name": "LeninhaLopes77",
+            "created_at": "2026-10-26T14:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LeninhaLopes77/status/2114733009114947876#m",
+            "metrics": {
+              "like_count": 828,
+              "reply_count": 2,
+              "retweet_count": 32,
+              "quote_count": 66
+            }
+          },
+          {
+            "id": "2114731412607602851",
+            "text": "A narrativa do golpe já está pronta ? \nO próprio Lula ensina.\nQue Deus tenha misericórdia do Brasil…",
+            "author_username": "LeninhaLopes77",
+            "author_name": "LeninhaLopes77",
+            "created_at": "2026-10-26T14:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LeninhaLopes77/status/2114731412607602851#m",
+            "metrics": {
+              "like_count": 928,
+              "reply_count": 7,
+              "retweet_count": 52,
+              "quote_count": 68
+            }
+          },
+          {
+            "id": "2114726863490736320",
+            "text": "MAIOR GOLPE DE ESTADO que eu já vi em TODA a minha vida! Pqp! E vcs petistas ainda comemoram a vitoria roubada. Lula só nao veio em casa roubar meu dedo pq nao dava. Filha da puta do caralho",
+            "author_username": "nicky2thisethat",
+            "author_name": "nicky2thisethat",
+            "created_at": "2026-10-26T14:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nicky2thisethat/status/2114726863490736320#m",
+            "metrics": {
+              "like_count": 54,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114726294994706807",
+            "text": "Golpe meu amigo",
+            "author_username": "Fernandojoao45",
+            "author_name": "Fernandojoao45",
+            "created_at": "2026-10-26T14:30:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fernandojoao45/status/2114726294994706807#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114725708232638934",
+            "text": "O golpe",
+            "author_username": "Fernandojoao45",
+            "author_name": "Fernandojoao45",
+            "created_at": "2026-10-26T14:27:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fernandojoao45/status/2114725708232638934#m",
+            "metrics": {
+              "like_count": 44,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114724805962355181",
+            "text": "Outro golpe",
+            "author_username": "SponkxFoundadon",
+            "author_name": "SponkxFoundadon",
+            "created_at": "2026-10-26T14:24:00+00:00",
+            "permalink": "https://nitter.meowing.monster/SponkxFoundadon/status/2114724805962355181#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114723219311559090",
+            "text": "pelo que estou vendo vai ficar porisso mesmo, valeu o golpe",
+            "author_username": "Antonio24692119",
+            "author_name": "Antonio24692119",
+            "created_at": "2026-10-26T14:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Antonio24692119/status/2114723219311559090#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114722185965129920",
+            "text": "Ele faz parte da trama golpista, esse perfil é administrado pelo @emd_worldwide ele oculta comentários de pessoas felizes pela democracia e atos pró-lula e deixa os dos mau perdedores pedindo golpe. Tudo faz parte do plano deles",
+            "author_username": "remela710oil",
+            "author_name": "remela710oil",
+            "created_at": "2026-10-26T14:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/remela710oil/status/2114722185965129920#m",
+            "metrics": {
+              "like_count": 42,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114721169957904743",
+            "text": "o mundo viu o golpe.",
+            "author_username": "AllanBellissimo",
+            "author_name": "AllanBellissimo",
+            "created_at": "2026-10-26T14:09:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AllanBellissimo/status/2114721169957904743#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114721092589801820",
+            "text": "🚨 Antes da virada. Na hora do golpe das empresas de ônibus. Não levando os eleitores para votar. Foi me dando um desespero. Um choro de injustiça. Por nós do #ExercitoDoLula trabalhamos tanto.\nMas que é  do bem  e a verdade sempre vence!\n1️⃣3️⃣🇧🇷❤\n##LulaMaiorDoMundo",
+            "author_username": "Cabelocacheadof",
+            "author_name": "Cabelocacheadof",
+            "created_at": "2026-10-26T14:09:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Cabelocacheadof/status/2114721092589801820#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114721073778376884",
+            "text": "Aí começa o GOLPE?",
+            "author_username": "AliciaFofuras",
+            "author_name": "AliciaFofuras",
+            "created_at": "2026-10-26T14:09:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AliciaFofuras/status/2114721073778376884#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114720725932064934",
+            "text": "Um mestre a frente do seu tempo. Um bastião defensor da humanidade. Sempre prevendo o futuro.\n\nCom as frases mais certeira. Olavo de Carvalho ja tinha previsto o GOLPE do PT.",
+            "author_username": "mhpdsouza",
+            "author_name": "mhpdsouza",
+            "created_at": "2026-10-26T14:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mhpdsouza/status/2114720725932064934#m",
+            "metrics": {
+              "like_count": 84,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114718490623885755",
+            "text": "Que puta golpe esse velho tirao fez meu deus",
+            "author_username": "ju_mayaaa",
+            "author_name": "ju_mayaaa",
+            "created_at": "2026-10-26T13:59:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ju_mayaaa/status/2114718490623885755#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114718236998619334",
+            "text": "Até eleitora falando do golpe bicho. Mas o ganho do Lula foi democrático sim, confia",
+            "author_username": "Wendelzito",
+            "author_name": "Wendelzito",
+            "created_at": "2026-10-26T13:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Wendelzito/status/2114718236998619334#m",
+            "metrics": {
+              "like_count": 37,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114716787669385715",
+            "text": "Nem tentem dar golpe ☺️\n\n#LulaOBrasilTeAma\n#DeViradaEMaisGostoso",
+            "author_username": "tesouropvl",
+            "author_name": "tesouropvl",
+            "created_at": "2026-10-26T13:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/tesouropvl/status/2114716787669385715#m",
+            "metrics": {
+              "like_count": 25,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114716654416306222",
+            "text": "como é que pode um filho da puta que tá no poder tweetar isso, e ter um bando de pau no cú idiota e burro que vota orgulhoso, e ainda acha legal flertar com golpe de estado kkk",
+            "author_username": "Kabelle_umdois",
+            "author_name": "Kabelle_umdois",
+            "created_at": "2026-10-26T13:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Kabelle_umdois/status/2114716654416306222#m",
+            "metrics": {
+              "like_count": 36,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114713618444906989",
+            "text": "pelo amor de Deus gente...vcs acreditam nesses números? acham mesmo que em 20 dias a esquerda conseguiu virar votos?!? Flávio Bolsonaro ganhou no primeiro turno mesmo sem apoio maciço da direita galática e da turma teen...o golpe foi nessa paralisação que Zanin fez e STF no poder",
+            "author_username": "FlorimVania",
+            "author_name": "FlorimVania",
+            "created_at": "2026-10-26T13:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/FlorimVania/status/2114713618444906989#m",
+            "metrics": {
+              "like_count": 51,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114711148184351213",
+            "text": "Eu adoro a narrativa que o Lula vai dar golpe pq ele foi a pessoa que mais perdeu e ganhou eleição e nunca tentou nada e nem alegou nada, agora a família miliciana participou de 3 eleições e em 2 tentaram golpe e se recusaram a aceitar o resultado",
+            "author_username": "Dedegugu_",
+            "author_name": "Dedegugu_",
+            "created_at": "2026-10-26T13:30:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Dedegugu_/status/2114711148184351213#m",
+            "metrics": {
+              "like_count": 170,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114710879774130611",
+            "text": "Os movimentos de rua aumentaram, o canal do japonês, os anúncios de benefícios e enquanto isso a direita dançando e agora vem falar q foi golpe.... Tava na cara só quem não viu é pq estava cego pela soberba",
+            "author_username": "CaporalFernando",
+            "author_name": "CaporalFernando",
+            "created_at": "2026-10-26T13:28:00+00:00",
+            "permalink": "https://nitter.meowing.monster/CaporalFernando/status/2114710879774130611#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 6
+            }
+          },
+          {
+            "id": "2114708322393731210",
+            "text": "JORNALISTA DA GLOBO EXPÕE GOLPE DA ESQUERDA..",
+            "author_username": "065999036707cba",
+            "author_name": "065999036707cba",
+            "created_at": "2026-10-26T13:18:00+00:00",
+            "permalink": "https://nitter.meowing.monster/065999036707cba/status/2114708322393731210#m",
+            "metrics": {
+              "like_count": 745,
+              "reply_count": 0,
+              "retweet_count": 11,
+              "quote_count": 37
+            }
+          },
+          {
+            "id": "2114708260980769051",
+            "text": "Ontem vimos um verdadeiro golpe de estado! O sujeito que estava atrás nas pesquisas acionou seu advogado que deu 2 horas para ele fazer 11 milhões de votos e ganhar a eleição! Aliás, eleição não se ganha, se toma, segundo José Dirceu.",
+            "author_username": "mvalim",
+            "author_name": "mvalim",
+            "created_at": "2026-10-26T13:18:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mvalim/status/2114708260980769051#m",
+            "metrics": {
+              "like_count": 32,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114708118265295253",
+            "text": "Só restou chorar, invade o STF de novo e fale que não foi tentativa de golpe kkkkk",
+            "author_username": "Leandrochargers",
+            "author_name": "Leandrochargers",
+            "created_at": "2026-10-26T13:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Leandrochargers/status/2114708118265295253#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114707607654973605",
+            "text": "GOLPE simples.\n\nO Brasil acabou",
+            "author_username": "crypt_archangel",
+            "author_name": "crypt_archangel",
+            "created_at": "2026-10-26T13:15:00+00:00",
+            "permalink": "https://nitter.meowing.monster/crypt_archangel/status/2114707607654973605#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114706346977157324",
+            "text": "Vc queria um golpe de estado  ! Vc queria apenas destruir os pobres deste país!",
+            "author_username": "washingtonwd",
+            "author_name": "washingtonwd",
+            "created_at": "2026-10-26T13:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/washingtonwd/status/2114706346977157324#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114706137568121009",
+            "text": "O terrivelmente evangélico pode ter sido o Marcus junius Brutus avalizar o golpe de cristiano Zanin favorecendo lula",
+            "author_username": "Edisioferreira2",
+            "author_name": "Edisioferreira2",
+            "created_at": "2026-10-26T13:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Edisioferreira2/status/2114706137568121009#m",
+            "metrics": {
+              "like_count": 29,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114704684459962429",
+            "text": "Não só ele mas o Cássio Nunes também deveria ser responsabilizado sem ele o golpe não teria sido implementar",
+            "author_username": "Edisioferreira2",
+            "author_name": "Edisioferreira2",
+            "created_at": "2026-10-26T13:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Edisioferreira2/status/2114704684459962429#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114704270649913351",
+            "text": "De acordo com Roberto Freire a  atitude do cristiano Zanin configura golpe de estado o pior de tudo foi a conivência o coloio do kássio Nunes",
+            "author_username": "Edisioferreira2",
+            "author_name": "Edisioferreira2",
+            "created_at": "2026-10-26T13:02:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Edisioferreira2/status/2114704270649913351#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114703243188040116",
+            "text": "Não sou eu quem diz mas sim Roberto Freire continuar com uma votação com horário marcado para terminar e o golpe de estado mas o seu principal general não foi só o Cristiano Zanin teve o Brutus o terrivelmente evangélico kassio Nunes como co-autor",
+            "author_username": "Edisioferreira2",
+            "author_name": "Edisioferreira2",
+            "created_at": "2026-10-26T12:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Edisioferreira2/status/2114703243188040116#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114702188274413982",
+            "text": "Chupetinha tá ouriçado \n\nÉ bom recolher as provas porque mais uma tentativa de golpe não pode passar impune na câmara \n\n@ErikakHilton @jonesmanoel_PE @mariamarighella @oliviasantana65",
+            "author_username": "LuizP1899",
+            "author_name": "LuizP1899",
+            "created_at": "2026-10-26T12:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LuizP1899/status/2114702188274413982#m",
+            "metrics": {
+              "like_count": 82,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114701898326454346",
+            "text": "Como é bom perder seguidor que não aceita a derrota, começa a falar em golpe... Vão pro inferno mesmo. 🖤",
+            "author_username": "igorsiri",
+            "author_name": "igorsiri",
+            "created_at": "2026-10-26T12:53:00+00:00",
+            "permalink": "https://nitter.meowing.monster/igorsiri/status/2114701898326454346#m",
+            "metrics": {
+              "like_count": 119,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114701713676316948",
+            "text": "Não creio se o véuduração eles não vão anular a eleição Mas uma coisa eu tenho certeza desta vez podemos sim culpar Jair Messias bolsonaro pôr ter indicado kassio Nunes o terrivelmente evangélico compactuou com o golpe",
+            "author_username": "Edisioferreira2",
+            "author_name": "Edisioferreira2",
+            "created_at": "2026-10-26T12:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Edisioferreira2/status/2114701713676316948#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114701392484991429",
+            "text": "Agora está explicado o porque do lixo corrupto,ter pedido os sigilos do Flávio, com esse golpe ele irá prender  Flávio,Andréendonca, Gustavo,boa kisses,etc.. por isso que não se coloca amiguinhos no STF e sim Técnicos Juízes de Carreira..petistas comprando votos ao lado da urna,",
+            "author_username": "max19741569243",
+            "author_name": "max19741569243",
+            "created_at": "2026-10-26T12:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/max19741569243/status/2114701392484991429#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114700068913594704",
+            "text": "Golpe sim só que com aval a conivência o coloio do kássio Nunes",
+            "author_username": "Edisioferreira2",
+            "author_name": "Edisioferreira2",
+            "created_at": "2026-10-26T12:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Edisioferreira2/status/2114700068913594704#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114699328006816070",
+            "text": "Primeiro dia depois do GOLPE",
+            "author_username": "Fabio_Bonilha",
+            "author_name": "Fabio_Bonilha",
+            "created_at": "2026-10-26T12:43:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fabio_Bonilha/status/2114699328006816070#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114697743876649462",
+            "text": "Sob pressão com a possibilidade de ter seu filho preso por envolvimento em ilícitos aos quais faz parte da índole de integrantes do governo ele ajudou a formalizar o golpe",
+            "author_username": "Edisioferreira2",
+            "author_name": "Edisioferreira2",
+            "created_at": "2026-10-26T12:36:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Edisioferreira2/status/2114697743876649462#m",
+            "metrics": {
+              "like_count": 29,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114696775957168329",
+            "text": "A troca de Pablo Marçal Tarcísio Gomes de Freitas na preparação do Flávio bolsonaro também pode ter sido parte do golpe jaqueta aceso não estava interessado na vitória do Flávio queria ele ser o candidato",
+            "author_username": "Edisioferreira2",
+            "author_name": "Edisioferreira2",
+            "created_at": "2026-10-26T12:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Edisioferreira2/status/2114696775957168329#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114695914702901745",
+            "text": "Pouco vai adiantar o golpe teve a Valdir kassio Nunes",
+            "author_username": "Edisioferreira2",
+            "author_name": "Edisioferreira2",
+            "created_at": "2026-10-26T12:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Edisioferreira2/status/2114695914702901745#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114694886746124534",
+            "text": "O golpe teve apoio dos ministros terrivelmente evangélico kassio Nunes ajudou na configuração do golpe",
+            "author_username": "Edisioferreira2",
+            "author_name": "Edisioferreira2",
+            "created_at": "2026-10-26T12:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Edisioferreira2/status/2114694886746124534#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114692020245573949",
+            "text": "Hahahahaha.... já não tentaram golpe demais? Perdeu babaca!!!",
+            "author_username": "thiagodnp",
+            "author_name": "thiagodnp",
+            "created_at": "2026-10-26T12:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/thiagodnp/status/2114692020245573949#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114690308747186312",
+            "text": "Eles não desistiram, vão tentar o golpe de todas as formas. \nTemos que garantir nas ruas a vitória nas urnas. Hoje, 18 horas",
+            "author_username": "Zumpicchiatti",
+            "author_name": "Zumpicchiatti",
+            "created_at": "2026-10-26T12:07:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Zumpicchiatti/status/2114690308747186312#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114689490488856909",
+            "text": "Eu não tenho medo que o @geraldoalckmin vá dar um golpe de estado, vá perseguir viado, perturbar a minha religião. \n\nEu passei um mês chorando de saudades qd a direita brasileira significava PSDB",
+            "author_username": "AnaCaroliiinah",
+            "author_name": "AnaCaroliiinah",
+            "created_at": "2026-10-26T12:03:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AnaCaroliiinah/status/2114689490488856909#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114686153370563063",
+            "text": "O choro é livre. Mas se tentar golpe novamente vocês vão ter problemas, não haverá um novo 08 de Janeiro.\n\n#LulaMaiorDoMundo\n #VitoriaDaDemocracia\n #LulaOBrasilTeAma #DeViradaEMaisGostoso",
+            "author_username": "LavigneMagno",
+            "author_name": "LavigneMagno",
+            "created_at": "2026-10-26T11:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LavigneMagno/status/2114686153370563063#m",
+            "metrics": {
+              "like_count": 33,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114680364803269087",
+            "text": "Aquele esquema de aumentar o horário de votação foi o golpe ele estava atrás em todos os instituto de pesquisas foi um golpe vergonhoso",
+            "author_username": "JEustorgio9",
+            "author_name": "JEustorgio9",
+            "created_at": "2026-10-26T11:27:00+00:00",
+            "permalink": "https://nitter.meowing.monster/JEustorgio9/status/2114680364803269087#m",
+            "metrics": {
+              "like_count": 43,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114680362202800447",
+            "text": "O curioso caso dos bolsonarista, que não acreditam que o Bolsonaro foi corrupto no caso Vorcado, mas acredita no golpe das urnas, kkkkk",
+            "author_username": "MoacirJ87258852",
+            "author_name": "MoacirJ87258852",
+            "created_at": "2026-10-26T11:27:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MoacirJ87258852/status/2114680362202800447#m",
+            "metrics": {
+              "like_count": 356,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 38
+            }
+          },
+          {
+            "id": "2114678305601323210",
+            "text": "Se Bolsonaro não tivesse tentado dar um golpe, estaria livre e teria tido 4 anos para se articular, recuperar eleitores e voltar ao poder. Mas preferiu aloprar e acabou preso. Flávio pode se capitalizar como sucessor do pai, mas parece disposto a repetir os mesmos erros.",
+            "author_username": "DuraoRodrigo",
+            "author_name": "DuraoRodrigo",
+            "created_at": "2026-10-26T11:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DuraoRodrigo/status/2114678305601323210#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114676648041685030",
+            "text": "ELE NÃO PERDEU, E SIM A QUADRILHA DEU GOLPE NELE E NO POVO BRASILEIRO DOBEM🐀🐀🐀😬😬😬👿👿👿",
+            "author_username": "ribeiro_no31470",
+            "author_name": "ribeiro_no31470",
+            "created_at": "2026-10-26T11:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ribeiro_no31470/status/2114676648041685030#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114675909391237314",
+            "text": "Meu Brssil está  sofrendo u. Golpe da esquerda nefasta que ontem quebrou. As regras da eleição, um verdadeiro assalto. Infelizmente enquanto não  anularmos esse 2° turno da eleição 25/10/2026, não  tenho cabeça para meu lindo ator Lee Min Ho. \n🇧🇷🫰🇰🇷",
+            "author_username": "Wanda22035823",
+            "author_name": "Wanda22035823",
+            "created_at": "2026-10-26T11:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Wanda22035823/status/2114675909391237314#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114674933145927817",
+            "text": "Vou dar um tempo com o meu lindo Lee Min Ho.  Meu Brasil está  sofrendo um golpe da esquerda nefasta. Enquanto não  anularmos esse 2° turno, não  tenho cabeça para ele.\n🇧🇷🫰🇯🇵",
+            "author_username": "Wanda22035823",
+            "author_name": "Wanda22035823",
+            "created_at": "2026-10-26T11:06:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Wanda22035823/status/2114674933145927817#m",
+            "metrics": {
+              "like_count": 42,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114672358367621571",
+            "text": "Agora está tudo escancarado, Brasil virou um narcoestado 😢 😢 😢 😢 \nOs bandidos agradecem esse ladrão que deu mais uma vez o GOLPE🐀🐀🐀😠😬😬👿👿👿👿",
+            "author_username": "ribeiro_no31470",
+            "author_name": "ribeiro_no31470",
+            "created_at": "2026-10-26T10:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ribeiro_no31470/status/2114672358367621571#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114672289568395577",
+            "text": "Depois tá aí tudo chorando, pedindo anistia. É bom q tentem o golpe novamente, que acaba com a história de anistia de vez",
+            "author_username": "dfschlingmann",
+            "author_name": "dfschlingmann",
+            "created_at": "2026-10-26T10:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/dfschlingmann/status/2114672289568395577#m",
+            "metrics": {
+              "like_count": 692,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114671421947273340",
+            "text": "Meu não foi e nem de muitos, foi o GOLPE que deram novamente no povo brasileiro😠😠🐀🐀🐀🐀 os rotos não querem sair do bueiro🐀🐀🐀🐀",
+            "author_username": "ribeiro_no31470",
+            "author_name": "ribeiro_no31470",
+            "created_at": "2026-10-26T10:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ribeiro_no31470/status/2114671421947273340#m",
+            "metrics": {
+              "like_count": 26,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114670985970360438",
+            "text": "O André Shampoo e a Andrezza Golpe de Estado devem estar em estado de choque",
+            "author_username": "EdnilsonValia",
+            "author_name": "EdnilsonValia",
+            "created_at": "2026-10-26T10:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/EdnilsonValia/status/2114670985970360438#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114669098223182136",
+            "text": "Mais um GOLPE em cima do povo brasileiro, eleições não se ganha, se toma🐀🐀🐀🤮🤮🤮🤮👿👿👿",
+            "author_username": "ribeiro_no31470",
+            "author_name": "ribeiro_no31470",
+            "created_at": "2026-10-26T10:42:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ribeiro_no31470/status/2114669098223182136#m",
+            "metrics": {
+              "like_count": 168,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114668869214216485",
+            "text": "Golpe, né....",
+            "author_username": "crypt_archangel",
+            "author_name": "crypt_archangel",
+            "created_at": "2026-10-26T10:42:00+00:00",
+            "permalink": "https://nitter.meowing.monster/crypt_archangel/status/2114668869214216485#m",
+            "metrics": {
+              "like_count": 54,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114668543018930252",
+            "text": "Agradeço todos os dias pelo Jair ser completamente burro.\n Não conseguiu dar golpe e por egocentrismo escolheu o pior filho para tentar ser presidente.\nEternamente chacota da história do Brasil essa familicia",
+            "author_username": "SENlNHA",
+            "author_name": "SENlNHA",
+            "created_at": "2026-10-26T10:40:00+00:00",
+            "permalink": "https://nitter.meowing.monster/SENlNHA/status/2114668543018930252#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 25
+            }
+          },
+          {
+            "id": "2114668193813864461",
+            "text": "Excelente observação.\n\nO GOLPE estava pronto",
+            "author_username": "crypt_archangel",
+            "author_name": "crypt_archangel",
+            "created_at": "2026-10-26T10:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/crypt_archangel/status/2114668193813864461#m",
+            "metrics": {
+              "like_count": 36,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114667389157527875",
+            "text": "EU NÃO ESTOU ACREDITANDO QUE STF DEU OUTRO GOLPE NA GENTE, INACEITÁVEL",
+            "author_username": "FABER1254",
+            "author_name": "FABER1254",
+            "created_at": "2026-10-26T10:36:00+00:00",
+            "permalink": "https://nitter.meowing.monster/FABER1254/status/2114667389157527875#m",
+            "metrics": {
+              "like_count": 351,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 16
+            }
+          },
+          {
+            "id": "2114664724520390948",
+            "text": "O caras dão um GOLPE com advogado de Lula cometendo crime, à CNN criando cortina de fumaça.",
+            "author_username": "RobeiltonL",
+            "author_name": "RobeiltonL",
+            "created_at": "2026-10-26T10:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/RobeiltonL/status/2114664724520390948#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114664243014570054",
+            "text": "Golpe ou Fraude, agora é só escolher o NOME!",
+            "author_username": "RobeiltonL",
+            "author_name": "RobeiltonL",
+            "created_at": "2026-10-26T10:23:00+00:00",
+            "permalink": "https://nitter.meowing.monster/RobeiltonL/status/2114664243014570054#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114664054715253217",
+            "text": "Mais um golpe. Nossa nação é administrada por golpes.",
+            "author_username": "SdbaSormani",
+            "author_name": "SdbaSormani",
+            "created_at": "2026-10-26T10:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/SdbaSormani/status/2114664054715253217#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114663999954370639",
+            "text": "CANALHAS! VAMOS REVERTER ESSE GOLPE, É  UMA DESONRA PARA O NOSSO PAÍS, DEIXAR ESSE GOLPE PROSPERAR!\n🇧🇷🙏🏻🇧🇷",
+            "author_username": "wanda02086711",
+            "author_name": "wanda02086711",
+            "created_at": "2026-10-26T10:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/wanda02086711/status/2114663999954370639#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114663940361752709",
+            "text": "O golpe foi dado em praça pública. \n@FlavioBolsonaro \n@plnacional_ \n@Alfredogaspar_ \n@emd_worldwide \n@POTUS \n@JasonMiller \n@SecRubio",
+            "author_username": "DNilopolis92503",
+            "author_name": "DNilopolis92503",
+            "created_at": "2026-10-26T10:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DNilopolis92503/status/2114663940361752709#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114658722161025414",
+            "text": "não minha gente mas ainda dizem que isso aqui é GOLPE kkkkkkk",
+            "author_username": "eduaaarda",
+            "author_name": "eduaaarda",
+            "created_at": "2026-10-26T10:01:00+00:00",
+            "permalink": "https://nitter.meowing.monster/eduaaarda/status/2114658722161025414#m",
+            "metrics": {
+              "like_count": 86,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114655495776530686",
+            "text": "e ainda dizem que, depois de fazer um trabalho de excelência como esse, o Brasil sofreu um golpe da esquerda KKKKKKKKKKKKKKK",
+            "author_username": "eduaaarda",
+            "author_name": "eduaaarda",
+            "created_at": "2026-10-26T09:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/eduaaarda/status/2114655495776530686#m",
+            "metrics": {
+              "like_count": 120,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114650717566717973",
+            "text": "Golpe não acontece com batom. \nGolpe acontece com paradinha das urnas.",
+            "author_username": "___DENISE___EU_",
+            "author_name": "___DENISE___EU_",
+            "created_at": "2026-10-26T09:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/___DENISE___EU_/status/2114650717566717973#m",
+            "metrics": {
+              "like_count": 75,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114648799956148594",
+            "text": "VAI TER TENTATIVA DE GOLPE, DIA 08 DE JANEIRO DE NOVO ?\n\nASSIM, SÓ PARA SABER MESMO !\n\nLULA REELEITO \n\n#Eleicoes2026",
+            "author_username": "RichardGalo13",
+            "author_name": "RichardGalo13",
+            "created_at": "2026-10-26T09:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/RichardGalo13/status/2114648799956148594#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114648760525455423",
+            "text": "Bom dia \nVdd outro golpe",
+            "author_username": "AlexandreASant4",
+            "author_name": "AlexandreASant4",
+            "created_at": "2026-10-26T09:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AlexandreASant4/status/2114648760525455423#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114648121032441960",
+            "text": "Lula reeleito no voto democrático mas como sempre os golpistas estão inventando  desculpinha e querendo tentar da outro golpe na eleição o choro é livre Lula reeleito pela quarta vez presidente do Brasil.\n#LulaVaiVencer",
+            "author_username": "Tiagoaraujo2418",
+            "author_name": "Tiagoaraujo2418",
+            "created_at": "2026-10-26T09:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Tiagoaraujo2418/status/2114648121032441960#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114645921086554198",
+            "text": "Infelizmente foi golpe novamente 2022 e 2026 eu espero que isto possa se reverter porque eu não quero viver o que os Venezuelanos passaram na pele por ter um mal governo.",
+            "author_username": "cristaassis",
+            "author_name": "cristaassis",
+            "created_at": "2026-10-26T09:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/cristaassis/status/2114645921086554198#m",
+            "metrics": {
+              "like_count": 363,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114645599547019660",
+            "text": "Como será que o golpe aconteceu?",
+            "author_username": "LcioLaboissier2",
+            "author_name": "LcioLaboissier2",
+            "created_at": "2026-10-26T09:09:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LcioLaboissier2/status/2114645599547019660#m",
+            "metrics": {
+              "like_count": 22,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114641359281815712",
+            "text": "👋🙂 superação Mr Fernão 🙂🤲\n☝️🤨 falei Senhor que eles são audaciosos dicimulados falsos traiçoeiros TRAIDORES e iriam dar o golpe 😡",
+            "author_username": "sergiof53918562",
+            "author_name": "sergiof53918562",
+            "created_at": "2026-10-26T08:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/sergiof53918562/status/2114641359281815712#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114640140945551412",
+            "text": "Prorrogação do tempo não foi para o povo votar, foi para dar tempo de preparar o golpe. Fomos roubados!",
+            "author_username": "SilviaCris868",
+            "author_name": "SilviaCris868",
+            "created_at": "2026-10-26T08:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/SilviaCris868/status/2114640140945551412#m",
+            "metrics": {
+              "like_count": 53,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114638435407261850",
+            "text": "Na eleição passada, tentaram dar um golpe de Estado e assassinar o presidente eleito. Agora estão recorrendo à Justiça para tentar anular o resultado das urnas.\n\nÉ preciso reconhecer a evolução democrática de vocês. Parabéns! 👏",
+            "author_username": "DuraoRodrigo",
+            "author_name": "DuraoRodrigo",
+            "created_at": "2026-10-26T08:41:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DuraoRodrigo/status/2114638435407261850#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114637768169013491",
+            "text": "Errado ele não está \n\nGolpe",
+            "author_username": "crypt_archangel",
+            "author_name": "crypt_archangel",
+            "created_at": "2026-10-26T08:38:00+00:00",
+            "permalink": "https://nitter.meowing.monster/crypt_archangel/status/2114637768169013491#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114634071502373067",
+            "text": "Tão fenomenal quanto o Biden 🤡\n\nGolpe",
+            "author_username": "crypt_archangel",
+            "author_name": "crypt_archangel",
+            "created_at": "2026-10-26T08:23:00+00:00",
+            "permalink": "https://nitter.meowing.monster/crypt_archangel/status/2114634071502373067#m",
+            "metrics": {
+              "like_count": 494,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114630210549125145",
+            "text": "OS NOIAS da minha cidade postando story falando que teve golpe nas eleições \n\nOS NOIAS",
+            "author_username": "mateusachel",
+            "author_name": "mateusachel",
+            "created_at": "2026-10-26T08:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mateusachel/status/2114630210549125145#m",
+            "metrics": {
+              "like_count": 68,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114625550010458170",
+            "text": "A esticadinha foi o novo método do Golpe",
+            "author_username": "crypt_archangel",
+            "author_name": "crypt_archangel",
+            "created_at": "2026-10-26T07:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/crypt_archangel/status/2114625550010458170#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114623228563849313",
+            "text": "A matemágica da esticadinha foi linda.\n\nGOLPE",
+            "author_username": "crypt_archangel",
+            "author_name": "crypt_archangel",
+            "created_at": "2026-10-26T07:40:00+00:00",
+            "permalink": "https://nitter.meowing.monster/crypt_archangel/status/2114623228563849313#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114621845030764549",
+            "text": "Da esticadinha do iluminado \n\nGOLPE",
+            "author_username": "crypt_archangel",
+            "author_name": "crypt_archangel",
+            "created_at": "2026-10-26T07:35:00+00:00",
+            "permalink": "https://nitter.meowing.monster/crypt_archangel/status/2114621845030764549#m",
+            "metrics": {
+              "like_count": 55,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114617778816573539",
+            "text": "Estava no trabalho ontem. Tenho colegas que não votaram por causa do horário. Mudar a regra do jogo aos 45 e beneficiar uns é GOLPE",
+            "author_username": "crypt_archangel",
+            "author_name": "crypt_archangel",
+            "created_at": "2026-10-26T07:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/crypt_archangel/status/2114617778816573539#m",
+            "metrics": {
+              "like_count": 202,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 6
+            }
+          },
+          {
+            "id": "2114617058054799838",
+            "text": "Matemágica bem similar à eleição do Biden.\n\nGolpe",
+            "author_username": "crypt_archangel",
+            "author_name": "crypt_archangel",
+            "created_at": "2026-10-26T07:16:00+00:00",
+            "permalink": "https://nitter.meowing.monster/crypt_archangel/status/2114617058054799838#m",
+            "metrics": {
+              "like_count": 25,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114616258079424576",
+            "text": "É diferente perder e sofrer claramente um golpe, quem é o imbecil que faz os posts da metrópoles? Se atente aos fatos. Teve 213 cidades que no primeiro turno, o ganhador foi o flavio, e que o lula ganhou no 2° que porra de conta de votos é essa porra.",
+            "author_username": "LorenzoxtSc",
+            "author_name": "LorenzoxtSc",
+            "created_at": "2026-10-26T07:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LorenzoxtSc/status/2114616258079424576#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114614852396138778",
+            "text": "Tb acho que o golpe foi a esticadinha da manipulação",
+            "author_username": "crypt_archangel",
+            "author_name": "crypt_archangel",
+            "created_at": "2026-10-26T07:07:00+00:00",
+            "permalink": "https://nitter.meowing.monster/crypt_archangel/status/2114614852396138778#m",
+            "metrics": {
+              "like_count": 51,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114606071935312144",
+            "text": "Virada mostra que matemática e estatística não tem força diante de GOLPE",
+            "author_username": "crypt_archangel",
+            "author_name": "crypt_archangel",
+            "created_at": "2026-10-26T06:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/crypt_archangel/status/2114606071935312144#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114605678119559177",
+            "text": "Roubadaço.\n\nGolpe",
+            "author_username": "crypt_archangel",
+            "author_name": "crypt_archangel",
+            "created_at": "2026-10-26T06:30:00+00:00",
+            "permalink": "https://nitter.meowing.monster/crypt_archangel/status/2114605678119559177#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114604117423227044",
+            "text": "Tá bom 🤡\n\nGolpe",
+            "author_username": "crypt_archangel",
+            "author_name": "crypt_archangel",
+            "created_at": "2026-10-26T06:24:00+00:00",
+            "permalink": "https://nitter.meowing.monster/crypt_archangel/status/2114604117423227044#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114603796261118437",
+            "text": "🤨 tava na kara de todo mundo 🌎 que iriam dar o golpe 🤬\nieu já sabia disso a tempos. São audaciosos dicimulados falsos traiçoeiros TRAIDORES. ACORDA 🇧🇷",
+            "author_username": "sergiof53918562",
+            "author_name": "sergiof53918562",
+            "created_at": "2026-10-26T06:23:00+00:00",
+            "permalink": "https://nitter.meowing.monster/sergiof53918562/status/2114603796261118437#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114602799459619144",
+            "text": "Armaram o golpe, não deu certo. Agora querem acusar a esquerda de golpe.",
+            "author_username": "ElenaraLelex",
+            "author_name": "ElenaraLelex",
+            "created_at": "2026-10-26T06:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ElenaraLelex/status/2114602799459619144#m",
+            "metrics": {
+              "like_count": 80,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114600875104546928",
+            "text": "Lula deu o maior golpe de estado com 80 anos  e um ladrão mesmo imagina o quanto esse bandido roubou esse tempo todo? Namoral indignada 🤮🤮🤮😡🤯",
+            "author_username": "karinaf36851217",
+            "author_name": "karinaf36851217",
+            "created_at": "2026-10-26T06:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/karinaf36851217/status/2114600875104546928#m",
+            "metrics": {
+              "like_count": 45,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114599705178996761",
+            "text": "Veja o advogado da rede social do Trump, um retardado completado que agora está questionando as eleições e oculto todos os comentários de brasileiros feliz, oculto vídeos das festas feliz e deixa os do lado perdedor para terem sua narrativa de golpe. O tal do Martin de luca",
+            "author_username": "remela710oil",
+            "author_name": "remela710oil",
+            "created_at": "2026-10-26T06:07:00+00:00",
+            "permalink": "https://nitter.meowing.monster/remela710oil/status/2114599705178996761#m",
+            "metrics": {
+              "like_count": 80,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114599397786779871",
+            "text": "ditadura judicial? Nós lutamos contra a Meta, Trump, bolsonaros, visa e os caralho a quatro. Os lacaios de Trump sempre tiveram um golpe planejado para cá!",
+            "author_username": "remela710oil",
+            "author_name": "remela710oil",
+            "created_at": "2026-10-26T06:05:00+00:00",
+            "permalink": "https://nitter.meowing.monster/remela710oil/status/2114599397786779871#m",
+            "metrics": {
+              "like_count": 77,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114599074477351289",
+            "text": "Tudo armado! Deram um golpe!🤬🫵🏾🫵🏾🫵🏾",
+            "author_username": "gilsinho1",
+            "author_name": "gilsinho1",
+            "created_at": "2026-10-26T06:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/gilsinho1/status/2114599074477351289#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114591657060340172",
+            "text": "Isso aí, o que mais queremos é que vcs ameaçando o país, anunciando golpe, premeditando crimes abertamente, deixando provas das intenções de cometerem atos inconstitucionais. \nMas quando cairem e forem presos, não quero ouvir choro dizendo que vivem ditadura e perseguição.",
+            "author_username": "_edusoares_",
+            "author_name": "_edusoares_",
+            "created_at": "2026-10-26T05:35:00+00:00",
+            "permalink": "https://nitter.meowing.monster/_edusoares_/status/2114591657060340172#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 10,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "assuntos_x_momento_ate_27out21h_20261026"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2115069452043669545",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115069452043669545",
+      "collected_at": "2026-10-27T10:44:04-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115069452043669545",
+        "text": "Não foram eleitores que elegeram a esquerda,  foi golpe do STF. Armaram desde que perderam no primeiro turno. Odiar o outro, isso a esquerda quer.",
+        "author_username": "munho30496",
+        "author_name": "munho30496",
+        "created_at": "2026-10-27T13:13:00+00:00",
+        "permalink": "https://nitter.meowing.monster/munho30496/status/2115069452043669545#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115066375555145984",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115066375555145984",
+      "collected_at": "2026-10-27T10:44:04-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "direita"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115066375555145984",
+        "text": "ai que renan sla oq aii direita de verdade \n\npor favor galera kkkkkk MBL deu golpe até em PÁGINA DE MEME do facebook",
+        "author_username": "brunocanetinha",
+        "author_name": "brunocanetinha",
+        "created_at": "2026-10-27T13:01:00+00:00",
+        "permalink": "https://nitter.meowing.monster/brunocanetinha/status/2115066375555145984#m",
+        "metrics": {
+          "like_count": 50,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115065207965815203",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115065207965815203",
+      "collected_at": "2026-10-27T10:44:04-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115065207965815203",
+        "text": "A vizinha aqui é católica e votou bolsonaro. Maracuja de gaveta puro. NUNCA TRABALHOU pq deu golpe da barriga e votou Bolsonaro. Aiai. \nE detalhe: o pai recebe duas aposentadorias sendo que nem precisa",
+        "author_username": "theboreddemis",
+        "author_name": "theboreddemis",
+        "created_at": "2026-10-27T12:56:00+00:00",
+        "permalink": "https://nitter.meowing.monster/theboreddemis/status/2115065207965815203#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115056619977400335",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115056619977400335",
+      "collected_at": "2026-10-27T10:44:04-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115056619977400335",
+        "text": "Sei. Tu acha bonito. Só que não foi democracia. Foi golpe. Com apoio do STF ok?",
+        "author_username": "mahtukirenedra",
+        "author_name": "mahtukirenedra",
+        "created_at": "2026-10-27T12:22:00+00:00",
+        "permalink": "https://nitter.meowing.monster/mahtukirenedra/status/2115056619977400335#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115051245769519377",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115051245769519377",
+      "collected_at": "2026-10-27T10:44:04-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115051245769519377",
+        "text": "ai miga elas não sabem que golpe quem faz é o candidato delas",
+        "author_username": "eusuquinho",
+        "author_name": "eusuquinho",
+        "created_at": "2026-10-27T12:01:00+00:00",
+        "permalink": "https://nitter.meowing.monster/eusuquinho/status/2115051245769519377#m",
+        "metrics": {
+          "like_count": 15,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115050554669871254",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115050554669871254",
+      "collected_at": "2026-10-27T10:44:04-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115050554669871254",
+        "text": "Quando eles perdem, choram e no dia seguinte vão tentar golpe ou fugir do Brasil.",
+        "author_username": "tessmonte",
+        "author_name": "tessmonte",
+        "created_at": "2026-10-27T11:58:00+00:00",
+        "permalink": "https://nitter.meowing.monster/tessmonte/status/2115050554669871254#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115049526566228469",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115049526566228469",
+      "collected_at": "2026-10-27T10:44:04-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115049526566228469",
+        "text": "Uma baita atitude.\n\nSabemos que o golpe pode vir dessa forma, e que o movimento Neoliberal sempre terá o apoio de uma mídia corporativa pronto para atacar todos os setores da esquerda (Vide golpe na Dilma)\n\nElias sabe muito bem se defender, e esse tipo de ação terá visibilidade",
+        "author_username": "Adriano_SouEu",
+        "author_name": "Adriano_SouEu",
+        "created_at": "2026-10-27T11:54:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Adriano_SouEu/status/2115049526566228469#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115047293787218114",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115047293787218114",
+      "collected_at": "2026-10-27T10:44:04-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115047293787218114",
+        "text": "Dantas percebo que toda a mídia vem buscando desculpas nas campanhas e caladas qto a golpe, perseguição, mas pra fazer um omelete tem que quebrar os ovos né!",
+        "author_username": "EloiMaziero",
+        "author_name": "EloiMaziero",
+        "created_at": "2026-10-27T11:45:00+00:00",
+        "permalink": "https://nitter.meowing.monster/EloiMaziero/status/2115047293787218114#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115037507339321494",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115037507339321494",
+      "collected_at": "2026-10-27T10:44:04-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "direita",
+        "esquerda",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115037507339321494",
+        "text": "Nunca a direita deu golpe. Em 22 a esquerda armou um golpe sujo  ,fez a maior quebradeira  no planalto e jogou a culpa nos coitados que estão presos até hj .  Dessa vez o alibe  foi ônibus parados .  O golpe fatal de 2 horas que bastou para jogar no lixo  60 milhões de votos .",
+        "author_username": "SuellyPrado3",
+        "author_name": "SuellyPrado3",
+        "created_at": "2026-10-27T11:06:00+00:00",
+        "permalink": "https://nitter.meowing.monster/SuellyPrado3/status/2115037507339321494#m",
+        "metrics": {
+          "like_count": 181,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 4
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115034704122392837",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115034704122392837",
+      "collected_at": "2026-10-27T10:44:04-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115034704122392837",
+        "text": "O golpe 1 foi na apuração do 1⁰ turno onde não deixaram o Flavio Bolsonaro fechar a fatura, já o golpe 2 e definitivo foi na apuração agraciada com o acréscimo de 2 horas para a \" acomodação\" do resultado pretendido?\nOu então nos provem porque mais 2 horas?",
+        "author_username": "pedro_diomar",
+        "author_name": "pedro_diomar",
+        "created_at": "2026-10-27T10:55:00+00:00",
+        "permalink": "https://nitter.meowing.monster/pedro_diomar/status/2115034704122392837#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115032301545337060",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115032301545337060",
+      "collected_at": "2026-10-27T10:44:04-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115032301545337060",
+        "text": "Fraude  e agora já tem um golpe  planejado  ! Cakar o povo  !!",
+        "author_username": "GracaBinas",
+        "author_name": "GracaBinas",
+        "created_at": "2026-10-27T10:46:00+00:00",
+        "permalink": "https://nitter.meowing.monster/GracaBinas/status/2115032301545337060#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115031673532297444",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115031673532297444",
+      "collected_at": "2026-10-27T10:44:04-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115031673532297444",
+        "text": "Foi fraude , foi GOLPE  de estado  , eles jogaram com tudo !",
+        "author_username": "GracaBinas",
+        "author_name": "GracaBinas",
+        "created_at": "2026-10-27T10:43:00+00:00",
+        "permalink": "https://nitter.meowing.monster/GracaBinas/status/2115031673532297444#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115031044910907813",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115031044910907813",
+      "collected_at": "2026-10-27T10:44:04-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115031044910907813",
+        "text": "Foi um tragédia  pro sistema  eleitoral  brasileiro , foi fraude sim , já tinham falado  que eles iam fazer isso  !  ISSO SIM FOI GOLPE  DE ESTSDO !",
+        "author_username": "GracaBinas",
+        "author_name": "GracaBinas",
+        "created_at": "2026-10-27T10:41:00+00:00",
+        "permalink": "https://nitter.meowing.monster/GracaBinas/status/2115031044910907813#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115023686889504878",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115023686889504878",
+      "collected_at": "2026-10-27T10:44:04-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Golpe",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "c3b76063-ef92-4770-8faa-e86bce2bf13a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115023686889504878",
+        "text": "Essas desgraças só vivem de tramar golpe?",
+        "author_username": "pietrouniverso",
+        "author_name": "pietrouniverso",
+        "created_at": "2026-10-27T10:11:00+00:00",
+        "permalink": "https://nitter.meowing.monster/pietrouniverso/status/2115023686889504878#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}
