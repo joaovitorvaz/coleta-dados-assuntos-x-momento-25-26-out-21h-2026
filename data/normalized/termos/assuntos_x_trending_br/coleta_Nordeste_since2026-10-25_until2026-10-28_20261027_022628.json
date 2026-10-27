@@ -1,0 +1,686 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "6e96bd30-0b53-4cf9-9553-86144b769677",
+    "collected_at": "2026-10-27T02:26:28-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 10,
+      "comments": 0,
+      "records_total": 10,
+      "skipped_duplicate": 90
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114941338319778114",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114941338319778114",
+      "parent_post_id": null,
+      "thread_root_id": "2114941338319778114",
+      "author": {
+        "platform_id": null,
+        "display_name": "regi_fraga",
+        "username": "regi_fraga",
+        "profile_url": "https://x.com/regi_fraga"
+      },
+      "text": "Já vi gente cancelando viagem pro nordeste, kkkkk, essa eu ri, já vi gente falando pra não contratar petista ???  Teve gente demitindo funcionario TB. Gente esse povo é doido. Por isso eles não ganharam. Quem em sã consciência da voto pra gente desse nível 🤦🏽‍♀️",
+      "created_at": "2026-10-27T04:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T02:26:28-03:00",
+      "permalink": "https://nitter.netbub.com/regi_fraga/status/2114941338319778114#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "6e96bd30-0b53-4cf9-9553-86144b769677",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114941338319778114",
+        "text": "Já vi gente cancelando viagem pro nordeste, kkkkk, essa eu ri, já vi gente falando pra não contratar petista ???  Teve gente demitindo funcionario TB. Gente esse povo é doido. Por isso eles não ganharam. Quem em sã consciência da voto pra gente desse nível 🤦🏽‍♀️",
+        "author_username": "regi_fraga",
+        "author_name": "regi_fraga",
+        "created_at": "2026-10-27T04:44:00+00:00",
+        "permalink": "https://nitter.netbub.com/regi_fraga/status/2114941338319778114#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 262,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114937790873956672",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114937790873956672",
+      "parent_post_id": null,
+      "thread_root_id": "2114937790873956672",
+      "author": {
+        "platform_id": null,
+        "display_name": "nordeste_liga",
+        "username": "nordeste_liga",
+        "profile_url": "https://x.com/nordeste_liga"
+      },
+      "text": "Acho que outros filmes a Globo devia pegar como Adolescência (Netflix), Homem Aranha , Mortal Kombat",
+      "created_at": "2026-10-27T04:30:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T02:26:28-03:00",
+      "permalink": "https://nitter.netbub.com/nordeste_liga/status/2114937790873956672#m",
+      "metrics": {
+        "like_count": 82,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "6e96bd30-0b53-4cf9-9553-86144b769677",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114937790873956672",
+        "text": "Acho que outros filmes a Globo devia pegar como Adolescência (Netflix), Homem Aranha , Mortal Kombat",
+        "author_username": "nordeste_liga",
+        "author_name": "nordeste_liga",
+        "created_at": "2026-10-27T04:30:00+00:00",
+        "permalink": "https://nitter.netbub.com/nordeste_liga/status/2114937790873956672#m",
+        "metrics": {
+          "like_count": 82,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 100,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114934467424891387",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114934467424891387",
+      "parent_post_id": null,
+      "thread_root_id": "2114934467424891387",
+      "author": {
+        "platform_id": null,
+        "display_name": "nordeste_liga",
+        "username": "nordeste_liga",
+        "profile_url": "https://x.com/nordeste_liga"
+      },
+      "text": "Outro também bom e importante",
+      "created_at": "2026-10-27T04:17:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T02:26:28-03:00",
+      "permalink": "https://nitter.netbub.com/nordeste_liga/status/2114934467424891387#m",
+      "metrics": {
+        "like_count": 39,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "6e96bd30-0b53-4cf9-9553-86144b769677",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114934467424891387",
+        "text": "Outro também bom e importante",
+        "author_username": "nordeste_liga",
+        "author_name": "nordeste_liga",
+        "created_at": "2026-10-27T04:17:00+00:00",
+        "permalink": "https://nitter.netbub.com/nordeste_liga/status/2114934467424891387#m",
+        "metrics": {
+          "like_count": 39,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 29,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114928864975536273",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114928864975536273",
+      "parent_post_id": null,
+      "thread_root_id": "2114928864975536273",
+      "author": {
+        "platform_id": null,
+        "display_name": "nordeste_liga",
+        "username": "nordeste_liga",
+        "profile_url": "https://x.com/nordeste_liga"
+      },
+      "text": "Sim sim é feio , nojento, esquisito mas serve pra vida pra quem usa essas coisas que não vale a pena pq acaba com si mesmo ela faz a pessoa refletir antes de usar qualquer coisa que faz mal",
+      "created_at": "2026-10-27T03:55:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T02:26:28-03:00",
+      "permalink": "https://nitter.netbub.com/nordeste_liga/status/2114928864975536273#m",
+      "metrics": {
+        "like_count": 125,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 5
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "6e96bd30-0b53-4cf9-9553-86144b769677",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114928864975536273",
+        "text": "Sim sim é feio , nojento, esquisito mas serve pra vida pra quem usa essas coisas que não vale a pena pq acaba com si mesmo ela faz a pessoa refletir antes de usar qualquer coisa que faz mal",
+        "author_username": "nordeste_liga",
+        "author_name": "nordeste_liga",
+        "created_at": "2026-10-27T03:55:00+00:00",
+        "permalink": "https://nitter.netbub.com/nordeste_liga/status/2114928864975536273#m",
+        "metrics": {
+          "like_count": 125,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 5
+        }
+      },
+      "normalized": {
+        "text_length": 189,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114926370996260975",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114926370996260975",
+      "parent_post_id": null,
+      "thread_root_id": "2114926370996260975",
+      "author": {
+        "platform_id": null,
+        "display_name": "nordeste_liga",
+        "username": "nordeste_liga",
+        "profile_url": "https://x.com/nordeste_liga"
+      },
+      "text": "Olhando assim e observando três filmes que dariam enorme audiência na Tela Quente seriam \n\nA Substância (hoje)\nAdolescência da Netflix\nBarbie \n\nPor conta que abordam vários temas que temos na atualidade que são \n\nFama, dinheiro, beleza, inveja, sexo e etc",
+      "created_at": "2026-10-27T03:45:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T02:26:28-03:00",
+      "permalink": "https://nitter.netbub.com/nordeste_liga/status/2114926370996260975#m",
+      "metrics": {
+        "like_count": 281,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "6e96bd30-0b53-4cf9-9553-86144b769677",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114926370996260975",
+        "text": "Olhando assim e observando três filmes que dariam enorme audiência na Tela Quente seriam \n\nA Substância (hoje)\nAdolescência da Netflix\nBarbie \n\nPor conta que abordam vários temas que temos na atualidade que são \n\nFama, dinheiro, beleza, inveja, sexo e etc",
+        "author_username": "nordeste_liga",
+        "author_name": "nordeste_liga",
+        "created_at": "2026-10-27T03:45:00+00:00",
+        "permalink": "https://nitter.netbub.com/nordeste_liga/status/2114926370996260975#m",
+        "metrics": {
+          "like_count": 281,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 255,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114924848451309705",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114924848451309705",
+      "parent_post_id": null,
+      "thread_root_id": "2114924848451309705",
+      "author": {
+        "platform_id": null,
+        "display_name": "eudecosilva",
+        "username": "eudecosilva",
+        "profile_url": "https://x.com/eudecosilva"
+      },
+      "text": "Algum empresário ou empresa admitindo funcionário que não fez o L na Bahia ou no Nordeste? Tenho um amigo engenheiro que não fez o L, está desempregado precisando trabalhar.",
+      "created_at": "2026-10-27T03:39:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T02:26:28-03:00",
+      "permalink": "https://nitter.netbub.com/eudecosilva/status/2114924848451309705#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "6e96bd30-0b53-4cf9-9553-86144b769677",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114924848451309705",
+        "text": "Algum empresário ou empresa admitindo funcionário que não fez o L na Bahia ou no Nordeste? Tenho um amigo engenheiro que não fez o L, está desempregado precisando trabalhar.",
+        "author_username": "eudecosilva",
+        "author_name": "eudecosilva",
+        "created_at": "2026-10-27T03:39:00+00:00",
+        "permalink": "https://nitter.netbub.com/eudecosilva/status/2114924848451309705#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 173,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114923858172014793",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114923858172014793",
+      "parent_post_id": null,
+      "thread_root_id": "2114923858172014793",
+      "author": {
+        "platform_id": null,
+        "display_name": "nordeste_liga",
+        "username": "nordeste_liga",
+        "profile_url": "https://x.com/nordeste_liga"
+      },
+      "text": "Recomendo vc a assistir a série Adolescência aí vc vai ver o que é im  plano-sequência e vai te envolver do começo ao fim ficando com raiva , dó, do lado e a favor do personagem principal",
+      "created_at": "2026-10-27T03:35:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T02:26:28-03:00",
+      "permalink": "https://nitter.netbub.com/nordeste_liga/status/2114923858172014793#m",
+      "metrics": {
+        "like_count": 15,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "6e96bd30-0b53-4cf9-9553-86144b769677",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114923858172014793",
+        "text": "Recomendo vc a assistir a série Adolescência aí vc vai ver o que é im  plano-sequência e vai te envolver do começo ao fim ficando com raiva , dó, do lado e a favor do personagem principal",
+        "author_username": "nordeste_liga",
+        "author_name": "nordeste_liga",
+        "created_at": "2026-10-27T03:35:00+00:00",
+        "permalink": "https://nitter.netbub.com/nordeste_liga/status/2114923858172014793#m",
+        "metrics": {
+          "like_count": 15,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 187,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114923049929605241",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114923049929605241",
+      "parent_post_id": null,
+      "thread_root_id": "2114923049929605241",
+      "author": {
+        "platform_id": null,
+        "display_name": "nordeste_liga",
+        "username": "nordeste_liga",
+        "profile_url": "https://x.com/nordeste_liga"
+      },
+      "text": "Série de plano-sequência",
+      "created_at": "2026-10-27T03:32:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T02:26:28-03:00",
+      "permalink": "https://nitter.netbub.com/nordeste_liga/status/2114923049929605241#m",
+      "metrics": {
+        "like_count": 23,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "6e96bd30-0b53-4cf9-9553-86144b769677",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114923049929605241",
+        "text": "Série de plano-sequência",
+        "author_username": "nordeste_liga",
+        "author_name": "nordeste_liga",
+        "created_at": "2026-10-27T03:32:00+00:00",
+        "permalink": "https://nitter.netbub.com/nordeste_liga/status/2114923049929605241#m",
+        "metrics": {
+          "like_count": 23,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 24,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114922380564824406",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114922380564824406",
+      "parent_post_id": null,
+      "thread_root_id": "2114922380564824406",
+      "author": {
+        "platform_id": null,
+        "display_name": "nordeste_liga",
+        "username": "nordeste_liga",
+        "profile_url": "https://x.com/nordeste_liga"
+      },
+      "text": "Veja adolescência você vai ver uma frequência doida de cenas tem na Netflix",
+      "created_at": "2026-10-27T03:29:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T02:26:28-03:00",
+      "permalink": "https://nitter.netbub.com/nordeste_liga/status/2114922380564824406#m",
+      "metrics": {
+        "like_count": 42,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "6e96bd30-0b53-4cf9-9553-86144b769677",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114922380564824406",
+        "text": "Veja adolescência você vai ver uma frequência doida de cenas tem na Netflix",
+        "author_username": "nordeste_liga",
+        "author_name": "nordeste_liga",
+        "created_at": "2026-10-27T03:29:00+00:00",
+        "permalink": "https://nitter.netbub.com/nordeste_liga/status/2114922380564824406#m",
+        "metrics": {
+          "like_count": 42,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 75,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114915518435950811",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114915518435950811",
+      "parent_post_id": null,
+      "thread_root_id": "2114915518435950811",
+      "author": {
+        "platform_id": null,
+        "display_name": "AdrianaR15084",
+        "username": "AdrianaR15084",
+        "profile_url": "https://x.com/AdrianaR15084"
+      },
+      "text": "Eu mandava pro nordeste mas eles não precisam mais,melhor deixar mofar",
+      "created_at": "2026-10-27T03:02:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T02:26:28-03:00",
+      "permalink": "https://nitter.netbub.com/AdrianaR15084/status/2114915518435950811#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "6e96bd30-0b53-4cf9-9553-86144b769677",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114915518435950811",
+        "text": "Eu mandava pro nordeste mas eles não precisam mais,melhor deixar mofar",
+        "author_username": "AdrianaR15084",
+        "author_name": "AdrianaR15084",
+        "created_at": "2026-10-27T03:02:00+00:00",
+        "permalink": "https://nitter.netbub.com/AdrianaR15084/status/2114915518435950811#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 70,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
