@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Sudeste",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+    "collected_at": "2026-10-27T00:38:17-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 5,
+      "comments": 0,
+      "records_total": 5,
+      "skipped_duplicate": 55
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114915539520831545",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114915539520831545",
+      "parent_post_id": null,
+      "thread_root_id": "2114915539520831545",
+      "author": {
+        "platform_id": null,
+        "display_name": "ClimaArarangua",
+        "username": "ClimaArarangua",
+        "profile_url": "https://x.com/ClimaArarangua"
+      },
+      "text": "13:28 Tarde linda de sol nuvens céu azul aparecendo ventinho sudeste fraco agradável 19°C @Climaterra @ConexaoGeoClima @LeandroPuchalsk @metsul @Piter_Scheuer @Estaelsias",
+      "created_at": "2026-10-27T03:02:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:38:17-03:00",
+      "permalink": "https://nitter.netbub.com/ClimaArarangua/status/2114915539520831545#m",
+      "metrics": {
+        "like_count": 12,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114915539520831545",
+        "text": "13:28 Tarde linda de sol nuvens céu azul aparecendo ventinho sudeste fraco agradável 19°C @Climaterra @ConexaoGeoClima @LeandroPuchalsk @metsul @Piter_Scheuer @Estaelsias",
+        "author_username": "ClimaArarangua",
+        "author_name": "ClimaArarangua",
+        "created_at": "2026-10-27T03:02:00+00:00",
+        "permalink": "https://nitter.netbub.com/ClimaArarangua/status/2114915539520831545#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 170,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114894826474782855",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114894826474782855",
+      "parent_post_id": null,
+      "thread_root_id": "2114894826474782855",
+      "author": {
+        "platform_id": null,
+        "display_name": "HlioHenriq56903",
+        "username": "HlioHenriq56903",
+        "profile_url": "https://x.com/HlioHenriq56903"
+      },
+      "text": "É,  diga isso aos nordestinos que vivem as custas do sul e sudeste e centro-oeste. Chega de sustentar vagabundo com nossos impostos.",
+      "created_at": "2026-10-27T01:39:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:38:17-03:00",
+      "permalink": "https://nitter.netbub.com/HlioHenriq56903/status/2114894826474782855#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114894826474782855",
+        "text": "É,  diga isso aos nordestinos que vivem as custas do sul e sudeste e centro-oeste. Chega de sustentar vagabundo com nossos impostos.",
+        "author_username": "HlioHenriq56903",
+        "author_name": "HlioHenriq56903",
+        "created_at": "2026-10-27T01:39:00+00:00",
+        "permalink": "https://nitter.netbub.com/HlioHenriq56903/status/2114894826474782855#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 132,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114805063202005209",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114805063202005209",
+      "parent_post_id": null,
+      "thread_root_id": "2114805063202005209",
+      "author": {
+        "platform_id": null,
+        "display_name": "profjunior10",
+        "username": "profjunior10",
+        "profile_url": "https://x.com/profjunior10"
+      },
+      "text": "Ainda esperando o Sudeste entrar?",
+      "created_at": "2026-10-26T19:43:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:38:17-03:00",
+      "permalink": "https://nitter.netbub.com/profjunior10/status/2114805063202005209#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114805063202005209",
+        "text": "Ainda esperando o Sudeste entrar?",
+        "author_username": "profjunior10",
+        "author_name": "profjunior10",
+        "created_at": "2026-10-26T19:43:00+00:00",
+        "permalink": "https://nitter.netbub.com/profjunior10/status/2114805063202005209#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 33,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114795710017126648",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114795710017126648",
+      "parent_post_id": null,
+      "thread_root_id": "2114795710017126648",
+      "author": {
+        "platform_id": null,
+        "display_name": "tadeuporto",
+        "username": "tadeuporto",
+        "profile_url": "https://x.com/tadeuporto"
+      },
+      "text": "Niterói, São Bernardo, Contagem. Exemplos daqui do Sudeste, de onde sou. O peso q as cidades marginais das grandes capitais tem na história é gigante.",
+      "created_at": "2026-10-26T19:06:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:38:17-03:00",
+      "permalink": "https://nitter.netbub.com/tadeuporto/status/2114795710017126648#m",
+      "metrics": {
+        "like_count": 57,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114795710017126648",
+        "text": "Niterói, São Bernardo, Contagem. Exemplos daqui do Sudeste, de onde sou. O peso q as cidades marginais das grandes capitais tem na história é gigante.",
+        "author_username": "tadeuporto",
+        "author_name": "tadeuporto",
+        "created_at": "2026-10-26T19:06:00+00:00",
+        "permalink": "https://nitter.netbub.com/tadeuporto/status/2114795710017126648#m",
+        "metrics": {
+          "like_count": 57,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 150,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114792943932350902",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114792943932350902",
+      "parent_post_id": null,
+      "thread_root_id": "2114792943932350902",
+      "author": {
+        "platform_id": null,
+        "display_name": "LeninhaLopes77",
+        "username": "LeninhaLopes77",
+        "profile_url": "https://x.com/LeninhaLopes77"
+      },
+      "text": "EU SOU FAVORÁVEL , GOSTARIA DA INCLUSÃO DO SUDESTE TAMBÉM.",
+      "created_at": "2026-10-26T18:55:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:38:17-03:00",
+      "permalink": "https://nitter.netbub.com/LeninhaLopes77/status/2114792943932350902#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 128,
+        "retweet_count": 267,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Sudeste",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114792943932350902",
+        "text": "EU SOU FAVORÁVEL , GOSTARIA DA INCLUSÃO DO SUDESTE TAMBÉM.",
+        "author_username": "LeninhaLopes77",
+        "author_name": "LeninhaLopes77",
+        "created_at": "2026-10-26T18:55:00+00:00",
+        "permalink": "https://nitter.netbub.com/LeninhaLopes77/status/2114792943932350902#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 128,
+          "retweet_count": 267,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 58,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

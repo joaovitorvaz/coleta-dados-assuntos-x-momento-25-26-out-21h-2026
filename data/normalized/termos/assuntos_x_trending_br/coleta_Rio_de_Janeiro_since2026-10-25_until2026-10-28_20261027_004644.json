@@ -1,0 +1,1546 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Rio de Janeiro",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+    "collected_at": "2026-10-27T00:46:44-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 23,
+      "comments": 0,
+      "records_total": 23,
+      "skipped_duplicate": 41
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114920681846477167",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114920681846477167",
+      "parent_post_id": null,
+      "thread_root_id": "2114920681846477167",
+      "author": {
+        "platform_id": null,
+        "display_name": "TerraJoaoVictor",
+        "username": "TerraJoaoVictor",
+        "profile_url": "https://x.com/TerraJoaoVictor"
+      },
+      "text": "Põe são Paulo e Rio de Janeiro aí. Deixa a gente aqui não pfv kkk",
+      "created_at": "2026-10-27T03:22:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/TerraJoaoVictor/status/2114920681846477167#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114920681846477167",
+        "text": "Põe são Paulo e Rio de Janeiro aí. Deixa a gente aqui não pfv kkk",
+        "author_username": "TerraJoaoVictor",
+        "author_name": "TerraJoaoVictor",
+        "created_at": "2026-10-27T03:22:00+00:00",
+        "permalink": "https://nitter.meowing.monster/TerraJoaoVictor/status/2114920681846477167#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 65,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114910095079313710",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114910095079313710",
+      "parent_post_id": null,
+      "thread_root_id": "2114910095079313710",
+      "author": {
+        "platform_id": null,
+        "display_name": "DistopiaBrazil",
+        "username": "DistopiaBrazil",
+        "profile_url": "https://x.com/DistopiaBrazil"
+      },
+      "text": "8 de janeiro ainda não acabou!\nSó acaba quando Todos os responsáveis, organizadores, financiadores, militares e políticos forem presos. Esses organizaram as manifestações em Rio Verde\nDenuncie, Sem Anistia\n@policiafederal @MPF_PGR @TSEjusbr @STF_oficial @CNJ_oficial",
+      "created_at": "2026-10-27T02:40:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/DistopiaBrazil/status/2114910095079313710#m",
+      "metrics": {
+        "like_count": 477,
+        "reply_count": 2,
+        "retweet_count": 13,
+        "quote_count": 32
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114910095079313710",
+        "text": "8 de janeiro ainda não acabou!\nSó acaba quando Todos os responsáveis, organizadores, financiadores, militares e políticos forem presos. Esses organizaram as manifestações em Rio Verde\nDenuncie, Sem Anistia\n@policiafederal @MPF_PGR @TSEjusbr @STF_oficial @CNJ_oficial",
+        "author_username": "DistopiaBrazil",
+        "author_name": "DistopiaBrazil",
+        "created_at": "2026-10-27T02:40:00+00:00",
+        "permalink": "https://nitter.meowing.monster/DistopiaBrazil/status/2114910095079313710#m",
+        "metrics": {
+          "like_count": 477,
+          "reply_count": 2,
+          "retweet_count": 13,
+          "quote_count": 32
+        }
+      },
+      "normalized": {
+        "text_length": 266,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114905824036622604",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114905824036622604",
+      "parent_post_id": null,
+      "thread_root_id": "2114905824036622604",
+      "author": {
+        "platform_id": null,
+        "display_name": "limmacantor",
+        "username": "limmacantor",
+        "profile_url": "https://x.com/limmacantor"
+      },
+      "text": "#exercitododudu55 \n\nSiga o canal \"EXÉRCITO DO DUDU 55 🚀\" no WhatsApp: whatsapp.com/channel/0029VbE…\n\nQUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO!!!",
+      "created_at": "2026-10-27T02:23:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/limmacantor/status/2114905824036622604#m",
+      "metrics": {
+        "like_count": 49,
+        "reply_count": 1,
+        "retweet_count": 1,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114905824036622604",
+        "text": "#exercitododudu55 \n\nSiga o canal \"EXÉRCITO DO DUDU 55 🚀\" no WhatsApp: whatsapp.com/channel/0029VbE…\n\nQUEREMOS SEGUNDO TURNO NO RIO DE JANEIRO!!!",
+        "author_username": "limmacantor",
+        "author_name": "limmacantor",
+        "created_at": "2026-10-27T02:23:00+00:00",
+        "permalink": "https://nitter.meowing.monster/limmacantor/status/2114905824036622604#m",
+        "metrics": {
+          "like_count": 49,
+          "reply_count": 1,
+          "retweet_count": 1,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 144,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114889569417953630",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114889569417953630",
+      "parent_post_id": null,
+      "thread_root_id": "2114889569417953630",
+      "author": {
+        "platform_id": null,
+        "display_name": "murillobobagens",
+        "username": "murillobobagens",
+        "profile_url": "https://x.com/murillobobagens"
+      },
+      "text": "a milicia matou o irmão da samia tomando uma cerveja num quiosque no rio de janeiro amigão a parada pra ela é sobretudo pessoal.",
+      "created_at": "2026-10-27T01:19:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/murillobobagens/status/2114889569417953630#m",
+      "metrics": {
+        "like_count": 30,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114889569417953630",
+        "text": "a milicia matou o irmão da samia tomando uma cerveja num quiosque no rio de janeiro amigão a parada pra ela é sobretudo pessoal.",
+        "author_username": "murillobobagens",
+        "author_name": "murillobobagens",
+        "created_at": "2026-10-27T01:19:00+00:00",
+        "permalink": "https://nitter.meowing.monster/murillobobagens/status/2114889569417953630#m",
+        "metrics": {
+          "like_count": 30,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 128,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114877366732529803",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114877366732529803",
+      "parent_post_id": null,
+      "thread_root_id": "2114877366732529803",
+      "author": {
+        "platform_id": null,
+        "display_name": "FabianaSaotome",
+        "username": "FabianaSaotome",
+        "profile_url": "https://x.com/FabianaSaotome"
+      },
+      "text": "Não desista, Estado do Rio de Janeiro\nVamos fazer um 2027 diferente",
+      "created_at": "2026-10-27T00:30:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/FabianaSaotome/status/2114877366732529803#m",
+      "metrics": {
+        "like_count": 300,
+        "reply_count": 1,
+        "retweet_count": 1,
+        "quote_count": 26
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114877366732529803",
+        "text": "Não desista, Estado do Rio de Janeiro\nVamos fazer um 2027 diferente",
+        "author_username": "FabianaSaotome",
+        "author_name": "FabianaSaotome",
+        "created_at": "2026-10-27T00:30:00+00:00",
+        "permalink": "https://nitter.meowing.monster/FabianaSaotome/status/2114877366732529803#m",
+        "metrics": {
+          "like_count": 300,
+          "reply_count": 1,
+          "retweet_count": 1,
+          "quote_count": 26
+        }
+      },
+      "normalized": {
+        "text_length": 67,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114866278968013028",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114866278968013028",
+      "parent_post_id": null,
+      "thread_root_id": "2114866278968013028",
+      "author": {
+        "platform_id": null,
+        "display_name": "limmacantor",
+        "username": "limmacantor",
+        "profile_url": "https://x.com/limmacantor"
+      },
+      "text": "#exercitododudu55 \nQueremos ser respeitados no Rio de Janeiro! Exijo do @STF_oficial e do @TSEjusbr que garantam o direito de voto de segundo turno no meu estado. Douglas Ruas não venceu. Garotinho foi um candidato de atrapalho que a corte não teve labor correto. Resolvam isso já",
+      "created_at": "2026-10-26T23:46:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/limmacantor/status/2114866278968013028#m",
+      "metrics": {
+        "like_count": 29,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114866278968013028",
+        "text": "#exercitododudu55 \nQueremos ser respeitados no Rio de Janeiro! Exijo do @STF_oficial e do @TSEjusbr que garantam o direito de voto de segundo turno no meu estado. Douglas Ruas não venceu. Garotinho foi um candidato de atrapalho que a corte não teve labor correto. Resolvam isso já",
+        "author_username": "limmacantor",
+        "author_name": "limmacantor",
+        "created_at": "2026-10-26T23:46:00+00:00",
+        "permalink": "https://nitter.meowing.monster/limmacantor/status/2114866278968013028#m",
+        "metrics": {
+          "like_count": 29,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 280,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114865300470460687",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114865300470460687",
+      "parent_post_id": null,
+      "thread_root_id": "2114865300470460687",
+      "author": {
+        "platform_id": null,
+        "display_name": "luvasconcelox",
+        "username": "luvasconcelox",
+        "profile_url": "https://x.com/luvasconcelox"
+      },
+      "text": "que lindo estou com vocês aqui do rio de janeiro",
+      "created_at": "2026-10-26T23:42:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/luvasconcelox/status/2114865300470460687#m",
+      "metrics": {
+        "like_count": 30,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114865300470460687",
+        "text": "que lindo estou com vocês aqui do rio de janeiro",
+        "author_username": "luvasconcelox",
+        "author_name": "luvasconcelox",
+        "created_at": "2026-10-26T23:42:00+00:00",
+        "permalink": "https://nitter.meowing.monster/luvasconcelox/status/2114865300470460687#m",
+        "metrics": {
+          "like_count": 30,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 48,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114862745615319325",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114862745615319325",
+      "parent_post_id": null,
+      "thread_root_id": "2114862745615319325",
+      "author": {
+        "platform_id": null,
+        "display_name": "MarcoSouthern",
+        "username": "MarcoSouthern",
+        "profile_url": "https://x.com/MarcoSouthern"
+      },
+      "text": "Gostaria que tivesse esse plebiscito aqui no Rio de Janeiro também. O fluminense e o carioca são humilhados diariamente por Brasília, que leva os nossos impostos e não retorna nada. Não há grana para a segurança pública, não tem grana para infraestrutura. Nós tmb temos o direito.",
+      "created_at": "2026-10-26T23:32:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/MarcoSouthern/status/2114862745615319325#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114862745615319325",
+        "text": "Gostaria que tivesse esse plebiscito aqui no Rio de Janeiro também. O fluminense e o carioca são humilhados diariamente por Brasília, que leva os nossos impostos e não retorna nada. Não há grana para a segurança pública, não tem grana para infraestrutura. Nós tmb temos o direito.",
+        "author_username": "MarcoSouthern",
+        "author_name": "MarcoSouthern",
+        "created_at": "2026-10-26T23:32:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MarcoSouthern/status/2114862745615319325#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 280,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114862075163840616",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114862075163840616",
+      "parent_post_id": null,
+      "thread_root_id": "2114862075163840616",
+      "author": {
+        "platform_id": null,
+        "display_name": "MarcoSouthern",
+        "username": "MarcoSouthern",
+        "profile_url": "https://x.com/MarcoSouthern"
+      },
+      "text": "Gostaria que tivesse esse plebiscito aqui no Rio de Janeiro também. O fluminense e o carioca são humilhados diariamente por Brasília, que leva os nossos impostos e não retorna nada. Não há grana para a segurança pública, não tem grana para infraestrutura. Nós temos o direito tmb.",
+      "created_at": "2026-10-26T23:29:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/MarcoSouthern/status/2114862075163840616#m",
+      "metrics": {
+        "like_count": 101,
+        "reply_count": 2,
+        "retweet_count": 0,
+        "quote_count": 3
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114862075163840616",
+        "text": "Gostaria que tivesse esse plebiscito aqui no Rio de Janeiro também. O fluminense e o carioca são humilhados diariamente por Brasília, que leva os nossos impostos e não retorna nada. Não há grana para a segurança pública, não tem grana para infraestrutura. Nós temos o direito tmb.",
+        "author_username": "MarcoSouthern",
+        "author_name": "MarcoSouthern",
+        "created_at": "2026-10-26T23:29:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MarcoSouthern/status/2114862075163840616#m",
+        "metrics": {
+          "like_count": 101,
+          "reply_count": 2,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      },
+      "normalized": {
+        "text_length": 280,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114856960218767407",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114856960218767407",
+      "parent_post_id": null,
+      "thread_root_id": "2114856960218767407",
+      "author": {
+        "platform_id": null,
+        "display_name": "MarcoSouthern",
+        "username": "MarcoSouthern",
+        "profile_url": "https://x.com/MarcoSouthern"
+      },
+      "text": "Seria sonho um plebiscito para que o Rio de Janeiro seja um estado autônomo, independente, seguindo sua vida sem se ajoelhar para Brasília. \n\nChega de sermos EXPLORADOS economicamente, tributariamente e politicamente.\n\nPlantando aqui uma sementinha para os locais pensem nisso.",
+      "created_at": "2026-10-26T23:09:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/MarcoSouthern/status/2114856960218767407#m",
+      "metrics": {
+        "like_count": 85,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114856960218767407",
+        "text": "Seria sonho um plebiscito para que o Rio de Janeiro seja um estado autônomo, independente, seguindo sua vida sem se ajoelhar para Brasília. \n\nChega de sermos EXPLORADOS economicamente, tributariamente e politicamente.\n\nPlantando aqui uma sementinha para os locais pensem nisso.",
+        "author_username": "MarcoSouthern",
+        "author_name": "MarcoSouthern",
+        "created_at": "2026-10-26T23:09:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MarcoSouthern/status/2114856960218767407#m",
+        "metrics": {
+          "like_count": 85,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 277,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114855543718228153",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114855543718228153",
+      "parent_post_id": null,
+      "thread_root_id": "2114855543718228153",
+      "author": {
+        "platform_id": null,
+        "display_name": "RB_Atiliense",
+        "username": "RB_Atiliense",
+        "profile_url": "https://x.com/RB_Atiliense"
+      },
+      "text": "Nota oficial do Vasco:\n\n\"O Vasco da Gama informa que, após reunião realizada nesta segunda-feira (26), na Federação de Futebol do Estado do Rio de Janeiro (FERJ), decidiu atender à solicitação da Confederação Brasileira de Futebol (CBF) e da FERJ para estabelecer a divisão igualitária de ingressos entre as torcidas de Vasco e Flamengo, na partida do próximo dia 29 de outubro, no Estádio Nilton Santos.\n\nEmbora, na condição de mandante, tivesse definido inicialmente a distribuição de 90% dos ingressos para sua torcida e 10% para a torcida visitante, o Vasco optou por rever essa decisão em favor de uma solução construída pelo diálogo e pelo respeito às instituições que organizam o futebol brasileiro.\n\nA decisão reflete uma convicção da atual gestão: defender os interesses do Vasco não significa deixar de reconhecer a importância do diálogo, do equilíbrio institucional e da responsabilidade coletiva com o futebol.\n\nO Vasco tem plena consciência de sua grandeza, de seus direitos e da força de sua torcida. E é justamente por isso que entende que a firmeza na defesa desses direitos pode e deve caminhar ao lado da capacidade de construir soluções que contribuam para o fortalecimento das competições e do futebol brasileiro.\n\nEm razão da nova distribuição de 50% dos ingressos para cada torcida, o clube realizará os ajustes necessários nos setores do estádio e divulgará, em breve, as novas informações sobre comercialização e preços.\n\nOs torcedores que já adquiriram ingressos para setores que serão readequados receberão as devidas orientações. Aqueles que tenham pago valores superiores aos previstos na nova tabela receberão o reembolso da diferença.\n\nO Vasco reafirma seu compromisso com seus sócios e torcedores, que merecem respeito, transparência e atenção em todas as decisões.\n\nO Vasco seguirá defendendo seus direitos com firmeza, dialogando com as instituições e contribuindo para um futebol mais forte, equilibrado e respeitoso.\"",
+      "created_at": "2026-10-26T23:03:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/RB_Atiliense/status/2114855543718228153#m",
+      "metrics": {
+        "like_count": 30,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114855543718228153",
+        "text": "Nota oficial do Vasco:\n\n\"O Vasco da Gama informa que, após reunião realizada nesta segunda-feira (26), na Federação de Futebol do Estado do Rio de Janeiro (FERJ), decidiu atender à solicitação da Confederação Brasileira de Futebol (CBF) e da FERJ para estabelecer a divisão igualitária de ingressos entre as torcidas de Vasco e Flamengo, na partida do próximo dia 29 de outubro, no Estádio Nilton Santos.\n\nEmbora, na condição de mandante, tivesse definido inicialmente a distribuição de 90% dos ingressos para sua torcida e 10% para a torcida visitante, o Vasco optou por rever essa decisão em favor de uma solução construída pelo diálogo e pelo respeito às instituições que organizam o futebol brasileiro.\n\nA decisão reflete uma convicção da atual gestão: defender os interesses do Vasco não significa deixar de reconhecer a importância do diálogo, do equilíbrio institucional e da responsabilidade coletiva com o futebol.\n\nO Vasco tem plena consciência de sua grandeza, de seus direitos e da força de sua torcida. E é justamente por isso que entende que a firmeza na defesa desses direitos pode e deve caminhar ao lado da capacidade de construir soluções que contribuam para o fortalecimento das competições e do futebol brasileiro.\n\nEm razão da nova distribuição de 50% dos ingressos para cada torcida, o clube realizará os ajustes necessários nos setores do estádio e divulgará, em breve, as novas informações sobre comercialização e preços.\n\nOs torcedores que já adquiriram ingressos para setores que serão readequados receberão as devidas orientações. Aqueles que tenham pago valores superiores aos previstos na nova tabela receberão o reembolso da diferença.\n\nO Vasco reafirma seu compromisso com seus sócios e torcedores, que merecem respeito, transparência e atenção em todas as decisões.\n\nO Vasco seguirá defendendo seus direitos com firmeza, dialogando com as instituições e contribuindo para um futebol mais forte, equilibrado e respeitoso.\"",
+        "author_username": "RB_Atiliense",
+        "author_name": "RB_Atiliense",
+        "created_at": "2026-10-26T23:03:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RB_Atiliense/status/2114855543718228153#m",
+        "metrics": {
+          "like_count": 30,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 1953,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114854005125910805",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114854005125910805",
+      "parent_post_id": null,
+      "thread_root_id": "2114854005125910805",
+      "author": {
+        "platform_id": null,
+        "display_name": "MarcoSouthern",
+        "username": "MarcoSouthern",
+        "profile_url": "https://x.com/MarcoSouthern"
+      },
+      "text": "Espero que o estado do Rio de Janeiro faça um plebiscito parecido, não podemos ser escravos de Brasília.",
+      "created_at": "2026-10-26T22:57:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/MarcoSouthern/status/2114854005125910805#m",
+      "metrics": {
+        "like_count": 15,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114854005125910805",
+        "text": "Espero que o estado do Rio de Janeiro faça um plebiscito parecido, não podemos ser escravos de Brasília.",
+        "author_username": "MarcoSouthern",
+        "author_name": "MarcoSouthern",
+        "created_at": "2026-10-26T22:57:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MarcoSouthern/status/2114854005125910805#m",
+        "metrics": {
+          "like_count": 15,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 104,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114853704885235932",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114853704885235932",
+      "parent_post_id": null,
+      "thread_root_id": "2114853704885235932",
+      "author": {
+        "platform_id": null,
+        "display_name": "MarcoSouthern",
+        "username": "MarcoSouthern",
+        "profile_url": "https://x.com/MarcoSouthern"
+      },
+      "text": "Gostaria que o estado do Rio de Janeiro fosse autônomo também, longe das garras de Brasília!!",
+      "created_at": "2026-10-26T22:56:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/MarcoSouthern/status/2114853704885235932#m",
+      "metrics": {
+        "like_count": 121,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114853704885235932",
+        "text": "Gostaria que o estado do Rio de Janeiro fosse autônomo também, longe das garras de Brasília!!",
+        "author_username": "MarcoSouthern",
+        "author_name": "MarcoSouthern",
+        "created_at": "2026-10-26T22:56:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MarcoSouthern/status/2114853704885235932#m",
+        "metrics": {
+          "like_count": 121,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 93,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114853053908037637",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114853053908037637",
+      "parent_post_id": null,
+      "thread_root_id": "2114853053908037637",
+      "author": {
+        "platform_id": null,
+        "display_name": "MarcoSouthern",
+        "username": "MarcoSouthern",
+        "profile_url": "https://x.com/MarcoSouthern"
+      },
+      "text": "Que o nosso Rio de Janeiro faça o mesmo!! Chega de ser capacho de Brasília!!",
+      "created_at": "2026-10-26T22:53:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/MarcoSouthern/status/2114853053908037637#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114853053908037637",
+        "text": "Que o nosso Rio de Janeiro faça o mesmo!! Chega de ser capacho de Brasília!!",
+        "author_username": "MarcoSouthern",
+        "author_name": "MarcoSouthern",
+        "created_at": "2026-10-26T22:53:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MarcoSouthern/status/2114853053908037637#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 76,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114840484858548225",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114840484858548225",
+      "parent_post_id": null,
+      "thread_root_id": "2114840484858548225",
+      "author": {
+        "platform_id": null,
+        "display_name": "Samuca745",
+        "username": "Samuca745",
+        "profile_url": "https://x.com/Samuca745"
+      },
+      "text": "Falando sério e friamente aqui:\nA prisão do Canella e o congelamento do dinheiro sujo que corria deu o aumento de votos pro Lula pois,  simplesmente,  NÃO TEVE BOCA DE URNA NO RIO DE JANEIRO.  Nem rj, nem meriti,  nem SG não teve dinheiro pra comprar votos, seções vazias, lindo!",
+      "created_at": "2026-10-26T22:03:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/Samuca745/status/2114840484858548225#m",
+      "metrics": {
+        "like_count": 80,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 4
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114840484858548225",
+        "text": "Falando sério e friamente aqui:\nA prisão do Canella e o congelamento do dinheiro sujo que corria deu o aumento de votos pro Lula pois,  simplesmente,  NÃO TEVE BOCA DE URNA NO RIO DE JANEIRO.  Nem rj, nem meriti,  nem SG não teve dinheiro pra comprar votos, seções vazias, lindo!",
+        "author_username": "Samuca745",
+        "author_name": "Samuca745",
+        "created_at": "2026-10-26T22:03:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Samuca745/status/2114840484858548225#m",
+        "metrics": {
+          "like_count": 80,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 4
+        }
+      },
+      "normalized": {
+        "text_length": 279,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114837388203642990",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114837388203642990",
+      "parent_post_id": null,
+      "thread_root_id": "2114837388203642990",
+      "author": {
+        "platform_id": null,
+        "display_name": "evandroinocenci",
+        "username": "evandroinocenci",
+        "profile_url": "https://x.com/evandroinocenci"
+      },
+      "text": "Eu já estou lá desde de manhã. O Rio de Janeiro me fez acreditar que é possível.",
+      "created_at": "2026-10-26T21:51:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/evandroinocenci/status/2114837388203642990#m",
+      "metrics": {
+        "like_count": 44,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114837388203642990",
+        "text": "Eu já estou lá desde de manhã. O Rio de Janeiro me fez acreditar que é possível.",
+        "author_username": "evandroinocenci",
+        "author_name": "evandroinocenci",
+        "created_at": "2026-10-26T21:51:00+00:00",
+        "permalink": "https://nitter.meowing.monster/evandroinocenci/status/2114837388203642990#m",
+        "metrics": {
+          "like_count": 44,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 80,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114837386311938485",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114837386311938485",
+      "parent_post_id": null,
+      "thread_root_id": "2114837386311938485",
+      "author": {
+        "platform_id": null,
+        "display_name": "MateusC08996451",
+        "username": "MateusC08996451",
+        "profile_url": "https://x.com/MateusC08996451"
+      },
+      "text": "Você(s) votaram no cara que possui relações com os milicianos do Rio de Janeiro, incluindo os responsáveis pela morte de Marielle Franco.\n\nVocê(s) votaram em quem tinha como política a mesma que foi responsável pela metade das mortes que houve no Brasil na pandemia da COVID 19",
+      "created_at": "2026-10-26T21:51:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/MateusC08996451/status/2114837386311938485#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114837386311938485",
+        "text": "Você(s) votaram no cara que possui relações com os milicianos do Rio de Janeiro, incluindo os responsáveis pela morte de Marielle Franco.\n\nVocê(s) votaram em quem tinha como política a mesma que foi responsável pela metade das mortes que houve no Brasil na pandemia da COVID 19",
+        "author_username": "MateusC08996451",
+        "author_name": "MateusC08996451",
+        "created_at": "2026-10-26T21:51:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MateusC08996451/status/2114837386311938485#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 277,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114836964327182834",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114836964327182834",
+      "parent_post_id": null,
+      "thread_root_id": "2114836964327182834",
+      "author": {
+        "platform_id": null,
+        "display_name": "ricardoferrarez",
+        "username": "ricardoferrarez",
+        "profile_url": "https://x.com/ricardoferrarez"
+      },
+      "text": "Meu país, Niterói, minha cidade natal, Rio de Janeiro, minha zona eleitoral e minha seção elegeram ele: LUIS INÁCIO LULA DA SILVA",
+      "created_at": "2026-10-26T21:49:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/ricardoferrarez/status/2114836964327182834#m",
+      "metrics": {
+        "like_count": 160,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 7
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114836964327182834",
+        "text": "Meu país, Niterói, minha cidade natal, Rio de Janeiro, minha zona eleitoral e minha seção elegeram ele: LUIS INÁCIO LULA DA SILVA",
+        "author_username": "ricardoferrarez",
+        "author_name": "ricardoferrarez",
+        "created_at": "2026-10-26T21:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ricardoferrarez/status/2114836964327182834#m",
+        "metrics": {
+          "like_count": 160,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 7
+        }
+      },
+      "normalized": {
+        "text_length": 129,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114829075843870892",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114829075843870892",
+      "parent_post_id": null,
+      "thread_root_id": "2114829075843870892",
+      "author": {
+        "platform_id": null,
+        "display_name": "marquitocar",
+        "username": "marquitocar",
+        "profile_url": "https://x.com/marquitocar"
+      },
+      "text": "Agora, vamos lutar pelo 2⁰ turno no Rio de Janeiro. #exercitododudu55",
+      "created_at": "2026-10-26T21:18:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/marquitocar/status/2114829075843870892#m",
+      "metrics": {
+        "like_count": 29,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 4
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114829075843870892",
+        "text": "Agora, vamos lutar pelo 2⁰ turno no Rio de Janeiro. #exercitododudu55",
+        "author_username": "marquitocar",
+        "author_name": "marquitocar",
+        "created_at": "2026-10-26T21:18:00+00:00",
+        "permalink": "https://nitter.meowing.monster/marquitocar/status/2114829075843870892#m",
+        "metrics": {
+          "like_count": 29,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 4
+        }
+      },
+      "normalized": {
+        "text_length": 69,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114822740360196301",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114822740360196301",
+      "parent_post_id": null,
+      "thread_root_id": "2114822740360196301",
+      "author": {
+        "platform_id": null,
+        "display_name": "fairysherazade",
+        "username": "fairysherazade",
+        "profile_url": "https://x.com/fairysherazade"
+      },
+      "text": "Rio de Janeiro",
+      "created_at": "2026-10-26T20:53:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/fairysherazade/status/2114822740360196301#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114822740360196301",
+        "text": "Rio de Janeiro",
+        "author_username": "fairysherazade",
+        "author_name": "fairysherazade",
+        "created_at": "2026-10-26T20:53:00+00:00",
+        "permalink": "https://nitter.meowing.monster/fairysherazade/status/2114822740360196301#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 14,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114820616658317326",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114820616658317326",
+      "parent_post_id": null,
+      "thread_root_id": "2114820616658317326",
+      "author": {
+        "platform_id": null,
+        "display_name": "bubblegui",
+        "username": "bubblegui",
+        "profile_url": "https://x.com/bubblegui"
+      },
+      "text": "Arrisco que pra além do centrismo, tem o fator de que o Bolsonarismo é A CARA do Rio de Janeiro\n\nO paulistano médio coxinha psdbista tem horror e",
+      "created_at": "2026-10-26T20:45:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/bubblegui/status/2114820616658317326#m",
+      "metrics": {
+        "like_count": 84,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114820616658317326",
+        "text": "Arrisco que pra além do centrismo, tem o fator de que o Bolsonarismo é A CARA do Rio de Janeiro\n\nO paulistano médio coxinha psdbista tem horror e",
+        "author_username": "bubblegui",
+        "author_name": "bubblegui",
+        "created_at": "2026-10-26T20:45:00+00:00",
+        "permalink": "https://nitter.meowing.monster/bubblegui/status/2114820616658317326#m",
+        "metrics": {
+          "like_count": 84,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 145,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114815398944424406",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114815398944424406",
+      "parent_post_id": null,
+      "thread_root_id": "2114815398944424406",
+      "author": {
+        "platform_id": null,
+        "display_name": "GustavoCafe",
+        "username": "GustavoCafe",
+        "profile_url": "https://x.com/GustavoCafe"
+      },
+      "text": "Meu irmão\nCHOVE TODO DIA NESSE CARALHO DE  CIDADE CHAMASA RIO DE JANEIRO\nEU NÃO AGUENTO MAIS",
+      "created_at": "2026-10-26T20:24:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/GustavoCafe/status/2114815398944424406#m",
+      "metrics": {
+        "like_count": 15,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114815398944424406",
+        "text": "Meu irmão\nCHOVE TODO DIA NESSE CARALHO DE  CIDADE CHAMASA RIO DE JANEIRO\nEU NÃO AGUENTO MAIS",
+        "author_username": "GustavoCafe",
+        "author_name": "GustavoCafe",
+        "created_at": "2026-10-26T20:24:00+00:00",
+        "permalink": "https://nitter.meowing.monster/GustavoCafe/status/2114815398944424406#m",
+        "metrics": {
+          "like_count": 15,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 92,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114795854351548607",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114795854351548607",
+      "parent_post_id": null,
+      "thread_root_id": "2114795854351548607",
+      "author": {
+        "platform_id": null,
+        "display_name": "euchrisg",
+        "username": "euchrisg",
+        "profile_url": "https://x.com/euchrisg"
+      },
+      "text": "Queremos segundo turno no Rio de Janeiro \n#exercitododudu55",
+      "created_at": "2026-10-26T19:06:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T00:46:44-03:00",
+      "permalink": "https://nitter.meowing.monster/euchrisg/status/2114795854351548607#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Rio de Janeiro",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "2f6fb176-1bbf-48e8-af5e-04ec703582c0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114795854351548607",
+        "text": "Queremos segundo turno no Rio de Janeiro \n#exercitododudu55",
+        "author_username": "euchrisg",
+        "author_name": "euchrisg",
+        "created_at": "2026-10-26T19:06:00+00:00",
+        "permalink": "https://nitter.meowing.monster/euchrisg/status/2114795854351548607#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 59,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
