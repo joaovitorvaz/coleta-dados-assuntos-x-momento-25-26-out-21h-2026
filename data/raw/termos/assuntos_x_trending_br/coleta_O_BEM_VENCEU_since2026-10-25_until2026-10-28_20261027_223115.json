@@ -1,0 +1,1075 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "O BEM VENCEU",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "68e03ee5-8c25-49eb-924f-9b2841b5826a",
+    "collected_at": "2026-10-27T22:31:15-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 67
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2115203598825017380",
+            "text": "Minha maior felicidade foi comemorar dia 25 com a Jana pq o bem venceu na servia e no brasil #curada",
+            "author_username": "sleepyxiniih",
+            "author_name": "sleepyxiniih",
+            "created_at": "2026-10-27T22:06:00+00:00",
+            "permalink": "https://nitter.meowing.monster/sleepyxiniih/status/2115203598825017380#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115199690526335345",
+            "text": "Lula não virou na ZO, o Flávio venceu em todas da região. Se já pisou lá, sabe q la é antro de evangélicos pentecostais.\nVeja bem, até deve-se agradecer ele pelo esforço, mas muita gente se mobilizou, não só ele, estudantes, militantes e etc.",
+            "author_username": "bdnarz",
+            "author_name": "bdnarz",
+            "created_at": "2026-10-27T21:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/bdnarz/status/2115199690526335345#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115053545418367236",
+            "text": "Agora que o bem venceu e eu posso voltar a falar merda queria dizer que se tem um lugar pra ter mulher gostosa é em manifestação, pqp, não sabia que as mulheres ficavam tão sexy segurando um cartaz, lutando em prol da democracia e do seus direitos",
+            "author_username": "RenanZzzyn",
+            "author_name": "RenanZzzyn",
+            "created_at": "2026-10-27T12:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/RenanZzzyn/status/2115053545418367236#m",
+            "metrics": {
+              "like_count": 34,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114901526632083646",
+            "text": "Infelizmente desimpain não ganhou mas não era um jogo q valia pontos\n\nO jogo importante mesmo meu grêmio venceu e esta tudo bem graças a Deus 🙏🏾🇪🇪",
+            "author_username": "ZickyLima2",
+            "author_name": "ZickyLima2",
+            "created_at": "2026-10-27T02:06:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ZickyLima2/status/2114901526632083646#m",
+            "metrics": {
+              "like_count": 87,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114896729308803314",
+            "text": "Eu acho e bem feito. E não quero.mimgu.batemdo aqui na minha porta pedindo ajuda. O amor venceu. Até hoje ainda meus bisonho que moram no bloco C que a parte pobre da rua ainda comemorando.",
+            "author_username": "SusyGuerreiro1",
+            "author_name": "SusyGuerreiro1",
+            "created_at": "2026-10-27T01:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/SusyGuerreiro1/status/2114896729308803314#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114857262120313224",
+            "text": "O bem venceu!\n\n#LulaPresidente \n#LulaReeleito \n#LulaPelaDemocracia \n#Lula",
+            "author_username": "mumuzao500",
+            "author_name": "mumuzao500",
+            "created_at": "2026-10-26T23:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mumuzao500/status/2114857262120313224#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114722012476137611",
+            "text": "Lula mais uma vez, o bem venceu. ❤️⭐",
+            "author_username": "BeatrizBolcont",
+            "author_name": "BeatrizBolcont",
+            "created_at": "2026-10-26T14:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/BeatrizBolcont/status/2114722012476137611#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114709072846995899",
+            "text": "VENCEMOS!!!!! O BEM VENCEU",
+            "author_username": "saraahnsxy",
+            "author_name": "saraahnsxy",
+            "created_at": "2026-10-26T13:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/saraahnsxy/status/2114709072846995899#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114692186033774669",
+            "text": "O BEM VENCEU!",
+            "author_username": "matheuscarfc",
+            "author_name": "matheuscarfc",
+            "created_at": "2026-10-26T12:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/matheuscarfc/status/2114692186033774669#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114685724112871680",
+            "text": "Segundou companheirada.\nVencemos!\nO bem venceu a barbárie.\n#LulaPresidente",
+            "author_username": "ViNikima",
+            "author_name": "ViNikima",
+            "created_at": "2026-10-26T11:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ViNikima/status/2114685724112871680#m",
+            "metrics": {
+              "like_count": 262,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 21
+            }
+          },
+          {
+            "id": "2114662760717906312",
+            "text": "Dia 26/10/26. O bem venceu",
+            "author_username": "xavierluscas",
+            "author_name": "xavierluscas",
+            "created_at": "2026-10-26T10:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/xavierluscas/status/2114662760717906312#m",
+            "metrics": {
+              "like_count": 39,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114659336500789500",
+            "text": "O BEM VENCEU\n#LulaMaiorDoMundo",
+            "author_username": "bruno_bahiense",
+            "author_name": "bruno_bahiense",
+            "created_at": "2026-10-26T10:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/bruno_bahiense/status/2114659336500789500#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114655433151463529",
+            "text": "Ontem acordei chorando de agonia, hoje acordo chorando de alívio e felicidade. Obrigada a todos que lutaram por essa vitória. O bem venceu e nosso país pode respirar de novo 😭⭐❤️🙏🏾",
+            "author_username": "mo_babis",
+            "author_name": "mo_babis",
+            "created_at": "2026-10-26T09:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mo_babis/status/2114655433151463529#m",
+            "metrics": {
+              "like_count": 85,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114639215744979126",
+            "text": "BOM DIA O BEM VENCEU O MAL O DIA ESTA LINDO DEMAIS",
+            "author_username": "mattsccp_",
+            "author_name": "mattsccp_",
+            "created_at": "2026-10-26T08:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mattsccp_/status/2114639215744979126#m",
+            "metrics": {
+              "like_count": 186,
+              "reply_count": 1,
+              "retweet_count": 1,
+              "quote_count": 6
+            }
+          },
+          {
+            "id": "2114561264307368056",
+            "text": "E o bem venceu",
+            "author_username": "bluterexol",
+            "author_name": "bluterexol",
+            "created_at": "2026-10-26T03:34:00+00:00",
+            "permalink": "https://nitter.meowing.monster/bluterexol/status/2114561264307368056#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114557290976035278",
+            "text": "Por Deus, pátria e familia, o bem venceu. Lula é 13 ⭐️",
+            "author_username": "bbele13",
+            "author_name": "bbele13",
+            "created_at": "2026-10-26T03:18:00+00:00",
+            "permalink": "https://nitter.meowing.monster/bbele13/status/2114557290976035278#m",
+            "metrics": {
+              "like_count": 33,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114554026239176852",
+            "text": "o bem venceu!!!!",
+            "author_username": "AdoniConjure",
+            "author_name": "AdoniConjure",
+            "created_at": "2026-10-26T03:05:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AdoniConjure/status/2114554026239176852#m",
+            "metrics": {
+              "like_count": 46,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114551722660216850",
+            "text": "Feliz que o Lula ganhou, Feliz que o bem venceu, Feliz de ter feito parte dessa história e virada histórica, Feliz",
+            "author_username": "briarhexy",
+            "author_name": "briarhexy",
+            "created_at": "2026-10-26T02:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/briarhexy/status/2114551722660216850#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114551716548870229",
+            "text": "O bem venceu 🙌🏻⭐",
+            "author_username": "daniandradecnc",
+            "author_name": "daniandradecnc",
+            "created_at": "2026-10-26T02:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/daniandradecnc/status/2114551716548870229#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114548427396620477",
+            "text": "Poha de golpe, Vários Bolsolixo tirando o botão (3) da urnas, colando com super cola. Calados O bem venceu",
+            "author_username": "de_werike",
+            "author_name": "de_werike",
+            "created_at": "2026-10-26T02:43:00+00:00",
+            "permalink": "https://nitter.meowing.monster/de_werike/status/2114548427396620477#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 1,
+              "retweet_count": 3,
+              "quote_count": 135
+            }
+          },
+          {
+            "id": "2114545323460722978",
+            "text": "Eu jurando que o fim bíblico estava se tornado real, ai o bem venceu e agora acho que temos mais tempo antes do apocalipse .",
+            "author_username": "thiagochx",
+            "author_name": "thiagochx",
+            "created_at": "2026-10-26T02:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/thiagochx/status/2114545323460722978#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114544602287886776",
+            "text": "Chupetinha tá nervoso né, 🤣🤣🤣🤣🤣🤣🤣🤣🤣\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T02:28:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114544602287886776#m",
+            "metrics": {
+              "like_count": 330,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114544163647828061",
+            "text": ".\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T02:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114544163647828061#m",
+            "metrics": {
+              "like_count": 510,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114543800169242663",
+            "text": "🤣🤣🤣🤣🤣🤣🤣🤣🤣\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T02:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114543800169242663#m",
+            "metrics": {
+              "like_count": 880,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 6
+            }
+          },
+          {
+            "id": "2114529376465276969",
+            "text": "Indo dormir com a sensação de dever cumprido. Fiz minha parte e lutei pela democracia, pelos meus direitos e pelo que  EU acredito. Foi uma luta linda, o bem venceu e o jogo virou 🌟",
+            "author_username": "the1998boy",
+            "author_name": "the1998boy",
+            "created_at": "2026-10-26T01:27:00+00:00",
+            "permalink": "https://nitter.meowing.monster/the1998boy/status/2114529376465276969#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114526967844520190",
+            "text": "O bem venceu e eu ainda tô chorando muito de emoção ! Graças a Deus!",
+            "author_username": "aanabeatrizz",
+            "author_name": "aanabeatrizz",
+            "created_at": "2026-10-26T01:18:00+00:00",
+            "permalink": "https://nitter.meowing.monster/aanabeatrizz/status/2114526967844520190#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114525372582936718",
+            "text": "Os presídios estão em festa , e o povo de bem reclusos em suas casas , sim meu povo , o mal venceu 😈",
+            "author_username": "Kabulozocensura",
+            "author_name": "Kabulozocensura",
+            "created_at": "2026-10-26T01:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Kabulozocensura/status/2114525372582936718#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 12,
+              "retweet_count": 32,
+              "quote_count": 350
+            }
+          },
+          {
+            "id": "2114525206333055125",
+            "text": "O BEM VENCEU",
+            "author_username": "eomstation",
+            "author_name": "eomstation",
+            "created_at": "2026-10-26T01:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/eomstation/status/2114525206333055125#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114522225009398178",
+            "text": "O BEM VENCEU!\n🇧🇷⭐✊🏻❤️📚",
+            "author_username": "JeehMarinhoSPFC",
+            "author_name": "JeehMarinhoSPFC",
+            "created_at": "2026-10-26T00:59:00+00:00",
+            "permalink": "https://nitter.meowing.monster/JeehMarinhoSPFC/status/2114522225009398178#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114521137304707431",
+            "text": "O bem venceu! 1️⃣3️⃣🌟♥️\n\n#LulaReeleito #LulaCampeão #LulaÉTetra",
+            "author_username": "alberany_alves",
+            "author_name": "alberany_alves",
+            "created_at": "2026-10-26T00:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/alberany_alves/status/2114521137304707431#m",
+            "metrics": {
+              "like_count": 80,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114520269242986698",
+            "text": "Amo 🤣🤣🤣🤣🤣🤣\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114520269242986698#m",
+            "metrics": {
+              "like_count": 158,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114519961762730361",
+            "text": "Agora estão assim 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114519961762730361#m",
+            "metrics": {
+              "like_count": 541,
+              "reply_count": 1,
+              "retweet_count": 2,
+              "quote_count": 12
+            }
+          },
+          {
+            "id": "2114519944951996598",
+            "text": "O BEM VENCEU A LUTA AGORA É OUTRA",
+            "author_username": "killrono",
+            "author_name": "killrono",
+            "created_at": "2026-10-26T00:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/killrono/status/2114519944951996598#m",
+            "metrics": {
+              "like_count": 96,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114519806393143582",
+            "text": "🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114519806393143582#m",
+            "metrics": {
+              "like_count": 238,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114518318593843316",
+            "text": "O BEM VENCEU ⭐️❤️\n\nLULA PRESIDENTE DO BRASIL!",
+            "author_username": "davyfr_",
+            "author_name": "davyfr_",
+            "created_at": "2026-10-26T00:43:00+00:00",
+            "permalink": "https://nitter.meowing.monster/davyfr_/status/2114518318593843316#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114517482773917803",
+            "text": "Minas foi sensacional nessa eleição \n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:40:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114517482773917803#m",
+            "metrics": {
+              "like_count": 497,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114517370022613317",
+            "text": ".\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:40:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114517370022613317#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 14,
+              "quote_count": 50
+            }
+          },
+          {
+            "id": "2114517179580256294",
+            "text": "o bem venceu 🌟❤️",
+            "author_username": "hdr_rafa",
+            "author_name": "hdr_rafa",
+            "created_at": "2026-10-26T00:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/hdr_rafa/status/2114517179580256294#m",
+            "metrics": {
+              "like_count": 76,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114516120010944617",
+            "text": "O bem venceu o mal!!",
+            "author_username": "RogerioToledo76",
+            "author_name": "RogerioToledo76",
+            "created_at": "2026-10-26T00:35:00+00:00",
+            "permalink": "https://nitter.meowing.monster/RogerioToledo76/status/2114516120010944617#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114515963366486305",
+            "text": "O BEM VENCEU 😭❤️⭐ \n#Eleições2026 #LulaReeleito",
+            "author_username": "Aleatorioo01o",
+            "author_name": "Aleatorioo01o",
+            "created_at": "2026-10-26T00:34:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Aleatorioo01o/status/2114515963366486305#m",
+            "metrics": {
+              "like_count": 148,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114515952981389580",
+            "text": "Chupa Fascista \n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:34:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114515952981389580#m",
+            "metrics": {
+              "like_count": 172,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114515862296383621",
+            "text": "🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣 \n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:34:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114515862296383621#m",
+            "metrics": {
+              "like_count": 690,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114515787146768869",
+            "text": "Lula L\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114515787146768869#m",
+            "metrics": {
+              "like_count": 691,
+              "reply_count": 0,
+              "retweet_count": 7,
+              "quote_count": 15
+            }
+          },
+          {
+            "id": "2114515781757161712",
+            "text": ".\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114515781757161712#m",
+            "metrics": {
+              "like_count": 135,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114515220492148855",
+            "text": "É LULA MEU POVO, O BEM VENCEU \n\n#Eleições2026 #eleição2026",
+            "author_username": "SouzaLucash97",
+            "author_name": "SouzaLucash97",
+            "created_at": "2026-10-26T00:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/SouzaLucash97/status/2114515220492148855#m",
+            "metrics": {
+              "like_count": 233,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114514466503069961",
+            "text": "Chuuuuuuupaaaaaaaaa cambada de filho da puta!\n\nO bem venceu!\n\nQuero mais é que um entre no cu do outro igual centopéia humana!\n\nFlávio não cadeia é questão de honra!",
+            "author_username": "marco27sv",
+            "author_name": "marco27sv",
+            "created_at": "2026-10-26T00:28:00+00:00",
+            "permalink": "https://nitter.meowing.monster/marco27sv/status/2114514466503069961#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114514077070332203",
+            "text": "O BEM VENCEU",
+            "author_username": "senhoritaJG",
+            "author_name": "senhoritaJG",
+            "created_at": "2026-10-26T00:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/senhoritaJG/status/2114514077070332203#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114513854675739090",
+            "text": "O BEM VENCEU O MAL.",
+            "author_username": "CarlosR55288048",
+            "author_name": "CarlosR55288048",
+            "created_at": "2026-10-26T00:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/CarlosR55288048/status/2114513854675739090#m",
+            "metrics": {
+              "like_count": 62,
+              "reply_count": 2,
+              "retweet_count": 2,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114513665533845646",
+            "text": "O bem venceu",
+            "author_username": "_bidiangelo",
+            "author_name": "_bidiangelo",
+            "created_at": "2026-10-26T00:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/_bidiangelo/status/2114513665533845646#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114513014648951003",
+            "text": "🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114513014648951003#m",
+            "metrics": {
+              "like_count": 305,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114512973628903833",
+            "text": "Chupa Bolsonaro\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114512973628903833#m",
+            "metrics": {
+              "like_count": 344,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114512886387089485",
+            "text": "Chupa bolsonaro\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114512886387089485#m",
+            "metrics": {
+              "like_count": 413,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114512781382754531",
+            "text": "É TETRA!! O BEM VENCEU ❤️⭐🙏🏾",
+            "author_username": "wvs87",
+            "author_name": "wvs87",
+            "created_at": "2026-10-26T00:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/wvs87/status/2114512781382754531#m",
+            "metrics": {
+              "like_count": 40,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114512630723248486",
+            "text": "O BEM VENCEU PQP",
+            "author_username": "dreiguterres",
+            "author_name": "dreiguterres",
+            "created_at": "2026-10-26T00:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/dreiguterres/status/2114512630723248486#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114512398589493730",
+            "text": "O bem venceu!!!! L❤️",
+            "author_username": "edudeodato",
+            "author_name": "edudeodato",
+            "created_at": "2026-10-26T00:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/edudeodato/status/2114512398589493730#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114511792240050289",
+            "text": "O BEM VENCEU!",
+            "author_username": "Flaavio_SPFC",
+            "author_name": "Flaavio_SPFC",
+            "created_at": "2026-10-26T00:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Flaavio_SPFC/status/2114511792240050289#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114511771826339858",
+            "text": "O BEM VENCEU",
+            "author_username": "eomstation",
+            "author_name": "eomstation",
+            "created_at": "2026-10-26T00:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/eomstation/status/2114511771826339858#m",
+            "metrics": {
+              "like_count": 29,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114511530569908355",
+            "text": "O BEM VENCEU",
+            "author_username": "mayyydias",
+            "author_name": "mayyydias",
+            "created_at": "2026-10-26T00:16:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mayyydias/status/2114511530569908355#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114511275166519645",
+            "text": "O BEM VENCEU ❤️❤️❤️❤️",
+            "author_username": "biikarolayne",
+            "author_name": "biikarolayne",
+            "created_at": "2026-10-26T00:15:00+00:00",
+            "permalink": "https://nitter.meowing.monster/biikarolayne/status/2114511275166519645#m",
+            "metrics": {
+              "like_count": 25,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114510987483058680",
+            "text": "O BEM VENCEU",
+            "author_username": "beatritxxxe",
+            "author_name": "beatritxxxe",
+            "created_at": "2026-10-26T00:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/beatritxxxe/status/2114510987483058680#m",
+            "metrics": {
+              "like_count": 29,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114510859351236960",
+            "text": "O bem venceu!!! 🙏🏻🙌🏻❤️🌟 OBRIGADA Deus!",
+            "author_username": "AnaBeatrizAssad",
+            "author_name": "AnaBeatrizAssad",
+            "created_at": "2026-10-26T00:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AnaBeatrizAssad/status/2114510859351236960#m",
+            "metrics": {
+              "like_count": 24,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114510750995632412",
+            "text": "O BEM VENCEU NOVAMENTE ❤️❤️❤️❤️ é 1333333333",
+            "author_username": "BorutoExplorer",
+            "author_name": "BorutoExplorer",
+            "created_at": "2026-10-26T00:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/BorutoExplorer/status/2114510750995632412#m",
+            "metrics": {
+              "like_count": 724,
+              "reply_count": 1,
+              "retweet_count": 1,
+              "quote_count": 26
+            }
+          },
+          {
+            "id": "2114510736215187470",
+            "text": "O bem venceu caralhooooo ⭐❤️\n#Lula13",
+            "author_username": "iambabygirlvh",
+            "author_name": "iambabygirlvh",
+            "created_at": "2026-10-26T00:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/iambabygirlvh/status/2114510736215187470#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114510588214993291",
+            "text": "🌻 Ao Povo do Nordeste e a Todo o Brasil\n \nAo nosso amado Nordeste, terra de força, fé e resistência, meu profundo agradecimento. Foi aqui que a esperança bateu mais forte, foi com sua voz que o bem venceu o medo. Vocês mostraram que a solidariedade é o nosso maior tesouro.",
+            "author_username": "MarcosM33900869",
+            "author_name": "MarcosM33900869",
+            "created_at": "2026-10-26T00:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MarcosM33900869/status/2114510588214993291#m",
+            "metrics": {
+              "like_count": 24,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114510469151256805",
+            "text": "O bem venceu ❤️",
+            "author_username": "TeeuTassiio",
+            "author_name": "TeeuTassiio",
+            "created_at": "2026-10-26T00:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/TeeuTassiio/status/2114510469151256805#m",
+            "metrics": {
+              "like_count": 97,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114510382966677781",
+            "text": "O BEM VENCEU CARALHOOOOO",
+            "author_username": "itsmanuca",
+            "author_name": "itsmanuca",
+            "created_at": "2026-10-26T00:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/itsmanuca/status/2114510382966677781#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114509795298349523",
+            "text": "O bem venceu!!\nQue orgulho do meu Nordeste! ♥️⭐",
+            "author_username": "J0J0lol_",
+            "author_name": "J0J0lol_",
+            "created_at": "2026-10-26T00:09:00+00:00",
+            "permalink": "https://nitter.meowing.monster/J0J0lol_/status/2114509795298349523#m",
+            "metrics": {
+              "like_count": 34,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114508629793759649",
+            "text": "Que sensação boa meu Deus O BEM VENCEU MAIS UMA VEZ",
+            "author_username": "jguistan",
+            "author_name": "jguistan",
+            "created_at": "2026-10-26T00:05:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jguistan/status/2114508629793759649#m",
+            "metrics": {
+              "like_count": 25,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114507589933257187",
+            "text": "Ganhamo galera, o bem venceu 🙏🏼",
+            "author_username": "seniorvitor",
+            "author_name": "seniorvitor",
+            "created_at": "2026-10-26T00:01:00+00:00",
+            "permalink": "https://nitter.meowing.monster/seniorvitor/status/2114507589933257187#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 7,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "assuntos_x_momento_ate_27out21h_20261026"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2115203598825017380",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115203598825017380",
+      "collected_at": "2026-10-27T22:31:15-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "68e03ee5-8c25-49eb-924f-9b2841b5826a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115203598825017380",
+        "text": "Minha maior felicidade foi comemorar dia 25 com a Jana pq o bem venceu na servia e no brasil #curada",
+        "author_username": "sleepyxiniih",
+        "author_name": "sleepyxiniih",
+        "created_at": "2026-10-27T22:06:00+00:00",
+        "permalink": "https://nitter.meowing.monster/sleepyxiniih/status/2115203598825017380#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115199690526335345",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115199690526335345",
+      "collected_at": "2026-10-27T22:31:15-03:00",
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "O BEM VENCEU",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "68e03ee5-8c25-49eb-924f-9b2841b5826a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115199690526335345",
+        "text": "Lula não virou na ZO, o Flávio venceu em todas da região. Se já pisou lá, sabe q la é antro de evangélicos pentecostais.\nVeja bem, até deve-se agradecer ele pelo esforço, mas muita gente se mobilizou, não só ele, estudantes, militantes e etc.",
+        "author_username": "bdnarz",
+        "author_name": "bdnarz",
+        "created_at": "2026-10-27T21:51:00+00:00",
+        "permalink": "https://nitter.meowing.monster/bdnarz/status/2115199690526335345#m",
+        "metrics": {
+          "like_count": 20,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}
