@@ -1,0 +1,485 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Zanin",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "68e03ee5-8c25-49eb-924f-9b2841b5826a",
+    "collected_at": "2026-10-27T21:48:10-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 7,
+      "comments": 0,
+      "records_total": 7,
+      "skipped_duplicate": 158
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115231543178276999",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115231543178276999",
+      "parent_post_id": null,
+      "thread_root_id": "2115231543178276999",
+      "author": {
+        "platform_id": null,
+        "display_name": "AustranSantos",
+        "username": "AustranSantos",
+        "profile_url": "https://x.com/AustranSantos"
+      },
+      "text": "Zanin é cúmplice.",
+      "created_at": "2026-10-27T23:57:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:48:10-03:00",
+      "permalink": "https://nitter.meowing.monster/AustranSantos/status/2115231543178276999#m",
+      "metrics": {
+        "like_count": 424,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Zanin",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "68e03ee5-8c25-49eb-924f-9b2841b5826a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 20,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115231543178276999",
+        "text": "Zanin é cúmplice.",
+        "author_username": "AustranSantos",
+        "author_name": "AustranSantos",
+        "created_at": "2026-10-27T23:57:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AustranSantos/status/2115231543178276999#m",
+        "metrics": {
+          "like_count": 424,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 17,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115215405451034959",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115215405451034959",
+      "parent_post_id": null,
+      "thread_root_id": "2115215405451034959",
+      "author": {
+        "platform_id": null,
+        "display_name": "sanndrosousa",
+        "username": "sanndrosousa",
+        "profile_url": "https://x.com/sanndrosousa"
+      },
+      "text": "É assim que se trata um regime de excessão, ou queria oq? Q ele se entregasse pro Zanin? Kkkkk",
+      "created_at": "2026-10-27T22:53:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:48:10-03:00",
+      "permalink": "https://nitter.meowing.monster/sanndrosousa/status/2115215405451034959#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Zanin",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "68e03ee5-8c25-49eb-924f-9b2841b5826a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 20,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115215405451034959",
+        "text": "É assim que se trata um regime de excessão, ou queria oq? Q ele se entregasse pro Zanin? Kkkkk",
+        "author_username": "sanndrosousa",
+        "author_name": "sanndrosousa",
+        "created_at": "2026-10-27T22:53:00+00:00",
+        "permalink": "https://nitter.meowing.monster/sanndrosousa/status/2115215405451034959#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 94,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115211362460738034",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115211362460738034",
+      "parent_post_id": null,
+      "thread_root_id": "2115211362460738034",
+      "author": {
+        "platform_id": null,
+        "display_name": "MarcosAndTri",
+        "username": "MarcosAndTri",
+        "profile_url": "https://x.com/MarcosAndTri"
+      },
+      "text": "O nome dele, do Zanin e Lula tá bem evidente no governo americano.... é bom parar com essa loucura!!!",
+      "created_at": "2026-10-27T22:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:48:10-03:00",
+      "permalink": "https://nitter.meowing.monster/MarcosAndTri/status/2115211362460738034#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Zanin",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "68e03ee5-8c25-49eb-924f-9b2841b5826a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 20,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115211362460738034",
+        "text": "O nome dele, do Zanin e Lula tá bem evidente no governo americano.... é bom parar com essa loucura!!!",
+        "author_username": "MarcosAndTri",
+        "author_name": "MarcosAndTri",
+        "created_at": "2026-10-27T22:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MarcosAndTri/status/2115211362460738034#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 101,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115208519733465183",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115208519733465183",
+      "parent_post_id": null,
+      "thread_root_id": "2115208519733465183",
+      "author": {
+        "platform_id": null,
+        "display_name": "ValHerdy",
+        "username": "ValHerdy",
+        "profile_url": "https://x.com/ValHerdy"
+      },
+      "text": "Coleguinha! A parti do pedido do PT AO STF. A campanha do Flávio pediu ao TSE e foi negado\nAs 17:01 o Zanin deu uma ordem invadindo o TSE.",
+      "created_at": "2026-10-27T22:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:48:10-03:00",
+      "permalink": "https://nitter.meowing.monster/ValHerdy/status/2115208519733465183#m",
+      "metrics": {
+        "like_count": 131,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Zanin",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "68e03ee5-8c25-49eb-924f-9b2841b5826a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 20,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115208519733465183",
+        "text": "Coleguinha! A parti do pedido do PT AO STF. A campanha do Flávio pediu ao TSE e foi negado\nAs 17:01 o Zanin deu uma ordem invadindo o TSE.",
+        "author_username": "ValHerdy",
+        "author_name": "ValHerdy",
+        "created_at": "2026-10-27T22:26:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ValHerdy/status/2115208519733465183#m",
+        "metrics": {
+          "like_count": 131,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 138,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115206905941672209",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115206905941672209",
+      "parent_post_id": null,
+      "thread_root_id": "2115206905941672209",
+      "author": {
+        "platform_id": null,
+        "display_name": "THX2047",
+        "username": "THX2047",
+        "profile_url": "https://x.com/THX2047"
+      },
+      "text": "Outro nome golpista está na mira do porrete americano: o GOLPISTA ZANIN, O ADVOGADO DO LULA.\nVAI ENTRAR GOSTOSINHO, BEM DEVAGAR E RASGANDO!",
+      "created_at": "2026-10-27T22:19:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:48:10-03:00",
+      "permalink": "https://nitter.meowing.monster/THX2047/status/2115206905941672209#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Zanin",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "68e03ee5-8c25-49eb-924f-9b2841b5826a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 20,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115206905941672209",
+        "text": "Outro nome golpista está na mira do porrete americano: o GOLPISTA ZANIN, O ADVOGADO DO LULA.\nVAI ENTRAR GOSTOSINHO, BEM DEVAGAR E RASGANDO!",
+        "author_username": "THX2047",
+        "author_name": "THX2047",
+        "created_at": "2026-10-27T22:19:00+00:00",
+        "permalink": "https://nitter.meowing.monster/THX2047/status/2115206905941672209#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 139,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115204991535263907",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115204991535263907",
+      "parent_post_id": null,
+      "thread_root_id": "2115204991535263907",
+      "author": {
+        "platform_id": null,
+        "display_name": "FABER1254",
+        "username": "FABER1254",
+        "profile_url": "https://x.com/FABER1254"
+      },
+      "text": "DEPOIS DA MANOBRA DO TAL ZANIN?",
+      "created_at": "2026-10-27T22:12:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:48:10-03:00",
+      "permalink": "https://nitter.meowing.monster/FABER1254/status/2115204991535263907#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Zanin",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "68e03ee5-8c25-49eb-924f-9b2841b5826a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 20,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115204991535263907",
+        "text": "DEPOIS DA MANOBRA DO TAL ZANIN?",
+        "author_username": "FABER1254",
+        "author_name": "FABER1254",
+        "created_at": "2026-10-27T22:12:00+00:00",
+        "permalink": "https://nitter.meowing.monster/FABER1254/status/2115204991535263907#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 31,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115179390313365610",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115179390313365610",
+      "parent_post_id": null,
+      "thread_root_id": "2115179390313365610",
+      "author": {
+        "platform_id": null,
+        "display_name": "Na_val22",
+        "username": "Na_val22",
+        "profile_url": "https://x.com/Na_val22"
+      },
+      "text": "Zanin será preso junto com Lula e Xandão",
+      "created_at": "2026-10-27T20:30:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:48:10-03:00",
+      "permalink": "https://nitter.meowing.monster/Na_val22/status/2115179390313365610#m",
+      "metrics": {
+        "like_count": 17,
+        "reply_count": 1,
+        "retweet_count": 1,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Zanin",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "68e03ee5-8c25-49eb-924f-9b2841b5826a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 20,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115179390313365610",
+        "text": "Zanin será preso junto com Lula e Xandão",
+        "author_username": "Na_val22",
+        "author_name": "Na_val22",
+        "created_at": "2026-10-27T20:30:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Na_val22/status/2115179390313365610#m",
+        "metrics": {
+          "like_count": 17,
+          "reply_count": 1,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 40,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
