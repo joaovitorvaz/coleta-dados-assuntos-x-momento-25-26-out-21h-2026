@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Ganhamos",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "68e03ee5-8c25-49eb-924f-9b2841b5826a",
+    "collected_at": "2026-10-27T23:26:34-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 106
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115232078925066681",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115232078925066681",
+      "parent_post_id": null,
+      "thread_root_id": "2115232078925066681",
+      "author": {
+        "platform_id": null,
+        "display_name": "zynna_sccp",
+        "username": "zynna_sccp",
+        "profile_url": "https://x.com/zynna_sccp"
+      },
+      "text": "Pessoal, precisamos parar de falar que a \"psicose política\" acabou, nada deve acabar! A indignação de vocês precisa continuar, nós só ganhamos a eleição justamente pela revolta que o primeiro turno nos trouxe mas o senado e congresso ainda estão cheios de bolsonaristas+",
+      "created_at": "2026-10-28T00:00:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T23:26:34-03:00",
+      "permalink": "https://nitter.meowing.monster/zynna_sccp/status/2115232078925066681#m",
+      "metrics": {
+        "like_count": 19,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Ganhamos",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "68e03ee5-8c25-49eb-924f-9b2841b5826a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115232078925066681",
+        "text": "Pessoal, precisamos parar de falar que a \"psicose política\" acabou, nada deve acabar! A indignação de vocês precisa continuar, nós só ganhamos a eleição justamente pela revolta que o primeiro turno nos trouxe mas o senado e congresso ainda estão cheios de bolsonaristas+",
+        "author_username": "zynna_sccp",
+        "author_name": "zynna_sccp",
+        "created_at": "2026-10-28T00:00:00+00:00",
+        "permalink": "https://nitter.meowing.monster/zynna_sccp/status/2115232078925066681#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 270,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

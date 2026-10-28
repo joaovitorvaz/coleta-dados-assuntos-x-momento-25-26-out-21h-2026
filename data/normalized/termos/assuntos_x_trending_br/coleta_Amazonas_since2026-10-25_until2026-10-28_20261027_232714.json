@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Amazonas",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "68e03ee5-8c25-49eb-924f-9b2841b5826a",
+    "collected_at": "2026-10-27T23:27:14-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 11
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115083878356394003",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115083878356394003",
+      "parent_post_id": null,
+      "thread_root_id": "2115083878356394003",
+      "author": {
+        "platform_id": null,
+        "display_name": "DiireWolf",
+        "username": "DiireWolf",
+        "profile_url": "https://x.com/DiireWolf"
+      },
+      "text": "vamos fingir o Amazonas",
+      "created_at": "2026-10-27T14:11:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T23:27:14-03:00",
+      "permalink": "https://nitter.netbub.com/DiireWolf/status/2115083878356394003#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Amazonas",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "68e03ee5-8c25-49eb-924f-9b2841b5826a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2115083878356394003",
+        "text": "vamos fingir o Amazonas",
+        "author_username": "DiireWolf",
+        "author_name": "DiireWolf",
+        "created_at": "2026-10-27T14:11:00+00:00",
+        "permalink": "https://nitter.netbub.com/DiireWolf/status/2115083878356394003#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 23,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
