@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "VIVA A DEMOCRACIA",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "68e03ee5-8c25-49eb-924f-9b2841b5826a",
+    "collected_at": "2026-10-27T22:04:35-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 98
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115201756493705712",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115201756493705712",
+      "parent_post_id": null,
+      "thread_root_id": "2115201756493705712",
+      "author": {
+        "platform_id": null,
+        "display_name": "Geffinho10",
+        "username": "Geffinho10",
+        "profile_url": "https://x.com/Geffinho10"
+      },
+      "text": "Viva a Democracia ✨ Viva a América Latina\nV\nI\nV\nA\nLUÍS INÁCIO LULA DA SILVA 🌞",
+      "created_at": "2026-10-27T21:59:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T22:04:35-03:00",
+      "permalink": "https://nitter.netbub.com/Geffinho10/status/2115201756493705712#m",
+      "metrics": {
+        "like_count": 68,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "68e03ee5-8c25-49eb-924f-9b2841b5826a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115201756493705712",
+        "text": "Viva a Democracia ✨ Viva a América Latina\nV\nI\nV\nA\nLUÍS INÁCIO LULA DA SILVA 🌞",
+        "author_username": "Geffinho10",
+        "author_name": "Geffinho10",
+        "created_at": "2026-10-27T21:59:00+00:00",
+        "permalink": "https://nitter.netbub.com/Geffinho10/status/2115201756493705712#m",
+        "metrics": {
+          "like_count": 68,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 77,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115181116462170118",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115181116462170118",
+      "parent_post_id": null,
+      "thread_root_id": "2115181116462170118",
+      "author": {
+        "platform_id": null,
+        "display_name": "willsiky",
+        "username": "willsiky",
+        "profile_url": "https://x.com/willsiky"
+      },
+      "text": "Orgulho da minha São Paula. Derrotamos o fascista. Viva a democracia ⭐️",
+      "created_at": "2026-10-27T20:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T22:04:35-03:00",
+      "permalink": "https://nitter.netbub.com/willsiky/status/2115181116462170118#m",
+      "metrics": {
+        "like_count": 25,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VIVA A DEMOCRACIA",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "68e03ee5-8c25-49eb-924f-9b2841b5826a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115181116462170118",
+        "text": "Orgulho da minha São Paula. Derrotamos o fascista. Viva a democracia ⭐️",
+        "author_username": "willsiky",
+        "author_name": "willsiky",
+        "created_at": "2026-10-27T20:37:00+00:00",
+        "permalink": "https://nitter.netbub.com/willsiky/status/2115181116462170118#m",
+        "metrics": {
+          "like_count": 25,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 71,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
