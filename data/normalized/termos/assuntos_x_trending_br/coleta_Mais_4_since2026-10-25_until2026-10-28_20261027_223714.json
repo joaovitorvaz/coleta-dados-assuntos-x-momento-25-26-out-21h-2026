@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_x_trending_br",
+    "query": "Mais 4",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "68e03ee5-8c25-49eb-924f-9b2841b5826a",
+    "collected_at": "2026-10-27T22:37:14-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 188
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115211872680980525",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115211872680980525",
+      "parent_post_id": null,
+      "thread_root_id": "2115211872680980525",
+      "author": {
+        "platform_id": null,
+        "display_name": "goytaknigh97211",
+        "username": "goytaknigh97211",
+        "profile_url": "https://x.com/goytaknigh97211"
+      },
+      "text": "One Piece.\n \nNão que eu ache ruim pelo contrário mas é  dentre os 4 o que eu menos tenho afinidade  os 3 me marcaram e chamam bem mais a minha atenção",
+      "created_at": "2026-10-27T22:39:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T22:37:14-03:00",
+      "permalink": "https://nitter.meowing.monster/goytaknigh97211/status/2115211872680980525#m",
+      "metrics": {
+        "like_count": 9,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Assuntos do Momento X (print 25/out ~21h)"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Mais 4",
+        "term_group_id": "assuntos_x_trending_br",
+        "term_label": "Assuntos do Momento X (print 25/out ~21h)",
+        "run_id": "68e03ee5-8c25-49eb-924f-9b2841b5826a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 15,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115211872680980525",
+        "text": "One Piece.\n \nNão que eu ache ruim pelo contrário mas é  dentre os 4 o que eu menos tenho afinidade  os 3 me marcaram e chamam bem mais a minha atenção",
+        "author_username": "goytaknigh97211",
+        "author_name": "goytaknigh97211",
+        "created_at": "2026-10-27T22:39:00+00:00",
+        "permalink": "https://nitter.meowing.monster/goytaknigh97211/status/2115211872680980525#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 150,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
